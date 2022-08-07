@@ -4641,36 +4641,6 @@
       "degree": 0
     },
     {
-      "description": "Timmy always saw their body as nothing more than a vessel for their mind. he does not care about the gender, age or looks of a body.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Ultratech: Altered Carbon Remastered",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "UT_FreeMind",
-      "name": "freemind",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
       "description": "Timmy loves beautiful things, and really cares about how his enviroment looks.",
       "stats": [
 
@@ -6505,6 +6475,68 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0
+    },
+    {
+      "description": "Timmy is not affected by the effects of aging.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "EvolvedOrgansRedux",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "EVOR_RasVacoule",
+      "name": "rasvacoule",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy's life revolves around fighting. he doesn't have the intelligence to do much else.",
+      "stats": [
+        "+20 shooting",
+        "+20 melee"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "EvolvedOrgansRedux",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+20 shooting",
+          "+20 melee"
+        ]
+      },
+      "defName": "EVOR_ExcellentFighter",
+      "name": "reptilianbrain",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
     }
   ],
   "races": [
@@ -6528,427 +6560,7 @@
       "defName": "Human",
       "enabled": true,
       "name": "human",
-      "price": 2917
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+100% Flammability",
-          "+100% Psychic sensitivity",
-          "+100% Toxic sensitivity",
-          "-10.0C Minimum comfortable temperature",
-          "+32.0C Maximum comfortable temperature",
-          "+30 Leather amount",
-          "+$1000 Market value",
-          "+4.61 Move speed",
-          "+75 Carrying capacity",
-          "+35% Mental break threshold",
-          "+100% Research speed",
-          "+100% Mining speed",
-          "+100.00% Social impact",
-          "+100% Plant work speed",
-          "+100% Plant harvest yield",
-          "+100% Construction speed",
-          "+20.0% Armor - Blunt",
-          "+25.0% Armor - Sharp"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A man with the head of a bear.",
-      "defName": "BearMan",
-      "enabled": true,
-      "name": "bear man",
-      "price": 1667
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+100% Flammability",
-          "+100% Psychic sensitivity",
-          "+100% Toxic sensitivity",
-          "+12.0C Minimum comfortable temperature",
-          "+52.0C Maximum comfortable temperature",
-          "+30 Leather amount",
-          "+$1000 Market value",
-          "+4.61 Move speed",
-          "+75 Carrying capacity",
-          "+35% Mental break threshold",
-          "+100% Research speed",
-          "+100% Mining speed",
-          "+100.00% Social impact",
-          "+100% Plant work speed",
-          "+100% Plant harvest yield",
-          "+100% Construction speed",
-          "+10.0% Armor - Blunt",
-          "+15.0% Armor - Sharp"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A man with the head of a camel.",
-      "defName": "CamelMan",
-      "enabled": true,
-      "name": "camel man",
-      "price": 1667
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+100% Flammability",
-          "+100% Psychic sensitivity",
-          "+100% Toxic sensitivity",
-          "+12.0C Minimum comfortable temperature",
-          "+32.0C Maximum comfortable temperature",
-          "+30 Leather amount",
-          "+$1000 Market value",
-          "+4.61 Move speed",
-          "+75 Carrying capacity",
-          "+35% Mental break threshold",
-          "+100% Research speed",
-          "+100% Mining speed",
-          "+100.00% Social impact",
-          "+100% Plant work speed",
-          "+100% Plant harvest yield",
-          "+100% Construction speed",
-          "+10.0% Armor - Blunt",
-          "+15.0% Armor - Sharp"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A man with the head of an elephant.",
-      "defName": "ElephantMan",
-      "enabled": true,
-      "name": "elephant man",
-      "price": 1667
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+100% Flammability",
-          "+100% Psychic sensitivity",
-          "+100% Toxic sensitivity",
-          "+0.0C Minimum comfortable temperature",
-          "+32.0C Maximum comfortable temperature",
-          "+30 Leather amount",
-          "+$1000 Market value",
-          "+5.00 Move speed",
-          "+75 Carrying capacity",
-          "+35% Mental break threshold",
-          "+100% Research speed",
-          "+100% Mining speed",
-          "+100.00% Social impact",
-          "+100% Plant work speed",
-          "+100% Plant harvest yield",
-          "+100% Construction speed",
-          "+10.0% Armor - Blunt",
-          "+15.0% Armor - Sharp"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A man with the head of an elk.",
-      "defName": "ElkMan",
-      "enabled": true,
-      "name": "elk man",
-      "price": 1667
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+100% Flammability",
-          "+100% Psychic sensitivity",
-          "+100% Toxic sensitivity",
-          "+12.0C Minimum comfortable temperature",
-          "+42.0C Maximum comfortable temperature",
-          "+30 Leather amount",
-          "+$1000 Market value",
-          "+4.61 Move speed",
-          "+75 Carrying capacity",
-          "+35% Mental break threshold",
-          "+110% Research speed",
-          "+100% Mining speed",
-          "+100.00% Social impact",
-          "+100% Plant work speed",
-          "+100% Plant harvest yield",
-          "+100% Construction speed",
-          "+10.0% Armor - Blunt",
-          "+15.0% Armor - Sharp"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A man with the head of a fox.",
-      "defName": "FoxMan",
-      "enabled": true,
-      "name": "fox man",
-      "price": 1667
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+100% Flammability",
-          "+100% Psychic sensitivity",
-          "+100% Toxic sensitivity",
-          "+12.0C Minimum comfortable temperature",
-          "+42.0C Maximum comfortable temperature",
-          "+30 Leather amount",
-          "+$1000 Market value",
-          "+5.00 Move speed",
-          "+75 Carrying capacity",
-          "+35% Mental break threshold",
-          "+100% Research speed",
-          "+100% Mining speed",
-          "+100.00% Social impact",
-          "+100% Plant work speed",
-          "+100% Plant harvest yield",
-          "+100% Construction speed",
-          "+10.0% Armor - Blunt",
-          "+15.0% Armor - Sharp"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A man with the head of a gazelle.",
-      "defName": "GazelleMan",
-      "enabled": true,
-      "name": "gazelle man",
-      "price": 1667
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+100% Flammability",
-          "+100% Psychic sensitivity",
-          "+100% Toxic sensitivity",
-          "+12.0C Minimum comfortable temperature",
-          "+32.0C Maximum comfortable temperature",
-          "+30 Leather amount",
-          "+$1000 Market value",
-          "+4.61 Move speed",
-          "+75 Carrying capacity",
-          "+35% Mental break threshold",
-          "+100% Research speed",
-          "+100% Mining speed",
-          "+100.00% Social impact",
-          "+100% Plant work speed",
-          "+100% Plant harvest yield",
-          "+100% Construction speed",
-          "+10.0% Armor - Blunt",
-          "+15.0% Armor - Sharp"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A man with the head of a lynx.",
-      "defName": "LynxMan",
-      "enabled": true,
-      "name": "lynx man",
-      "price": 1667
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+100% Flammability",
-          "+100% Psychic sensitivity",
-          "+100% Toxic sensitivity",
-          "+12.0C Minimum comfortable temperature",
-          "+32.0C Maximum comfortable temperature",
-          "+30 Leather amount",
-          "+$1000 Market value",
-          "+4.61 Move speed",
-          "+75 Carrying capacity",
-          "+35% Mental break threshold",
-          "+100% Research speed",
-          "+100% Mining speed",
-          "+100.00% Social impact",
-          "+100% Plant work speed",
-          "+110% Plant harvest yield",
-          "+100% Construction speed",
-          "+10.0% Armor - Blunt",
-          "+15.0% Armor - Sharp"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A man with the head of a pig.",
-      "defName": "PigMan",
-      "enabled": true,
-      "name": "pig man",
-      "price": 1667
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+100% Flammability",
-          "+100% Psychic sensitivity",
-          "+100% Toxic sensitivity",
-          "-10.0C Minimum comfortable temperature",
-          "+50.0C Maximum comfortable temperature",
-          "+30 Leather amount",
-          "+$1000 Market value",
-          "+4.75 Move speed",
-          "+75 Carrying capacity",
-          "+35% Mental break threshold",
-          "+110% Research speed",
-          "+100% Mining speed",
-          "+100.00% Social impact",
-          "+100% Plant work speed",
-          "+110% Plant harvest yield",
-          "+100% Construction speed",
-          "+10.0% Armor - Blunt",
-          "+15.0% Armor - Sharp"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A man with the head of a raccoon.",
-      "defName": "RaccoonMan",
-      "enabled": true,
-      "name": "raccoon man",
-      "price": 1667
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+100% Flammability",
-          "+100% Psychic sensitivity",
-          "+100% Toxic sensitivity",
-          "-10.0C Minimum comfortable temperature",
-          "+32.0C Maximum comfortable temperature",
-          "+30 Leather amount",
-          "+$1000 Market value",
-          "+4.61 Move speed",
-          "+75 Carrying capacity",
-          "+35% Mental break threshold",
-          "+100% Research speed",
-          "+100% Mining speed",
-          "+110.00% Social impact",
-          "+100% Plant work speed",
-          "+100% Plant harvest yield",
-          "+100% Construction speed",
-          "+10.0% Armor - Blunt",
-          "+15.0% Armor - Sharp"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A man with the head of a wolf.",
-      "defName": "WolfMan",
-      "enabled": true,
-      "name": "wolf man",
-      "price": 1667
-    },
-    {
-      "data": {
-        "stats": [
-          "+75.00 Mass",
-          "+100% Flammability",
-          "+$1500 Market value",
-          "+4.61 Move speed",
-          "-50.0C Minimum comfortable temperature",
-          "+50.0C Maximum comfortable temperature",
-          "+20% Toxic sensitivity",
-          "+135% Immunity gain speed",
-          "+25 Leather amount"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A race of humanlike robots which are mostly female in model variety.\n\nThe origins of these machines are mostly unknown. Some speculate they are escapees from a civilization which used them for labor and some just suggest they are outdated pleasure machines which got dumped by a passing space freighter.\n\nBy design by their previous masters they are weak physically but their raw fortitude is enough to make up for it. Beware of their biological reactor and capacitors violently exploding, if they die by overheating.",
-      "defName": "ChjAndroid",
-      "enabled": true,
-      "name": "Android",
       "price": 2500
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+0% Flammability",
-          "+$850 Market value",
-          "+5.21 Move speed",
-          "-200.0C Minimum comfortable temperature",
-          "+300.0C Maximum comfortable temperature",
-          "+0% Toxic sensitivity",
-          "+0% Psychic sensitivity",
-          "+500% Pain shock threshold",
-          "+0% Mental break threshold",
-          "+0.00% Social impact",
-          "+0% Global learning factor",
-          "+1000% Immunity gain speed",
-          "+0 Leather amount",
-          "+0 Meat amount",
-          "+30.0% Armor - Sharp",
-          "+20.0% Armor - Blunt",
-          "+200.0% Armor - Heat",
-          "+75 Carrying capacity"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A race of rudimentary humanlike worker robots.\n\nUsually found toiling around in colonies around the rim which got a resident tinkerer.\n\nNot capable of sapience, however their relative cheap cost and ability to work around the clock make them valuable workers.",
-      "defName": "ChjDroid",
-      "enabled": false,
-      "name": "Droid",
-      "price": 1417
-    },
-    {
-      "data": {
-        "stats": [
-          "+55.00 Mass",
-          "+0% Flammability",
-          "+$1900 Market value",
-          "+4.00 Move speed",
-          "-200.0C Minimum comfortable temperature",
-          "+500.0C Maximum comfortable temperature",
-          "+0% Toxic sensitivity",
-          "+0% Psychic sensitivity",
-          "+500% Pain shock threshold",
-          "+0% Mental break threshold",
-          "+0.00% Social impact",
-          "+0% Global learning factor",
-          "+1000% Immunity gain speed",
-          "+0 Leather amount",
-          "+0 Meat amount",
-          "-0.4 Melee dodge chance",
-          "+100.0% Armor - Sharp",
-          "+40.0% Armor - Blunt",
-          "+200.0% Armor - Heat",
-          "+150 Carrying capacity"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A race of rudimentary humanlike warrior robots.\n\nUsually found guarding the homes of the wealthy and offices of mega corporations. They show no mercy upon targets who fail to identify themselves. Are traditionally armed with miniguns and core launchers.",
-      "defName": "ChjBattleDroid",
-      "enabled": false,
-      "name": "Battle droid",
-      "price": 3166
     },
     {
       "data": {
@@ -7354,7 +6966,7 @@
       },
       "description": "A Cowgirl that has developed a semblance of intelligence.",
       "defName": "MG_Cowgirl",
-      "enabled": true,
+      "enabled": false,
       "name": "Cowgirl",
       "price": 2917
     },
@@ -7482,7 +7094,7 @@
       },
       "description": "A Centaur that has developed a semblance of intelligence.",
       "defName": "MG_Centaur",
-      "enabled": true,
+      "enabled": false,
       "name": "Centaur",
       "price": 2917
     },
@@ -7514,7 +7126,7 @@
       },
       "description": "A mutant of the Forest Fairy species that has developed a semblance of intelligence./n A fragile existence that withers in a toxic environment.",
       "defName": "MG_ForestFairy",
-      "enabled": true,
+      "enabled": false,
       "name": "ForestFairy",
       "price": 3000
     },
@@ -7546,7 +7158,7 @@
       },
       "description": "A mutant of the Ice Fairy species that has developed a semblance of intelligence./n A fragile existence that cannot survive warm temperatures.",
       "defName": "MG_IceFairy",
-      "enabled": true,
+      "enabled": false,
       "name": "IceFairy",
       "price": 3000
     },
@@ -7635,9 +7247,9 @@
       },
       "description": "A holographic projection operated by a mind located elsewhere. Despite its humanlike appearance, the avatar could belong to a machine persona with frighteningly alien goals.\n\nIf the projection is destroyed, its emitter will need a day to reestablish coherence, but the mind itself suffers no permanent harm.",
       "defName": "SoSHologramRace",
-      "enabled": true,
+      "enabled": false,
       "name": "hologram",
-      "price": 1
+      "price": 1000
     },
     {
       "data": {
@@ -7683,6 +7295,72 @@
       "enabled": true,
       "name": "arachne",
       "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Ratlings (Homo sapiens minimus) are small, loud, hungry and lecherous Abhumans who often serve as snipers in the Astra Militarum, a role at which they excel. Ratlings also serve as cooks for Imperial Guard regiments, a skill they no doubt learned in order to feed their own seemingly bottomless stomachs; and they also have kleptomaniac tendencies, as Commissars report petty theft and illegal gambling rings increase substantially when Ratlings are attached to a platoon, company or regiment.",
+      "defName": "OG_Abhuman_Ratlin",
+      "enabled": true,
+      "name": "ratling",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$2500 Market value",
+          "+3.50 Move speed",
+          "-10.0C Minimum comfortable temperature",
+          "+32.0C Maximum comfortable temperature",
+          "+150 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "The dim-witted human sub-species called Ogryns (Homo sapiens gigantus) evolved on high-gravity, low-temperature prison planets. They are huge and unusually stupid for a human subrace, but unquestionably loyal to the Imperium once introduced to the faith of the Imperial Cult. Ogryns are used as the Imperial Guard's shock troops, and for this role, they are commonly outfitted with the Ripper Gun. The Ripper Gun is a weapon simple enough for them to operate, although some feral Ogryn cannot even fathom this device. Ogryn are also frequently used as bodyguards by Imperial Commanders.",
+      "defName": "OG_Abhuman_Ogryn",
+      "enabled": true,
+      "name": "ogryn",
+      "price": 4150
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A baseline human, while mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets, members of the Cult Mechanicus have usually undergone heavy bionic modifications.",
+      "defName": "OG_Human_Mechanicus",
+      "enabled": true,
+      "name": "human (Mechanicus)",
+      "price": 3000
     }
   ]
 }
