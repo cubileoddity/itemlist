@@ -346,11 +346,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "healme",
-		"price": 2167,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "surgery",
 		"price": 1,
 		"karmatype": "Neutral"
@@ -611,5 +606,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 122
+	"total": 121
 }

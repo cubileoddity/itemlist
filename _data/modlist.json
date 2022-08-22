@@ -6,6 +6,12 @@
     "version": "1.4.0.0"
   },
   {
+    "author": "Samboy063",
+    "name": "BetterLoading",
+    "steamId": "1999454301",
+    "version": "3.3.0.0"
+  },
+  {
     "author": "Neceros",
     "name": "SRTS Expanded",
     "steamId": "1845423808",
@@ -38,6 +44,12 @@
   {
     "author": "Albion",
     "name": "AI Uplifting Assistant",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "DRILLED_HEAD",
+    "name": "AIRDOCK",
     "steamId": null,
     "version": null
   },
@@ -90,6 +102,24 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Cpt. Ohu and Updated by Ogliss",
+    "name": "Corruption: Core",
+    "steamId": "2547885439",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Cpt. Ohu and Updated by Ogliss",
+    "name": "Corruption: Psykers",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Cpt. Ohu and Updated by Ogliss",
+    "name": "Corruption: Worship",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Ogliss",
     "name": "Adeptus Mechanicus: Armoury",
     "steamId": "1541438614",
@@ -116,6 +146,18 @@
   {
     "author": "Ogliss",
     "name": "Adeptus Xenobiologis: Tau, Kroot, Vespid",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Hey my team rules!",
+    "name": "Advanced Biomes (Continued)",
+    "steamId": "2052116426",
+    "version": "1.3.4"
+  },
+  {
+    "author": "Ank",
+    "name": "Age of Empires II Music",
     "steamId": null,
     "version": null
   },
@@ -162,8 +204,8 @@
     "version": null
   },
   {
-    "author": "moronic",
-    "name": "Arachne Race (Continued)",
+    "author": "Teok25",
+    "name": "Archotech Expanded",
     "steamId": null,
     "version": null
   },
@@ -186,8 +228,32 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki,  Kikohi and  Helixien",
+    "name": "Vanilla Events Expanded",
+    "steamId": "1938420742",
+    "version": "1.1.0"
+  },
+  {
+    "author": "Kentington and Thain",
+    "name": "Save Our Ship 2",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "uiwhee",
+    "name": "Astra Militarum SOS2 EVA Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Razor 2.3",
     "name": "Auto-Cut Blight",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SineSwiper",
+    "name": "Automatic Job Titles",
     "steamId": null,
     "version": null
   },
@@ -230,6 +296,24 @@
   {
     "author": "HappyBodi",
     "name": "Better Multi-Analyzers",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Argaros",
+    "name": "Better Star Wars Music",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "m00nl1ght-dev",
+    "name": "Geological Landforms",
+    "steamId": "2773943594",
+    "version": "1.4.4.0"
+  },
+  {
+    "author": "m00nl1ght-dev",
+    "name": "Biome Transitions",
     "steamId": null,
     "version": null
   },
@@ -306,6 +390,12 @@
     "version": null
   },
   {
+    "author": "Zaljerem",
+    "name": "Classic Fallout Music (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Owlchemist",
     "name": "Clean Pathfinding",
     "steamId": "2603765747",
@@ -351,7 +441,7 @@
     "author": "Mlie",
     "name": "Convert Then Recruit",
     "steamId": "2702584632",
-    "version": "1.3.12"
+    "version": "1.3.13"
   },
   {
     "author": "Xavior",
@@ -372,10 +462,28 @@
     "version": null
   },
   {
+    "author": "Little White Mouse",
+    "name": "LWM's Deep Storage",
+    "steamId": "1617282896",
+    "version": "1.3.0.1"
+  },
+  {
+    "author": "Sky",
+    "name": "Deep Storage Plus (Continued)",
+    "steamId": "2589072911",
+    "version": "1.3.1"
+  },
+  {
     "author": "UnlimitedHugs",
     "name": "Defensive Positions",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "merthsoft",
+    "name": "Designator Shapes",
+    "steamId": "1235181370",
+    "version": "1.0.0.0"
   },
   {
     "author": "Pyrce",
@@ -486,6 +594,12 @@
     "version": null
   },
   {
+    "author": "GoatBoy",
+    "name": "Fallout OST",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Inglix",
     "name": "Faster Biosculpter Pod",
     "steamId": "2576257954",
@@ -534,12 +648,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Ykara (Updated for 1.1 by Ogliss)",
-    "name": "Harvest Everything!",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "ItsComcastic",
     "name": "Haul to Stack",
     "steamId": null,
@@ -564,6 +672,12 @@
     "version": "2.0.6"
   },
   {
+    "author": "Mehni",
+    "name": "More Faction Interaction (Continued)",
+    "steamId": "2379076640",
+    "version": "1.3.2"
+  },
+  {
     "author": "Orion",
     "name": "Hospitality",
     "steamId": null,
@@ -586,6 +700,12 @@
     "name": "Increased Stack",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "NilchEi",
+    "name": "Insectoids Evolved",
+    "steamId": "1924407323",
+    "version": "1.0.0.0"
   },
   {
     "author": "Captain Muscles (Nathan Harbour)",
@@ -750,6 +870,12 @@
     "version": null
   },
   {
+    "author": "Londo Mollari",
+    "name": "More Hull Corners",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki,  XeoNovaDan,  Orion,  Kikohi,  Taranchuk,  Sarg Bjornson and  Erdelf",
     "name": "Vanilla Expanded Framework",
     "steamId": "2023507013",
@@ -802,6 +928,12 @@
     "name": "Multiple Multi-Analyzers",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Ogre",
+    "name": "Nano Repair Tech",
+    "steamId": "1447372624",
+    "version": "1.0.0.0"
   },
   {
     "author": "Sarg Bjornson and  AFriend",
@@ -866,6 +998,12 @@
   {
     "author": "Darth_Sergeant",
     "name": "Nurse Job",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ApocalypsePal",
+    "name": "Old Gods - Music",
     "steamId": null,
     "version": null
   },
@@ -970,6 +1108,12 @@
     "name": "Quest Reward Rebalance",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "KongMD",
+    "name": "Questionable Ethics Enhanced (Continued)",
+    "steamId": "2850854272",
+    "version": "1.3.1"
   },
   {
     "author": "spoonshortage",
@@ -1092,10 +1236,10 @@
     "version": "3.17.533"
   },
   {
-    "author": "avilmask",
-    "name": "Research Whatever",
-    "steamId": "2552092060",
-    "version": "1.0.0.0"
+    "author": "Imranfish",
+    "name": "Research for Deep Storage",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Vakaria",
@@ -1116,14 +1260,14 @@
     "version": "1.2.7364"
   },
   {
-    "author": "rooki1",
-    "name": "Rimsenal - Augmented Vanilla Pack",
+    "author": "Zebu Wan",
+    "name": "Rimscape Medieval Music",
     "steamId": null,
     "version": null
   },
   {
     "author": "rooki1",
-    "name": "Rimsenal - Core",
+    "name": "Rimsenal - Augmented Vanilla Pack",
     "steamId": null,
     "version": null
   },
@@ -1134,10 +1278,10 @@
     "version": null
   },
   {
-    "author": "rooki1",
-    "name": "Rimsenal Style Pack - Techist",
-    "steamId": null,
-    "version": null
+    "author": "Loconeko",
+    "name": "Roads of the Rim (Continued)",
+    "steamId": "2280318231",
+    "version": "1.3.2"
   },
   {
     "author": "telardo",
@@ -1158,20 +1302,38 @@
     "version": null
   },
   {
+    "author": "Mobius",
+    "name": "Royalty Tweaks",
+    "steamId": "2018384424",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Roolo and Updated by Ogliss",
     "name": "RunAndGun",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Oskar Potocki,  Kikohi and  Helixien",
-    "name": "Vanilla Events Expanded",
-    "steamId": "1938420742",
-    "version": "1.1.0"
+    "author": "Atmey",
+    "name": "SOS2 AT Expansion",
+    "steamId": null,
+    "version": null
   },
   {
-    "author": "Kentington and Thain",
-    "name": "Save Our Ship 2",
+    "author": "M",
+    "name": "SOS2 Stuffed",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "MrGlasses",
+    "name": "SRTS Landing Zone for SOS2",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Paraworld",
+    "name": "Save Our Ship 2 - Not Anty Ships",
     "steamId": null,
     "version": null
   },
@@ -1308,6 +1470,12 @@
     "version": null
   },
   {
+    "author": "Winterwolf",
+    "name": "The Expanse - OST ",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Orion",
     "name": "Therapy",
     "steamId": null,
@@ -1353,7 +1521,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.2.0.7"
+    "version": "6.2.1.0"
   },
   {
     "author": "saschahi",
@@ -1365,7 +1533,7 @@
     "author": "SirRandoo",
     "name": "ToolkitPolls",
     "steamId": "2435838514",
-    "version": "1.1.1.6"
+    "version": "1.1.1.7"
   },
   {
     "author": "Smash Phil",
@@ -1416,6 +1584,24 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Kiame Vivacity",
+    "name": "[KV] Path Avoid",
+    "steamId": "1180719857",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Anonymous, legodude17 and Oskar Potocki",
+    "name": "Vanilla Outposts Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Clown Cat",
+    "name": "Unofficial Vanilla Outposts Expanded Expanded: Trading",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Uuugggg",
     "name": "Use Bedrolls",
     "steamId": "1353625821",
@@ -1424,6 +1610,18 @@
   {
     "author": "Nephlite and  Maxim",
     "name": "Utility Columns",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki,  xrushha and  legodude17",
+    "name": "Vanilla Factions Expanded - Ancients",
+    "steamId": "2654846754",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "SpaceMoth",
+    "name": "VFE Ancients - Vaults are Eternal",
     "steamId": null,
     "version": null
   },
@@ -1572,6 +1770,12 @@
     "version": "1.0.0"
   },
   {
+    "author": "Oskar Potocki,  ISOREX and  xrushha",
+    "name": "Vanilla Textures Expanded - Save Our Ship 2",
+    "steamId": "2805433179",
+    "version": "0.0.0.0"
+  },
+  {
     "author": "Oskar Potocki,  AveryTheKitty and  Taranchuk",
     "name": "Vanilla Weapons Expanded - Coilguns",
     "steamId": null,
@@ -1590,6 +1794,12 @@
     "version": null
   },
   {
+    "author": "Weskermo",
+    "name": "WMO's Larger Capacity for Salvage Bay in SOS",
+    "steamId": "2779478876",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "zzz",
     "name": "Wall Vitals Monitor",
     "steamId": null,
@@ -1598,6 +1808,12 @@
   {
     "author": "Crustypeanut",
     "name": "War Crimes Expanded 2 Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "CATTO",
+    "name": "Warhammer 40k Omnissiah and Noosphere Ritual Music",
     "steamId": null,
     "version": null
   },
@@ -1711,14 +1927,14 @@
   },
   {
     "author": "Kiame Vivacity",
-    "name": "[KV] Path Avoid",
-    "steamId": "1180719857",
+    "name": "[KV] Show Hair With Hats or Hide All Hats",
+    "steamId": "1180826364",
     "version": "1.0.0.0"
   },
   {
-    "author": "Kiame Vivacity",
-    "name": "[KV] Show Hair With Hats or Hide All Hats",
-    "steamId": "1180826364",
+    "author": "Neronix17",
+    "name": "[O21] Carry Capacity Control",
+    "steamId": "2294328335",
     "version": "1.0.0.0"
   },
   {
@@ -1737,7 +1953,13 @@
     "author": "Mlie",
     "name": "[RF] Rational Romance (Continued)",
     "steamId": "2013144996",
-    "version": "1.3.2"
+    "version": "1.3.3"
+  },
+  {
+    "author": "Asieruso23 and Asierus24",
+    "name": "[SRTS Expanded] Planes and Bombs",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Shadowrabbit",
