@@ -7422,7 +7422,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Corruption: Psykers",
         "karmaTypeForAdding": null,
@@ -7439,7 +7439,7 @@
         ]
       },
       "defName": "Psyker",
-      "name": "psykerz",
+      "name": "psyker(z)",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 4250,

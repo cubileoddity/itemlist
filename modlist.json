@@ -174,6 +174,24 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki,  Kikohi and  Helixien",
+    "name": "Vanilla Events Expanded",
+    "steamId": "1938420742",
+    "version": "1.1.0"
+  },
+  {
+    "author": "Kentington and Thain",
+    "name": "Save Our Ship 2",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sarg Bjornson",
+    "name": "Alpha Ships",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "cucumpear",
     "name": "Animal Flap Speed Fix",
     "steamId": null,
@@ -224,18 +242,6 @@
   {
     "author": "Xercaine",
     "name": "Artillery Gun",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki,  Kikohi and  Helixien",
-    "name": "Vanilla Events Expanded",
-    "steamId": "1938420742",
-    "version": "1.1.0"
-  },
-  {
-    "author": "Kentington and Thain",
-    "name": "Save Our Ship 2",
     "steamId": null,
     "version": null
   },
@@ -296,12 +302,6 @@
   {
     "author": "HappyBodi",
     "name": "Better Multi-Analyzers",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Argaros",
-    "name": "Better Star Wars Music",
     "steamId": null,
     "version": null
   },
@@ -984,12 +984,6 @@
     "version": null
   },
   {
-    "author": "yiuaaa",
-    "name": "Net Gun",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "JBloodthorn",
     "name": "No Lazy Doctors",
     "steamId": null,
@@ -1004,12 +998,6 @@
   {
     "author": "Darth_Sergeant",
     "name": "Nurse Job",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "ApocalypsePal",
-    "name": "Old Gods - Music",
     "steamId": null,
     "version": null
   },
@@ -1242,6 +1230,12 @@
     "version": "3.17.533"
   },
   {
+    "author": "avilmask",
+    "name": "Research Whatever",
+    "steamId": "2552092060",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Imranfish",
     "name": "Research for Deep Storage",
     "steamId": null,
@@ -1338,6 +1332,12 @@
     "version": null
   },
   {
+    "author": "Scorpio",
+    "name": "SOS2 EVA auto patcher",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "M",
     "name": "SOS2 Stuffed",
     "steamId": null,
@@ -1352,6 +1352,12 @@
   {
     "author": "Paraworld",
     "name": "Save Our Ship 2 - Not Anty Ships",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "NetzachSloth",
+    "name": "Save our Ship - Archotech Expanded Prosthetics Patch",
     "steamId": null,
     "version": null
   },
@@ -1430,6 +1436,12 @@
   {
     "author": "dhultgren",
     "name": "Smarter Construction",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "M.A.G.Gen.",
+    "name": "SoS2 Wreck Deconstruction Addon",
     "steamId": null,
     "version": null
   },
@@ -1716,6 +1728,12 @@
     "version": null
   },
   {
+    "author": "Owlchemist",
+    "name": "Vanilla Bionics Expansion SOS2 patch",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki,  Kentington,  Sarg Bjornson,  erdelf,  Kikohi,  Chowder,  Taranchuk and  ISOREX",
     "name": "Vanilla Factions Expanded - Mechanoids",
     "steamId": "2329011599",
@@ -1947,12 +1965,6 @@
     "author": "Kiame Vivacity",
     "name": "[KV] Show Hair With Hats or Hide All Hats",
     "steamId": "1180826364",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Neronix17",
-    "name": "[O21] Carry Capacity Control",
-    "steamId": "2294328335",
     "version": "1.0.0.0"
   },
   {
