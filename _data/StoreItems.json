@@ -44,7 +44,7 @@
 	},
 	{
 		"abr": "psychitetea",
-		"price": 17,
+		"price": 15,
 		"category": "Drugs",
 		"defname": "PsychiteTea"
 	},
@@ -68,13 +68,13 @@
 	},
 	{
 		"abr": "deathacidifier",
-		"price": 667,
+		"price": 665,
 		"category": "Bionic",
 		"defname": "DeathAcidifier"
 	},
 	{
 		"abr": "bionictongue",
-		"price": 942,
+		"price": 940,
 		"category": "Bionic",
 		"defname": "BionicTongue"
 	},
@@ -536,7 +536,7 @@
 	},
 	{
 		"abr": "psychicemanator",
-		"price": 2167,
+		"price": 2165,
 		"category": "Special",
 		"defname": "PsychicEmanator"
 	},
@@ -560,7 +560,7 @@
 	},
 	{
 		"abr": "psychicanimalpulser",
-		"price": 1167,
+		"price": 1165,
 		"category": "Artifacts",
 		"defname": "PsychicAnimalPulser"
 	},
@@ -578,7 +578,7 @@
 	},
 	{
 		"abr": "healermechserum",
-		"price": 2167,
+		"price": 2165,
 		"category": "Items",
 		"defname": "MechSerumHealer"
 	},
@@ -794,7 +794,7 @@
 	},
 	{
 		"abr": "advancedcomponent",
-		"price": 333,
+		"price": 300,
 		"category": "Manufactured",
 		"defname": "ComponentSpacer"
 	},
@@ -920,7 +920,7 @@
 	},
 	{
 		"abr": "gold",
-		"price": 17,
+		"price": 15,
 		"category": "Raw resources",
 		"defname": "Gold"
 	},
@@ -950,7 +950,7 @@
 	},
 	{
 		"abr": "jade",
-		"price": 8,
+		"price": 10,
 		"category": "Raw resources",
 		"defname": "Jade"
 	},
@@ -1196,7 +1196,7 @@
 	},
 	{
 		"abr": "psychicfoilhelmet",
-		"price": 417,
+		"price": 415,
 		"category": "Headgear",
 		"defname": "Apparel_PsychicFoilHelmet"
 	},
@@ -1214,13 +1214,13 @@
 	},
 	{
 		"abr": "psychicshocklance",
-		"price": 917,
+		"price": 915,
 		"category": "Utility",
 		"defname": "Apparel_PsychicShockLance"
 	},
 	{
 		"abr": "psychicinsanitylance",
-		"price": 1083,
+		"price": 1085,
 		"category": "Utility",
 		"defname": "Apparel_PsychicInsanityLance"
 	},
@@ -2768,7 +2768,7 @@
 	},
 	{
 		"abr": "imperialguardcommissarcap",
-		"price": 583,
+		"price": 585,
 		"category": "Imperial Clothes",
 		"defname": "IGCommissarCap"
 	},
@@ -2792,7 +2792,7 @@
 	},
 	{
 		"abr": "imperialflakplate",
-		"price": 3333,
+		"price": 3335,
 		"category": "Imperial Armor Addons",
 		"defname": "IGStd-FlakPlate"
 	},
@@ -2960,25 +2960,25 @@
 	},
 	{
 		"abr": "autogunturret",
-		"price": 892,
+		"price": 890,
 		"category": "Imperial Defenses",
 		"defname": "ATAutoGunPowered"
 	},
 	{
 		"abr": "autocannonturret",
-		"price": 1917,
+		"price": 1915,
 		"category": "Imperial Defenses",
 		"defname": "ATSentryTurret"
 	},
 	{
 		"abr": "tarantulatwinbolter",
-		"price": 12392,
+		"price": 12390,
 		"category": "Imperial Defenses",
 		"defname": "ATDualHeavyBolter"
 	},
 	{
 		"abr": "tarantulatwinlascannon",
-		"price": 12392,
+		"price": 12390,
 		"category": "Imperial Defenses",
 		"defname": "ATDualLasCannon"
 	},
@@ -2996,7 +2996,7 @@
 	},
 	{
 		"abr": "impeialrejuvenat",
-		"price": 8333,
+		"price": 2335,
 		"category": "Imperial Augments",
 		"defname": "IG_IMP_Rejuvenat"
 	},
@@ -3008,97 +3008,97 @@
 	},
 	{
 		"abr": "augmetichand(t1)",
-		"price": 1667,
+		"price": 1665,
 		"category": "Imperial Augments",
 		"defname": "IG_Aug_HAND"
 	},
 	{
 		"abr": "augmeticarm(t1)",
-		"price": 1667,
+		"price": 1665,
 		"category": "Imperial Augments",
 		"defname": "IG_Aug_ARM"
 	},
 	{
 		"abr": "augmeticfoot(t1)",
-		"price": 1667,
+		"price": 1665,
 		"category": "Imperial Augments",
 		"defname": "IG_Aug_FOOT"
 	},
 	{
 		"abr": "augmeticleg(t1)",
-		"price": 1667,
+		"price": 1665,
 		"category": "Imperial Augments",
 		"defname": "IG_Aug_LEG"
 	},
 	{
 		"abr": "adamantiumspine(t1)",
-		"price": 1667,
+		"price": 1665,
 		"category": "Imperial Augments",
 		"defname": "IG_Aug_SPINE"
 	},
 	{
 		"abr": "augmetickidney(t1)",
-		"price": 1667,
+		"price": 1665,
 		"category": "Imperial Augments",
 		"defname": "IG_Aug_KIDNEY"
 	},
 	{
 		"abr": "augmeticstomach(t1)",
-		"price": 1667,
+		"price": 1665,
 		"category": "Imperial Augments",
 		"defname": "IG_Aug_STOM"
 	},
 	{
 		"abr": "augmeticeye(t1)",
-		"price": 1667,
+		"price": 1665,
 		"category": "Imperial Augments",
 		"defname": "IG_Aug_EYE"
 	},
 	{
 		"abr": "augmeticear(t1)",
-		"price": 1667,
+		"price": 1665,
 		"category": "Imperial Augments",
 		"defname": "IG_Aug_EAR"
 	},
 	{
 		"abr": "rangedweaponneuralaugment(t2)",
-		"price": 3333,
+		"price": 3335,
 		"category": "Imperial Augments",
 		"defname": "IG_Aug_RWNA"
 	},
 	{
 		"abr": "droneneuralaugment(t2)",
-		"price": 3333,
+		"price": 3335,
 		"category": "Imperial Augments",
 		"defname": "IG_Aug_DRONE"
 	},
 	{
 		"abr": "synthskinarmoraugment(t2)",
-		"price": 3333,
+		"price": 3335,
 		"category": "Imperial Augments",
 		"defname": "IG_Aug_SSAA"
 	},
 	{
 		"abr": "respiratoryaugmetic(t2)",
-		"price": 3333,
+		"price": 3335,
 		"category": "Imperial Augments",
 		"defname": "IG_Aug_RESPI"
 	},
 	{
 		"abr": "vocalaugmetic(t2)",
-		"price": 3333,
+		"price": 3335,
 		"category": "Imperial Augments",
 		"defname": "IG_Aug_VOCA"
 	},
 	{
 		"abr": "painelectoo(t2)",
-		"price": 3333,
+		"price": 3335,
 		"category": "Imperial Augments",
 		"defname": "IG_Aug_PAIN"
 	},
 	{
 		"abr": "moodstabiliserelectoo(t2)",
-		"price": 3333,
+		"price": 3335,
 		"category": "Imperial Augments",
 		"defname": "IG_Aug_MOOD"
 	},
@@ -3170,19 +3170,19 @@
 	},
 	{
 		"abr": "ceramite",
-		"price": 13,
+		"price": 15,
 		"category": "Imperial Raw Resources",
 		"defname": "Ceramite"
 	},
 	{
 		"abr": "adamantium",
-		"price": 33,
+		"price": 30,
 		"category": "Imperial Raw Resources",
 		"defname": "Adamantium"
 	},
 	{
 		"abr": "promethium",
-		"price": 33,
+		"price": 35,
 		"category": "Imperial Raw Resources",
 		"defname": "Promethium"
 	},
@@ -3206,19 +3206,19 @@
 	},
 	{
 		"abr": "imperialpowercore",
-		"price": 833,
+		"price": 835,
 		"category": "Imperial Manufactured Resources",
 		"defname": "ImperialPowercore"
 	},
 	{
 		"abr": "imperialpromethiumfuelblock",
-		"price": 833,
+		"price": 835,
 		"category": "Imperial Manufactured Resources",
 		"defname": "ImperialPromFuel"
 	},
 	{
 		"abr": "imperialnanocomponent",
-		"price": 833,
+		"price": 835,
 		"category": "Imperial Manufactured Resources",
 		"defname": "IG_ImperialNanoComponent"
 	},
@@ -3254,13 +3254,13 @@
 	},
 	{
 		"abr": "imperialoribtallancedesignator",
-		"price": 4167,
+		"price": 4165,
 		"category": "Imperial Ranged Weapons",
 		"defname": "IG_Orbital_QXBeam"
 	},
 	{
 		"abr": "imperialoribtalbombardmentdesignator",
-		"price": 4167,
+		"price": 4165,
 		"category": "Imperial Ranged Weapons",
 		"defname": "IG_Orbital_QXBomb"
 	},
@@ -3272,13 +3272,13 @@
 	},
 	{
 		"abr": "imperialquadrocketlauncher",
-		"price": 3333,
+		"price": 3335,
 		"category": "Imperial Ranged Weapons",
 		"defname": "Gun_QuadRktLauncher"
 	},
 	{
 		"abr": "imperialgrenadelauncher",
-		"price": 3333,
+		"price": 3335,
 		"category": "Imperial Ranged Weapons",
 		"defname": "Gun_ImpGrenadeLauncher"
 	},
@@ -3805,54 +3805,6 @@
 		"defname": "Battery_II"
 	},
 	{
-		"abr": "archotechear",
-		"price": 4667,
-		"category": "Archotech",
-		"defname": "FSFArchotechEar"
-	},
-	{
-		"abr": "archotechjaw",
-		"price": 4667,
-		"category": "Archotech",
-		"defname": "FSFArchotechJaw"
-	},
-	{
-		"abr": "archotechspine",
-		"price": 4667,
-		"category": "Archotech",
-		"defname": "FSFArchotechSpine"
-	},
-	{
-		"abr": "archotechheart",
-		"price": 4667,
-		"category": "Archotech",
-		"defname": "FSFArchotechHeart"
-	},
-	{
-		"abr": "archotechlung",
-		"price": 4667,
-		"category": "Archotech",
-		"defname": "FSFArchotechLung"
-	},
-	{
-		"abr": "archotechkidney",
-		"price": 4667,
-		"category": "Archotech",
-		"defname": "FSFArchotechKidney"
-	},
-	{
-		"abr": "archotechliver",
-		"price": 4667,
-		"category": "Archotech",
-		"defname": "FSFArchotechLiver"
-	},
-	{
-		"abr": "archotechstomach",
-		"price": 4667,
-		"category": "Archotech",
-		"defname": "FSFArchotechStomach"
-	},
-	{
 		"abr": "artificialnose",
 		"price": 313,
 		"category": "Prosthetic",
@@ -3860,31 +3812,31 @@
 	},
 	{
 		"abr": "bionicjaw",
-		"price": 1308,
+		"price": 1310,
 		"category": "Bionic",
 		"defname": "FSFBionicJaw"
 	},
 	{
 		"abr": "bioniclung",
-		"price": 1383,
+		"price": 1385,
 		"category": "Bionic",
 		"defname": "FSFBionicLung"
 	},
 	{
 		"abr": "bionickidney",
-		"price": 1308,
+		"price": 1310,
 		"category": "Bionic",
 		"defname": "FSFBionicKidney"
 	},
 	{
 		"abr": "bionicliver",
-		"price": 1308,
+		"price": 1309,
 		"category": "Bionic",
 		"defname": "FSFBionicLiver"
 	},
 	{
 		"abr": "bionicpowerarm",
-		"price": 5208,
+		"price": 5210,
 		"category": "Bionic",
 		"defname": "FSFBionicPowerArm"
 	},
@@ -4280,7 +4232,7 @@
 	},
 	{
 		"abr": "imperialguardflakarmor",
-		"price": 833,
+		"price": 835,
 		"category": "Imperial",
 		"defname": "OGIG_Apparel_FlakArmour"
 	},
@@ -4472,7 +4424,7 @@
 	},
 	{
 		"abr": "ironhalo",
-		"price": 23333,
+		"price": 23335,
 		"category": "Imperial Wargear",
 		"defname": "OGI_Wargear_IronHalo"
 	},
@@ -6368,7 +6320,7 @@
 	},
 	{
 		"abr": "krudebionikeye",
-		"price": 667,
+		"price": 665,
 		"category": "Bionic",
 		"defname": "OG_KrudeBionikEye"
 	},
@@ -6386,25 +6338,25 @@
 	},
 	{
 		"abr": "krudebionikspine",
-		"price": 667,
+		"price": 665,
 		"category": "Bionic",
 		"defname": "OG_KrudeBionikSpine"
 	},
 	{
 		"abr": "krudebionikbludgeon",
-		"price": 1667,
+		"price": 1665,
 		"category": "Bionic",
 		"defname": "OG_KrudeBionikArm_Bludgeon"
 	},
 	{
 		"abr": "krudebionikspike",
-		"price": 1667,
+		"price": 1665,
 		"category": "Bionic",
 		"defname": "OG_KrudeBionikArm_Spike"
 	},
 	{
 		"abr": "krudebionikrangedweaponplatform",
-		"price": 1333,
+		"price": 1335,
 		"category": "Bionic",
 		"defname": "OG_KrudeBionikArm_RangedWeaponPlatform"
 	},
@@ -7184,7 +7136,7 @@
 	},
 	{
 		"abr": "advancedbedintegrator",
-		"price": 2958,
+		"price": 2960,
 		"category": "Buildings",
 		"defname": "GNAdvancedBedIntegrator"
 	},
@@ -7436,7 +7388,7 @@
 	},
 	{
 		"abr": "abyssiniancat",
-		"price": 333,
+		"price": 335,
 		"category": "Animals",
 		"defname": "AEXP_CatAbyssinian"
 	},
@@ -7646,7 +7598,7 @@
 	},
 	{
 		"abr": "psychicpylon",
-		"price": 2167,
+		"price": 2165,
 		"category": "Special",
 		"defname": "VFES_PsychicPylon"
 	},
@@ -8120,25 +8072,25 @@
 	},
 	{
 		"abr": "advancedbioniceye",
-		"price": 2542,
+		"price": 2540,
 		"category": "Ultratech",
 		"defname": "AdvancedBionicEye"
 	},
 	{
 		"abr": "advancedbionicarm",
-		"price": 2542,
+		"price": 2540,
 		"category": "Ultratech",
 		"defname": "AdvancedBionicArm"
 	},
 	{
 		"abr": "advancedbionicleg",
-		"price": 2542,
+		"price": 2540,
 		"category": "Ultratech",
 		"defname": "AdvancedBionicLeg"
 	},
 	{
 		"abr": "advancedbionicspine",
-		"price": 2542,
+		"price": 2540,
 		"category": "Ultratech",
 		"defname": "AdvancedBionicSpine"
 	},
@@ -8174,19 +8126,19 @@
 	},
 	{
 		"abr": "advancedbionicjaw",
-		"price": 2542,
+		"price": 2540,
 		"category": "Ultratech",
 		"defname": "AdvancedBionicJaw"
 	},
 	{
 		"abr": "exoskeletonsuit",
-		"price": 4067,
+		"price": 4065,
 		"category": "Ultratech",
 		"defname": "ExoskeletonSuit"
 	},
 	{
 		"abr": "protectiveexoskeleton",
-		"price": 4983,
+		"price": 4985,
 		"category": "Ultratech",
 		"defname": "EPIA_ProtectiveExoskeleton"
 	},
@@ -8204,79 +8156,79 @@
 	},
 	{
 		"abr": "bioniceye",
-		"price": 1717,
+		"price": 1715,
 		"category": "Bionic",
 		"defname": "BionicEye"
 	},
 	{
 		"abr": "bionicleg",
-		"price": 1717,
+		"price": 1716,
 		"category": "Bionic",
 		"defname": "BionicLeg"
 	},
 	{
 		"abr": "bionicarm",
-		"price": 1717,
+		"price": 1715,
 		"category": "Bionic",
 		"defname": "BionicArm"
 	},
 	{
 		"abr": "bionicspine",
-		"price": 1717,
+		"price": 1715,
 		"category": "Bionic",
 		"defname": "BionicSpine"
 	},
 	{
 		"abr": "bionicear",
-		"price": 1308,
+		"price": 1310,
 		"category": "Bionic",
 		"defname": "BionicEar"
 	},
 	{
 		"abr": "bionichand",
-		"price": 1308,
+		"price": 1310,
 		"category": "Bionic",
 		"defname": "BionicHand"
 	},
 	{
 		"abr": "bionicfoot",
-		"price": 1308,
+		"price": 1310,
 		"category": "Bionic",
 		"defname": "BionicFoot"
 	},
 	{
 		"abr": "bionicfinger",
-		"price": 392,
+		"price": 390,
 		"category": "Bionic",
 		"defname": "BionicFinger"
 	},
 	{
 		"abr": "bionictoe",
-		"price": 392,
+		"price": 390,
 		"category": "Bionic",
 		"defname": "BionicToe"
 	},
 	{
 		"abr": "bionicjaw",
-		"price": 1717,
+		"price": 1715,
 		"category": "Bionic",
 		"defname": "BionicJaw"
 	},
 	{
 		"abr": "silentjaw",
-		"price": 1383,
+		"price": 1385,
 		"category": "Bionic",
 		"defname": "SilentJaw"
 	},
 	{
 		"abr": "blankribreplacement",
-		"price": 583,
+		"price": 585,
 		"category": "Bionic",
 		"defname": "SimpleRib"
 	},
 	{
 		"abr": "medicalribimplant",
-		"price": 967,
+		"price": 965,
 		"category": "Bionic",
 		"defname": "MedicalRib"
 	},
@@ -8288,13 +8240,13 @@
 	},
 	{
 		"abr": "adrenalineribimplant",
-		"price": 842,
+		"price": 840,
 		"category": "Bionic",
 		"defname": "AdrenalineRib"
 	},
 	{
 		"abr": "painkillerribimplant",
-		"price": 1108,
+		"price": 1105,
 		"category": "Bionic",
 		"defname": "PainkillerRib"
 	},
@@ -8312,73 +8264,73 @@
 	},
 	{
 		"abr": "coagulatorribimplant",
-		"price": 1083,
+		"price": 1085,
 		"category": "Bionic",
 		"defname": "CoagulatorRib"
 	},
 	{
 		"abr": "respirationribimplant",
-		"price": 1558,
+		"price": 1560,
 		"category": "Bionic",
 		"defname": "RespirationRib"
 	},
 	{
 		"abr": "wake-upribimplant",
-		"price": 958,
+		"price": 960,
 		"category": "Bionic",
 		"defname": "WakeUpRib"
 	},
 	{
 		"abr": "tacticalcorneaimplant",
-		"price": 3217,
+		"price": 3215,
 		"category": "Ultratech",
 		"defname": "TacticalCorneaImplant"
 	},
 	{
 		"abr": "auxiliaryai(constructing)",
-		"price": 3217,
+		"price": 3215,
 		"category": "Ultratech",
 		"defname": "ConstructorCore"
 	},
 	{
 		"abr": "auxiliaryai(agricultural)",
-		"price": 3217,
+		"price": 3216,
 		"category": "Ultratech",
 		"defname": "FarmerCore"
 	},
 	{
 		"abr": "auxiliaryai(mining)",
-		"price": 3217,
+		"price": 3215,
 		"category": "Ultratech",
 		"defname": "MinerCore"
 	},
 	{
 		"abr": "auxiliaryai(medical)",
-		"price": 3217,
+		"price": 3215,
 		"category": "Ultratech",
 		"defname": "DoctorCore"
 	},
 	{
 		"abr": "auxiliaryai(diplomatic)",
-		"price": 3217,
+		"price": 3215,
 		"category": "Ultratech",
 		"defname": "DiplomatCore"
 	},
 	{
 		"abr": "auxiliaryai(sharpshooter)",
-		"price": 4333,
+		"price": 4334,
 		"category": "Ultratech",
 		"defname": "EPIA_AuxiliaryAI_Sharpshooter"
 	},
 	{
 		"abr": "auxiliaryai(commando)",
-		"price": 4333,
+		"price": 4335,
 		"category": "Ultratech",
 		"defname": "EPIA_AuxiliaryAI_Commando"
 	},
 	{
 		"abr": "auxiliaryai(brawler)",
-		"price": 4333,
+		"price": 4335,
 		"category": "Ultratech",
 		"defname": "EPIA_AuxiliaryAI_Brawler"
 	},
@@ -8420,25 +8372,25 @@
 	},
 	{
 		"abr": "powerarm",
-		"price": 4283,
+		"price": 4285,
 		"category": "Bionic",
 		"defname": "PowerArm"
 	},
 	{
 		"abr": "advancedpowerarm",
-		"price": 5108,
+		"price": 5110,
 		"category": "Ultratech",
 		"defname": "AdvancedPowerArm"
 	},
 	{
 		"abr": "synthetictissue",
-		"price": 287,
+		"price": 285,
 		"category": "Bionic",
 		"defname": "SyntheticSkin"
 	},
 	{
 		"abr": "neuromuscularframework",
-		"price": 1133,
+		"price": 1135,
 		"category": "Bionic",
 		"defname": "NeuromuscularFramework"
 	},
@@ -8450,7 +8402,7 @@
 	},
 	{
 		"abr": "syntheticbone",
-		"price": 329,
+		"price": 330,
 		"category": "Bionic",
 		"defname": "EPIA_SyntheticBone"
 	},
@@ -8576,43 +8528,43 @@
 	},
 	{
 		"abr": "syntheticheart",
-		"price": 1717,
+		"price": 1715,
 		"category": "Bionic",
 		"defname": "BionicHeart"
 	},
 	{
 		"abr": "syntheticlung",
-		"price": 1717,
+		"price": 1715,
 		"category": "Bionic",
 		"defname": "SyntheticLung"
 	},
 	{
 		"abr": "syntheticstomach",
-		"price": 1717,
+		"price": 1715,
 		"category": "Bionic",
 		"defname": "BionicStomach"
 	},
 	{
 		"abr": "syntheticliver",
-		"price": 1717,
+		"price": 1715,
 		"category": "Bionic",
 		"defname": "SyntheticLiver"
 	},
 	{
 		"abr": "synthetickidney",
-		"price": 1717,
+		"price": 1715,
 		"category": "Bionic",
 		"defname": "SyntheticKidney"
 	},
 	{
 		"abr": "musclestimulator",
-		"price": 1717,
+		"price": 1715,
 		"category": "Bionic",
 		"defname": "MuscleStimulator"
 	},
 	{
 		"abr": "aichip",
-		"price": 1517,
+		"price": 1515,
 		"category": "Bionic",
 		"defname": "AIChip"
 	},
@@ -8846,7 +8798,7 @@
 	},
 	{
 		"abr": "bionictail",
-		"price": 1717,
+		"price": 1715,
 		"category": "Bionic",
 		"defname": "MG_BionicTail"
 	},
@@ -8924,7 +8876,7 @@
 	},
 	{
 		"abr": "dragonscales",
-		"price": 33,
+		"price": 30,
 		"category": "Raw resources",
 		"defname": "MG_Dragon_Scales"
 	},
@@ -9326,13 +9278,13 @@
 	},
 	{
 		"abr": "advancedbed",
-		"price": 833,
+		"price": 835,
 		"category": "Furniture",
 		"defname": "Bed_AdvBed"
 	},
 	{
 		"abr": "advanceddoublebed",
-		"price": 1483,
+		"price": 1485,
 		"category": "Furniture",
 		"defname": "Bed_AdvDoubleBed"
 	},
@@ -9619,12 +9571,6 @@
 		"defname": "ANN_Reconditioner"
 	},
 	{
-		"abr": "netgun",
-		"price": 250,
-		"category": "Ranged weapons",
-		"defname": "Gun_Net"
-	},
-	{
 		"abr": "medpod",
 		"price": 83333,
 		"category": "Furniture",
@@ -9842,7 +9788,7 @@
 	},
 	{
 		"abr": "addictol",
-		"price": 833,
+		"price": 835,
 		"category": "Drugs",
 		"defname": "Addictol"
 	},
@@ -10232,7 +10178,7 @@
 	},
 	{
 		"abr": "skysteel",
-		"price": 8,
+		"price": 10,
 		"category": "Raw resources",
 		"defname": "AA_SkySteel"
 	},
@@ -10394,13 +10340,13 @@
 	},
 	{
 		"abr": "acanthamoebagigantea,large",
-		"price": 583,
+		"price": 585,
 		"category": "Animals",
 		"defname": "AA_AcanthamoebaGiganteaLarge"
 	},
 	{
 		"abr": "acanthamoebagigantea,huge",
-		"price": 1167,
+		"price": 1165,
 		"category": "Animals",
 		"defname": "AA_AcanthamoebaGiganteaHuge"
 	},
@@ -11228,7 +11174,7 @@
 	},
 	{
 		"abr": "ressurectorbelt",
-		"price": 2833,
+		"price": 2835,
 		"category": "Utility",
 		"defname": "VAEA_Apparel_RessurectorBelt"
 	},
@@ -11624,13 +11570,13 @@
 	},
 	{
 		"abr": "crystallinematrix",
-		"price": 17,
+		"price": 15,
 		"category": "Raw resources",
 		"defname": "AB_CrystallineMatrix"
 	},
 	{
 		"abr": "cordaxresin",
-		"price": 17,
+		"price": 15,
 		"category": "Raw resources",
 		"defname": "AB_CordaxResin"
 	},
@@ -13052,43 +12998,43 @@
 	},
 	{
 		"abr": "advancedbionicarm",
-		"price": 5667,
+		"price": 5665,
 		"category": "Bionic",
 		"defname": "GTArm"
 	},
 	{
 		"abr": "advancedbionicdentures",
-		"price": 5667,
+		"price": 5665,
 		"category": "Bionic",
 		"defname": "GTDentures"
 	},
 	{
 		"abr": "advancedbionicear",
-		"price": 5667,
+		"price": 5665,
 		"category": "Bionic",
 		"defname": "GTEar"
 	},
 	{
 		"abr": "advancedbioniceye",
-		"price": 5667,
+		"price": 5665,
 		"category": "Bionic",
 		"defname": "GTEye"
 	},
 	{
 		"abr": "advancedbionicfoot",
-		"price": 5667,
+		"price": 5665,
 		"category": "Bionic",
 		"defname": "GTFoot"
 	},
 	{
 		"abr": "advancedbionichand",
-		"price": 5667,
+		"price": 5665,
 		"category": "Bionic",
 		"defname": "GTHand"
 	},
 	{
 		"abr": "advancedbionicleg",
-		"price": 5667,
+		"price": 5665,
 		"category": "Bionic",
 		"defname": "GTLeg"
 	},
@@ -13154,7 +13100,7 @@
 	},
 	{
 		"abr": "betapoly",
-		"price": 392,
+		"price": 390,
 		"category": "Raw resources",
 		"defname": "BetaPoly"
 	},
@@ -13196,31 +13142,31 @@
 	},
 	{
 		"abr": "cyberneticheart",
-		"price": 5667,
+		"price": 5665,
 		"category": "Bionic",
 		"defname": "GTHeart"
 	},
 	{
 		"abr": "cybernetickidney",
-		"price": 5667,
+		"price": 5665,
 		"category": "Bionic",
 		"defname": "GTKidney"
 	},
 	{
 		"abr": "cyberneticliver",
-		"price": 5667,
+		"price": 5665,
 		"category": "Bionic",
 		"defname": "GTLiver"
 	},
 	{
 		"abr": "cyberneticlung",
-		"price": 5667,
+		"price": 5665,
 		"category": "Bionic",
 		"defname": "GTLung"
 	},
 	{
 		"abr": "cyberneticstomach",
-		"price": 5667,
+		"price": 5665,
 		"category": "Bionic",
 		"defname": "GTStomach"
 	},
@@ -13724,349 +13670,349 @@
 	},
 	{
 		"abr": "<color=#00fff7>auxilaryheart</color>",
-		"price": 4667,
+		"price": 4665,
 		"category": "Evolved body parts",
 		"defname": "EVOR_Item_AbdominalAndChestcavity_AuxilaryHeart"
 	},
 	{
 		"abr": "<color=#00fff7>butchersnails</color>",
-		"price": 4667,
+		"price": 4665,
 		"category": "Evolved body parts",
 		"defname": "EVOR_Item_Brain_ButchersNails"
 	},
 	{
 		"abr": "<color=#00fff7>calciumalloyribcage</color>",
-		"price": 4667,
+		"price": 4665,
 		"category": "Evolved body parts",
 		"defname": "EVOR_Item_Protection_Ribcage_CalciumAlloyRibcage"
 	},
 	{
 		"abr": "<color=#00fff7>combatserumgland</color>",
-		"price": 4667,
+		"price": 4665,
 		"category": "Evolved body parts",
 		"defname": "EVOR_Item_AbdominalAndChestcavity_CombatSerumGland"
 	},
 	{
 		"abr": "<color=#00fff7>cranialplating</color>",
-		"price": 4667,
+		"price": 4665,
 		"category": "Evolved body parts",
 		"defname": "EVOR_Item_Protection_Skull_CranialPlating"
 	},
 	{
 		"abr": "<color=#00fff7>distendablejaw</color>",
-		"price": 4667,
+		"price": 4665,
 		"category": "Evolved body parts",
 		"defname": "EVOR_Item_Jaw_DistendableJaw"
 	},
 	{
 		"abr": "<color=#00fff7>extrananofilterlung</color>",
-		"price": 4667,
+		"price": 4665,
 		"category": "Evolved body parts",
 		"defname": "EVOR_Item_AbdominalAndChestcavity_ExtraNanofilterLung"
 	},
 	{
 		"abr": "<color=#00fff7>extradextrousappendage</color>",
-		"price": 4667,
+		"price": 4665,
 		"category": "Evolved body parts",
 		"defname": "EVOR_Item_Appendage_ExtradextrousArm"
 	},
 	{
 		"abr": "<color=#00fff7>eyeofthevoid</color>",
-		"price": 4667,
+		"price": 4665,
 		"category": "Evolved body parts",
 		"defname": "EVOR_Item_Eye_EyeOfTheVoid"
 	},
 	{
 		"abr": "<color=#00fff7>featheredwings</color>",
-		"price": 4667,
+		"price": 4665,
 		"category": "Evolved body parts",
 		"defname": "EVOR_Item_Back_FeatheredWings"
 	},
 	{
 		"abr": "<color=#00fff7>flameretardantskin</color>",
-		"price": 4667,
+		"price": 4665,
 		"category": "Evolved body parts",
 		"defname": "EVOR_Item_Protection_Skin_FlameRetardantSkin"
 	},
 	{
 		"abr": "<color=#00fff7>frostmantishook</color>",
-		"price": 4667,
+		"price": 4665,
 		"category": "Evolved body parts",
 		"defname": "EVOR_Item_Appendage_FrostMantisHook"
 	},
 	{
 		"abr": "<color=#00fff7>graspingleg</color>",
-		"price": 4667,
+		"price": 4665,
 		"category": "Evolved body parts",
 		"defname": "EVOR_Item_Appendage_GraspingLeg"
 	},
 	{
 		"abr": "<color=#00fff7>highpressurepincer</color>",
-		"price": 4667,
+		"price": 4665,
 		"category": "Evolved body parts",
 		"defname": "EVOR_Item_Appendage_HighPressurePincer"
 	},
 	{
 		"abr": "<color=#00fff7>hormoneregulator</color>",
-		"price": 4667,
+		"price": 4665,
 		"category": "Evolved body parts",
 		"defname": "EVOR_Item_AbdominalAndChestcavity_HormoneRegulator"
 	},
 	{
 		"abr": "<color=#00fff7>interferenceshielding</color>",
-		"price": 4667,
+		"price": 4665,
 		"category": "Evolved body parts",
 		"defname": "EVOR_Item_Protection_Skull_InterferenceShielding"
 	},
 	{
 		"abr": "<color=#00fff7>iridescenteye</color>",
-		"price": 4667,
+		"price": 4665,
 		"category": "Evolved body parts",
 		"defname": "EVOR_Item_Eye_IridescentEye"
 	},
 	{
 		"abr": "<color=#00fff7>leatherywings</color>",
-		"price": 4667,
+		"price": 4665,
 		"category": "Evolved body parts",
 		"defname": "EVOR_Item_Back_LeatheryWings"
 	},
 	{
 		"abr": "<color=#00fff7>lymphaticproliferator</color>",
-		"price": 4667,
+		"price": 4665,
 		"category": "Evolved body parts",
 		"defname": "EVOR_Item_AbdominalAndChestcavity_LymphaticProliferator"
 	},
 	{
 		"abr": "<color=#00fff7>microanalyzernose</color>",
-		"price": 4667,
+		"price": 4665,
 		"category": "Evolved body parts",
 		"defname": "EVOR_Item_Nose_MicroAnalyzerNose"
 	},
 	{
 		"abr": "<color=#00fff7>multichamberstomach</color>",
-		"price": 4667,
+		"price": 4665,
 		"category": "Evolved body parts",
 		"defname": "EVOR_Item_Stomach_MultichamberStomach"
 	},
 	{
 		"abr": "<color=#00fff7>multifrequencyear</color>",
-		"price": 4667,
+		"price": 4665,
 		"category": "Evolved body parts",
 		"defname": "EVOR_Item_Ear_MultifrequencyEar"
 	},
 	{
 		"abr": "<color=#00fff7>multilayereddermalplating</color>",
-		"price": 4667,
+		"price": 4665,
 		"category": "Evolved body parts",
 		"defname": "EVOR_Item_Protection_Torso_MultilayeredDermalPlating"
 	},
 	{
 		"abr": "<color=#00fff7>multispectrumeye</color>",
-		"price": 4667,
+		"price": 4665,
 		"category": "Evolved body parts",
 		"defname": "EVOR_Item_Eye_MultispectrumEye"
 	},
 	{
 		"abr": "<color=#00fff7>musculaturebraces</color>",
-		"price": 4667,
+		"price": 4665,
 		"category": "Evolved body parts",
 		"defname": "EVOR_Item_Back_MusculatureBraces"
 	},
 	{
 		"abr": "<color=#00fff7>nanoalveolilung</color>",
-		"price": 4667,
+		"price": 4665,
 		"category": "Evolved body parts",
 		"defname": "EVOR_Item_Lung_NanoAlveoliLung"
 	},
 	{
 		"abr": "<color=#00fff7>neuralhyperthreader</color>",
-		"price": 4667,
+		"price": 4665,
 		"category": "Evolved body parts",
 		"defname": "EVOR_Item_Brain_NeuralHyperthreader"
 	},
 	{
 		"abr": "<color=#00fff7>neuroacceleratedspine</color>",
-		"price": 4667,
+		"price": 4665,
 		"category": "Evolved body parts",
 		"defname": "EVOR_Item_Spine_NeuroAcceleratedSpine"
 	},
 	{
 		"abr": "<color=#00fff7>ossifiedbonesaber</color>",
-		"price": 4667,
+		"price": 4665,
 		"category": "Evolved body parts",
 		"defname": "EVOR_Item_Appendage_OssifiedBoneSaber"
 	},
 	{
 		"abr": "<color=#00fff7>peltgrowth</color>",
-		"price": 4667,
+		"price": 4665,
 		"category": "Evolved body parts",
 		"defname": "EVOR_Item_Back_PeltGrowth"
 	},
 	{
 		"abr": "<color=#00fff7>perspirationcleansingkidney</color>",
-		"price": 4667,
+		"price": 4665,
 		"category": "Evolved body parts",
 		"defname": "EVOR_Item_Kidney_PerspirationCleansingKidney"
 	},
 	{
 		"abr": "<color=#00fff7>pheromonereleasernose</color>",
-		"price": 4667,
+		"price": 4665,
 		"category": "Evolved body parts",
 		"defname": "EVOR_Item_Nose_PheromoneReleaserNose"
 	},
 	{
 		"abr": "<color=#00fff7>phytoplanktonskin</color>",
-		"price": 4667,
+		"price": 4665,
 		"category": "Evolved body parts",
 		"defname": "EVOR_Item_Protection_Skin_PhytoplanktonSkin"
 	},
 	{
 		"abr": "<color=#00fff7>plaguelesions</color>",
-		"price": 4667,
+		"price": 4665,
 		"category": "Evolved body parts",
 		"defname": "EVOR_Item_Sternum_PlagueLesions"
 	},
 	{
 		"abr": "<color=#00fff7>psychicresonancetissue</color>",
-		"price": 4667,
+		"price": 4665,
 		"category": "Evolved body parts",
 		"defname": "EVOR_Item_Protection_Skull_PsychicResonanceTissue"
 	},
 	{
 		"abr": "<color=#00fff7>quadlobeliver</color>",
-		"price": 4667,
+		"price": 4665,
 		"category": "Evolved body parts",
 		"defname": "EVOR_Item_Liver_QuadlobeLiver"
 	},
 	{
 		"abr": "<color=#00fff7>radiationabsorbingskin</color>",
-		"price": 4667,
+		"price": 4665,
 		"category": "Evolved body parts",
 		"defname": "EVOR_Item_Protection_Skin_RadiationAbsorbingSkin"
 	},
 	{
 		"abr": "<color=#00fff7>rasvacoule</color>",
-		"price": 4667,
+		"price": 4665,
 		"category": "Evolved body parts",
 		"defname": "EVOR_Item_AbdominalAndChestcavity_RasVacoule"
 	},
 	{
 		"abr": "<color=#00fff7>regenerativeliver</color>",
-		"price": 4667,
+		"price": 4665,
 		"category": "Evolved body parts",
 		"defname": "EVOR_Item_Liver_RegenerativeLiver"
 	},
 	{
 		"abr": "<color=#00fff7>reinforcedleg</color>",
-		"price": 4667,
+		"price": 4665,
 		"category": "Evolved body parts",
 		"defname": "EVOR_Item_Appendage_ReinforcedLeg"
 	},
 	{
 		"abr": "<color=#00fff7>reinforcedneckmuscles</color>",
-		"price": 4667,
+		"price": 4665,
 		"category": "Evolved body parts",
 		"defname": "EVOR_Item_Protection_Neck_ReinforcedNeckMuscles"
 	},
 	{
 		"abr": "<color=#00fff7>reinforcedtortoiseshell</color>",
-		"price": 4667,
+		"price": 4665,
 		"category": "Evolved body parts",
 		"defname": "EVOR_Item_Sternum_ReinforcedTortoiseShell"
 	},
 	{
 		"abr": "<color=#00fff7>rendingclaw</color>",
-		"price": 4667,
+		"price": 4665,
 		"category": "Evolved body parts",
 		"defname": "EVOR_Item_Appendage_RendingClaw"
 	},
 	{
 		"abr": "<color=#00fff7>reptilianfrontalcortex</color>",
-		"price": 4667,
+		"price": 4665,
 		"category": "Evolved body parts",
 		"defname": "EVOR_Item_Brain_ReptilianFrontalCortex"
 	},
 	{
 		"abr": "<color=#00fff7>salamanderwhip</color>",
-		"price": 4667,
+		"price": 4665,
 		"category": "Evolved body parts",
 		"defname": "EVOR_Item_Appendage_SalamanderWhip"
 	},
 	{
 		"abr": "<color=#00fff7>shimmeringskin</color>",
-		"price": 4667,
+		"price": 4665,
 		"category": "Evolved body parts",
 		"defname": "EVOR_Item_Protection_Skin_ShimmeringSkin"
 	},
 	{
 		"abr": "<color=#00fff7>shirehorseleg</color>",
-		"price": 4667,
+		"price": 4665,
 		"category": "Evolved body parts",
 		"defname": "EVOR_Item_Appendage_ShireHorseLeg"
 	},
 	{
 		"abr": "<color=#00fff7>sonicimpactmace</color>",
-		"price": 4667,
+		"price": 4665,
 		"category": "Evolved body parts",
 		"defname": "EVOR_Item_Appendage_SonicImpactMace"
 	},
 	{
 		"abr": "<color=#00fff7>tentaclecluster</color>",
-		"price": 4667,
+		"price": 4665,
 		"category": "Evolved body parts",
 		"defname": "EVOR_Item_Back_TentacleCluster"
 	},
 	{
 		"abr": "<color=#00fff7>triplatedlimb</color>",
-		"price": 4667,
+		"price": 4665,
 		"category": "Evolved body parts",
 		"defname": "EVOR_Item_Appendage_TriPlacedLimb"
 	},
 	{
 		"abr": "<color=#00fff7>triplefilterpasskidney</color>",
-		"price": 4667,
+		"price": 4665,
 		"category": "Evolved body parts",
 		"defname": "EVOR_Item_Kidney_TripleFilterPassKidney"
 	},
 	{
 		"abr": "<color=#00fff7>triwovenprimaryheart</color>",
-		"price": 4667,
+		"price": 4665,
 		"category": "Evolved body parts",
 		"defname": "EVOR_Item_Heart_TriwovenPrimaryHeart"
 	},
 	{
 		"abr": "<color=#00fff7>variableinsulationskin</color>",
-		"price": 4667,
+		"price": 4665,
 		"category": "Evolved body parts",
 		"defname": "EVOR_Item_Protection_Skin_VariableInsulationSkin"
 	},
 	{
 		"abr": "<color=#00fff7>venomousfangs</color>",
-		"price": 4667,
+		"price": 4665,
 		"category": "Evolved body parts",
 		"defname": "EVOR_Item_Jaw_VenomousFangs"
 	},
 	{
 		"abr": "<color=#00fff7>venomousstinger</color>",
-		"price": 4667,
+		"price": 4665,
 		"category": "Evolved body parts",
 		"defname": "EVOR_Item_Tail_VenomousStinger"
 	},
 	{
 		"abr": "<color=#00fff7>venopillararm</color>",
-		"price": 4667,
+		"price": 4665,
 		"category": "Evolved body parts",
 		"defname": "EVOR_Item_Appendage_VenopillarArm"
 	},
 	{
 		"abr": "<color=#00fff7>waterfilledgrowth</color>",
-		"price": 4667,
+		"price": 4665,
 		"category": "Evolved body parts",
 		"defname": "EVOR_Item_Back_WaterFilledGrowth"
 	},
 	{
 		"abr": "<color=#00fff7>weigthedtail</color>",
-		"price": 4667,
+		"price": 4665,
 		"category": "Evolved body parts",
 		"defname": "EVOR_Item_Appendage_WeightedTail"
 	},
@@ -14492,19 +14438,19 @@
 	},
 	{
 		"abr": "psychicflayercore",
-		"price": 6667,
+		"price": 6665,
 		"category": "Items",
 		"defname": "ArchotechPsychicCore"
 	},
 	{
 		"abr": "psychicmanipulator",
-		"price": 3333,
+		"price": 3335,
 		"category": "Archotech",
 		"defname": "SoSPsychicManipulator"
 	},
 	{
 		"abr": "psychicpredictor",
-		"price": 2333,
+		"price": 2335,
 		"category": "Archotech",
 		"defname": "SoSPsychicPredictor"
 	},
@@ -14936,7 +14882,7 @@
 	},
 	{
 		"abr": "titanium",
-		"price": 53,
+		"price": 55,
 		"category": "Raw resources",
 		"defname": "Titanium"
 	},
@@ -15686,13 +15632,13 @@
 	},
 	{
 		"abr": "advancedarchotecharm",
-		"price": 33333,
+		"price": 33335,
 		"category": "Archotech",
 		"defname": "AdvancedArchotechArm"
 	},
 	{
 		"abr": "advancedarchotechleg",
-		"price": 33333,
+		"price": 33335,
 		"category": "Archotech",
 		"defname": "AdvancedArchotechLeg"
 	},
@@ -15721,52 +15667,16 @@
 		"defname": "ArchotechDeathClaw"
 	},
 	{
-		"abr": "archotechdenture",
-		"price": 4667,
-		"category": "Prosthetic",
-		"defname": "ArchotechDenture"
-	},
-	{
-		"abr": "archotechear",
-		"price": 4667,
-		"category": "Prosthetic",
-		"defname": "ArchotechEar"
-	},
-	{
 		"abr": "aerol-29delfín",
-		"price": 14200,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "AEROL29a"
 	},
 	{
 		"abr": "antonovan-225mriya",
-		"price": 21692,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "AN225a"
-	},
-	{
-		"abr": "archotechheart",
-		"price": 4667,
-		"category": "Prosthetic",
-		"defname": "ArchotechHeart"
-	},
-	{
-		"abr": "archotechkidney",
-		"price": 4667,
-		"category": "Prosthetic",
-		"defname": "ArchotechKidney"
-	},
-	{
-		"abr": "archotechliver",
-		"price": 4667,
-		"category": "Prosthetic",
-		"defname": "ArchotechLiver"
-	},
-	{
-		"abr": "archotechlung",
-		"price": 4667,
-		"category": "Prosthetic",
-		"defname": "ArchotechLung"
 	},
 	{
 		"abr": "archotechmembrane",
@@ -15787,18 +15697,6 @@
 		"defname": "ArchotechPelvis"
 	},
 	{
-		"abr": "archotechspine",
-		"price": 4667,
-		"category": "Prosthetic",
-		"defname": "ArchotechSpine"
-	},
-	{
-		"abr": "archotechstomach",
-		"price": 4667,
-		"category": "Prosthetic",
-		"defname": "ArchotechStomach"
-	},
-	{
 		"abr": "arm",
 		"price": 333,
 		"category": "Natural",
@@ -15812,19 +15710,19 @@
 	},
 	{
 		"abr": "avrolancaster",
-		"price": 9175,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "AvroLana"
 	},
 	{
 		"abr": "avrovulcan",
-		"price": 20200,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "AVROVULCANa"
 	},
 	{
 		"abr": "avroyork(type685)",
-		"price": 6392,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "AvroYork685a"
 	},
@@ -15842,49 +15740,49 @@
 	},
 	{
 		"abr": "bellah-1cobra",
-		"price": 3475,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "AH1C"
 	},
 	{
 		"abr": "bellboeingv-22osprey",
-		"price": 18775,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "V22OSa"
 	},
 	{
 		"abr": "belluh-1huey",
-		"price": 1575,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "UH1a"
 	},
 	{
 		"abr": "bf110c-7",
-		"price": 4100,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "Bf110C7a"
 	},
 	{
 		"abr": "boeing(baesystems/mcdonnelldouglas)av-8bharrierii",
-		"price": 19692,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "HAIIa"
 	},
 	{
 		"abr": "boeing(mcdonnelldouglas)f/a-18hornet",
-		"price": 19525,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "fa18a"
 	},
 	{
 		"abr": "boeingb-29superfortress",
-		"price": 9808,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "B29SFa"
 	},
 	{
 		"abr": "boeingb-52stratofortress",
-		"price": 23467,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "B52a"
 	},
@@ -15902,19 +15800,19 @@
 	},
 	{
 		"abr": "bréguetbr.1001taonb",
-		"price": 16175,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "BR1001a"
 	},
 	{
 		"abr": "chengduj-10",
-		"price": 19633,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "J10a"
 	},
 	{
 		"abr": "chengduj-20",
-		"price": 20267,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "J20a"
 	},
@@ -15932,37 +15830,37 @@
 	},
 	{
 		"abr": "dassaultmirageiii",
-		"price": 16783,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "MIRAGEIIIa"
 	},
 	{
 		"abr": "dehavillanddh.100vampire",
-		"price": 8850,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "DH100V"
 	},
 	{
 		"abr": "dornierdo217",
-		"price": 4900,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "DO217a"
 	},
 	{
 		"abr": "douglasa-26invader",
-		"price": 5450,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "A26NVADERa"
 	},
 	{
 		"abr": "douglasa-3skywarrior",
-		"price": 13225,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "DCA3a"
 	},
 	{
 		"abr": "douglasc-133cargomaster",
-		"price": 9692,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "DC133a"
 	},
@@ -15974,7 +15872,7 @@
 	},
 	{
 		"abr": "eurofightertyphoon",
-		"price": 19925,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "EurofighterTy"
 	},
@@ -15986,19 +15884,19 @@
 	},
 	{
 		"abr": "f-16",
-		"price": 19225,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "F16a"
 	},
 	{
 		"abr": "fairchildrepublica-10thunderboltii",
-		"price": 19367,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "A10a"
 	},
 	{
 		"abr": "focke-achgelisfa223drache",
-		"price": 1458,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "FA223a"
 	},
@@ -16010,13 +15908,13 @@
 	},
 	{
 		"abr": "generaldynamicsf-111k",
-		"price": 18617,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "F111Ka"
 	},
 	{
 		"abr": "generaldynamicsf-16xl",
-		"price": 21050,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "F16XLa"
 	},
@@ -16040,13 +15938,13 @@
 	},
 	{
 		"abr": "heinkelhe111",
-		"price": 4525,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "HE111a"
 	},
 	{
 		"abr": "heinkelhe177",
-		"price": 5317,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "he177a"
 	},
@@ -16070,13 +15968,13 @@
 	},
 	{
 		"abr": "junkersju52",
-		"price": 7092,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "JU52a"
 	},
 	{
 		"abr": "junkersju-87stuka",
-		"price": 3758,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "JU87stua"
 	},
@@ -16088,55 +15986,55 @@
 	},
 	{
 		"abr": "lockheedah-56cheyenne",
-		"price": 2842,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "AH56C"
 	},
 	{
 		"abr": "lockheedc-130hercules",
-		"price": 8200,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "C130a"
 	},
 	{
 		"abr": "lockheedc-5galaxy(cargoonly)",
-		"price": 21208,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "C5Ga"
 	},
 	{
 		"abr": "lockheedf-104starfighter",
-		"price": 15142,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "F104SF"
 	},
 	{
 		"abr": "lockheedf-117nighthawk",
-		"price": 22167,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "F117a"
 	},
 	{
 		"abr": "lockheedmartinf-22raptor",
-		"price": 21742,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "F22R"
 	},
 	{
 		"abr": "lockheedmartinx-44manta",
-		"price": 23325,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "X44a"
 	},
 	{
 		"abr": "lockheedp-38lightning",
-		"price": 3783,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "Lp38la"
 	},
 	{
 		"abr": "lockheedventurapv-1",
-		"price": 5050,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "LKPV1C7a"
 	},
@@ -16148,97 +16046,97 @@
 	},
 	{
 		"abr": "mauricefarmanf50",
-		"price": 1700,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "MFF50a"
 	},
 	{
 		"abr": "mcdonnelldouglasf-4phantomii",
-		"price": 16875,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "F4IIa"
 	},
 	{
 		"abr": "mcdonnelldouglas/boeingc-17globemasteriii",
-		"price": 20600,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "C17GBa"
 	},
 	{
 		"abr": "messerschmittme262a-2a",
-		"price": 8492,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "ME262a"
 	},
 	{
 		"abr": "messerschmitt-264–mep.1075/mep.1085",
-		"price": 10550,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "ME1075a"
 	},
 	{
 		"abr": "mig-29",
-		"price": 19242,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "mig29a"
 	},
 	{
 		"abr": "mikoyanmig1.42/1.44/mfi",
-		"price": 21183,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "MIG144a"
 	},
 	{
 		"abr": "mikoyanmig-27",
-		"price": 18992,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "mig27a"
 	},
 	{
 		"abr": "mikoyan-gurevichmig-19",
-		"price": 14367,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "MIG19a"
 	},
 	{
 		"abr": "milm-12homer",
-		"price": 9842,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "MI12a"
 	},
 	{
 		"abr": "milmi-24a",
-		"price": 3158,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "MI24A"
 	},
 	{
 		"abr": "milmi-4(hound)",
-		"price": 1583,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "MI4a"
 	},
 	{
 		"abr": "milmi-8hip",
-		"price": 1792,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "mi8a"
 	},
 	{
 		"abr": "mitsubishia6m7rei-sen(zero)",
-		"price": 4817,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "A6M7a"
 	},
 	{
 		"abr": "mitsubishig4m",
-		"price": 5317,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "Mitsug4m"
 	},
 	{
 		"abr": "myasishchevm-4",
-		"price": 18117,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "MM4a"
 	},
@@ -16256,16 +16154,1810 @@
 	},
 	{
 		"abr": "northamericanf-100supersabre",
-		"price": 14742,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "F100a"
 	},
 	{
 		"abr": "northamericanp51d",
-		"price": 5067,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "NAP51Da"
-	}
+	},
+	{
+		"abr": "<color=#00fff7>mucousgland</color>",
+		"price": 4665,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Torso_MucousGland"
+	},
+	{
+		"abr": "<color=#00fff7>norncrown</color>",
+		"price": 4665,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Sternum_NornCrown"
+	},
+	{
+		"abr": "<color=#00fff7>reactiveshimmerworms</color>",
+		"price": 4665,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Sternum_ReactiveShimmerworms"
+	},
+	{
+		"abr": "aestheticnose",
+		"price": 975,
+		"category": "Bionic",
+		"defname": "AestheticNose"
+	},
+	{
+		"abr": "aestheticshaper",
+		"price": 1385,
+		"category": "Bionic",
+		"defname": "AestheticShaper"
+	},
+	{
+		"abr": "angelicsculpture",
+		"price": 633,
+		"category": "Art",
+		"defname": "SculptureAngel"
+	},
+	{
+		"abr": "animusstone",
+		"price": 8333,
+		"category": "Misc",
+		"defname": "AnimusStone"
+	},
+	{
+		"abr": "armoredrobe",
+		"price": 783,
+		"category": "Apparel",
+		"defname": "Apparel_LeatherArmor"
+	},
+	{
+		"abr": "armorskingland",
+		"price": 2460,
+		"category": "Bionic",
+		"defname": "ArmorskinGland"
+	},
+	{
+		"abr": "axe",
+		"price": 209,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Axe"
+	},
+	{
+		"abr": "beret",
+		"price": 141,
+		"category": "Headgear",
+		"defname": "Apparel_Beret"
+	},
+	{
+		"abr": "bionicdrillarm",
+		"price": 3585,
+		"category": "Bionic",
+		"defname": "FSFBionicDrillArm"
+	},
+	{
+		"abr": "bionicfieldarm",
+		"price": 3585,
+		"category": "Bionic",
+		"defname": "FSFBionicFieldArm"
+	},
+	{
+		"abr": "brazier",
+		"price": 167,
+		"category": "Furniture",
+		"defname": "Brazier"
+	},
+	{
+		"abr": "cape",
+		"price": 367,
+		"category": "Noble apparel",
+		"defname": "Apparel_Cape"
+	},
+	{
+		"abr": "cataphractarmor",
+		"price": 5200,
+		"category": "Armor",
+		"defname": "Apparel_ArmorCataphract"
+	},
+	{
+		"abr": "cataphracthelmet",
+		"price": 1242,
+		"category": "Headgear",
+		"defname": "Apparel_ArmorHelmetCataphract"
+	},
+	{
+		"abr": "chaosbeastmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Demon_Beast"
+	},
+	{
+		"abr": "circadianassistant",
+		"price": 1715,
+		"category": "Bionic",
+		"defname": "CircadianAssistant"
+	},
+	{
+		"abr": "circadianhalf-cycler",
+		"price": 1715,
+		"category": "Bionic",
+		"defname": "CircadianHalfCycler"
+	},
+	{
+		"abr": "coagulator",
+		"price": 1715,
+		"category": "Bionic",
+		"defname": "Coagulator"
+	},
+	{
+		"abr": "coronet",
+		"price": 215,
+		"category": "Headgear",
+		"defname": "Apparel_Coronet"
+	},
+	{
+		"abr": "corset",
+		"price": 222,
+		"category": "Noble apparel",
+		"defname": "Apparel_Corset"
+	},
+	{
+		"abr": "cropofnurgle",
+		"price": -10,
+		"category": "Vegetarian",
+		"defname": "RawCropOfNurgle"
+	},
+	{
+		"abr": "crown",
+		"price": 322,
+		"category": "Headgear",
+		"defname": "Apparel_Crown"
+	},
+	{
+		"abr": "cultisthighhat",
+		"price": 91,
+		"category": "Headgear",
+		"defname": "Apparel_Chaos_HighHat"
+	},
+	{
+		"abr": "cultistleathers",
+		"price": 77,
+		"category": "Apparel",
+		"defname": "ChaosLeathers"
+	},
+	{
+		"abr": "cultistrobe",
+		"price": 327,
+		"category": "Apparel",
+		"defname": "Apparel_Chaos_Robe"
+	},
+	{
+		"abr": "curiouseffigy",
+		"price": 35,
+		"category": "Manufactured",
+		"defname": "Effigy_Chaos"
+	},
+	{
+		"abr": "curiouseffigy",
+		"price": 35,
+		"category": "Manufactured",
+		"defname": "Effigy_Khorne"
+	},
+	{
+		"abr": "curiouseffigy",
+		"price": 35,
+		"category": "Manufactured",
+		"defname": "Effigy_Nurgle"
+	},
+	{
+		"abr": "curiouseffigy",
+		"price": 35,
+		"category": "Manufactured",
+		"defname": "Effigy_Tzeentch"
+	},
+	{
+		"abr": "curiouseffigy",
+		"price": 35,
+		"category": "Manufactured",
+		"defname": "Effigy_Slaanesh"
+	},
+	{
+		"abr": "daemonblood",
+		"price": 30,
+		"category": "Medicine",
+		"defname": "DaemonBlood"
+	},
+	{
+		"abr": "darklightbrazier",
+		"price": 167,
+		"category": "Furniture",
+		"defname": "DarklightBrazier"
+	},
+	{
+		"abr": "demonicaxe",
+		"price": 42,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_DemonicAxe"
+	},
+	{
+		"abr": "demoniccleaver",
+		"price": 42,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_DemonicCleaver"
+	},
+	{
+		"abr": "detoxifierstomach",
+		"price": 1715,
+		"category": "Bionic",
+		"defname": "DetoxifierStomach"
+	},
+	{
+		"abr": "drape",
+		"price": 608,
+		"category": "Furniture",
+		"defname": "Drape"
+	},
+	{
+		"abr": "drillarm",
+		"price": 708,
+		"category": "Prosthetic",
+		"defname": "DrillArm"
+	},
+	{
+		"abr": "effigyoftheemperor",
+		"price": 35,
+		"category": "Manufactured",
+		"defname": "Effigy_Emperor"
+	},
+	{
+		"abr": "elbowblade",
+		"price": 592,
+		"category": "Prosthetic",
+		"defname": "ElbowBlade"
+	},
+	{
+		"abr": "eltexhelmet",
+		"price": 833,
+		"category": "Headgear",
+		"defname": "Apparel_PsyfocusHelmet"
+	},
+	{
+		"abr": "eltexrobe",
+		"price": 1000,
+		"category": "Apparel",
+		"defname": "Apparel_PsyfocusRobe"
+	},
+	{
+		"abr": "eltexshirt",
+		"price": 667,
+		"category": "Apparel",
+		"defname": "Apparel_PsyfocusShirt"
+	},
+	{
+		"abr": "eltexskullcap",
+		"price": 833,
+		"category": "Headgear",
+		"defname": "Apparel_EltexSkullcap"
+	},
+	{
+		"abr": "eltexstaff",
+		"price": 3333,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_PsyfocusStaff"
+	},
+	{
+		"abr": "eltexvest",
+		"price": 833,
+		"category": "Apparel",
+		"defname": "Apparel_PsyfocusVest"
+	},
+	{
+		"abr": "fieldhand",
+		"price": 708,
+		"category": "Prosthetic",
+		"defname": "FieldHand"
+	},
+	{
+		"abr": "forcestaff",
+		"price": 842,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_ForceStaffEmpty"
+	},
+	{
+		"abr": "forcestaff",
+		"price": 650,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_ShamanStaff"
+	},
+	{
+		"abr": "forcestaffoflightning",
+		"price": 54,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_ForceStaffLightning"
+	},
+	{
+		"abr": "formalshirt",
+		"price": 253,
+		"category": "Noble apparel",
+		"defname": "Apparel_ShirtRuffle"
+	},
+	{
+		"abr": "formalvest",
+		"price": 222,
+		"category": "Noble apparel",
+		"defname": "Apparel_VestRoyal"
+	},
+	{
+		"abr": "fruitofnurgle",
+		"price": 1,
+		"category": "Foods",
+		"defname": "FruitOfNurgle"
+	},
+	{
+		"abr": "furymeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Demon_Fury"
+	},
+	{
+		"abr": "gastro-analyzer",
+		"price": 1385,
+		"category": "Bionic",
+		"defname": "GastroAnalyzer"
+	},
+	{
+		"abr": "grandmeditationthrone",
+		"price": 2492,
+		"category": "Furniture",
+		"defname": "GrandThrone"
+	},
+	{
+		"abr": "grenadierarmor",
+		"price": 3842,
+		"category": "Armor",
+		"defname": "Apparel_ArmorMarineGrenadier"
+	},
+	{
+		"abr": "guardhelmet",
+		"price": 83,
+		"category": "Headgear",
+		"defname": "Heretic_Helmet"
+	},
+	{
+		"abr": "gunlink",
+		"price": 575,
+		"category": "Headgear",
+		"defname": "Apparel_Gunlink"
+	},
+	{
+		"abr": "handtalon",
+		"price": 592,
+		"category": "Prosthetic",
+		"defname": "HandTalon"
+	},
+	{
+		"abr": "harp",
+		"price": 408,
+		"category": "Recreation",
+		"defname": "Harp"
+	},
+	{
+		"abr": "harpsichord",
+		"price": 692,
+		"category": "Recreation",
+		"defname": "Harpsichord"
+	},
+	{
+		"abr": "healingenhancer",
+		"price": 1715,
+		"category": "Bionic",
+		"defname": "HealingEnhancer"
+	},
+	{
+		"abr": "heroicsculpture",
+		"price": 633,
+		"category": "Art",
+		"defname": "SculptureHero"
+	},
+	{
+		"abr": "humanbones",
+		"price": 1,
+		"category": "Manufactured",
+		"defname": "HumanBones"
+	},
+	{
+		"abr": "humanskull",
+		"price": 1,
+		"category": "Manufactured",
+		"defname": "HumanSkull"
+	},
+	{
+		"abr": "idolofchange",
+		"price": 683,
+		"category": "Furniture",
+		"defname": "IdolOfChange"
+	},
+	{
+		"abr": "immunoenhancer",
+		"price": 1715,
+		"category": "Bionic",
+		"defname": "Immunoenhancer"
+	},
+	{
+		"abr": "imperialculticon",
+		"price": 35,
+		"category": "Items of Worship",
+		"defname": "EcclesiarchyIcon"
+	},
+	{
+		"abr": "imperialsynthbinder",
+		"price": 1,
+		"category": "Manufactured",
+		"defname": "IG_SynthAgent"
+	},
+	{
+		"abr": "intricatealtar",
+		"price": 592,
+		"category": "Furniture",
+		"defname": "Corruption_AltarIntricate"
+	},
+	{
+		"abr": "jumppack",
+		"price": 1075,
+		"category": "Utility",
+		"defname": "Apparel_PackJump"
+	},
+	{
+		"abr": "kneespike",
+		"price": 592,
+		"category": "Prosthetic",
+		"defname": "KneeSpike"
+	},
+	{
+		"abr": "ladieshat",
+		"price": 203,
+		"category": "Headgear",
+		"defname": "Apparel_HatLadies"
+	},
+	{
+		"abr": "largenatureshrine",
+		"price": 1183,
+		"category": "Misc",
+		"defname": "NatureShrine_Large"
+	},
+	{
+		"abr": "learningassistant",
+		"price": 1715,
+		"category": "Bionic",
+		"defname": "LearningAssistant"
+	},
+	{
+		"abr": "locustarmor",
+		"price": 3717,
+		"category": "Armor",
+		"defname": "Apparel_ArmorLocust"
+	},
+	{
+		"abr": "loveenhancer",
+		"price": 1715,
+		"category": "Bionic",
+		"defname": "LoveEnhancer"
+	},
+	{
+		"abr": "low-shieldpack",
+		"price": 717,
+		"category": "Utility",
+		"defname": "Apparel_PackBroadshield"
+	},
+	{
+		"abr": "mechnode",
+		"price": 333,
+		"category": "Special",
+		"defname": "Gloomlight"
+	},
+	{
+		"abr": "meditationthrone",
+		"price": 475,
+		"category": "Furniture",
+		"defname": "Throne"
+	},
+	{
+		"abr": "medpodlux",
+		"price": 125000,
+		"category": "Furniture",
+		"defname": "MedPodLux"
+	},
+	{
+		"abr": "mindscrew",
+		"price": 350,
+		"category": "Prosthetic",
+		"defname": "Mindscrew"
+	},
+	{
+		"abr": "mirrorofpleasures",
+		"price": 767,
+		"category": "Furniture",
+		"defname": "MirrorOfPleasure"
+	},
+	{
+		"abr": "monosword",
+		"price": 3333,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_MonoSword"
+	},
+	{
+		"abr": "neurocalculator",
+		"price": 1715,
+		"category": "Bionic",
+		"defname": "Neurocalculator"
+	},
+	{
+		"abr": "northropgrummanb-2spirit",
+		"price": -10,
+		"category": "Buildings",
+		"defname": "B2a"
+	},
+	{
+		"abr": "northropxb-35",
+		"price": -10,
+		"category": "Buildings",
+		"defname": "XB35a"
+	},
+	{
+		"abr": "nose",
+		"price": 167,
+		"category": "Natural",
+		"defname": "QE_Organ_Nose"
+	},
+	{
+		"abr": "nuclearbomb",
+		"price": 20833,
+		"category": "Mortar shells",
+		"defname": "Shell_fatmanNukePyB"
+	},
+	{
+		"abr": "nuclearstomach",
+		"price": 1715,
+		"category": "Bionic",
+		"defname": "NuclearStomach"
+	},
+	{
+		"abr": "nutrientsolution",
+		"price": 3,
+		"category": "Manufactured",
+		"defname": "QE_NutrientSolution"
+	},
+	{
+		"abr": "orbitalmechclustertargeter",
+		"price": 2000,
+		"category": "Utility",
+		"defname": "OrbitalTargeterMechCluster"
+	},
+	{
+		"abr": "organvat",
+		"price": 1075,
+		"category": "Production",
+		"defname": "QE_Building_OrganVat"
+	},
+	{
+		"abr": "organvat(legacy)",
+		"price": 1075,
+		"category": "Production",
+		"defname": "QE_OrganVat"
+	},
+	{
+		"abr": "panaviatornado",
+		"price": -10,
+		"category": "Buildings",
+		"defname": "PNTa"
+	},
+	{
+		"abr": "pelvis",
+		"price": 333,
+		"category": "Natural",
+		"defname": "QE_Organ_Pelvis"
+	},
+	{
+		"abr": "personamonosword",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "MeleeWeapon_MonoSwordBladelink"
+	},
+	{
+		"abr": "personaplasmasword",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "MeleeWeapon_PlasmaSwordBladelink"
+	},
+	{
+		"abr": "personazeushammer",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "MeleeWeapon_ZeusHammerBladelink"
+	},
+	{
+		"abr": "phoenixarmor",
+		"price": 5800,
+		"category": "Armor",
+		"defname": "Apparel_ArmorCataphractPhoenix"
+	},
+	{
+		"abr": "piano",
+		"price": 1117,
+		"category": "Recreation",
+		"defname": "Piano"
+	},
+	{
+		"abr": "piaseckih-25",
+		"price": -10,
+		"category": "Buildings",
+		"defname": "PHRP"
+	},
+	{
+		"abr": "picomachinery",
+		"price": 333,
+		"category": "Textiles",
+		"defname": "Picomachinery"
+	},
+	{
+		"abr": "pikemountedskull",
+		"price": 68,
+		"category": "Furniture",
+		"defname": "SkullOnPike"
+	},
+	{
+		"abr": "plasmasword",
+		"price": 3333,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_PlasmaSword"
+	},
+	{
+		"abr": "prestigecataphractarmor",
+		"price": 6550,
+		"category": "Armor",
+		"defname": "Apparel_ArmorCataphractPrestige"
+	},
+	{
+		"abr": "prestigecataphracthelmet",
+		"price": 1925,
+		"category": "Headgear",
+		"defname": "Apparel_ArmorHelmetCataphractPrestige"
+	},
+	{
+		"abr": "prestigemarinearmor",
+		"price": 4217,
+		"category": "Armor",
+		"defname": "Apparel_ArmorMarinePrestige"
+	},
+	{
+		"abr": "prestigemarinehelmet",
+		"price": 1417,
+		"category": "Headgear",
+		"defname": "Apparel_ArmorMarineHelmetPrestige"
+	},
+	{
+		"abr": "prestigereconarmor",
+		"price": 3292,
+		"category": "Armor",
+		"defname": "Apparel_ArmorReconPrestige"
+	},
+	{
+		"abr": "prestigereconhelmet",
+		"price": 1192,
+		"category": "Headgear",
+		"defname": "Apparel_ArmorHelmetReconPrestige"
+	},
+	{
+		"abr": "prestigerobe",
+		"price": 450,
+		"category": "Noble apparel",
+		"defname": "Apparel_RobeRoyal"
+	},
+	{
+		"abr": "prestigesiegebreakerarmor",
+		"price": 6758,
+		"category": "Armor",
+		"defname": "VAE_Apparel_RoyalSiegeArmor"
+	},
+	{
+		"abr": "prestigesiegebreakerhelmet",
+		"price": 1958,
+		"category": "Headgear",
+		"defname": "VAE_Headgear_RoyalSiegeHelmet"
+	},
+	{
+		"abr": "prestigetrooperarmor",
+		"price": 2425,
+		"category": "Armor",
+		"defname": "VAE_Apparel_RoyalTrooperArmor"
+	},
+	{
+		"abr": "prestigetrooperhelmet",
+		"price": 992,
+		"category": "Headgear",
+		"defname": "VAE_Headgear_RoyalTrooperHelmet"
+	},
+	{
+		"abr": "proteinmash",
+		"price": 3,
+		"category": "Manufactured",
+		"defname": "QE_ProteinMash"
+	},
+	{
+		"abr": "psiconvector",
+		"price": 533,
+		"category": "Empyreal components",
+		"defname": "PsiConvector"
+	},
+	{
+		"abr": "psychicharmonizer",
+		"price": 1335,
+		"category": "Archotech",
+		"defname": "PsychicHarmonizer"
+	},
+	{
+		"abr": "psychicreader",
+		"price": 1665,
+		"category": "Archotech",
+		"defname": "PsychicReader"
+	},
+	{
+		"abr": "psychicresonancetissue",
+		"price": 4665,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Skull_Resonance"
+	},
+	{
+		"abr": "psychicsensitizer",
+		"price": 1665,
+		"category": "Archotech",
+		"defname": "PsychicSensitizer"
+	},
+	{
+		"abr": "psykerbackpack",
+		"price": 840,
+		"category": "Apparel",
+		"defname": "Apparel_PsykerBackpack"
+	},
+	{
+		"abr": "psykerhood",
+		"price": 585,
+		"category": "Headgear",
+		"defname": "Apparel_PsykerHood"
+	},
+	{
+		"abr": "psylinkneuroformer",
+		"price": 4335,
+		"category": "Archotech",
+		"defname": "PsychicAmplifier"
+	},
+	{
+		"abr": "psytrainer(beckon)",
+		"price": 915,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Beckon"
+	},
+	{
+		"abr": "psytrainer(berserkpulse)",
+		"price": 1667,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_BerserkPulse"
+	},
+	{
+		"abr": "psytrainer(berserk)",
+		"price": 1415,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Berserk"
+	},
+	{
+		"abr": "psytrainer(blindingpulse)",
+		"price": 667,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_BlindingPulse"
+	},
+	{
+		"abr": "psytrainer(burden)",
+		"price": 417,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Burden"
+	},
+	{
+		"abr": "psytrainer(chaosskip)",
+		"price": 917,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_ChaosSkip"
+	},
+	{
+		"abr": "psytrainer(chunkskip)",
+		"price": 417,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Chunkskip"
+	},
+	{
+		"abr": "psytrainer(farskip)",
+		"price": 1417,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Farskip"
+	},
+	{
+		"abr": "psytrainer(flashstorm)",
+		"price": 1417,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Flashstorm"
+	},
+	{
+		"abr": "psytrainer(focus)",
+		"price": 1167,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Focus"
+	},
+	{
+		"abr": "psytrainer(invisibility)",
+		"price": 1417,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Invisibility"
+	},
+	{
+		"abr": "psytrainer(manhunterpulse)",
+		"price": 1667,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_ManhunterPulse"
+	},
+	{
+		"abr": "psytrainer(masschaosskip)",
+		"price": 1667,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_MassChaosSkip"
+	},
+	{
+		"abr": "psytrainer(neuralheatdump)",
+		"price": 667,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_EntropyDump"
+	},
+	{
+		"abr": "psytrainer(neuroquake)",
+		"price": 1667,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Neuroquake"
+	},
+	{
+		"abr": "psytrainer(painblock)",
+		"price": 417,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Painblock"
+	},
+	{
+		"abr": "psytrainer(skip)",
+		"price": 1167,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Skip"
+	},
+	{
+		"abr": "psytrainer(skipshield)",
+		"price": 1667,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_BulletShield"
+	},
+	{
+		"abr": "psytrainer(smokepop)",
+		"price": 1167,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Smokepop"
+	},
+	{
+		"abr": "psytrainer(solarpinhole)",
+		"price": 417,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_SolarPinhole"
+	},
+	{
+		"abr": "psytrainer(stun)",
+		"price": 417,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Stun"
+	},
+	{
+		"abr": "psytrainer(vertigopulse)",
+		"price": 917,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VertigoPulse"
+	},
+	{
+		"abr": "psytrainer(wallraise)",
+		"price": 1167,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Wallraise"
+	},
+	{
+		"abr": "psytrainer(waterskip)",
+		"price": 667,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Waterskip"
+	},
+	{
+		"abr": "psytrainer(wordofinspiration)",
+		"price": 1417,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_WordOfInspiration"
+	},
+	{
+		"abr": "psytrainer(wordofjoy)",
+		"price": 667,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_WordOfJoy"
+	},
+	{
+		"abr": "psytrainer(wordoflove)",
+		"price": 917,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_WordOfLove"
+	},
+	{
+		"abr": "psytrainer(wordofserenity)",
+		"price": 1167,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_WordOfSerenity"
+	},
+	{
+		"abr": "psytrainer(wordoftrust)",
+		"price": 417,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_WordOfTrust"
+	},
+	{
+		"abr": "reactiveshimmerworms",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Artifact_Royalty_ReactiveWorms"
+	},
+	{
+		"abr": "religioustrinket",
+		"price": 53,
+		"category": "Items of Worship",
+		"defname": "ReligiousTrinket"
+	},
+	{
+		"abr": "reprocessorstomach",
+		"price": 1715,
+		"category": "Bionic",
+		"defname": "ReprocessorStomach"
+	},
+	{
+		"abr": "rockwellb-1lancer",
+		"price": -10,
+		"category": "Buildings",
+		"defname": "B1La"
+	},
+	{
+		"abr": "shamanmask",
+		"price": 101,
+		"category": "Headgear",
+		"defname": "Apparel_WarMaskShaman"
+	},
+	{
+		"abr": "shieldcore",
+		"price": 583,
+		"category": "Items",
+		"defname": "BroadshieldCore"
+	},
+	{
+		"abr": "shiplandingbeacon",
+		"price": 185,
+		"category": "Misc",
+		"defname": "ShipLandingBeacon"
+	},
+	{
+		"abr": "sikorskych-53seastallion",
+		"price": -10,
+		"category": "Buildings",
+		"defname": "CH53a"
+	},
+	{
+		"abr": "sikorskyr-4scouthelicopter",
+		"price": -10,
+		"category": "Buildings",
+		"defname": "SKR4a"
+	},
+	{
+		"abr": "simplealtar",
+		"price": 327,
+		"category": "Furniture",
+		"defname": "Corruption_AltarSimple"
+	},
+	{
+		"abr": "simplerobe",
+		"price": 327,
+		"category": "Apparel",
+		"defname": "Apparel_IoM_Robe"
+	},
+	{
+		"abr": "smallnatureshrine",
+		"price": 592,
+		"category": "Misc",
+		"defname": "NatureShrine_Small"
+	},
+	{
+		"abr": "smallshrine",
+		"price": 167,
+		"category": "Furniture",
+		"defname": "SmallShrine"
+	},
+	{
+		"abr": "spine",
+		"price": 500,
+		"category": "Natural",
+		"defname": "QE_Organ_Spine"
+	},
+	{
+		"abr": "spiritstone",
+		"price": 167,
+		"category": "Archotech",
+		"defname": "SpiritStone"
+	},
+	{
+		"abr": "stelliccrown",
+		"price": 283,
+		"category": "Headgear",
+		"defname": "Apparel_CrownStellic"
+	},
+	{
+		"abr": "stomach",
+		"price": 667,
+		"category": "Natural",
+		"defname": "QE_Organ_Stomach"
+	},
+	{
+		"abr": "stoneskingland",
+		"price": 3200,
+		"category": "Bionic",
+		"defname": "StoneskinGland"
+	},
+	{
+		"abr": "su-15sh",
+		"price": -10,
+		"category": "Buildings",
+		"defname": "SU15a"
+	},
+	{
+		"abr": "sukhoisu-47berkut",
+		"price": -10,
+		"category": "Buildings",
+		"defname": "SU47a"
+	},
+	{
+		"abr": "syntheticmeat",
+		"price": 2,
+		"category": "Meat",
+		"defname": "Meat_QESynthMeat"
+	},
+	{
+		"abr": "techprint(artificialmetabolism)",
+		"price": 3333,
+		"category": "Techprints",
+		"defname": "Techprint_ArtificialMetabolism"
+	},
+	{
+		"abr": "techprint(brainwiring)",
+		"price": 1667,
+		"category": "Techprints",
+		"defname": "Techprint_BrainWiring"
+	},
+	{
+		"abr": "techprint(callidustemple)",
+		"price": 1667,
+		"category": "Techprints",
+		"defname": "Techprint_OG_Assassinorum_Tech_Weapons_Callidus"
+	},
+	{
+		"abr": "techprint(cataphractarmor)",
+		"price": 5000,
+		"category": "Techprints",
+		"defname": "Techprint_CataphractArmor"
+	},
+	{
+		"abr": "techprint(circadianinfluence)",
+		"price": 3333,
+		"category": "Techprints",
+		"defname": "Techprint_CircadianInfluence"
+	},
+	{
+		"abr": "techprint(compactweaponry)",
+		"price": 1667,
+		"category": "Techprints",
+		"defname": "Techprint_CompactWeaponry"
+	},
+	{
+		"abr": "techprint(culexustemple)",
+		"price": 1667,
+		"category": "Techprints",
+		"defname": "Techprint_OG_Assassinorum_Tech_Weapons_Culexus"
+	},
+	{
+		"abr": "techprint(engineeredresistantshellplating)",
+		"price": 5000,
+		"category": "Techprints",
+		"defname": "Techprint_EVOR_Research_Artifact_Tortoise"
+	},
+	{
+		"abr": "techprint(eversortemple)",
+		"price": 1667,
+		"category": "Techprints",
+		"defname": "Techprint_OG_Assassinorum_Tech_Weapons_Eversor"
+	},
+	{
+		"abr": "techprint(fleshshaping)",
+		"price": 3333,
+		"category": "Techprints",
+		"defname": "Techprint_FleshShaping"
+	},
+	{
+		"abr": "techprint(healingfactors)",
+		"price": 3333,
+		"category": "Techprints",
+		"defname": "Techprint_HealingFactors"
+	},
+	{
+		"abr": "techprint(jumppacks)",
+		"price": 3333,
+		"category": "Techprints",
+		"defname": "Techprint_JumpPack"
+	},
+	{
+		"abr": "techprint(molecularanalysis)",
+		"price": 3333,
+		"category": "Techprints",
+		"defname": "Techprint_MolecularAnalysis"
+	},
+	{
+		"abr": "techprint(neuralcomputation)",
+		"price": 3333,
+		"category": "Techprints",
+		"defname": "Techprint_NeuralComputation"
+	},
+	{
+		"abr": "techprint(poisonsynthesis)",
+		"price": 1667,
+		"category": "Techprints",
+		"defname": "Techprint_VenomSynthesis"
+	},
+	{
+		"abr": "techprint(psuedo-invisibilitystudies)",
+		"price": 5000,
+		"category": "Techprints",
+		"defname": "Techprint_EVOR_Research_Artifact_ShimmerWorm"
+	},
+	{
+		"abr": "techprint(psychicareamoodprofileration)",
+		"price": 5000,
+		"category": "Techprints",
+		"defname": "Techprint_EVOR_Research_Artifact_NornCrown"
+	},
+	{
+		"abr": "techprint(skinhardening)",
+		"price": 3333,
+		"category": "Techprints",
+		"defname": "Techprint_SkinHardening"
+	},
+	{
+		"abr": "techprint(specializedlimbs)",
+		"price": 1667,
+		"category": "Techprints",
+		"defname": "Techprint_SpecializedLimbs"
+	},
+	{
+		"abr": "techprint(vindicaretemple)",
+		"price": 1667,
+		"category": "Techprints",
+		"defname": "Techprint_OG_Assassinorum_Tech_Weapons_Vindicare"
+	},
+	{
+		"abr": "techprint(volkitetech)",
+		"price": 1667,
+		"category": "Techprints",
+		"defname": "Techprint_OG_Mechanicus_Tech_Weapons_Volkite"
+	},
+	{
+		"abr": "techprint(weaponizedgermengineering)",
+		"price": 5000,
+		"category": "Techprints",
+		"defname": "Techprint_EVOR_Research_Artifact_Lesions"
+	},
+	{
+		"abr": "thenorncrown",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Artifact_Royalty_NornCrown"
+	},
+	{
+		"abr": "tongue",
+		"price": 167,
+		"category": "Natural",
+		"defname": "QE_Organ_Tongue"
+	},
+	{
+		"abr": "tophat",
+		"price": 203,
+		"category": "Headgear",
+		"defname": "Apparel_HatTop"
+	},
+	{
+		"abr": "toughskingland",
+		"price": 1715,
+		"category": "Bionic",
+		"defname": "ToughskinGland"
+	},
+	{
+		"abr": "túpolevtu-2",
+		"price": -10,
+		"category": "Buildings",
+		"defname": "tu2da"
+	},
+	{
+		"abr": "tupolevtu-95",
+		"price": -10,
+		"category": "Buildings",
+		"defname": "TU95a"
+	},
+	{
+		"abr": "unguided1000lbbomb",
+		"price": 1667,
+		"category": "Mortar shells",
+		"defname": "Shell_1000lb"
+	},
+	{
+		"abr": "unguided120lbbomb",
+		"price": 250,
+		"category": "Mortar shells",
+		"defname": "Shell_120lb"
+	},
+	{
+		"abr": "unguided12000lbbomb",
+		"price": 16667,
+		"category": "Mortar shells",
+		"defname": "Shell_12000lb"
+	},
+	{
+		"abr": "unguided2100lbbomb",
+		"price": 1667,
+		"category": "Mortar shells",
+		"defname": "Shell_2100lb"
+	},
+	{
+		"abr": "unguided220lbbomb",
+		"price": 250,
+		"category": "Mortar shells",
+		"defname": "Shell_220lb"
+	},
+	{
+		"abr": "unguided22000lbbomb",
+		"price": 16667,
+		"category": "Mortar shells",
+		"defname": "Shell_22000lb"
+	},
+	{
+		"abr": "unguided3080lbbomb",
+		"price": 1667,
+		"category": "Mortar shells",
+		"defname": "Shell_3080lb"
+	},
+	{
+		"abr": "unguided350lbbomb",
+		"price": 1667,
+		"category": "Mortar shells",
+		"defname": "Shell_350lb"
+	},
+	{
+		"abr": "unguided40lbbomb",
+		"price": 250,
+		"category": "Mortar shells",
+		"defname": "Shell_40lb"
+	},
+	{
+		"abr": "unguided4000lbbomb",
+		"price": 16667,
+		"category": "Mortar shells",
+		"defname": "Shell_4000lb"
+	},
+	{
+		"abr": "unguided500lbbomb",
+		"price": 1667,
+		"category": "Mortar shells",
+		"defname": "Shell_500lb"
+	},
+	{
+		"abr": "unguided8000lbbomb",
+		"price": 16667,
+		"category": "Mortar shells",
+		"defname": "Shell_8000lb"
+	},
+	{
+		"abr": "unguidedelectromagneticpulsebomb",
+		"price": 2500,
+		"category": "Mortar shells",
+		"defname": "Shell_500lbEMP"
+	},
+	{
+		"abr": "unguidedextinguisherbomb",
+		"price": 2500,
+		"category": "Mortar shells",
+		"defname": "Shell_500lbExtinguish"
+	},
+	{
+		"abr": "unguidedincendiary500lbbomb",
+		"price": 2500,
+		"category": "Mortar shells",
+		"defname": "Shell_500lbNapalm"
+	},
+	{
+		"abr": "unguidedsmokescreenbomb",
+		"price": 2500,
+		"category": "Mortar shells",
+		"defname": "Shell_500lbSmoke"
+	},
+	{
+		"abr": "unstablepowercell",
+		"price": 667,
+		"category": "Special",
+		"defname": "UnstablePowerCell"
+	},
+	{
+		"abr": "venomfangs",
+		"price": 592,
+		"category": "Prosthetic",
+		"defname": "VenomFangs"
+	},
+	{
+		"abr": "venomtalon",
+		"price": 592,
+		"category": "Prosthetic",
+		"defname": "VenomTalon"
+	},
+	{
+		"abr": "wallmountedskull",
+		"price": 1,
+		"category": "Furniture",
+		"defname": "SkullOnWall"
+	},
+	{
+		"abr": "warhammer",
+		"price": 608,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Warhammer"
+	},
+	{
+		"abr": "witchstaffofdoom",
+		"price": 333,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_ForceStaffDoombolt"
+	},
+	{
+		"abr": "witchstaffofmutation",
+		"price": 333,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_ForceStaffMutation"
+	},
+	{
+		"abr": "xianjh-7(flounder)",
+		"price": -10,
+		"category": "Buildings",
+		"defname": "JH7a"
+	},
+	{
+		"abr": "yakovlevyak-41freestyle",
+		"price": -10,
+		"category": "Buildings",
+		"defname": "yak41a"
+	},
+	{
+		"abr": "yakovlevyak-9b",
+		"price": -10,
+		"category": "Buildings",
+		"defname": "YAK9Ba"
+	},
+	{
+		"abr": "zeushammer",
+		"price": 3333,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Zeushammer"
+	},
+	{
+		"abr": "bioship,bottom",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_PurpleShipChunkBottom"
+	},
+	{
+		"abr": "bioship,bottomalternate",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_PurpleShipChunkBottomPointy"
+	},
+	{
+		"abr": "bioship,sideleft",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_PurpleShipChunkSideLeft"
+	},
+	{
+		"abr": "bioship,sideright",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_PurpleShipChunkSideRight"
+	},
+	{
+		"abr": "bioship,top",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_PurpleShipChunkTop"
+	},
+	{
+		"abr": "bioship,topleft",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_PurpleShipChunkTopLeft"
+	},
+	{
+		"abr": "bioship,topright",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_PurpleShipChunkTopRight"
+	},
+	{
+		"abr": "bioship,wingleft",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_PurpleShipChunkWingLeft"
+	},
+	{
+		"abr": "bioship,wingright",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_PurpleShipChunkWingRight"
+	},
+	{
+		"abr": "hugecapturedasteroid,bottom",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_HugeAsteroidBottom"
+	},
+	{
+		"abr": "hugecapturedasteroid,left",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_HugeAsteroidLeft"
+	},
+	{
+		"abr": "hugecapturedasteroid,right",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_HugeAsteroidRight"
+	},
+	{
+		"abr": "hugecapturedasteroid,top",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_HugeAsteroidTop"
+	},
+	{
+		"abr": "imperialescortship,bottom",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_BlueShipChunkBottom"
+	},
+	{
+		"abr": "imperialescortship,leftside",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_BlueShipChunkSideLeft"
+	},
+	{
+		"abr": "imperialescortship,rightside",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_BlueShipChunkSideRight"
+	},
+	{
+		"abr": "imperialescortship,roundcore",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_BlueShipChunkRound"
+	},
+	{
+		"abr": "imperialescortship,roundsideleft",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_BlueShipChunkRoundSideLeft"
+	},
+	{
+		"abr": "imperialescortship,roundsideright",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_BlueShipChunkRoundSideRight"
+	},
+	{
+		"abr": "imperialescortship,smallleftside",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_BlueShipChunkSmallSideLeft"
+	},
+	{
+		"abr": "imperialescortship,smallrightside",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_BlueShipChunkSmallSideRight"
+	},
+	{
+		"abr": "imperialescortship,smallwingleft",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_BlueShipChunkSmallWingLeft"
+	},
+	{
+		"abr": "imperialescortship,smallwingright",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_BlueShipChunkSmallWingRight"
+	},
+	{
+		"abr": "imperialescortship,top",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_BlueShipChunkTop"
+	},
+	{
+		"abr": "imperialescortship,topalternate",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_BlueShipChunkTopAlternate"
+	},
+	{
+		"abr": "imperialescortship,toplarge",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_BlueShipChunkTopPointy"
+	},
+	{
+		"abr": "imperialescortship,topnarrowantennas",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_BlueShipChunkTopAntennasNarrow"
+	},
+	{
+		"abr": "imperialescortship,topwithantennas",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_BlueShipChunkTopAntennas"
+	},
+	{
+		"abr": "imperialescortship,widebottom",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_BlueShipChunkBottomAlternate"
+	},
+	{
+		"abr": "imperialescortship,wingleft",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_BlueShipChunkWingLeft"
+	},
+	{
+		"abr": "imperialescortship,wingright",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_BlueShipChunkWingRight"
+	},
+	{
+		"abr": "mechanoidship,bottom",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_MechanoidShipBottom"
+	},
+	{
+		"abr": "mechanoidship,bottomalternate",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_MechanoidShipBottomLong"
+	},
+	{
+		"abr": "mechanoidship,sideleft",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_MechanoidSideLeft"
+	},
+	{
+		"abr": "mechanoidship,sideright",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_MechanoidSideRight"
+	},
+	{
+		"abr": "mechanoidship,tankleft",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_MechanoidTankLeft"
+	},
+	{
+		"abr": "mechanoidship,tankright",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_MechanoidTankRight"
+	},
+	{
+		"abr": "mechanoidship,top",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_MechanoidShipTop"
+	},
+	{
+		"abr": "mechanoidship,wingleft",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_MechanoidWingLeft"
+	},
+	{
+		"abr": "mechanoidship,wingright",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_MechanoidWingRight"
+	},
+	{
+		"abr": "mediumcapturedasteroid,bottom",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_AsteroidChunkBigBottom"
+	},
+	{
+		"abr": "mediumcapturedasteroid,left",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_AsteroidChunkBigSide"
+	},
+	{
+		"abr": "mediumcapturedasteroid,right",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_AsteroidChunkBigReactors"
+	},
+	{
+		"abr": "mediumcapturedasteroid,top",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_AsteroidChunkBigTop"
+	},
+	{
+		"abr": "pirateship,bottom",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_GreyShipChunkBottom"
+	},
+	{
+		"abr": "pirateship,largewingleft",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_GreyShipChukWingAlternateLeft"
+	},
+	{
+		"abr": "pirateship,largewingright",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_GreyShipChukWingAlternateRight"
+	},
+	{
+		"abr": "pirateship,sideleft",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_GreyShipChunkSideLeft"
+	},
+	{
+		"abr": "pirateship,sideright",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_GreyShipChunkSideRight"
+	},
+	{
+		"abr": "pirateship,top",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_GreyShipChunkTop"
+	},
+	{
+		"abr": "pirateship,toplarge",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_GreyShipChunkTopPointy"
+	},
+	{
+		"abr": "pirateship,wingleft",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_GreyShipChukWingLeft"
+	},
+	{
+		"abr": "pirateship,wingright",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_GreyShipChukWingRight"
+	},
+	{
+		"abr": "smallcapturedasteroid,bottom",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_AsteroidChunkDown"
+	},
+	{
+		"abr": "smallcapturedasteroid,left",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_AsteroidChunkLeft"
+	},
+	{
+		"abr": "smallcapturedasteroid,right",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_AsteroidChunkReactor"
+	},
+	{
+		"abr": "smallcapturedasteroid,top",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_AsteroidChunkTop"
+	},
+	{
+		"abr": "tradeship,bottom",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_OrangeShipBottom"
+	},
+	{
+		"abr": "tradeship,bottomalternate",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_OrangeShipBottomAlternate"
+	},
+	{
+		"abr": "tradeship,sideleft",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_OrangeShipLeft"
+	},
+	{
+		"abr": "tradeship,sideright",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_OrangeShipRight"
+	},
+	{
+		"abr": "tradeship,tanksleft",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_OrangeShipTanksLeft"
+	},
+	{
+		"abr": "tradeship,tanksright",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_OrangeShipTanksRight"
+	},
+	{
+		"abr": "tradeship,top",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_OrangeShipTop"
+	},
+	{
+		"abr": "vanometricfoodprocessor",
+		"price": 2500,
+		"category": "Special",
+		"defname": "AS_VanometricFoodProcessor"
+	},
+	{
+		"abr": "vanometricheatsink",
+		"price": 1483,
+		"category": "Misc",
+		"defname": "AS_ArchotechHeatsink"
+	},
 	],
-	"total": 3193
+	"total": 2996
 }
