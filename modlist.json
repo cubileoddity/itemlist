@@ -192,6 +192,18 @@
     "version": null
   },
   {
+    "author": "ChJees",
+    "name": "Androids",
+    "steamId": "1541064015",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "HorribleNerd",
+    "name": "Androids SOS2 Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "cucumpear",
     "name": "Animal Flap Speed Fix",
     "steamId": null,
@@ -220,6 +232,36 @@
     "name": "Apparel Tainted Only When Corpse Rots",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Peptide",
+    "name": "Androids Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Coldzero",
+    "name": "Archotech Droids (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "pelador",
+    "name": "Proximity (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "MrKociak",
+    "name": "More Archotech Garbage Reupload",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "此生无悔入东方",
+    "name": "Archotech Droids Remake",
+    "steamId": "2869460737",
+    "version": "1.0.0.0"
   },
   {
     "author": "Teok25",
@@ -267,7 +309,7 @@
     "author": "Dylan",
     "name": "Children, school and learning",
     "steamId": "1541438230",
-    "version": "1.7.4.0"
+    "version": "1.7.4.2"
   },
   {
     "author": "Thirite,  Cheran,  Jarry1250,  lellel,  Kori,  Zach and  cometopapa",
@@ -306,16 +348,46 @@
     "version": null
   },
   {
+    "author": "Scorpio and  Taranchuk",
+    "name": "Beyond Biosculpting",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Inglix",
+    "name": "Faster Biosculpter Pod",
+    "steamId": "2576257954",
+    "version": "2.8.2.0"
+  },
+  {
+    "author": "Waether",
+    "name": "BioSculptingPlus",
+    "steamId": "2577455618",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "m00nl1ght-dev",
     "name": "Geological Landforms",
     "steamId": "2773943594",
-    "version": "1.4.4.0"
+    "version": "1.4.5.0"
   },
   {
     "author": "m00nl1ght-dev",
     "name": "Biome Transitions",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "The Biomes Mod Team",
+    "name": "Biomes! Core",
+    "steamId": "2038000893",
+    "version": "1.3.60.5"
+  },
+  {
+    "author": "The Biomes Mod Team",
+    "name": "Biomes! Prehistoric",
+    "steamId": "2860715703",
+    "version": "1.0.0.0"
   },
   {
     "author": "FrozenSnowFox",
@@ -326,12 +398,6 @@
   {
     "author": "AUTOMATIC",
     "name": "Bionic icons",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Patricia?!",
-    "name": "Blackhole Industries",
     "steamId": null,
     "version": null
   },
@@ -492,6 +558,36 @@
     "version": null
   },
   {
+    "author": "Kikohi and  Trunken",
+    "name": "Cybernetic Organism and Neural Network",
+    "steamId": "2045064990",
+    "version": "2.0.1.0"
+  },
+  {
+    "author": "Oskar Potocki and  Kikohi",
+    "name": "Vanilla Storytellers Expanded - Winston Waves",
+    "steamId": "2734032569",
+    "version": "1.0.2.2"
+  },
+  {
+    "author": "Imranfish",
+    "name": "XML Extensions",
+    "steamId": "2574315206",
+    "version": "1.6.6"
+  },
+  {
+    "author": "Victorique,  Aurani and  Tarojun",
+    "name": "Expanded Prosthetics and Organ Engineering - Forked",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mythos",
+    "name": "Diseases Overhauled",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "gguake",
     "name": "Do Something for Idle",
     "steamId": "1896806569",
@@ -564,6 +660,12 @@
     "version": null
   },
   {
+    "author": "Mlie",
+    "name": "Enter Here",
+    "steamId": "2824117092",
+    "version": "1.3.4"
+  },
+  {
     "author": "NetzachSloth",
     "name": "Eternal Youth Implant",
     "steamId": null,
@@ -576,34 +678,10 @@
     "version": "2.0.1"
   },
   {
-    "author": "Kikohi and  Trunken",
-    "name": "Cybernetic Organism and Neural Network",
-    "steamId": "2045064990",
-    "version": "2.0.1.0"
-  },
-  {
-    "author": "Imranfish",
-    "name": "XML Extensions",
-    "steamId": "2574315206",
-    "version": "1.6.6"
-  },
-  {
-    "author": "Victorique,  Aurani and  Tarojun",
-    "name": "Expanded Prosthetics and Organ Engineering - Forked",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "GoatBoy",
     "name": "Fallout OST",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Inglix",
-    "name": "Faster Biosculpter Pod",
-    "steamId": "2576257954",
-    "version": "2.8.2.0"
   },
   {
     "author": "cns",
@@ -732,6 +810,12 @@
     "version": null
   },
   {
+    "author": "Mlie",
+    "name": "Just Put It Over There",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "dhultgren",
     "name": "Keep Bed Ownership",
     "steamId": null,
@@ -780,6 +864,12 @@
     "version": "2.5.0.0"
   },
   {
+    "author": "Scorpio and  Taranchuk",
+    "name": "Make Anything Craftable",
+    "steamId": "2802770242",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "UnlimitedHugs",
     "name": "Map Reroll",
     "steamId": null,
@@ -790,6 +880,12 @@
     "name": "Mass Graves",
     "steamId": "1542386771",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "mod5s",
+    "name": "Matter Manipulator",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "sumghai",
@@ -870,12 +966,6 @@
     "version": null
   },
   {
-    "author": "Londo Mollari",
-    "name": "More Hull Corners",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki,  XeoNovaDan,  Orion,  Kikohi,  Taranchuk,  Sarg Bjornson and  Erdelf",
     "name": "Vanilla Expanded Framework",
     "steamId": "2023507013",
@@ -942,10 +1032,22 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Oskar Potocki and  Smash Phil",
+    "name": "Vanilla Achievements Expanded",
+    "steamId": "2288125657",
+    "version": "1.3.7862.41411"
+  },
+  {
+    "author": "erdelf,  Oskar Potocki,  legodude17,  Taranchuk,  xrushha,  Sarg Bjornson,  Sir Van and  Reann Shepard",
+    "name": "Vanilla Psycasts Expanded",
+    "steamId": "2842502659",
+    "version": "1.1.0.0"
+  },
+  {
     "author": "Sarg Bjornson and  AFriend",
     "name": "Alpha Animals",
     "steamId": "1541721856",
-    "version": "1.3.7862.41411"
+    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki and  Taranchuk",
@@ -1002,6 +1104,12 @@
     "version": null
   },
   {
+    "author": "Patricia?!",
+    "name": "Patricias Blackhole Industries",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Jaxe",
     "name": "Pawn Rules",
     "steamId": "1499843448",
@@ -1028,6 +1136,12 @@
   {
     "author": "LingLuo;Alexia",
     "name": "Plant Human",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Meltup",
+    "name": "Polyamory Beds (Vanilla Edition)",
     "steamId": null,
     "version": null
   },
@@ -1107,7 +1221,7 @@
     "author": "KongMD",
     "name": "Questionable Ethics Enhanced (Continued)",
     "steamId": "2850854272",
-    "version": "1.3.1"
+    "version": "1.3.5"
   },
   {
     "author": "spoonshortage",
@@ -1299,7 +1413,7 @@
     "author": "telardo",
     "name": "Romance On The Rim",
     "steamId": "2654432921",
-    "version": "1.1.1.0"
+    "version": "1.2.1.0"
   },
   {
     "author": "Uuugggg",
@@ -1350,6 +1464,18 @@
     "version": null
   },
   {
+    "author": "Syrchalis",
+    "name": "[SYR] Trait Value",
+    "steamId": "2451324814",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "MagicHp",
+    "name": "SYR Trait Value Compatibility Patches",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Paraworld",
     "name": "Save Our Ship 2 - Not Anty Ships",
     "steamId": null,
@@ -1358,6 +1484,12 @@
   {
     "author": "NetzachSloth",
     "name": "Save our Ship - Archotech Expanded Prosthetics Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "explodoboy",
+    "name": "Science Never Stops: Ambition of the Cosmic",
     "steamId": null,
     "version": null
   },
@@ -1446,8 +1578,20 @@
     "version": null
   },
   {
+    "author": "Kikohi and  MarvinKosh",
+    "name": "Sometimes Raids Go Wrong - Forked",
+    "steamId": "",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Indeed",
     "name": "Stack XXL",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dazz Aephiex",
+    "name": "Static Market Price (Continued)",
     "steamId": null,
     "version": null
   },
@@ -1470,10 +1614,22 @@
     "version": "1.1.0.0"
   },
   {
+    "author": "BeanCanDev",
+    "name": "Stupid Modifiers",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Murmur",
     "name": "Subsurface Conduit",
     "steamId": "1609226728",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "MrRavenFace",
+    "name": "Super Humans",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "DanDMan68",
@@ -1488,10 +1644,10 @@
     "version": null
   },
   {
-    "author": "GHXX",
-    "name": "Tech Advancing",
-    "steamId": "735268789",
-    "version": "1.0.0.0"
+    "author": "Neronix17",
+    "name": "Tech Traversal",
+    "steamId": "2820526947",
+    "version": "1.0.8203.25984"
   },
   {
     "author": "Murmur",
@@ -1551,7 +1707,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.2.1.0"
+    "version": "6.2.1.3"
   },
   {
     "author": "saschahi",
@@ -1922,6 +2078,12 @@
   {
     "author": "PrivateGER",
     "name": "[1.3] Nukes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "いのしし_3",
+    "name": "[Androids] - Upscaled",
     "steamId": null,
     "version": null
   },
