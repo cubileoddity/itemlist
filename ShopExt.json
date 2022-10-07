@@ -8996,7 +8996,7 @@
       },
       "description": "A race of humanlike robots which are mostly female in model variety.\n\nThe origins of these machines are mostly unknown. Some speculate they are escapees from a civilization which used them for labor and some just suggest they are outdated pleasure machines which got dumped by a passing space freighter.\n\nBy design by their previous masters they are weak physically but their raw fortitude is enough to make up for it. Beware of their biological reactor and capacitors violently exploding, if they die by overheating.",
       "defName": "ChjAndroid",
-      "enabled": true,
+      "enabled": false,
       "name": "Android",
       "price": 2500
     },
@@ -9029,7 +9029,7 @@
       },
       "description": "A race of rudimentary humanlike worker robots.\n\nUsually found toiling around in colonies around the rim which got a resident tinkerer.\n\nNot capable of sapience, however their relative cheap cost and ability to work around the clock make them valuable workers.",
       "defName": "ChjDroid",
-      "enabled": true,
+      "enabled": false,
       "name": "Droid",
       "price": 1417
     },
@@ -9063,7 +9063,7 @@
       },
       "description": "A race of rudimentary humanlike warrior robots.\n\nUsually found guarding the homes of the wealthy and offices of mega corporations. They show no mercy upon targets who fail to identify themselves. Are traditionally armed with miniguns and core launchers.",
       "defName": "ChjBattleDroid",
-      "enabled": true,
+      "enabled": false,
       "name": "Battle droid",
       "price": 3167
     },
@@ -9098,7 +9098,7 @@
       },
       "description": "A race of spacer-tech humanlike worker robots.\n\nUsually found toiling around in colonies around the rim which got a resident tinkerer.Not capable of sapience making them perfect for colony tasks. \n\nAdvanced droids are much better than their outdated models in every way. \n\nDroids are not born and must be created.",
       "defName": "ChjSpacerDroid",
-      "enabled": true,
+      "enabled": false,
       "name": "Advanced droid",
       "price": 2750
     },
@@ -9133,7 +9133,7 @@
       },
       "description": "A race of spacer-tech humanlike warrior robots.\n\nInstalled into military bases and highly sensitive areas. They show no mercy upon targets who fail to identify themselves. Are traditionally armed with miniguns and core launchers.\n\nAdvanced droids are much better than their outdated models in every way. Wardroids possess four arms, each of which is highly deadly. Humans beware: bring an army to defeat this model.\n\nDroids are not born and must be created.",
       "defName": "ChjSpacerBattleDroid",
-      "enabled": true,
+      "enabled": false,
       "name": "Wardroid",
       "price": 5833
     },
@@ -9171,7 +9171,7 @@
       },
       "description": "Small drone constructed of simple materials built in short time. This device is masterful in building & mining, but is unable to do much else. Cannot fight.",
       "defName": "NEngiDrone",
-      "enabled": true,
+      "enabled": false,
       "name": "engineer",
       "price": 667
     },
@@ -9208,7 +9208,7 @@
       },
       "description": "Small drone constructed of simple materials built in short time. This device is masterful in tasks relating to food & farming. It's designed to ensure everyone is fed and the kitchen is stocked.\n\nThis drone is unable to do combat nor any other skilled jobs.",
       "defName": "NChefDrone",
-      "enabled": true,
+      "enabled": false,
       "name": "chef",
       "price": 667
     },
@@ -9246,7 +9246,7 @@
       },
       "description": "Small drone constructed of simple materials built in short time. This drone is highly capable in medicine, and is able to take care of most typical injuries.",
       "defName": "NMedicDrone",
-      "enabled": true,
+      "enabled": false,
       "name": "medic",
       "price": 1100
     },
@@ -9291,7 +9291,7 @@
       },
       "description": "A race of archotech humanlike worker robots.\n\nUsually found toiling around in colonies around the rim which got archotech level tech. Capable of sentience to a degree, allowing them to research, train animals and even speak though they will not benefit from conversation. \n\nArchodroids are at their peak, outperforming even humans. \n\nDroids are not born and must be created.",
       "defName": "ChjArchDroid",
-      "enabled": true,
+      "enabled": false,
       "name": "ArchoDroid",
       "price": 50000
     },
@@ -9327,7 +9327,7 @@
       },
       "description": "A race of archotech humanlike warrior robots.\n\nInstalled into military bases and highly sensitive areas. They show no mercy upon targets who fail to identify themselves and are traditionally armed with miniguns and core launchers.\n\nDestroyers are at their peak in power and defensive capabilities. Destroyers possess four arms, each of which is highly deadly. Humans beware: bring an army to defeat this model.\n\nDroids are not born and must be created.",
       "defName": "ChjArchBattleDroid",
-      "enabled": true,
+      "enabled": false,
       "name": "Destroyer",
       "price": 166667
     }

@@ -16196,7 +16196,7 @@
 	},
 	{
 		"abr": "angelicsculpture",
-		"price": 633,
+		"price": -10,
 		"category": "Art",
 		"defname": "SculptureAngel"
 	},
@@ -17390,385 +17390,385 @@
 	},
 	{
 		"abr": "bioship,bottom",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_PurpleShipChunkBottom"
 	},
 	{
 		"abr": "bioship,bottomalternate",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_PurpleShipChunkBottomPointy"
 	},
 	{
 		"abr": "bioship,sideleft",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_PurpleShipChunkSideLeft"
 	},
 	{
 		"abr": "bioship,sideright",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_PurpleShipChunkSideRight"
 	},
 	{
 		"abr": "bioship,top",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_PurpleShipChunkTop"
 	},
 	{
 		"abr": "bioship,topleft",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_PurpleShipChunkTopLeft"
 	},
 	{
 		"abr": "bioship,topright",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_PurpleShipChunkTopRight"
 	},
 	{
 		"abr": "bioship,wingleft",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_PurpleShipChunkWingLeft"
 	},
 	{
 		"abr": "bioship,wingright",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_PurpleShipChunkWingRight"
 	},
 	{
 		"abr": "hugecapturedasteroid,bottom",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_HugeAsteroidBottom"
 	},
 	{
 		"abr": "hugecapturedasteroid,left",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_HugeAsteroidLeft"
 	},
 	{
 		"abr": "hugecapturedasteroid,right",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_HugeAsteroidRight"
 	},
 	{
 		"abr": "hugecapturedasteroid,top",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_HugeAsteroidTop"
 	},
 	{
 		"abr": "imperialescortship,bottom",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_BlueShipChunkBottom"
 	},
 	{
 		"abr": "imperialescortship,leftside",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_BlueShipChunkSideLeft"
 	},
 	{
 		"abr": "imperialescortship,rightside",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_BlueShipChunkSideRight"
 	},
 	{
 		"abr": "imperialescortship,roundcore",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_BlueShipChunkRound"
 	},
 	{
 		"abr": "imperialescortship,roundsideleft",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_BlueShipChunkRoundSideLeft"
 	},
 	{
 		"abr": "imperialescortship,roundsideright",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_BlueShipChunkRoundSideRight"
 	},
 	{
 		"abr": "imperialescortship,smallleftside",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_BlueShipChunkSmallSideLeft"
 	},
 	{
 		"abr": "imperialescortship,smallrightside",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_BlueShipChunkSmallSideRight"
 	},
 	{
 		"abr": "imperialescortship,smallwingleft",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_BlueShipChunkSmallWingLeft"
 	},
 	{
 		"abr": "imperialescortship,smallwingright",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_BlueShipChunkSmallWingRight"
 	},
 	{
 		"abr": "imperialescortship,top",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_BlueShipChunkTop"
 	},
 	{
 		"abr": "imperialescortship,topalternate",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_BlueShipChunkTopAlternate"
 	},
 	{
 		"abr": "imperialescortship,toplarge",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_BlueShipChunkTopPointy"
 	},
 	{
 		"abr": "imperialescortship,topnarrowantennas",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_BlueShipChunkTopAntennasNarrow"
 	},
 	{
 		"abr": "imperialescortship,topwithantennas",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_BlueShipChunkTopAntennas"
 	},
 	{
 		"abr": "imperialescortship,widebottom",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_BlueShipChunkBottomAlternate"
 	},
 	{
 		"abr": "imperialescortship,wingleft",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_BlueShipChunkWingLeft"
 	},
 	{
 		"abr": "imperialescortship,wingright",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_BlueShipChunkWingRight"
 	},
 	{
 		"abr": "mechanoidship,bottom",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_MechanoidShipBottom"
 	},
 	{
 		"abr": "mechanoidship,bottomalternate",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_MechanoidShipBottomLong"
 	},
 	{
 		"abr": "mechanoidship,sideleft",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_MechanoidSideLeft"
 	},
 	{
 		"abr": "mechanoidship,sideright",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_MechanoidSideRight"
 	},
 	{
 		"abr": "mechanoidship,tankleft",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_MechanoidTankLeft"
 	},
 	{
 		"abr": "mechanoidship,tankright",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_MechanoidTankRight"
 	},
 	{
 		"abr": "mechanoidship,top",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_MechanoidShipTop"
 	},
 	{
 		"abr": "mechanoidship,wingleft",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_MechanoidWingLeft"
 	},
 	{
 		"abr": "mechanoidship,wingright",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_MechanoidWingRight"
 	},
 	{
 		"abr": "mediumcapturedasteroid,bottom",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_AsteroidChunkBigBottom"
 	},
 	{
 		"abr": "mediumcapturedasteroid,left",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_AsteroidChunkBigSide"
 	},
 	{
 		"abr": "mediumcapturedasteroid,right",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_AsteroidChunkBigReactors"
 	},
 	{
 		"abr": "mediumcapturedasteroid,top",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_AsteroidChunkBigTop"
 	},
 	{
 		"abr": "pirateship,bottom",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_GreyShipChunkBottom"
 	},
 	{
 		"abr": "pirateship,largewingleft",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_GreyShipChukWingAlternateLeft"
 	},
 	{
 		"abr": "pirateship,largewingright",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_GreyShipChukWingAlternateRight"
 	},
 	{
 		"abr": "pirateship,sideleft",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_GreyShipChunkSideLeft"
 	},
 	{
 		"abr": "pirateship,sideright",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_GreyShipChunkSideRight"
 	},
 	{
 		"abr": "pirateship,top",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_GreyShipChunkTop"
 	},
 	{
 		"abr": "pirateship,toplarge",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_GreyShipChunkTopPointy"
 	},
 	{
 		"abr": "pirateship,wingleft",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_GreyShipChukWingLeft"
 	},
 	{
 		"abr": "pirateship,wingright",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_GreyShipChukWingRight"
 	},
 	{
 		"abr": "smallcapturedasteroid,bottom",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_AsteroidChunkDown"
 	},
 	{
 		"abr": "smallcapturedasteroid,left",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_AsteroidChunkLeft"
 	},
 	{
 		"abr": "smallcapturedasteroid,right",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_AsteroidChunkReactor"
 	},
 	{
 		"abr": "smallcapturedasteroid,top",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_AsteroidChunkTop"
 	},
 	{
 		"abr": "tradeship,bottom",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_OrangeShipBottom"
 	},
 	{
 		"abr": "tradeship,bottomalternate",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_OrangeShipBottomAlternate"
 	},
 	{
 		"abr": "tradeship,sideleft",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_OrangeShipLeft"
 	},
 	{
 		"abr": "tradeship,sideright",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_OrangeShipRight"
 	},
 	{
 		"abr": "tradeship,tanksleft",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_OrangeShipTanksLeft"
 	},
 	{
 		"abr": "tradeship,tanksright",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_OrangeShipTanksRight"
 	},
 	{
 		"abr": "tradeship,top",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_OrangeShipTop"
 	},
@@ -18848,7 +18848,7 @@
 	},
 	{
 		"abr": "superhuman",
-		"price": 9100,
+		"price": -10,
 		"category": "Animal",
 		"defname": "SuperHuman"
 	},
@@ -18878,7 +18878,7 @@
 	},
 	{
 		"abr": "android",
-		"price": 2500,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ChjAndroid"
 	},
@@ -18908,7 +18908,7 @@
 	},
 	{
 		"abr": "battledroid",
-		"price": 3167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ChjBattleDroid"
 	},
@@ -18932,7 +18932,7 @@
 	},
 	{
 		"abr": "droid",
-		"price": 1417,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ChjDroid"
 	},
@@ -19034,7 +19034,7 @@
 	},
 	{
 		"abr": "advanceddroid",
-		"price": 2750,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ChjSpacerDroid"
 	},
@@ -19094,7 +19094,7 @@
 	},
 	{
 		"abr": "archodroid",
-		"price": 50000,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ChjArchDroid"
 	},
@@ -19322,7 +19322,7 @@
 	},
 	{
 		"abr": "chef",
-		"price": 667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "NChefDrone"
 	},
@@ -19580,7 +19580,7 @@
 	},
 	{
 		"abr": "destroyer",
-		"price": 166667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ChjArchBattleDroid"
 	},
@@ -19598,7 +19598,7 @@
 	},
 	{
 		"abr": "engineer",
-		"price": 667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "NEngiDrone"
 	},
@@ -19892,7 +19892,7 @@
 	},
 	{
 		"abr": "medic",
-		"price": 1100,
+		"price": -10,
 		"category": "Animal",
 		"defname": "NMedicDrone"
 	},
@@ -21419,7 +21419,487 @@
 		"price": 2833,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_VPE_Wallraise"
+	},
+	{
+		"abr": "psytrainer(waterskip)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Waterskip"
+	},
+	{
+		"abr": "psytrainer(webslinging)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_AAVPE_WebSlinging"
+	},
+	{
+		"abr": "psytrainer(wordofalliance)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_WordofAlliance"
+	},
+	{
+		"abr": "psytrainer(wordofanimals)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_WordofAnimals"
+	},
+	{
+		"abr": "psytrainer(wordoffear)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_WordofFear"
+	},
+	{
+		"abr": "psytrainer(wordofforetelling)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_WordofForetelling"
+	},
+	{
+		"abr": "psytrainer(wordofhealing)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_WordofHealing"
+	},
+	{
+		"abr": "psytrainer(wordofimmunity)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_WordofImmunity"
+	},
+	{
+		"abr": "psytrainer(wordofinspiration)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_WordofInspiration"
+	},
+	{
+		"abr": "psytrainer(wordofjoy)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_WordofJoy"
+	},
+	{
+		"abr": "psytrainer(wordoflove)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_WordofLove"
+	},
+	{
+		"abr": "psytrainer(wordofpain)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_WordofPain"
+	},
+	{
+		"abr": "psytrainer(wordofproductivity)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_WordofProductivity"
+	},
+	{
+		"abr": "psytrainer(wordofprogress)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_WordofProgress"
+	},
+	{
+		"abr": "psytrainer(wordofprotection)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_WordofProtection"
+	},
+	{
+		"abr": "psytrainer(wordofserenity)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_WordofSerenity"
+	},
+	{
+		"abr": "psytrainer(wordoftrust)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_WordofTrust"
+	},
+	{
+		"abr": "rockconstruct",
+		"price": 250,
+		"category": "Animals",
+		"defname": "VPE_RockConstruct"
+	},
+	{
+		"abr": "skeleton",
+		"price": 250,
+		"category": "Animals",
+		"defname": "VPE_SummonedSkeleton"
+	},
+	{
+		"abr": "steelconstruct",
+		"price": 250,
+		"category": "Animals",
+		"defname": "VPE_SteelConstruct"
+	},
+	{
+		"abr": "summonedblackqueen",
+		"price": 2500,
+		"category": "Animals",
+		"defname": "AAVPE_BlackQueen"
+	},
+	{
+		"abr": "summonedblackscarab",
+		"price": 250,
+		"category": "Animals",
+		"defname": "AA_BlackScarab_Temporary"
+	},
+	{
+		"abr": "summonedblackspelopede",
+		"price": 417,
+		"category": "Animals",
+		"defname": "AA_BlackSpelopede_Temporary"
+	},
+	{
+		"abr": "summonedblackspider",
+		"price": 917,
+		"category": "Animals",
+		"defname": "AA_BlackSpider_Temporary"
+	},
+	{
+		"abr": "summonedeyeling",
+		"price": 167,
+		"category": "Animals",
+		"defname": "AA_Summoned_Eyeling"
+	},
+	{
+		"abr": "summonedmammothworm",
+		"price": 1000,
+		"category": "Animals",
+		"defname": "AA_MammothWorm_Temporary"
+	},
+	{
+		"abr": "tranquiazepin",
+		"price": 43,
+		"category": "Drugs",
+		"defname": "Tranquiazepin"
+	},
+	{
+		"abr": "tritoxylon",
+		"price": 39,
+		"category": "Drugs",
+		"defname": "Tritoxylon"
+	},
+	{
+		"abr": "vegetablebroth",
+		"price": 12,
+		"category": "Drugs",
+		"defname": "VegetableBroth"
+	},
+	{
+		"abr": "wannanosaurus",
+		"price": 167,
+		"category": "Animals",
+		"defname": "BMT_Wannanosaurus"
+	},
+	{
+		"abr": "wannanosaurusegg(fert.)",
+		"price": 117,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_WannanosaurusEggFertilized"
+	},
+	{
+		"abr": "wardroid",
+		"price": -10,
+		"category": "Animal",
+		"defname": "ChjSpacerBattleDroid"
+	},
+	{
+		"abr": "wardroidassemblykit",
+		"price": 5667,
+		"category": "Items",
+		"defname": "NWardroidKit"
+	},
+	{
+		"abr": "yinlong",
+		"price": 167,
+		"category": "Animals",
+		"defname": "BMT_Yinlong"
+	},
+	{
+		"abr": "yinlongegg(fert.)",
+		"price": 83,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_YinlongEggFertilized"
+	},
+	{
+		"abr": "youthserum",
+		"price": 2333,
+		"category": "Items",
+		"defname": "SRGWF_MechSerumYouth"
+	},
+	{
+		"abr": "yutyrannus",
+		"price": 3333,
+		"category": "Animals",
+		"defname": "BMT_Yutyrannus"
+	},
+	{
+		"abr": "yutyrannusegg(fert.)",
+		"price": 105,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_YutyrannusEggFertilized"
+	},
+	{
+		"abr": "almonds",
+		"price": 2,
+		"category": "Raw fruits",
+		"defname": "VCE_RawAlmonds"
+	},
+	{
+		"abr": "apples",
+		"price": 2,
+		"category": "Raw fruits",
+		"defname": "VCE_RawApple"
+	},
+	{
+		"abr": "avocados",
+		"price": 2,
+		"category": "Raw fruits",
+		"defname": "VCE_RawAvocado"
+	},
+	{
+		"abr": "bananas",
+		"price": 2,
+		"category": "Raw fruits",
+		"defname": "VCE_RawBanana"
+	},
+	{
+		"abr": "bearberries",
+		"price": 2,
+		"category": "Raw fruits",
+		"defname": "VCE_Bearberry"
+	},
+	{
+		"abr": "beets",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawBeets"
+	},
+	{
+		"abr": "brusselssprouts",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawBrusselsSprouts"
+	},
+	{
+		"abr": "buckwheat",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawBuckwheat"
+	},
+	{
+		"abr": "butternutsquashes",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawButternutSquash"
+	},
+	{
+		"abr": "cabbages",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawCabbage"
+	},
+	{
+		"abr": "canolaflowers",
+		"price": 3,
+		"category": "Plant matter",
+		"defname": "VCE_RawCanola"
+	},
+	{
+		"abr": "carrots",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawCarrot"
+	},
+	{
+		"abr": "cassavas",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawCassava"
+	},
+	{
+		"abr": "cavemoss",
+		"price": 1,
+		"category": "Foods",
+		"defname": "VCE_RawMoss"
+	},
+	{
+		"abr": "celery",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawCelery"
+	},
+	{
+		"abr": "cherries",
+		"price": 2,
+		"category": "Raw fruits",
+		"defname": "VCE_RawCherry"
+	},
+	{
+		"abr": "chickpeas",
+		"price": 0,
+		"category": "Vegetarian",
+		"defname": "VCE_RawChickpeas"
+	},
+	{
+		"abr": "cleaner",
+		"price": 84,
+		"category": "Drugs",
+		"defname": "FPC_Cleaner"
+	},
+	{
+		"abr": "coconuts",
+		"price": 2,
+		"category": "Raw fruits",
+		"defname": "VCE_RawCoconut"
+	},
+	{
+		"abr": "crudeemetic",
+		"price": 37,
+		"category": "Drugs",
+		"defname": "FPC_CrudeEmetic"
+	},
+	{
+		"abr": "cucumbers",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawCucumber"
+	},
+	{
+		"abr": "eggplants",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawEggplant"
+	},
+	{
+		"abr": "garliccloves",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawGarlic"
+	},
+	{
+		"abr": "greenbeans",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawBeans"
+	},
+	{
+		"abr": "lettuce",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawLettuce"
+	},
+	{
+		"abr": "lotusseeds",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawLotus"
+	},
+	{
+		"abr": "mangoes",
+		"price": 2,
+		"category": "Raw fruits",
+		"defname": "VCE_Mangoes"
+	},
+	{
+		"abr": "melons",
+		"price": 2,
+		"category": "Raw fruits",
+		"defname": "VCE_RawMelon"
+	},
+	{
+		"abr": "okra",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawOkra"
+	},
+	{
+		"abr": "olives",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawOlives"
+	},
+	{
+		"abr": "onions",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawOnion"
+	},
+	{
+		"abr": "oranges",
+		"price": 2,
+		"category": "Raw fruits",
+		"defname": "VCE_RawOrange"
+	},
+	{
+		"abr": "peaches",
+		"price": 2,
+		"category": "Raw fruits",
+		"defname": "VCE_RawPeach"
+	},
+	{
+		"abr": "peanuts",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawPeanut"
+	},
+	{
+		"abr": "pears",
+		"price": 2,
+		"category": "Raw fruits",
+		"defname": "VCE_RawPear"
+	},
+	{
+		"abr": "peas",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawPeas"
+	},
+	{
+		"abr": "peppers",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawPepper"
+	},
+	{
+		"abr": "pineapples",
+		"price": 7,
+		"category": "Raw fruits",
+		"defname": "VCE_RawPineapple"
+	},
+	{
+		"abr": "plums",
+		"price": 2,
+		"category": "Raw fruits",
+		"defname": "VCE_RawPlum"
+	},
+	{
+		"abr": "pricklypears",
+		"price": 2,
+		"category": "Raw fruits",
+		"defname": "VCE_RawPricklyPear"
+	},
+	{
+		"abr": "prunes",
+		"price": 2,
+		"category": "Raw fruits",
+		"defname": "VCE_RawPrunes"
+	},
+	{
+		"abr": "pumpkins",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawPumpkin"
 	}
 	],
-	"total": 3608
+	"total": 3659
 }
