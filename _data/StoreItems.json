@@ -861,37 +861,37 @@
 	{
 		"abr": "high-explosiveshell",
 		"price": 92,
-		"category": "Mortar shells",
+		"category": "81mm mortar shell",
 		"defname": "Shell_HighExplosive"
 	},
 	{
 		"abr": "incendiaryshell",
 		"price": 92,
-		"category": "Mortar shells",
+		"category": "81mm mortar shell",
 		"defname": "Shell_Incendiary"
 	},
 	{
 		"abr": "empshell",
 		"price": 92,
-		"category": "Mortar shells",
+		"category": "81mm mortar shell",
 		"defname": "Shell_EMP"
 	},
 	{
 		"abr": "smokeshell",
 		"price": 92,
-		"category": "Mortar shells",
+		"category": "81mm mortar shell",
 		"defname": "Shell_Smoke"
 	},
 	{
 		"abr": "firefoamshell",
 		"price": 92,
-		"category": "Mortar shells",
+		"category": "81mm mortar shell",
 		"defname": "Shell_Firefoam"
 	},
 	{
 		"abr": "antigrainwarhead",
 		"price": 2000,
-		"category": "Mortar shells",
+		"category": "81mm mortar shell",
 		"defname": "Shell_AntigrainWarhead"
 	},
 	{
@@ -1385,18 +1385,6 @@
 		"price": 567,
 		"category": "Ranged weapons",
 		"defname": "Gun_IncendiaryLauncher"
-	},
-	{
-		"abr": "smokelauncher",
-		"price": 633,
-		"category": "Ranged weapons",
-		"defname": "Gun_SmokeLauncher"
-	},
-	{
-		"abr": "emplauncher",
-		"price": 842,
-		"category": "Ranged weapons",
-		"defname": "Gun_EmpLauncher"
 	},
 	{
 		"abr": "bolt-actionrifle",
@@ -3217,12 +3205,6 @@
 		"defname": "OGI_Gun_T3PlasmaGun"
 	},
 	{
-		"abr": "tacticalvest",
-		"price": 717,
-		"category": "Armor",
-		"defname": "Apparel_TacVest"
-	},
-	{
 		"abr": "tacticalhelmet",
 		"price": 508,
 		"category": "Headgear",
@@ -3299,12 +3281,6 @@
 		"price": 350,
 		"category": "Ranged weapons",
 		"defname": "Bow_Compound"
-	},
-	{
-		"abr": "blowgun",
-		"price": 170,
-		"category": "Ranged weapons",
-		"defname": "Gun_Blowgun"
 	},
 	{
 		"abr": "throwingaxes",
@@ -3605,12 +3581,6 @@
 		"price": 1108,
 		"category": "Oil",
 		"defname": "Autoclave"
-	},
-	{
-		"abr": "napalmshell",
-		"price": 92,
-		"category": "Mortar shells",
-		"defname": "Shell_Napalm"
 	},
 	{
 		"abr": "uncuredplasteel",
@@ -10299,7 +10269,7 @@
 	{
 		"abr": "tarshell",
 		"price": 92,
-		"category": "Mortar shells",
+		"category": "81mm mortar shell",
 		"defname": "AB_Shell_Tar"
 	},
 	{
@@ -11371,12 +11341,6 @@
 		"defname": "Meat_Gazelle"
 	},
 	{
-		"abr": "anti-armorrocketlauncher",
-		"price": 1667,
-		"category": "Ranged weapons",
-		"defname": "Gun_AntiArmor_Rocket"
-	},
-	{
 		"abr": "clustercolumn",
 		"price": 492,
 		"category": "Security",
@@ -11543,24 +11507,6 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Dryad_Basic"
-	},
-	{
-		"abr": "industrialammo",
-		"price": 3,
-		"category": "Ammo",
-		"defname": "yy_ammo_industrial"
-	},
-	{
-		"abr": "industrialexplosiveammo",
-		"price": 3,
-		"category": "Ammo",
-		"defname": "yy_ammo_industrial_fire"
-	},
-	{
-		"abr": "industrialspecialammo",
-		"price": 3,
-		"category": "Ammo",
-		"defname": "yy_ammo_industrial_emp"
 	},
 	{
 		"abr": "infernocannonturret",
@@ -12007,18 +11953,6 @@
 		"defname": "Meat_AEXP_Gorilla"
 	},
 	{
-		"abr": "primitiveexplosiveammo",
-		"price": 1,
-		"category": "Ammo",
-		"defname": "yy_ammo_primitive_fire"
-	},
-	{
-		"abr": "primitivespecialammo",
-		"price": 1,
-		"category": "Ammo",
-		"defname": "yy_ammo_primitive_emp"
-	},
-	{
 		"abr": "processedmeat",
 		"price": 3,
 		"category": "Meat",
@@ -12233,24 +12167,6 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_OG_Snotling"
-	},
-	{
-		"abr": "spacerammo",
-		"price": 4,
-		"category": "Ammo",
-		"defname": "yy_ammo_spacer"
-	},
-	{
-		"abr": "spacerexplosiveammo",
-		"price": 4,
-		"category": "Ammo",
-		"defname": "yy_ammo_spacer_fire"
-	},
-	{
-		"abr": "spacerspecialammo",
-		"price": 12,
-		"category": "Ammo",
-		"defname": "yy_ammo_spacer_emp"
 	},
 	{
 		"abr": "squidmeat",
@@ -16639,22 +16555,10 @@
 		"defname": "Apparel_FirefoampopPack"
 	},
 	{
-		"abr": "flamebow",
-		"price": 75,
-		"category": "Ranged weapons",
-		"defname": "Flamebow"
-	},
-	{
 		"abr": "flamethrower",
 		"price": 667,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_Flamethrower"
-	},
-	{
-		"abr": "flashgrenades",
-		"price": 525,
-		"category": "Grenades",
-		"defname": "VWE_FlashGrenade"
 	},
 	{
 		"abr": "flashlight",
@@ -17157,7 +17061,7 @@
 	{
 		"abr": "insanitywarhead",
 		"price": 1667,
-		"category": "Mortar shells",
+		"category": "81mm mortar shell",
 		"defname": "VFEI_Shell_PsychicWarhead"
 	},
 	{
@@ -18117,7 +18021,7 @@
 	{
 		"abr": "plasmapowercell",
 		"price": 1117,
-		"category": "Items",
+		"category": "81mm mortar shell",
 		"defname": "PlasmaPowerCell"
 	},
 	{
@@ -19471,12 +19375,6 @@
 		"defname": "SmilodonFangs"
 	},
 	{
-		"abr": "smokegrenades",
-		"price": 215,
-		"category": "Grenades",
-		"defname": "VWE_SmokeGrenade"
-	},
-	{
 		"abr": "smokeleafbutter",
 		"price": 12,
 		"category": "Condiments",
@@ -19875,7 +19773,7 @@
 	{
 		"abr": "toxshell",
 		"price": 92,
-		"category": "Mortar shells",
+		"category": "81mm mortar shell",
 		"defname": "Shell_Toxic"
 	},
 	{
@@ -19889,12 +19787,6 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Toxalope"
-	},
-	{
-		"abr": "toxbomblauncher",
-		"price": 633,
-		"category": "Ranged weapons",
-		"defname": "Gun_ToxbombLauncher"
 	},
 	{
 		"abr": "toxifiergenerator",
@@ -20550,6 +20442,24 @@
 		"category": "Items",
 		"defname": "ZygolophodonTusk"
 	},
+	{
+		"abr": "90mmflakturret",
+		"price": 2325,
+		"category": "Security",
+		"defname": "Turret_Flak"
+	},
+	{
+		"abr": "advancednightvisiongoggles",
+		"price": 683,
+		"category": "Headgear",
+		"defname": "CE_Apparel_AdvancedNightVision"
+	},
+	{
+		"abr": "ags-30",
+		"price": 833,
+		"category": "Security",
+		"defname": "Turret_AGSThirty"
+	},
 	],
-	"total": 3450
+	"total": 3453
 }

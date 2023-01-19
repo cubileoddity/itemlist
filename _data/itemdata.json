@@ -2859,13 +2859,13 @@
     "Mod": "RimWorld",
     "KarmaType": null
   },
-  "Shell_HighExplosive": {
+  "Weapon_GrenadeConcussion": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -2876,10 +2876,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RimWorld",
+    "Mod": "Combat Extended",
     "KarmaType": null
   },
-  "Shell_Incendiary": {
+  "CE_Apparel_CompositeVest": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -2896,10 +2896,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RimWorld",
+    "Mod": "Combat Extended",
     "KarmaType": null
   },
-  "Shell_EMP": {
+  "CE_Apparel_BallisticShield": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -2916,10 +2916,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RimWorld",
+    "Mod": "Combat Extended",
     "KarmaType": null
   },
-  "Shell_Smoke": {
+  "CE_Apparel_MeleeShield": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -2936,10 +2936,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RimWorld",
+    "Mod": "Combat Extended",
     "KarmaType": null
   },
-  "Shell_Firefoam": {
+  "CE_Apparel_AdvancedNightVision": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -2956,10 +2956,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RimWorld",
+    "Mod": "Combat Extended",
     "KarmaType": null
   },
-  "Shell_AntigrainWarhead": {
+  "CE_Apparel_SimpleNightVision": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -2976,7 +2976,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RimWorld",
+    "Mod": "Combat Extended",
     "KarmaType": null
   },
   "Silver": {
@@ -4619,13 +4619,13 @@
     "Mod": "RimWorld",
     "KarmaType": null
   },
-  "Gun_SmokeLauncher": {
+  "CE_Apparel_ImprovGasMask": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": true,
+    "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -4636,16 +4636,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RimWorld",
+    "Mod": "Combat Extended",
     "KarmaType": null
   },
-  "Gun_EmpLauncher": {
+  "CE_Apparel_GasMask": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": true,
+    "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -4656,7 +4656,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RimWorld",
+    "Mod": "Combat Extended",
     "KarmaType": null
   },
   "Gun_BoltActionRifle": {
@@ -4979,13 +4979,13 @@
     "Mod": "RimWorld",
     "KarmaType": null
   },
-  "Gun_ChargeLance": {
+  "CE_Apparel_PlateHelmet": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": true,
+    "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -4996,7 +4996,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RimWorld",
+    "Mod": "Combat Extended",
     "KarmaType": null
   },
   "OrbitalTargeterBombardment": {
@@ -10699,7 +10699,7 @@
     "Mod": "Astra Militarum Imperial Guard Core Mod v2.3",
     "KarmaType": null
   },
-  "Apparel_TacVest": {
+  "CE_Apparel_ExoFrame": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -10716,7 +10716,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Rimsenal - Augmented Vanilla Pack",
+    "Mod": "Combat Extended",
     "KarmaType": null
   },
   "Apparel_TacHelmet": {
@@ -10979,13 +10979,13 @@
     "Mod": "Rimsenal - Augmented Vanilla Pack",
     "KarmaType": null
   },
-  "Gun_Blowgun": {
+  "CE_Apparel_TribalBackpack": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": true,
+    "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -10996,7 +10996,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Rimsenal - Augmented Vanilla Pack",
+    "Mod": "Combat Extended",
     "KarmaType": null
   },
   "Gun_ThrowingAxes": {
@@ -11979,7 +11979,7 @@
     "Mod": "Rimefeller",
     "KarmaType": null
   },
-  "Shell_Napalm": {
+  "CE_Apparel_KidBackpack": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -11996,7 +11996,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Rimefeller",
+    "Mod": "Combat Extended",
     "KarmaType": null
   },
   "UncuredPlasteel": {
@@ -34279,7 +34279,7 @@
     "Mod": "Alpha Biomes",
     "KarmaType": null
   },
-  "AB_Shell_Tar": {
+  "CE_Apparel_Backpack": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -34296,7 +34296,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Alpha Biomes",
+    "Mod": "Combat Extended",
     "KarmaType": null
   },
   "AB_AlcyoniteChunk": {
@@ -40199,13 +40199,13 @@
     "Mod": "Vanilla Factions Expanded - Mechanoids",
     "KarmaType": null
   },
-  "VFE_Gun_InfernoSpewerSmall": {
+  "CE_Apparel_TacVest": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": true,
+    "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -40216,16 +40216,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Mechanoids",
+    "Mod": "Combat Extended",
     "KarmaType": null
   },
-  "VFE_Gun_InfernoSpewer": {
+  "FSX": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": true,
+    "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -40236,16 +40236,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Mechanoids",
+    "Mod": "Combat Extended",
     "KarmaType": null
   },
-  "VFE_Gun_AdvancedInfernoSpewer": {
+  "Prometheum": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": true,
+    "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -40256,16 +40256,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Mechanoids",
+    "Mod": "Combat Extended",
     "KarmaType": null
   },
-  "VFE_Gun_AdvancedInfernoCannon": {
+  "Turret_Flak": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": true,
+    "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -40276,7 +40276,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Mechanoids",
+    "Mod": "Combat Extended",
     "KarmaType": null
   },
   "VFE_Mech_Slurrymaster": {
@@ -41999,24 +41999,24 @@
     "Mod": "War Crimes Expanded 2 Core",
     "KarmaType": null
   },
-  "Gun_AntiArmor_Rocket": {
+  "Turret_AGSThirty": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": true,
+    "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Yayo's Combat 3 [Adopted]",
+    "Mod": "Combat Extended",
     "KarmaType": null
   },
   "HiTechResearchBench": {
@@ -53919,13 +53919,13 @@
     "Mod": "Vanilla Weapons Expanded",
     "KarmaType": null
   },
-  "VWE_FlashGrenade": {
+  "Turret_M240B": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": true,
+    "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -53936,16 +53936,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Weapons Expanded",
+    "Mod": "Combat Extended",
     "KarmaType": null
   },
-  "VWE_SmokeGrenade": {
+  "Turret_KPV": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": true,
+    "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -53956,7 +53956,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Weapons Expanded",
+    "Mod": "Combat Extended",
     "KarmaType": null
   },
   "RG_RawRaspberries": {
@@ -59699,7 +59699,7 @@
     "Mod": "Vanilla Factions Expanded - Insectoids",
     "KarmaType": null
   },
-  "VFEI_Shell_PsychicWarhead": {
+  "Turret_Medium": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -59716,7 +59716,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Insectoids",
+    "Mod": "Combat Extended",
     "KarmaType": null
   },
   "VFEI_Spidersilk": {
@@ -61679,7 +61679,7 @@
     "Mod": "Vanilla Factions Expanded - Insectoids",
     "KarmaType": null
   },
-  "yy_ammo_spacer_emp": {
+  "Turret_Heavy": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -61696,10 +61696,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Yayo's Combat 3 [Adopted]",
+    "Mod": "Combat Extended",
     "KarmaType": null
   },
-  "yy_ammo_spacer_fire": {
+  "Turret_Blaster": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -61716,10 +61716,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Yayo's Combat 3 [Adopted]",
+    "Mod": "Combat Extended",
     "KarmaType": null
   },
-  "yy_ammo_spacer": {
+  "GunsmithingBench": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -61736,10 +61736,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Yayo's Combat 3 [Adopted]",
+    "Mod": "Combat Extended",
     "KarmaType": null
   },
-  "yy_ammo_industrial_emp": {
+  "AmmoBench": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -61756,10 +61756,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Yayo's Combat 3 [Adopted]",
+    "Mod": "Combat Extended",
     "KarmaType": null
   },
-  "yy_ammo_industrial_fire": {
+  "Psycho": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -61776,10 +61776,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Yayo's Combat 3 [Adopted]",
+    "Mod": "Combat Extended",
     "KarmaType": null
   },
-  "yy_ammo_industrial": {
+  "IG_ARM_KriegHelmet": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -61796,7 +61796,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Yayo's Combat 3 [Adopted]",
+    "Mod": "Astra Militarum Imperial Guard Core Mod v2.41",
     "KarmaType": null
   },
   "Spine": {
@@ -65399,7 +65399,7 @@
     "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "yy_ammo_primitive_emp": {
+  "IG_ARM_KriegArmor": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -65416,10 +65416,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Yayo's Combat 3 [Adopted]",
+    "Mod": "Astra Militarum Imperial Guard Core Mod v2.41",
     "KarmaType": null
   },
-  "yy_ammo_primitive_fire": {
+  "IGStd-CaraHelmetMk": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -65436,7 +65436,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Yayo's Combat 3 [Adopted]",
+    "Mod": "Astra Militarum Imperial Guard Core Mod v2.41",
     "KarmaType": null
   },
   "VFEI_Mandibles": {
@@ -66559,13 +66559,13 @@
     "Mod": "Biotech",
     "KarmaType": null
   },
-  "Flamebow": {
+  "IGStd-CaraArmorMk": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": true,
+    "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -66576,7 +66576,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Biotech",
+    "Mod": "Astra Militarum Imperial Guard Core Mod v2.41",
     "KarmaType": null
   },
   "Weapon_GrenadeTox": {
@@ -66599,13 +66599,13 @@
     "Mod": "Biotech",
     "KarmaType": null
   },
-  "Gun_ToxbombLauncher": {
+  "IGStd-HelmetMk": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": true,
+    "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -66616,7 +66616,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Biotech",
+    "Mod": "Astra Militarum Imperial Guard Core Mod v2.41",
     "KarmaType": null
   },
   "Apparel_Sash": {
@@ -67159,7 +67159,7 @@
     "Mod": "Biotech",
     "KarmaType": null
   },
-  "Shell_Toxic": {
+  "IGStd-ArmorMk": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -67176,7 +67176,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Biotech",
+    "Mod": "Astra Militarum Imperial Guard Core Mod v2.41",
     "KarmaType": null
   },
   "DeathrestCapacitySerum": {
@@ -68497,6 +68497,286 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "RimWorld",
+    "KarmaType": null
+  },
+  "Weapon_GrenadeFlashbang": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Combat Extended",
+    "KarmaType": null
+  },
+  "Weapon_GrenadeStickBomb": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Combat Extended",
+    "KarmaType": null
+  },
+  "Weapon_GrenadeFirefoam": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Combat Extended",
+    "KarmaType": null
+  },
+  "CE_GrenadeLauncher": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Combat Extended",
+    "KarmaType": null
+  },
+  "CE_DisposableRocketLauncher": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Combat Extended",
+    "KarmaType": null
+  },
+  "CE_FlareGun": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Combat Extended",
+    "KarmaType": null
+  },
+  "Gun_BinocularsRadio": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Combat Extended",
+    "KarmaType": null
+  },
+  "OGI_Melee_LightningClawD": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Adeptus Mechanicus: Armoury",
+    "KarmaType": null
+  },
+  "OGI_Gun_BoltPistolD": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Adeptus Mechanicus: Armoury",
+    "KarmaType": null
+  },
+  "OGE_Melee_MirrorswordD": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Adeptus Xenobiologis: Aeldari",
+    "KarmaType": null
+  },
+  "OGE_Melee_GhostSwordD": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Adeptus Xenobiologis: Aeldari",
+    "KarmaType": null
+  },
+  "CombatExtendedFsxRefiner": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Rimefeller",
+    "KarmaType": null
+  },
+  "Apparel_TacArmor": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": null,
+    "KarmaType": null
+  },
+  "Raider_Turret_Artillery": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": null,
     "KarmaType": null
   }
 }
