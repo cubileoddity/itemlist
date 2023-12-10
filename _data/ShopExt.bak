@@ -639,7 +639,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 5500,
       "removePrice": 2000,
       "degree": 2,
       "description": "Timmy has cat-like reflexes, and excels at evading attacks.",
@@ -1902,410 +1902,6 @@
       "addPrice": 3500,
       "removePrice": 2000,
       "degree": 1,
-      "description": "NAME is an robot. As a robot HE is a bit faster and not really sensible for psychic phenomena.",
-      "stats": [
-        "+0.10 move speed",
-        "+20% global work speed",
-        "-100% psychic sensitivity",
-        "-95% toxic sensitivity",
-        "-90% mental break threshold"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+0.10 move speed",
-          "+20% global work speed",
-          "-100% psychic sensitivity",
-          "-95% toxic sensitivity",
-          "-90% mental break threshold"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Misc. Robots",
-        "karmaTypeForAdding": null
-      },
-      "defName": "AIRobot_BaseTrait",
-      "name": "robot"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0,
-      "description": "Timmy has been blessed by the Mechanicus to be overall better than regular humans at all tasked related to research, craft and mining. he is blessed for a harsh working environment.",
-      "stats": [
-        "+3 crafting",
-        "+3 construction",
-        "+3 mining",
-        "+25% global work speed",
-        "+130% global learning factor",
-        "+0.10 move speed",
-        "-15% mental break threshold",
-        "+20% immunity gain speed",
-        "+150 carrying capacity",
-        "+25.00% trade price improvement",
-        "+10.00% social impact",
-        "+10% construction speed"
-      ],
-      "conflicts": [
-        "imperial-astramilitarum",
-        "imperial-assassinorum",
-        "imperial-inquisition",
-        "imperial-medic",
-        "imperial-astarte"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "imperial-astramilitarum",
-          "imperial-assassinorum",
-          "imperial-inquisition",
-          "imperial-medic",
-          "imperial-astarte"
-        ],
-        "stats": [
-          "+3 crafting",
-          "+3 construction",
-          "+3 mining",
-          "+25% global work speed",
-          "+130% global learning factor",
-          "+0.10 move speed",
-          "-15% mental break threshold",
-          "+20% immunity gain speed",
-          "+150 carrying capacity",
-          "+25.00% trade price improvement",
-          "+10.00% social impact",
-          "+10% construction speed"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Astra Militarum Imperial Guard Core Mod v2.41",
-        "karmaTypeForAdding": null
-      },
-      "defName": "IGTraitMechanicus",
-      "name": "imperial-mechanicus"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0,
-      "description": "Timmy has been blessed by the Emperor to be overall better than regular humans at all tasked related to combat to better serve the Emperor against Chaos. he is blessed with general combat excellence.",
-      "stats": [
-        "+3 shooting",
-        "+3 melee",
-        "+0.3 melee dodge chance",
-        "-15% aiming time",
-        "+0.2 shooting accuracy",
-        "+15% global learning factor",
-        "+0.10 move speed",
-        "-15% mental break threshold",
-        "+15% immunity gain speed",
-        "+100 carrying capacity",
-        "+10.0% Armor - Blunt",
-        "+10.0% Armor - Sharp",
-        "-10% toxic sensitivity",
-        "x300% melee hit chance"
-      ],
-      "conflicts": [
-        "imperial-mechanicus",
-        "imperial-assassinorum",
-        "imperial-inquisition",
-        "imperial-medic",
-        "imperial-astarte"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "imperial-mechanicus",
-          "imperial-assassinorum",
-          "imperial-inquisition",
-          "imperial-medic",
-          "imperial-astarte"
-        ],
-        "stats": [
-          "+3 shooting",
-          "+3 melee",
-          "+0.3 melee dodge chance",
-          "-15% aiming time",
-          "+0.2 shooting accuracy",
-          "+15% global learning factor",
-          "+0.10 move speed",
-          "-15% mental break threshold",
-          "+15% immunity gain speed",
-          "+100 carrying capacity",
-          "+10.0% Armor - Blunt",
-          "+10.0% Armor - Sharp",
-          "-10% toxic sensitivity",
-          "x300% melee hit chance"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Astra Militarum Imperial Guard Core Mod v2.41",
-        "karmaTypeForAdding": null
-      },
-      "defName": "IGTraitAstraMilitarum",
-      "name": "imperial-astramilitarum"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0,
-      "description": "Timmy has been trained by the Officio Assassinorum to be a surgical tool to serve the Emperor against Chaos. he is blessed for combat excellence at range.",
-      "stats": [
-        "+3 shooting",
-        "+3 melee",
-        "-20% aiming time",
-        "+0.2 shooting accuracy",
-        "+30% global learning factor",
-        "+0.10 move speed",
-        "-15% mental break threshold",
-        "+15% immunity gain speed",
-        "+75 carrying capacity",
-        "+15.0% Armor - Blunt",
-        "+15.0% Armor - Sharp",
-        "-15% toxic sensitivity"
-      ],
-      "conflicts": [
-        "imperial-mechanicus",
-        "imperial-astramilitarum",
-        "imperial-inquisition",
-        "imperial-medic",
-        "imperial-astarte"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "imperial-mechanicus",
-          "imperial-astramilitarum",
-          "imperial-inquisition",
-          "imperial-medic",
-          "imperial-astarte"
-        ],
-        "stats": [
-          "+3 shooting",
-          "+3 melee",
-          "-20% aiming time",
-          "+0.2 shooting accuracy",
-          "+30% global learning factor",
-          "+0.10 move speed",
-          "-15% mental break threshold",
-          "+15% immunity gain speed",
-          "+75 carrying capacity",
-          "+15.0% Armor - Blunt",
-          "+15.0% Armor - Sharp",
-          "-15% toxic sensitivity"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Astra Militarum Imperial Guard Core Mod v2.41",
-        "karmaTypeForAdding": null
-      },
-      "defName": "IGTraitAssassinorum",
-      "name": "imperial-assassinorum"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0,
-      "description": "Timmy has been trained by the Inquisition as the secret police of the Imperium responsible for guarding the souls of humanity. he is blessed by the Inquisition with a many varied skills.",
-      "stats": [
-        "+2 shooting",
-        "+1 melee",
-        "+1 crafting",
-        "+2 medical",
-        "+10% global work speed",
-        "-10% aiming time",
-        "+0.2 shooting accuracy",
-        "+14% global learning factor",
-        "+0.30 move speed",
-        "-15% mental break threshold",
-        "+14% immunity gain speed",
-        "+75 carrying capacity",
-        "+14.0% Armor - Blunt",
-        "+14.0% Armor - Sharp",
-        "-14% toxic sensitivity",
-        "+13.00% social impact",
-        "+14% research speed",
-        "x250% melee hit chance"
-      ],
-      "conflicts": [
-        "imperial-mechanicus",
-        "imperial-astramilitarum",
-        "imperial-assassinorum",
-        "imperial-medic",
-        "imperial-astarte"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "imperial-mechanicus",
-          "imperial-astramilitarum",
-          "imperial-assassinorum",
-          "imperial-medic",
-          "imperial-astarte"
-        ],
-        "stats": [
-          "+2 shooting",
-          "+1 melee",
-          "+1 crafting",
-          "+2 medical",
-          "+10% global work speed",
-          "-10% aiming time",
-          "+0.2 shooting accuracy",
-          "+14% global learning factor",
-          "+0.30 move speed",
-          "-15% mental break threshold",
-          "+14% immunity gain speed",
-          "+75 carrying capacity",
-          "+14.0% Armor - Blunt",
-          "+14.0% Armor - Sharp",
-          "-14% toxic sensitivity",
-          "+13.00% social impact",
-          "+14% research speed",
-          "x250% melee hit chance"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Astra Militarum Imperial Guard Core Mod v2.41",
-        "karmaTypeForAdding": null
-      },
-      "defName": "IGTraitInquisition",
-      "name": "imperial-inquisition"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0,
-      "description": "Timmy has been training in the arts of all medicine to help their fellow imperial citizens. he is blessed with medical excellence.",
-      "stats": [
-        "+6 medical",
-        "+15% global learning factor",
-        "+0.10 move speed",
-        "-12% mental break threshold",
-        "+13% immunity gain speed",
-        "+150 carrying capacity",
-        "-12% toxic sensitivity",
-        "+15.00% social impact"
-      ],
-      "conflicts": [
-        "imperial-mechanicus",
-        "imperial-astramilitarum",
-        "imperial-assassinorum",
-        "imperial-inquisition",
-        "imperial-astarte"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "imperial-mechanicus",
-          "imperial-astramilitarum",
-          "imperial-assassinorum",
-          "imperial-inquisition",
-          "imperial-astarte"
-        ],
-        "stats": [
-          "+6 medical",
-          "+15% global learning factor",
-          "+0.10 move speed",
-          "-12% mental break threshold",
-          "+13% immunity gain speed",
-          "+150 carrying capacity",
-          "-12% toxic sensitivity",
-          "+15.00% social impact"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Astra Militarum Imperial Guard Core Mod v2.41",
-        "karmaTypeForAdding": null
-      },
-      "defName": "IGTraitImperialMedic",
-      "name": "imperial-medic"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0,
-      "description": "Timmy has been blessed by the Emperor be the pinnacle of Human Warfare as one of his Chosen Astarte in the fight against Chaos. he is blessed with the Astarte Trait.",
-      "stats": [
-        "+5 shooting",
-        "+5 melee",
-        "+0.1 melee dodge chance",
-        "-20% aiming time",
-        "+0.2 shooting accuracy",
-        "+0.15 move speed",
-        "-20% mental break threshold",
-        "+25% immunity gain speed",
-        "+200 carrying capacity",
-        "+20.0% Armor - Blunt",
-        "+20.0% Armor - Sharp",
-        "-20% toxic sensitivity",
-        "x70% max hit points"
-      ],
-      "conflicts": [
-        "imperial-mechanicus",
-        "imperial-assassinorum",
-        "imperial-inquisition",
-        "imperial-medic",
-        "imperial-astramilitarum"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "imperial-mechanicus",
-          "imperial-assassinorum",
-          "imperial-inquisition",
-          "imperial-medic",
-          "imperial-astramilitarum"
-        ],
-        "stats": [
-          "+5 shooting",
-          "+5 melee",
-          "+0.1 melee dodge chance",
-          "-20% aiming time",
-          "+0.2 shooting accuracy",
-          "+0.15 move speed",
-          "-20% mental break threshold",
-          "+25% immunity gain speed",
-          "+200 carrying capacity",
-          "+20.0% Armor - Blunt",
-          "+20.0% Armor - Sharp",
-          "-20% toxic sensitivity",
-          "x70% max hit points"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Astra Militarum Imperial Guard Core Mod v2.41",
-        "karmaTypeForAdding": null
-      },
-      "defName": "IG_TraitAstarte",
-      "name": "imperial-astarte"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 1,
       "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
       "stats": [],
       "conflicts": [],
@@ -2483,7 +2079,9 @@
       "removePrice": 2000,
       "degree": 0,
       "description": "Timmy tends to occasionally allow their mind to drift, even in the middle of working.",
-      "stats": [],
+      "stats": [
+        "x50% global certainty loss factor"
+      ],
       "conflicts": [
         "workaholic",
         "industrious",
@@ -2500,7 +2098,9 @@
           "lazy",
           "slothful"
         ],
-        "stats": [],
+        "stats": [
+          "x50% global certainty loss factor"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -2937,7 +2537,9 @@
       "removePrice": 2000,
       "degree": 0,
       "description": "Timmy only plays by their own rules, and will roll their eyes and take it easy while doing any task they've been forced to do.",
-      "stats": [],
+      "stats": [
+        "x25% global certainty loss factor"
+      ],
       "conflicts": [
         "submissive"
       ],
@@ -2946,7 +2548,9 @@
         "conflicts": [
           "submissive"
         ],
-        "stats": [],
+        "stats": [
+          "x25% global certainty loss factor"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -2963,7 +2567,9 @@
       "removePrice": 2000,
       "degree": 0,
       "description": "Timmy needs clear instructions on how, and when to do certain things and will only work at a normal speed when being forced to do something.",
-      "stats": [],
+      "stats": [
+        "x200% global certainty loss factor"
+      ],
       "conflicts": [
         "rebel"
       ],
@@ -2972,7 +2578,9 @@
         "conflicts": [
           "rebel"
         ],
-        "stats": [],
+        "stats": [
+          "x200% global certainty loss factor"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -2989,7 +2597,9 @@
       "removePrice": 2000,
       "degree": 0,
       "description": "Timmy is fueled by spite. They can't stand walking on the same soil as their rivals and will be elated by news of their life ending.",
-      "stats": [],
+      "stats": [
+        "x25% global certainty loss factor"
+      ],
       "conflicts": [
         "kind"
       ],
@@ -2998,7 +2608,9 @@
         "conflicts": [
           "kind"
         ],
-        "stats": [],
+        "stats": [
+          "x25% global certainty loss factor"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -3215,7 +2827,9 @@
       "removePrice": 2000,
       "degree": 0,
       "description": "No amount of lovin' is enough lovin' for Timmy. he will tend to jump from partner to partner and tumble between the sheets with them frequently.",
-      "stats": [],
+      "stats": [
+        "x200% global certainty loss factor"
+      ],
       "conflicts": [
         "prude",
         "asexual",
@@ -3228,7 +2842,9 @@
           "asexual",
           "nudist"
         ],
-        "stats": [],
+        "stats": [
+          "x200% global certainty loss factor"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -3245,7 +2861,9 @@
       "removePrice": 2000,
       "degree": 0,
       "description": "Timmy refuses to give their body to anybody but their spouse and would never fathom initiating a divorce. They also hate being nude much more than other pawns.",
-      "stats": [],
+      "stats": [
+        "x50% global certainty loss factor"
+      ],
       "conflicts": [
         "insatiable",
         "nudist"
@@ -3256,7 +2874,9 @@
           "insatiable",
           "nudist"
         ],
-        "stats": [],
+        "stats": [
+          "x50% global certainty loss factor"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -3506,7 +3126,7 @@
       "addPrice": 3500,
       "removePrice": 2000,
       "degree": 0,
-      "description": "Timmy is compulsed to steal and take things that don't belong to them, even if it means angering the other party.",
+      "description": "Timmy is compulsive to steal and take things that don't belong to them, even if it means angering the other party.",
       "stats": [
         "Only mental break \"VTE_Kleptomaniac\" allowed."
       ],
@@ -3600,10 +3220,14 @@
       "stats": [
         "+0.2 foraged food amount"
       ],
-      "conflicts": [],
+      "conflicts": [
+        "undergrounder"
+      ],
       "bypassLimit": false,
       "data": {
-        "conflicts": [],
+        "conflicts": [
+          "undergrounder"
+        ],
         "stats": [
           "+0.2 foraged food amount"
         ],
@@ -3677,7 +3301,9 @@
       "removePrice": 2000,
       "degree": 0,
       "description": "Timmy is hardened through what can only be presumed as old emotional trauma. They feel absolutely nothing from lost animals, colonists, family, prisoners or dead bodies.",
-      "stats": [],
+      "stats": [
+        "x50% global certainty loss factor"
+      ],
       "conflicts": [
         "squeamish"
       ],
@@ -3686,7 +3312,9 @@
         "conflicts": [
           "squeamish"
         ],
-        "stats": [],
+        "stats": [
+          "x50% global certainty loss factor"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -3738,10 +3366,14 @@
         "+4 medical",
         "+20% medical tend quality"
       ],
-      "conflicts": [],
+      "conflicts": [
+        "slowlearner"
+      ],
       "bypassLimit": false,
       "data": {
-        "conflicts": [],
+        "conflicts": [
+          "slowlearner"
+        ],
         "stats": [
           "+4 intellectual",
           "+4 medical",
@@ -4473,7 +4105,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 4000,
       "removePrice": 2000,
       "degree": 1,
       "description": "Timmy is unusually coordinated, and good at most any sort of skilled labor.",
@@ -5149,7 +4781,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 4000,
       "removePrice": 2000,
       "degree": 0,
       "description": "Timmy is a modern-day Da Vinci, with a creative mind that can grasp new ideas almost effortlessly. But he's almost painfully slow when it comes to doing actual physical work.",
@@ -5638,1526 +5270,6 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0,
-      "description": "Timmy is romantically attracted to people of the opposite gender.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "[RF] Rational Romance (Continued)",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Straight",
-      "name": "straight"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0,
-      "description": "Timmy will never cheat on a partner, no matter how bad the relationship gets.",
-      "stats": [],
-      "conflicts": [
-        "philanderer"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "philanderer"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "[RF] Rational Romance (Continued)",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Faithful",
-      "name": "faithful"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0,
-      "description": "Timmy just cannot be trusted to stay faithful to a partner.",
-      "stats": [],
-      "conflicts": [
-        "faithful"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "faithful"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "[RF] Rational Romance (Continued)",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Philanderer",
-      "name": "philanderer"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0,
-      "description": "Timmy prefers romantic relationships involving multiple partners to monogamous relationships. he doesn't mind if his partners romance other people, but will be less happy in a restraining, monogamous relationship.",
-      "stats": [],
-      "conflicts": [
-        "asexual"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "asexual"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "[RF] Rational Romance (Continued)",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Polyamorous",
-      "name": "polyamorous"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0,
-      "description": "Timmy is a follower of the Imperial cult. Though life may seem arduous, complicated and finally with much suffering, NAME will carry on in the knowledge, that the Emperor has a plan. And however long it may take to unfold, the Imperium of Man will prevail until such time.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Corruption: Core",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Emperor_Hope",
-      "name": "imperialendurance"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0,
-      "description": "Timmy is a follower of Ynnead. The spiral towards death is the only way to free the Eldar.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Corruption: Core",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Ynnead_Hope",
-      "name": "eldarfatalism"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0,
-      "description": "Timmy is a follower of Cegorach, the Laughing God.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Corruption: Core",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Cegorach_Laughter",
-      "name": "harlequin"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0,
-      "description": "Timmy is on the Path of the Warrior, embodying aspects of Khaela Mensha Khaine.",
-      "stats": [
-        "+80% pain shock threshold"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+80% pain shock threshold"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Corruption: Core",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Khaine_Fervor",
-      "name": "discipleofkhaine"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0,
-      "description": "Timmy will regularly start slaughtering bystanders if not allowed to kill anything.",
-      "stats": [
-        "Only mental break \"Slaughterer\" allowed.",
-        "Only mental break \"Berserk\" allowed.",
-        "+80% pain shock threshold"
-      ],
-      "conflicts": [
-        "bloodlust",
-        "nurglite",
-        "slaaneshi",
-        "tzeentchian"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "bloodlust",
-          "nurglite",
-          "slaaneshi",
-          "tzeentchian"
-        ],
-        "stats": [
-          "Only mental break \"Slaughterer\" allowed.",
-          "Only mental break \"Berserk\" allowed.",
-          "+80% pain shock threshold"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Corruption: Core",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Khorne_Fervor",
-      "name": "khornate"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0,
-      "description": "Timmy is always in a good mood, for Papa Nurgle is looking after he.",
-      "stats": [
-        "+50% rest rate multiplier",
-        "+100% pain shock threshold"
-      ],
-      "conflicts": [
-        "khornate",
-        "slaaneshi",
-        "tzeentchian"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "khornate",
-          "slaaneshi",
-          "tzeentchian"
-        ],
-        "stats": [
-          "+50% rest rate multiplier",
-          "+100% pain shock threshold"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Corruption: Core",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Nurgle_Fervor",
-      "name": "nurglite"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0,
-      "description": "Timmy is always seeking new thrills.",
-      "stats": [
-        "Only mental break \"Binging_DrugExtreme\" allowed.",
-        "Only mental break \"Binging_Food\" allowed.",
-        "Only mental break \"Slaughterer\" allowed.",
-        "Only mental break \"Tantrum\" allowed.",
-        "Only mental break \"SadisticRage\" allowed.",
-        "+100% pain shock threshold"
-      ],
-      "conflicts": [
-        "nurglite",
-        "khornate",
-        "tzeentchian"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "nurglite",
-          "khornate",
-          "tzeentchian"
-        ],
-        "stats": [
-          "Only mental break \"Binging_DrugExtreme\" allowed.",
-          "Only mental break \"Binging_Food\" allowed.",
-          "Only mental break \"Slaughterer\" allowed.",
-          "Only mental break \"Tantrum\" allowed.",
-          "Only mental break \"SadisticRage\" allowed.",
-          "+100% pain shock threshold"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Corruption: Core",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Slaanesh_Fervor",
-      "name": "slaaneshi"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0,
-      "description": "Timmy will experience mood swings, depending on how the schemes of Tzeentch unfold.",
-      "stats": [
-        "+100% research speed"
-      ],
-      "conflicts": [
-        "nurglite",
-        "slaaneshi",
-        "khornate"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "nurglite",
-          "slaaneshi",
-          "khornate"
-        ],
-        "stats": [
-          "+100% research speed"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Corruption: Core",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Tzeentch_Fervor",
-      "name": "tzeentchian"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0,
-      "description": "Timmy will teach and convert in the name of chaos itself.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Corruption: Core",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Undivided_Fervor",
-      "name": "chaosfollower"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0,
-      "description": "Timmy feeds on the pain on sentient beings. HE will go through unspeakable acts of depravity to still this hunger.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Corruption: Core",
-        "karmaTypeForAdding": null
-      },
-      "defName": "DE_Depravity",
-      "name": "darkeldardepravity"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0,
-      "description": "Timmy is an Eldar. They strive for perfection in everything they do.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Corruption: Core",
-        "karmaTypeForAdding": null
-      },
-      "defName": "ELDAR_mastery",
-      "name": "eldarmastery"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0,
-      "description": "Timmy follows the idea that all beings should strive to ensure the greatest good for the greatest number of beings in the galaxy.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Corruption: Core",
-        "karmaTypeForAdding": null
-      },
-      "defName": "TAU_Philosophy",
-      "name": "utalitarianphilosophy"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0,
-      "description": "Timmy is an Orkoid, meaning HIS life evolves around seemingly mindless bloodshed.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Corruption: Core",
-        "karmaTypeForAdding": null
-      },
-      "defName": "ORK_Brutality",
-      "name": "orkmindedness"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": -2,
-      "description": "Timmy does not believe in divinity. There are no gods among the stars, only cruel and powerful forces worthy of contempt.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Corruption: Core",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Devotion",
-      "name": "atheist"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": -1,
-      "description": "Timmy holds that one cannot encompass the divine, therefore worshipping gods is a fallacy.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Corruption: Core",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Devotion",
-      "name": "agnostic"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 1,
-      "description": "Timmy strongly believes in the divine.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Corruption: Core",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Devotion",
-      "name": "ferventbeliever"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 2,
-      "description": "Timmy's life is dedicated to the divine and believes are worth to go to war for.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Corruption: Core",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Devotion",
-      "name": "fanatic"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0,
-      "description": "Timmy walks under the gaze of Ynnead, the Aeldari god of death.",
-      "stats": [
-        "+2 melee",
-        "+2 shooting",
-        "+1000.00% social impact",
-        "+200.00% tame animal chance",
-        "+200.00% train animal chance",
-        "+200% immunity gain speed",
-        "+1.30 move speed",
-        "+3.0 melee hit chance",
-        "+3.0 melee dodge chance"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+2 melee",
-          "+2 shooting",
-          "+1000.00% social impact",
-          "+200.00% tame animal chance",
-          "+200.00% train animal chance",
-          "+200% immunity gain speed",
-          "+1.30 move speed",
-          "+3.0 melee hit chance",
-          "+3.0 melee dodge chance"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Corruption: Core",
-        "karmaTypeForAdding": null
-      },
-      "defName": "YnneadChosen",
-      "name": "prophetofynnead"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 2,
-      "description": "Timmy embodies Cegorach, the Aeldari god of mischief.",
-      "stats": [
-        "+4 melee",
-        "+4 shooting",
-        "+2.0 melee hit chance",
-        "+512% mental break threshold",
-        "+1.30 move speed",
-        "+3.0 melee hit chance",
-        "+3.0 melee dodge chance"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+4 melee",
-          "+4 shooting",
-          "+2.0 melee hit chance",
-          "+512% mental break threshold",
-          "+1.30 move speed",
-          "+3.0 melee hit chance",
-          "+3.0 melee dodge chance"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Corruption: Core",
-        "karmaTypeForAdding": null
-      },
-      "defName": "CegorachChosen",
-      "name": "puppeteerofcegorach"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0,
-      "description": "Timmy embodies Khaine, the Aeldari god of war.",
-      "stats": [
-        "+8 melee",
-        "+4 shooting",
-        "+4.0 melee hit chance",
-        "+3.00 melee DPS"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+8 melee",
-          "+4 shooting",
-          "+4.0 melee hit chance",
-          "+3.00 melee DPS"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Corruption: Core",
-        "karmaTypeForAdding": null
-      },
-      "defName": "KhaineChosen",
-      "name": "scionofkhaine"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 2,
-      "description": "Timmy's was possessed and lived. he bears the scars and is steeled against corruption.",
-      "stats": [
-        "+100% psychic sensitivity"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+100% psychic sensitivity"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Corruption: Core",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Exorcised",
-      "name": "exorcised(faithful)"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 1,
-      "description": "Timmy's was possessed and lived. he mind and body weren't entirely shattered.",
-      "stats": [
-        "+100% psychic sensitivity"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+100% psychic sensitivity"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Corruption: Core",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Exorcised",
-      "name": "exorcised(stable)"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": -1,
-      "description": "Timmy's was possessed and lived. he barely survived and bears the scars in body and mind.",
-      "stats": [
-        "+150% psychic sensitivity"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+150% psychic sensitivity"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Corruption: Core",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Exorcised",
-      "name": "exorcised(broken)"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": -2,
-      "description": "Timmy's was possessed and lived, though it is a life of torment that he would gladly end.",
-      "stats": [
-        "+200% psychic sensitivity"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+200% psychic sensitivity"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Corruption: Core",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Exorcised",
-      "name": "exorcised(tormented)"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 2000,
-      "removePrice": 2000,
-      "degree": 10,
-      "description": "Timmy is an kappa-level psyker, able to subconsciously tap into the Warp without understanding it.",
-      "stats": [
-        "+15.0 neural heat limit",
-        "+2.00 neural heat recovery rate",
-        "+0% neural heat gain"
-      ],
-      "conflicts": [
-        "psychicallyhypersensitive",
-        "psychicallysensitive",
-        "psychicallydull",
-        "psychicallydeaf"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "psychicallyhypersensitive",
-          "psychicallysensitive",
-          "psychicallydull",
-          "psychicallydeaf"
-        ],
-        "stats": [
-          "+15.0 neural heat limit",
-          "+2.00 neural heat recovery rate",
-          "+0% neural heat gain"
-        ],
-        "canBypassLimit": false,
-        "customName": true,
-        "karmaTypeForRemoving": null,
-        "mod": "Corruption: Psykers",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Psyker",
-      "name": "psyker-k"
-    },
-    {
-      "canAdd": false,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 20,
-      "description": "Timmy is a iota-level psyker, the first grade of a \"true\" psyker, able to be trained to use psionic abilities.",
-      "stats": [
-        "+20.0 neural heat limit",
-        "+2.50 neural heat recovery rate",
-        "-20% neural heat gain"
-      ],
-      "conflicts": [
-        "psychicallyhypersensitive",
-        "psychicallysensitive",
-        "psychicallydull",
-        "psychicallydeaf"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "psychicallyhypersensitive",
-          "psychicallysensitive",
-          "psychicallydull",
-          "psychicallydeaf"
-        ],
-        "stats": [
-          "+20.0 neural heat limit",
-          "+2.50 neural heat recovery rate",
-          "-20% neural heat gain"
-        ],
-        "canBypassLimit": false,
-        "customName": true,
-        "karmaTypeForRemoving": null,
-        "mod": "Corruption: Psykers",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Psyker",
-      "name": "psyker-i"
-    },
-    {
-      "canAdd": false,
-      "canRemove": true,
-      "addPrice": 4250,
-      "removePrice": 2000,
-      "degree": 30,
-      "description": "Timmy is a zeta-level psyker, moderately powerful and widely considered a security threat.",
-      "stats": [
-        "+30.0 neural heat limit",
-        "+3.50 neural heat recovery rate",
-        "-30% neural heat gain"
-      ],
-      "conflicts": [
-        "psychicallyhypersensitive",
-        "psychicallysensitive",
-        "psychicallydull",
-        "psychicallydeaf"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "psychicallyhypersensitive",
-          "psychicallysensitive",
-          "psychicallydull",
-          "psychicallydeaf"
-        ],
-        "stats": [
-          "+30.0 neural heat limit",
-          "+3.50 neural heat recovery rate",
-          "-30% neural heat gain"
-        ],
-        "canBypassLimit": false,
-        "customName": true,
-        "karmaTypeForRemoving": null,
-        "mod": "Corruption: Psykers",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Psyker",
-      "name": "psyker-z"
-    },
-    {
-      "canAdd": false,
-      "canRemove": true,
-      "addPrice": 4700,
-      "removePrice": 2000,
-      "degree": 40,
-      "description": "Timmy is a epsilon-level psyker, very powerful and considered a security threat.",
-      "stats": [
-        "+40.0 neural heat limit",
-        "+3.50 neural heat recovery rate",
-        "-30% neural heat gain"
-      ],
-      "conflicts": [
-        "psychicallyhypersensitive",
-        "psychicallysensitive",
-        "psychicallydull",
-        "psychicallydeaf"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "psychicallyhypersensitive",
-          "psychicallysensitive",
-          "psychicallydull",
-          "psychicallydeaf"
-        ],
-        "stats": [
-          "+40.0 neural heat limit",
-          "+3.50 neural heat recovery rate",
-          "-30% neural heat gain"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Corruption: Psykers",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Psyker",
-      "name": "psykerɛ"
-    },
-    {
-      "canAdd": false,
-      "canRemove": true,
-      "addPrice": 5350,
-      "removePrice": 2000,
-      "degree": 50,
-      "description": "Timmy is a delta-level psyker, immensely powerful and highly dangerous if left unchecked.",
-      "stats": [
-        "+50.0 neural heat limit",
-        "+5.00 neural heat recovery rate",
-        "-40% neural heat gain"
-      ],
-      "conflicts": [
-        "psychicallyhypersensitive",
-        "psychicallysensitive",
-        "psychicallydull",
-        "psychicallydeaf"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "psychicallyhypersensitive",
-          "psychicallysensitive",
-          "psychicallydull",
-          "psychicallydeaf"
-        ],
-        "stats": [
-          "+50.0 neural heat limit",
-          "+5.00 neural heat recovery rate",
-          "-40% neural heat gain"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Corruption: Psykers",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Psyker",
-      "name": "psykerδ"
-    },
-    {
-      "canAdd": false,
-      "canRemove": true,
-      "addPrice": 6000,
-      "removePrice": 2000,
-      "degree": 60,
-      "description": "Timmy is a beta-level psyker, exceedingly rare and powerful enough to topple planets.",
-      "stats": [
-        "+60.0 neural heat limit",
-        "+5.00 neural heat recovery rate",
-        "-50% neural heat gain"
-      ],
-      "conflicts": [
-        "psychicallyhypersensitive",
-        "psychicallysensitive",
-        "psychicallydull",
-        "psychicallydeaf"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "psychicallyhypersensitive",
-          "psychicallysensitive",
-          "psychicallydull",
-          "psychicallydeaf"
-        ],
-        "stats": [
-          "+60.0 neural heat limit",
-          "+5.00 neural heat recovery rate",
-          "-50% neural heat gain"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Corruption: Psykers",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Psyker",
-      "name": "psykerβ"
-    },
-    {
-      "canAdd": false,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 10,
-      "description": "This individual was selected by the Emperor to fulfill a purpose. What this purpose is, remains unclear.",
-      "stats": [
-        "x200% market value",
-        "x120% mental break threshold",
-        "x110% social impact",
-        "x110% tame animal chance"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "x200% market value",
-          "x120% mental break threshold",
-          "x110% social impact",
-          "x110% tame animal chance"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Corruption: Worship",
-        "karmaTypeForAdding": null
-      },
-      "defName": "HumanSaint",
-      "name": "aspiringsaint"
-    },
-    {
-      "canAdd": false,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 20,
-      "description": "This individual was selected by the Emperor to fulfill a purpose. he has taken the first steps on that path.",
-      "stats": [
-        "x200% market value",
-        "x120% mental break threshold",
-        "x110% social impact",
-        "x110% tame animal chance"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "x200% market value",
-          "x120% mental break threshold",
-          "x110% social impact",
-          "x110% tame animal chance"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Corruption: Worship",
-        "karmaTypeForAdding": null
-      },
-      "defName": "HumanSaint",
-      "name": "aspiringsaint"
-    },
-    {
-      "canAdd": false,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 30,
-      "description": "This individual was selected by the Emperor to fulfill a purpose. he is underway to becoming an actual saint.",
-      "stats": [
-        "x200% market value",
-        "x120% mental break threshold",
-        "x110% social impact",
-        "x110% tame animal chance"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "x200% market value",
-          "x120% mental break threshold",
-          "x110% social impact",
-          "x110% tame animal chance"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Corruption: Worship",
-        "karmaTypeForAdding": null
-      },
-      "defName": "HumanSaint",
-      "name": "aspiringsaint"
-    },
-    {
-      "canAdd": false,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 40,
-      "description": "This individual was selected by the Emperor to fulfill a purpose. he is close to fulfilling that goal.",
-      "stats": [
-        "x200% market value",
-        "x120% mental break threshold",
-        "x110% social impact",
-        "x110% tame animal chance"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "x200% market value",
-          "x120% mental break threshold",
-          "x110% social impact",
-          "x110% tame animal chance"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Corruption: Worship",
-        "karmaTypeForAdding": null
-      },
-      "defName": "HumanSaint",
-      "name": "aspiringsaint"
-    },
-    {
-      "canAdd": false,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 50,
-      "description": "Timmy has braved he trials and has become an Imperial saint walking among mere mortals.",
-      "stats": [
-        "x10 market value",
-        "x212% mental break threshold",
-        "x250% social impact",
-        "x200% tame animal chance"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "x10 market value",
-          "x212% mental break threshold",
-          "x250% social impact",
-          "x200% tame animal chance"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Corruption: Worship",
-        "karmaTypeForAdding": null
-      },
-      "defName": "HumanSaint",
-      "name": "livingsaint"
-    },
-    {
-      "canAdd": false,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0,
-      "description": "This individual was selected by Khorne to do battle in his name.",
-      "stats": [
-        "x112% mental break threshold",
-        "x105% move speed",
-        "x105% melee hit chance",
-        "x105% melee dodge chance",
-        "x105% melee hit chance"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "x112% mental break threshold",
-          "x105% move speed",
-          "x105% melee hit chance",
-          "x105% melee dodge chance",
-          "x105% melee hit chance"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Corruption: Worship",
-        "karmaTypeForAdding": null
-      },
-      "defName": "KhorneChampion",
-      "name": "aspiringchampion"
-    },
-    {
-      "canAdd": false,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0,
-      "description": "This individual was selected by Khorne to do battle in his name.",
-      "stats": [
-        "x112% mental break threshold",
-        "x105% move speed",
-        "x105% melee hit chance",
-        "x105% melee dodge chance",
-        "x105% melee hit chance"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "x112% mental break threshold",
-          "x105% move speed",
-          "x105% melee hit chance",
-          "x105% melee dodge chance",
-          "x105% melee hit chance"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Corruption: Worship",
-        "karmaTypeForAdding": null
-      },
-      "defName": "KhorneChampion",
-      "name": "championofkhorne"
-    },
-    {
-      "canAdd": false,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0,
-      "description": "This individual was selected by Nurgle to spread pestilence.",
-      "stats": [
-        "x112% mental break threshold",
-        "x80% move speed",
-        "x110% pain shock threshold"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "x112% mental break threshold",
-          "x80% move speed",
-          "x110% pain shock threshold"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Corruption: Worship",
-        "karmaTypeForAdding": null
-      },
-      "defName": "NurgleChampion",
-      "name": "aspiringchampion"
-    },
-    {
-      "canAdd": false,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0,
-      "description": "This individual was selected by Nurgle to spread pestilence.",
-      "stats": [
-        "x112% mental break threshold",
-        "x80% move speed",
-        "x110% pain shock threshold"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "x112% mental break threshold",
-          "x80% move speed",
-          "x110% pain shock threshold"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Corruption: Worship",
-        "karmaTypeForAdding": null
-      },
-      "defName": "NurgleChampion",
-      "name": "championofnurgle"
-    },
-    {
-      "canAdd": false,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0,
-      "description": "This individual was selected by Tzeentch to be a fulcrum of knowledge and sorcery.",
-      "stats": [
-        "+200% mental break threshold",
-        "+300% pain shock threshold",
-        "x10 market value",
-        "x80% move speed"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+200% mental break threshold",
-          "+300% pain shock threshold",
-          "x10 market value",
-          "x80% move speed"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Corruption: Worship",
-        "karmaTypeForAdding": null
-      },
-      "defName": "TzeentchChampion",
-      "name": "aspiringchampion"
-    },
-    {
-      "canAdd": false,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0,
-      "description": "This individual was selected by Tzeentch to be a fulcrum of knowledge and sorcery.",
-      "stats": [
-        "+200% mental break threshold",
-        "+300% pain shock threshold",
-        "x10 market value",
-        "x80% move speed"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+200% mental break threshold",
-          "+300% pain shock threshold",
-          "x10 market value",
-          "x80% move speed"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Corruption: Worship",
-        "karmaTypeForAdding": null
-      },
-      "defName": "TzeentchChampion",
-      "name": "championoftzeentch"
-    },
-    {
-      "canAdd": false,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0,
-      "description": "This individual was chosen by Slaanesh to be an idol of lust and perfection.",
-      "stats": [
-        "+1.0 beauty",
-        "+10% global work speed",
-        "+5% mental break threshold",
-        "+2.0 shooting accuracy",
-        "+2.0 melee hit chance",
-        "+2.0 melee dodge chance"
-      ],
-      "conflicts": [
-        "ascetic"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "ascetic"
-        ],
-        "stats": [
-          "+1.0 beauty",
-          "+10% global work speed",
-          "+5% mental break threshold",
-          "+2.0 shooting accuracy",
-          "+2.0 melee hit chance",
-          "+2.0 melee dodge chance"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Corruption: Worship",
-        "karmaTypeForAdding": null
-      },
-      "defName": "SlaaneshChampion",
-      "name": "aspiringchampion"
-    },
-    {
-      "canAdd": false,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0,
-      "description": "This individual was chosen by Slaanesh to be an idol of lust and perfection.",
-      "stats": [
-        "+1.0 beauty",
-        "+10% global work speed",
-        "+5% mental break threshold",
-        "+2.0 shooting accuracy",
-        "+2.0 melee hit chance",
-        "+2.0 melee dodge chance"
-      ],
-      "conflicts": [
-        "ascetic"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "ascetic"
-        ],
-        "stats": [
-          "+1.0 beauty",
-          "+10% global work speed",
-          "+5% mental break threshold",
-          "+2.0 shooting accuracy",
-          "+2.0 melee hit chance",
-          "+2.0 melee dodge chance"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Corruption: Worship",
-        "karmaTypeForAdding": null
-      },
-      "defName": "SlaaneshChampion",
-      "name": "championofslaanesh"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0,
-      "description": "Timmy is following a chaos cult.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Corruption: Worship",
-        "karmaTypeForAdding": null
-      },
-      "defName": "ChaosCultist",
-      "name": "cultist"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0,
-      "description": "This individual is a favourite of Gork, increasing its ability to stomp and krump.",
-      "stats": [
-        "+8 melee",
-        "x500% market value",
-        "x512% mental break threshold",
-        "x200% melee hit chance"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+8 melee",
-          "x500% market value",
-          "x512% mental break threshold",
-          "x200% melee hit chance"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Corruption: Worship",
-        "karmaTypeForAdding": null
-      },
-      "defName": "OrkChosenOfGork",
-      "name": "chosenofgork"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 0,
-      "description": "This individual is a favourite of Gork, increasing its kunning.",
-      "stats": [
-        "+8 shooting",
-        "x500% market value",
-        "x512% mental break threshold",
-        "x140% move speed",
-        "x200% melee dodge chance"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+8 shooting",
-          "x500% market value",
-          "x512% mental break threshold",
-          "x140% move speed",
-          "x200% melee dodge chance"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Corruption: Worship",
-        "karmaTypeForAdding": null
-      },
-      "defName": "OrkChosenOfMork",
-      "name": "chosenofgork"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
       "description": "Psychic enthrallment caused by incredibly strong mental influence. Thralls don't need to sleep or have recreation, but are unable to do skilled work and engage in social interactions.",
@@ -7525,26 +5637,430 @@
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
-      "degree": -1,
-      "description": "Timmy always shies away from danger. he is usually the first to flee from battle.",
+      "degree": 0,
+      "description": "Timmy has always seen their body as nothing more than a vessel for the mind. he does not care about the gender, age or looks of their body.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Altered Carbon: Ultratech Unleashed",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VFEU_FreeMind",
+      "name": "freemind"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy can change sleeves as easily as changing clothes. he doesn’t care how often he switches sleeves or what sleeve he is currently riding.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Altered Carbon: Ultratech Unleashed",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VFEU_Sleever",
+      "name": "sleever"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 6500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is not affected by the effects of aging.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "EvolvedOrgansRedux",
+        "karmaTypeForAdding": null
+      },
+      "defName": "EVOR_RasVacoule",
+      "name": "rasvacoule"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 4000,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy's life revolves around fighting. he doesn't have the intelligence to do much else.",
       "stats": [
-        "+25% suppressability"
+        "+20 shooting",
+        "+20 melee"
       ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
         "stats": [
-          "+25% suppressability"
+          "+20 shooting",
+          "+20 melee"
         ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Combat Extended",
+        "mod": "EvolvedOrgansRedux",
         "karmaTypeForAdding": null
       },
-      "defName": "Bravery",
-      "name": "cowardly"
+      "defName": "EVOR_ExcellentFighter",
+      "name": "reptilianbrain"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has mastered the elements and is now impervious to almost any (reasonable) temperature, they have also aquired higher mental fortitude from this.",
+      "stats": [
+        "+4 cooking",
+        "+3 plants",
+        "+3 animals",
+        "-10% mental break threshold",
+        "+100% pain shock threshold",
+        "-10.0C Minimum comfortable temperature",
+        "+10.0C Maximum comfortable temperature"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+4 cooking",
+          "+3 plants",
+          "+3 animals",
+          "-10% mental break threshold",
+          "+100% pain shock threshold",
+          "-10.0C Minimum comfortable temperature",
+          "+10.0C Maximum comfortable temperature"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Mythological Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "GAT_Elemental",
+      "name": "elemental"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 5500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Born as a child of a human and a god Timmy is a very capable member of any society and are an amazing melee fighter.",
+      "stats": [
+        "+5 melee",
+        "+10.0% Armor - Blunt",
+        "+10.0% Armor - Sharp",
+        "+1.50 move speed",
+        "+20.0 melee dodge chance",
+        "+30% global work speed"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+5 melee",
+          "+10.0% Armor - Blunt",
+          "+10.0% Armor - Sharp",
+          "+1.50 move speed",
+          "+20.0 melee dodge chance",
+          "+30% global work speed"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Mythological Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "GAT_Demigod",
+      "name": "demigod"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Born as a child of one of the big three, Timmy is a formidable fighter wherever they are.",
+      "stats": [
+        "+4 melee",
+        "+25.0% Armor - Blunt",
+        "+25.0% Armor - Sharp",
+        "+35.0 melee dodge chance",
+        "+1.75 move speed"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+4 melee",
+          "+25.0% Armor - Blunt",
+          "+25.0% Armor - Sharp",
+          "+35.0 melee dodge chance",
+          "+1.75 move speed"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Mythological Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "GAT_Jason",
+      "name": "jasonian"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 4000,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Born as a child of water, Timmy is a highly capable fighter and is fairly useful when it comes to healing because of the healing effects of water.",
+      "stats": [
+        "+6 melee",
+        "+4 medical",
+        "+20.0% Armor - Blunt",
+        "+20.0% Armor - Sharp",
+        "+1.50 move speed",
+        "+30% medical tend quality",
+        "+30% medical tend speed"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+6 melee",
+          "+4 medical",
+          "+20.0% Armor - Blunt",
+          "+20.0% Armor - Sharp",
+          "+1.50 move speed",
+          "+30% medical tend quality",
+          "+30% medical tend speed"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Mythological Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "GAT_Percy",
+      "name": "percyian"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Known for their intellect and mental strength, Timmy is usefull in many different situations.",
+      "stats": [
+        "+5 intellectual",
+        "+3 social",
+        "+10.0% Armor - Blunt",
+        "+10.0% Armor - Sharp",
+        "+1.00 move speed",
+        "-10% mental break threshold"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+5 intellectual",
+          "+3 social",
+          "+10.0% Armor - Blunt",
+          "+10.0% Armor - Sharp",
+          "+1.00 move speed",
+          "-10% mental break threshold"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Mythological Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "GAT_Annabeth",
+      "name": "annabethian"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": " As a child of Hephaestus, Timmy is almost unparalleled in all forms of building, they are also very smart.",
+      "stats": [
+        "+4 construction",
+        "+4 crafting",
+        "+3 intellectual",
+        "+10.0% Armor - Blunt",
+        "+10.0% Armor - Sharp",
+        "+1.00 move speed",
+        "+40% construction speed",
+        "+30% research speed"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+4 construction",
+          "+4 crafting",
+          "+3 intellectual",
+          "+10.0% Armor - Blunt",
+          "+10.0% Armor - Sharp",
+          "+1.00 move speed",
+          "+40% construction speed",
+          "+30% research speed"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Mythological Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "GAT_Leo",
+      "name": "leoian"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 5500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Feared by him enemies for him strategies and battle prowess, Timmy is a bloodthirsty embodiment of war.",
+      "stats": [
+        "+7 intellectual",
+        "+5 social",
+        "+5 shooting",
+        "+0.8 shooting accuracy",
+        "+40.0% Armor - Blunt",
+        "+40.0% Armor - Sharp"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+7 intellectual",
+          "+5 social",
+          "+5 shooting",
+          "+0.8 shooting accuracy",
+          "+40.0% Armor - Blunt",
+          "+40.0% Armor - Sharp"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Mythological Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "GAT_Athena",
+      "name": "athena'swisdom"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 10000,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Is this the power of a god(those who get it get it). Anyways enjoy being overpowered",
+      "stats": [
+        "+20 animals",
+        "+20 artistic",
+        "+20 construction",
+        "+20 cooking",
+        "+20 crafting",
+        "+20 plants",
+        "+20 intellectual",
+        "+20 medical",
+        "+20 melee",
+        "+20 mining",
+        "+20 shooting",
+        "+20 social",
+        "+100% global learning factor",
+        "+1.0 melee hit chance",
+        "+20.0 melee dodge chance",
+        "+2000% pain shock threshold",
+        "+5.00 move speed",
+        "-100% mental break threshold",
+        "+500% global work speed",
+        "-500% aiming time",
+        "+2.0 shooting accuracy",
+        "+100% immunity gain speed",
+        "+100% research speed",
+        "+100.00% social impact",
+        "+100.00% tame animal chance",
+        "+100.00% train animal chance",
+        "+200 carrying capacity"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+20 animals",
+          "+20 artistic",
+          "+20 construction",
+          "+20 cooking",
+          "+20 crafting",
+          "+20 plants",
+          "+20 intellectual",
+          "+20 medical",
+          "+20 melee",
+          "+20 mining",
+          "+20 shooting",
+          "+20 social",
+          "+100% global learning factor",
+          "+1.0 melee hit chance",
+          "+20.0 melee dodge chance",
+          "+2000% pain shock threshold",
+          "+5.00 move speed",
+          "-100% mental break threshold",
+          "+500% global work speed",
+          "-500% aiming time",
+          "+2.0 shooting accuracy",
+          "+100% immunity gain speed",
+          "+100% research speed",
+          "+100.00% social impact",
+          "+100.00% tame animal chance",
+          "+100.00% train animal chance",
+          "+200 carrying capacity"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Mythological Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Gat_Godlike",
+      "name": "god?"
     },
     {
       "canAdd": true,
@@ -7552,51 +6068,135 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 1,
-      "description": "Few things scare Timmy. In battle he stands unfazed where others panic and flee.",
-      "stats": [
-        "-50% suppressability"
+      "description": "Timmy despises artificial humanoids. he sees them as the potential downfall of all biological sentience.",
+      "stats": [],
+      "conflicts": [
+        "anthropophobe",
+        "anthropophile"
       ],
-      "conflicts": [],
       "bypassLimit": false,
       "data": {
-        "conflicts": [],
-        "stats": [
-          "-50% suppressability"
+        "conflicts": [
+          "anthropophobe",
+          "anthropophile"
         ],
+        "stats": [],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Combat Extended",
+        "mod": "Rim-Robots_",
         "karmaTypeForAdding": null
       },
-      "defName": "Bravery",
-      "name": "brave"
+      "defName": "Automatonophobia",
+      "name": "automatonophobe"
     },
     {
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
-      "degree": 2,
-      "description": "Timmy laughs in the face of danger. Some ascribe it to bravery, others to stupidity. Either way, Timmy seems to lack any sense of self-preservation and will never flee from a threatening situation.",
-      "stats": [
-        "-100% suppressability"
+      "degree": 1,
+      "description": "Timmy despises biological humanoids. he sees them as a disease that must be snuffed out.",
+      "stats": [],
+      "conflicts": [
+        "automatonophobe"
       ],
-      "conflicts": [],
       "bypassLimit": false,
       "data": {
-        "conflicts": [],
-        "stats": [
-          "-100% suppressability"
+        "conflicts": [
+          "automatonophobe"
         ],
+        "stats": [],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Combat Extended",
+        "mod": "Rim-Robots_",
         "karmaTypeForAdding": null
       },
-      "defName": "Bravery",
-      "name": "fearless"
+      "defName": "Anthropophobia",
+      "name": "anthropophobe"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1,
+      "description": "Timmy exists to serve humanity. he has an unshakable yet endearing infatuation with biological sentience.",
+      "stats": [],
+      "conflicts": [
+        "automatonophobe"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "automatonophobe"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Rim-Robots_",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Anthropophobia",
+      "name": "anthropophile"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is always ready with a flirtatious comment or a playful compliment, lifting the spirits of those around him. he has a knack for making others feel special and desired, however this may sometimes lead to complicated situations when he's playful intentions are misinterpreted.",
+      "stats": [],
+      "conflicts": [
+        "abrasive",
+        "psychopath"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "abrasive",
+          "psychopath"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Races Expanded - Highmate",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VRE_Flirty",
+      "name": "flirty"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is exceptionally empathetic and sensitive to the suffering of others. Whenever he witnesses pain or hardship, it deeply affects him, resulting in memories of these events haunting Timmy for a much longer time.",
+      "stats": [],
+      "conflicts": [
+        "bloodlust",
+        "psychopath"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "bloodlust",
+          "psychopath"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Races Expanded - Highmate",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VRE_Distressed",
+      "name": "distressed"
     }
   ],
   "races": [
@@ -7606,9 +6206,6 @@
         "stats": [
           "+60.00 Mass",
           "+70% Flammability",
-          "+1.0 Melee dodge chance",
-          "+100% Melee critical chance",
-          "+100% Melee parry chance",
           "+$1750 Market value",
           "+4.60 Move speed",
           "+16.0C Minimum comfortable temperature",
@@ -7630,418 +6227,36 @@
         "customName": false,
         "stats": [
           "+60.00 Mass",
-          "+30% Flammability",
-          "+1.3 Melee dodge chance",
-          "+115% Melee critical chance",
-          "+125% Melee parry chance",
-          "+$2000 Market value",
-          "+5.00 Move speed",
-          "+8.0C Minimum comfortable temperature",
-          "+32.0C Maximum comfortable temperature",
-          "+55 Leather amount",
-          "+80 Carrying capacity",
-          "+25% Psychic sensitivity",
-          "+75% Mining speed",
-          "+1.0 Weapon handling",
-          "+75% Aiming time",
-          "+2.5% Mental break threshold",
-          "+105% Immunity gain speed",
-          "+85% Pain shock threshold",
-          "+1 Foraged food amount",
-          "+115% Global learning factor",
-          "+1.2 Melee hit chance",
-          "+118% General labor speed",
-          "+115% Butchery speed",
-          "+115% Butchery efficiency",
-          "+85% Smelting speed",
-          "+75.00% Negotiation ability",
-          "+75.00% Social impact",
-          "+75.00% Trade price improvement"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "The Aeldari race has a long and complex spacefaring history, so long in fact that little is known for certain about the course of their physical evolution and early planet-bound existence. The original Aeldari homeworld was destroyed during the catastrophic collapse of the Aeldari civilisation known as the Fall of the Aeldari. The remnants of Aeldari culture that survived the cataclysm preserved much of their species' history in the form of traditional stories, songs and dance. Written records, monuments and visual records were almost completely destroyed except for a few instances where they were taken aboard voidcraft fleeing from the doomed worlds.\n\nAs a humanoid race, Aeldari are physically similar to humans, although not entirely identical by any means. They possess longer and cleaner limbs, and fine ascetic features with penetrating and slightly slanted, almond-shaped eyes. Their ears are also slightly pointed, but otherwise they could pass as human at first glance. The most obvious difference between humans and Aeldari can only be seen when they move, for the movements of an Aeldari radiate a subtle grace which is impossible for a human to emulate. This can be seen in even their slightest gestures or the dexterity with which they manipulate small objects.\n\nThe Aeldari mind, while similar in general to the human psyche, is far more inclined towards extremes. Because of this, Aeldari are more intelligent but also far more intense than humans. Although an Aeldari and a human can both feel grief or joy, the Aeldari's experience is likely to be far more extreme.",
-      "defName": "OG_Alien_DarkEldar",
-      "enabled": true,
-      "name": "Dark Eldar",
-      "price": 3333
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+60.00 Mass",
-          "+30% Flammability",
-          "+1.3 Melee dodge chance",
-          "+115% Melee critical chance",
-          "+125% Melee parry chance",
-          "+$2000 Market value",
-          "+5.00 Move speed",
-          "+8.0C Minimum comfortable temperature",
-          "+32.0C Maximum comfortable temperature",
-          "+55 Leather amount",
-          "+80 Carrying capacity",
-          "+125% Psychic sensitivity",
-          "+75% Mining speed",
-          "+1.0 Weapon handling",
-          "+75% Aiming time",
-          "+2.5% Mental break threshold",
-          "+105% Immunity gain speed",
-          "+85% Pain shock threshold",
-          "+1 Foraged food amount",
-          "+115% Global learning factor",
-          "+1.2 Melee hit chance",
-          "+118% General labor speed",
-          "+85% Butchery speed",
-          "+85% Butchery efficiency",
-          "+85% Smelting speed",
-          "+115.00% Negotiation ability",
-          "+115.00% Social impact",
-          "+115.00% Trade price improvement",
-          "+0.13 Armor - Sharp",
-          "+1 Armor - Blunt"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "The Aeldari race has a long and complex spacefaring history, so long in fact that little is known for certain about the course of their physical evolution and early planet-bound existence. The original Aeldari homeworld was destroyed during the catastrophic collapse of the Aeldari civilisation known as the Fall of the Aeldari. The remnants of Aeldari culture that survived the cataclysm preserved much of their species' history in the form of traditional stories, songs and dance. Written records, monuments and visual records were almost completely destroyed except for a few instances where they were taken aboard voidcraft fleeing from the doomed worlds.\n\nAs a humanoid race, Aeldari are physically similar to humans, although not entirely identical by any means. They possess longer and cleaner limbs, and fine ascetic features with penetrating and slightly slanted, almond-shaped eyes. Their ears are also slightly pointed, but otherwise they could pass as human at first glance. The most obvious difference between humans and Aeldari can only be seen when they move, for the movements of an Aeldari radiate a subtle grace which is impossible for a human to emulate. This can be seen in even their slightest gestures or the dexterity with which they manipulate small objects.\n\nThe Aeldari mind, while similar in general to the human psyche, is far more inclined towards extremes. Because of this, Aeldari are more intelligent but also far more intense than humans. Although an Aeldari and a human can both feel grief or joy, the Aeldari's experience is likely to be far more extreme.",
-      "defName": "OG_Alien_Eldar",
-      "enabled": true,
-      "name": "Eldar",
-      "price": 3333
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+60.00 Mass",
-          "+30% Flammability",
-          "+0.8 Melee dodge chance",
-          "+115% Melee critical chance",
-          "+115% Melee parry chance",
-          "+$2000 Market value",
-          "+4.50 Move speed",
-          "+3.0C Minimum comfortable temperature",
-          "+42.0C Maximum comfortable temperature",
-          "+55 Leather amount",
-          "+100 Carrying capacity",
-          "+35% Psychic sensitivity",
-          "+140% Mining speed",
-          "-0.3 Weapon handling",
-          "+75% Aiming time",
-          "+15% Mental break threshold",
-          "+125% Immunity gain speed",
-          "+95% Pain shock threshold",
-          "+0.85 Foraged food amount",
-          "+85% Global learning factor",
-          "+1.3 Melee hit chance",
-          "+75% General labor speed",
-          "+150% Butchery speed",
-          "+125% Butchery efficiency",
-          "+75% Smelting speed",
-          "+50.00% Negotiation ability",
-          "+50.00% Social impact",
-          "+50.00% Trade price improvement"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "The pinnacle of the orkoid species: A fully grown Ork.",
-      "defName": "OG_Alien_Ork",
-      "enabled": true,
-      "name": "Ork",
-      "price": 3333
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+60.00 Mass",
-          "+30% Flammability",
-          "+0.8 Melee dodge chance",
-          "+75% Melee critical chance",
-          "+75% Melee parry chance",
-          "+$2000 Market value",
-          "+5.00 Move speed",
-          "+6.0C Minimum comfortable temperature",
-          "+35.0C Maximum comfortable temperature",
-          "+15 Leather amount",
-          "+50 Carrying capacity",
-          "+35% Psychic sensitivity",
-          "+80% Mining speed",
-          "+0.3 Weapon handling",
-          "+75% Aiming time",
-          "+4.5% Mental break threshold",
-          "+125% Immunity gain speed",
-          "+75% Pain shock threshold",
-          "+1.5 Foraged food amount",
-          "+75% Global learning factor",
-          "+0.9 Melee hit chance",
-          "+92% General labor speed",
-          "+125% Butchery speed",
-          "+75% Butchery efficiency",
-          "+75% Smelting speed",
-          "+75.00% Negotiation ability",
-          "+75.00% Social impact",
-          "+85.00% Trade price improvement"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "Gretchin or Grotz are basically a smaller subspecies of Orks, who are more cowardly than normal Orks and are usually used as living shields, to clear mine fields, are stepped on to get through difficult terrain, and sometimes even as emergency rations. Gretchins are quite low in the strict hierarchy of Ork society because of their small size (the lowest Orkoids being the Snotlings) and are often used for the dirtiest jobs like scavenging and being used as the football when the bigger Orks get bored.\n\nWhile they are not as aggressive as standard Orks, they enjoy fighting weaker opponents and are less likely to flee if they comfortably outnumber their opponents. If a Gretchin is particularly wealthy, he may purchase a second-hand, worn-down, low-tech gun. These guns are mainly to reassure the Gretchin that they have a chance of killing something, provided they remember which way to hold the gun.",
-      "defName": "OG_Alien_Grot",
-      "enabled": true,
-      "name": "Grot",
-      "price": 3333
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+60.00 Mass",
-          "+30% Flammability",
-          "+1.3 Melee dodge chance",
-          "+125% Melee critical chance",
-          "+125% Melee parry chance",
-          "+$2000 Market value",
-          "+5.00 Move speed",
-          "+6.0C Minimum comfortable temperature",
-          "+35.0C Maximum comfortable temperature",
-          "+65 Leather amount",
-          "+110 Carrying capacity",
-          "+100% Mining speed",
-          "+0.3 Weapon handling",
-          "+95% Aiming time",
-          "+85% Trap spring chance",
-          "+25% Mental break threshold",
-          "+105% Immunity gain speed",
-          "+90% Pain shock threshold",
-          "+0.5 Foraged food amount",
-          "+95% Global learning factor",
-          "+1.3 Melee hit chance",
-          "+105% General labor speed",
-          "+175% Butchery speed",
-          "+175% Butchery efficiency",
-          "+85% Smelting speed",
-          "+95.00% Negotiation ability",
-          "+85.00% Social impact",
-          "-0.2 Beauty",
-          "+85.00% Trade price improvement"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "The Kroot originated on the world of Pech and, though their physiology is humanoid, there is evidence to suggest that the roots of their evolution may be avian in origin. They retain vestigial beaks and have a light, almost hollow bone structure, with four digits on each hand and foot. Their skin is rough with small, barbed spines, similar to the elongated quills on their heads, protruding from various locations on their flesh. Skin pigmentation ranges from earthy brown colours and dappled greens to vibrant oranges and everything in between. Depending on the feeding directions of the Kroot Shapers, the colouration of each kindred can vary quite considerably. It is also common for Kroot from each kindred to have particular tribal markings painted onto their skin. Kroot mature quickly, with their most rapid period of growth occurring in the first ten years of their lives. By the age of twelve they are considered adults and it is not unknown for Kroot to live to over a hundred years old, their skin becoming increasingly pitted and leathery in their last few years of life",
-      "defName": "OG_Alien_Kroot",
-      "enabled": true,
-      "name": "Kroot",
-      "price": 3333
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+60.00 Mass",
-          "+30% Flammability",
-          "+0.9 Melee dodge chance",
-          "+82% Melee critical chance",
-          "+82% Melee parry chance",
-          "+50 Armor - Blunt",
-          "+16 Armor - Sharp",
-          "+2040.0% Armor - Heat",
-          "+$2000 Market value",
-          "+4.50 Move speed",
-          "+12.0C Minimum comfortable temperature",
-          "+38.0C Maximum comfortable temperature",
-          "+55 Leather amount",
-          "+80 Carrying capacity",
-          "+0% Psychic sensitivity",
-          "+95% Mining speed",
-          "+0.1 Weapon handling",
-          "+75% Aiming time",
-          "+32% Mental break threshold",
-          "+105% Immunity gain speed",
-          "+75% Pain shock threshold",
-          "+0.1 Foraged food amount",
-          "+115% Global learning factor",
-          "+0.9 Melee hit chance",
-          "+111% General labor speed",
-          "+85% Butchery speed",
-          "+95% Butchery efficiency",
-          "+105% Smelting speed",
-          "+115.00% Negotiation ability",
-          "+115.00% Social impact",
-          "+115.00% Trade price improvement"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "The Tau are generally shorter than humans, smaller in stature and with less muscle mass and body weight. Every Tau is humanoid in shape, with two arms,[17] two cloven feet, and a single head. Their grey-blue skin is leathery and tough and exudes no moisture, owing to the generally dry conditions of their homeworld. Their faces are flat, wide around the eyes, and their olfactory organs are located inside their mouths. Their eyes can see into the infrared and ultraviolet. Tau eyesight is good, but they focus on distant objects slower than humans. The Tau are not very good in close combat, as they find the whole concept uncivilized.\n\nThe Tau has three digits and a single opposable thumb on each hand. The main difference from humans is the bone structure of Tau's lower legs, feet and ankles. Tau have shorter bones of the libia and fibia, but their feet have elongated cuneiform bones and talus and two large central weight-bearing toes. The Tau have eveolved to stand and move without using their heels.[17]",
-      "defName": "OG_Alien_Tau",
-      "enabled": true,
-      "name": "Tau",
-      "price": 3333
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+60.00 Mass",
-          "+30% Flammability",
-          "+1.1 Melee dodge chance",
-          "+100% Melee critical chance",
-          "+100% Melee parry chance",
-          "+$2000 Market value",
-          "+5.00 Move speed",
-          "+6.0C Minimum comfortable temperature",
-          "+35.0C Maximum comfortable temperature",
-          "+65 Leather amount",
-          "+110 Carrying capacity",
-          "+100% Mining speed",
-          "+0.7 Weapon handling",
-          "+115% Aiming time",
-          "+4.5% Mental break threshold",
-          "+125% Immunity gain speed",
-          "+90% Pain shock threshold",
-          "+2.5 Foraged food amount",
-          "+95% Global learning factor",
-          "+1.1 Melee hit chance",
-          "+105% General labor speed",
-          "+75% Butchery speed",
-          "+125% Butchery efficiency",
-          "+85% Smelting speed",
-          "+85.00% Negotiation ability",
-          "+85.00% Social impact",
-          "+85.00% Trade price improvement"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "The Vespid are a unique race of insect-like aliens who are members of the T'au Empire. In the T'au Lexicon, they are called \"Mal'kor.\" This derives from the T'au words for insect, \"Mal,\" and air, \"Kor.\" The soldiers of the Imperium of Man often refer to them as \"Stingwings.\" The Vespids' homeworld is a gas giant also called Vespid, three light years to the galactic south of the T'au's D'yanoi Sept.",
-      "defName": "OG_Alien_Vespid",
-      "enabled": true,
-      "name": "Vespid",
-      "price": 3333
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+60.00 Mass",
-          "+70% Flammability",
-          "+1.0 Melee dodge chance",
-          "+100% Melee critical chance",
-          "+100% Melee parry chance",
-          "+$1750 Market value",
-          "+4.60 Move speed",
-          "+16.0C Minimum comfortable temperature",
-          "+26.0C Maximum comfortable temperature",
-          "+75 Leather amount",
-          "+3 Honor value"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "Ratlings (Homo sapiens minimus) are small, loud, hungry and lecherous Abhumans who often serve as snipers in the Astra Militarum, a role at which they excel. Ratlings also serve as cooks for Imperial Guard regiments, a skill they no doubt learned in order to feed their own seemingly bottomless stomachs; and they also have kleptomaniac tendencies, as Commissars report petty theft and illegal gambling rings increase substantially when Ratlings are attached to a platoon, company or regiment.",
-      "defName": "OG_Abhuman_Ratlin",
-      "enabled": true,
-      "name": "ratling",
-      "price": 2917
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+60.00 Mass",
-          "+70% Flammability",
-          "+1.0 Melee dodge chance",
-          "+100% Melee critical chance",
-          "+100% Melee parry chance",
-          "+$2500 Market value",
-          "+3.50 Move speed",
-          "-10.0C Minimum comfortable temperature",
-          "+32.0C Maximum comfortable temperature",
-          "+150 Leather amount",
-          "+3 Honor value",
-          "+0.13 Armor - Sharp",
-          "+1 Armor - Blunt"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "The dim-witted human sub-species called Ogryns (Homo sapiens gigantus) evolved on high-gravity, low-temperature prison planets. They are huge and unusually stupid for a human subrace, but unquestionably loyal to the Imperium once introduced to the faith of the Imperial Cult. Ogryns are used as the Imperial Guard's shock troops, and for this role, they are commonly outfitted with the Ripper Gun. The Ripper Gun is a weapon simple enough for them to operate, although some feral Ogryn cannot even fathom this device. Ogryn are also frequently used as bodyguards by Imperial Commanders.",
-      "defName": "OG_Abhuman_Ogryn",
-      "enabled": true,
-      "name": "ogryn",
-      "price": 4150
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+60.00 Mass",
-          "+70% Flammability",
-          "+1.0 Melee dodge chance",
-          "+100% Melee critical chance",
-          "+100% Melee parry chance",
-          "+$1750 Market value",
-          "+4.60 Move speed",
-          "+16.0C Minimum comfortable temperature",
-          "+26.0C Maximum comfortable temperature",
-          "+75 Leather amount",
-          "+3 Honor value"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "A baseline human, while mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets, members of the Cult Mechanicus have usually undergone heavy bionic modifications.",
-      "defName": "OG_Human_Mechanicus",
-      "enabled": true,
-      "name": "human (Mechanicus)",
-      "price": 3000
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+60.00 Mass",
           "+0% Flammability",
-          "+1.0 Melee dodge chance",
-          "+100% Melee critical chance",
-          "+100% Melee parry chance",
           "+0% Fertility",
-          "+1 Mech bandwidth",
-          "+50% Psychic sensitivity",
           "+100% Toxic resistance",
           "+100% Toxic environment resistance",
-          "+99900% Immunity gain speed",
+          "+2 Repair energy cost",
+          "+100% Persona repair speed",
           "+0 Meat amount",
           "+0 Leather amount",
+          "+1 Mech bandwidth",
+          "+50% Psychic sensitivity",
           "+4.15 Move speed",
           "-100.0C Minimum comfortable temperature",
           "+250.0C Maximum comfortable temperature",
           "+$4500 Market value",
-          "+4 Honor value",
           "+85 Carrying capacity",
           "+20% Mental break threshold",
           "+90% Pain shock threshold",
-          "+80% Injury healing factor",
+          "+50% Injury healing factor",
           "+80% Research speed",
-          "+100% Mining speed",
           "+50.00% Social impact",
-          "+100% Plant work speed",
           "+80% Plant harvest yield",
           "+120% Construction speed",
-          "+2.5 Armor - Blunt",
-          "+1 Armor - Sharp",
-          "+200.0% Armor - Heat",
-          "+0% Smoke sensitivity"
+          "+7.2% Armor - Blunt",
+          "+18.5% Armor - Sharp",
+          "+200.0% Armor - Heat"
         ],
         "mod": "Unknown",
         "karmaType": null
       },
-      "description": "A basic mechanent, or a \"human-class mechanoid\". Often used by glitterworld societies or advanced urbworlds as a menial labor force - they are capable of sub-sentience and certain emotions. Their creation is illegal on some core-worlds.\n\nBeing mechanical in nature - mechanents do not need to rest, and just like mechanoids, they can be susceptible to psychic tampering.",
+      "description": "A humanlike-mechanoid that utilizes a highly sophisticated subpersona core to approach a live human in its thought complexity; however, their \"minds\" are of a very different nature. And are incapable of emulating complex emotions.\n\nWhile they possess a degree of individuality, mechanents are not fully sentient - relying on mimicry of human behavior to appear less mechanical.",
       "defName": "Mechanent",
       "enabled": true,
       "name": "mechanent",
@@ -8053,40 +6268,32 @@
         "stats": [
           "+60.00 Mass",
           "+30% Flammability",
-          "+1.2 Melee dodge chance",
-          "+100% Melee critical chance",
-          "+100% Melee parry chance",
           "+0% Fertility",
-          "+2 Mech bandwidth",
-          "+120% Psychic sensitivity",
           "+100% Toxic resistance",
           "+100% Toxic environment resistance",
+          "+2 Repair energy cost",
+          "+100% Persona repair speed",
+          "+0 Meat amount",
+          "+0 Leather amount",
+          "+2 Mech bandwidth",
           "-50.0C Minimum comfortable temperature",
           "+150.0C Maximum comfortable temperature",
           "+6 Honor value",
-          "+0 Meat amount",
-          "+0 Leather amount",
           "+0.5 Beauty",
+          "+1.2 Melee dodge chance",
           "+$5500 Market value",
           "+5.00 Move speed",
-          "+75 Carrying capacity",
-          "+29% Mental break threshold",
-          "+80% Pain shock threshold",
-          "+100% Injury healing factor",
           "+120% Medical surgery success chance",
+          "+80% Injury healing factor",
           "+120% Research speed",
           "+120.00% Negotiation ability",
           "+120.00% Social impact",
-          "+100% Plant harvest yield",
-          "+0 Armor - Blunt",
-          "+0 Armor - Sharp",
-          "+180.0% Armor - Heat",
-          "+0% Smoke sensitivity"
+          "+180.0% Armor - Heat"
         ],
         "mod": "Unknown",
         "karmaType": null
       },
-      "description": "The avatar of an AI persona core. A relatively new creation originating from advanced glitterworld laboratories - they have all the capabilities of a baseline human.\n\nDespite being synthetic in nature - personae still need to rest, but they don't need fuel. They can experience everything from psychic tampering, to complex emotions.",
+      "description": "The avatar of an AI persona core - a fusion of archotech and bleeding-edge technology, their vessels are often analogous and strikingly identical to a live human. They're both reviled and revered by human cultures.",
       "defName": "Personae_",
       "enabled": true,
       "name": "persona",
