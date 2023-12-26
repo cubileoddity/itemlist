@@ -240,6 +240,12 @@
     "version": null
   },
   {
+    "author": "22、昏暗",
+    "name": "Biotech xenotype expanded - Rotfish",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Zaljerem",
     "name": "Blackhole Industries (Continued)",
     "steamId": null,
@@ -402,6 +408,12 @@
     "version": null
   },
   {
+    "author": "Aelanna",
+    "name": "Eccentric Tech - Spacer Furniture",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Sir Van and Elseud",
     "name": "Eltex Weaponry",
     "steamId": null,
@@ -440,6 +452,12 @@
   {
     "author": "TillEulenspiegel",
     "name": "Fridges Are Hoppers",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Garry Flowers",
+    "name": "Gendered Genes",
     "steamId": null,
     "version": null
   },
@@ -1272,12 +1290,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Furniture Expanded - Props and Decor",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "OskarPotocki, Atlas and Kikohi",
     "name": "Vanilla Furniture Expanded",
     "steamId": null,
@@ -1344,14 +1356,20 @@
     "version": null
   },
   {
-    "author": "mayonnaise",
-    "name": "Vanilla Psycasts Expanded Psychic Sensitivity Scaling",
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Races Expanded - Waster",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Oskar Potocki and Sarg Bjornson",
-    "name": "Vanilla Races Expanded - Waster",
+    "author": "DANZEN",
+    "name": "Vanilla Psycast Expanded - Biotech Integration",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "mayonnaise",
+    "name": "Vanilla Psycasts Expanded Psychic Sensitivity Scaling",
     "steamId": null,
     "version": null
   },
