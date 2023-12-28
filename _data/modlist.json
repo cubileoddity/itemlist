@@ -510,12 +510,6 @@
     "version": null
   },
   {
-    "author": "Adamas",
-    "name": "Hospitality: Spa",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Bunghole",
     "name": "Hox Gene Plants",
     "steamId": null,
@@ -542,12 +536,6 @@
   {
     "author": "一个龟龟",
     "name": "Increase Gene Processor Complexity",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "DimonSever000",
-    "name": "Insect Evolution [1.4]",
     "steamId": null,
     "version": null
   },
@@ -602,18 +590,6 @@
   {
     "author": "_sashkaa",
     "name": "Larger Genebank",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "BBLKepling",
-    "name": "Leaky Boomalopes",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Mlie",
-    "name": "Less Stupid Romance Attempt (Continued)",
     "steamId": null,
     "version": null
   },
@@ -816,12 +792,6 @@
     "version": null
   },
   {
-    "author": "bradson",
-    "name": "Oversized Apparel Framework",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Peppsen",
     "name": "P-Music",
     "steamId": null,
@@ -836,6 +806,12 @@
   {
     "author": "Уверен?",
     "name": "Plant Anything in Hydroponics",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "Plasteel Surgery (Continued)",
     "steamId": null,
     "version": null
   },
@@ -1016,12 +992,6 @@
   {
     "author": "Vakaria",
     "name": "Respect the Scars",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "VexedTrees",
-    "name": "Rim-Robots_",
     "steamId": null,
     "version": null
   },
@@ -1356,20 +1326,14 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki and Sarg Bjornson",
-    "name": "Vanilla Races Expanded - Waster",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "DANZEN",
-    "name": "Vanilla Psycast Expanded - Biotech Integration",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "mayonnaise",
     "name": "Vanilla Psycasts Expanded Psychic Sensitivity Scaling",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Races Expanded - Waster",
     "steamId": null,
     "version": null
   },
@@ -1454,12 +1418,6 @@
   {
     "author": "LimeTreeSnake",
     "name": "[LTS]Xenotech",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Mlie",
-    "name": "Plasteel Surgery (Continued)",
     "steamId": null,
     "version": null
   },

@@ -7315,30 +7315,6 @@
 		"defname": "VME_EldritchSlab_Broad"
 	},
 	{
-		"abr": "t1rangedshieldbelt",
-		"price": 917,
-		"category": "Apparel",
-		"defname": "Apparel_T1RangedShieldBelt"
-	},
-	{
-		"abr": "t2rangedshieldbelt",
-		"price": 2158,
-		"category": "Apparel",
-		"defname": "Apparel_T2RangedShieldBelt"
-	},
-	{
-		"abr": "t3frangedshieldbelt",
-		"price": 6683,
-		"category": "Apparel",
-		"defname": "Apparel_T3FastRangedShieldBelt"
-	},
-	{
-		"abr": "t3rangedshieldbelt",
-		"price": 6683,
-		"category": "Apparel",
-		"defname": "Apparel_T3RangedShieldBelt"
-	},
-	{
 		"abr": "alligatormeat",
 		"price": 3,
 		"category": "Meat",
@@ -7685,12 +7661,6 @@
 		"price": 650,
 		"category": "Production",
 		"defname": "BiofuelRefinery"
-	},
-	{
-		"abr": "conditionall",
-		"price": 30,
-		"category": "Drugs",
-		"defname": "PS_Drugs_Conditionall"
 	},
 	{
 		"abr": "darkcolumn",
@@ -8093,12 +8063,6 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_AA_Razorjack"
-	},
-	{
-		"abr": "reconditioningpod",
-		"price": 3392,
-		"category": "Misc",
-		"defname": "PS_Buildings_ReconPod"
 	},
 	{
 		"abr": "redpandameat",
@@ -10243,12 +10207,6 @@
 		"defname": "VFEI_AdrenalSecretor"
 	},
 	{
-		"abr": "advancedshieldbattery",
-		"price": 692,
-		"category": "Manufactured",
-		"defname": "AdvancedShieldBattery"
-	},
-	{
 		"abr": "agavenectar",
 		"price": 2,
 		"category": "Condiments",
@@ -10559,12 +10517,6 @@
 		"price": 2275,
 		"category": "Utility",
 		"defname": "Apparel_PackBandwidth"
-	},
-	{
-		"abr": "basicshieldbattery",
-		"price": 280,
-		"category": "Manufactured",
-		"defname": "BasicShieldBattery"
 	},
 	{
 		"abr": "basicsubcore",
@@ -13973,84 +13925,6 @@
 		"price": 2000,
 		"category": "Insect",
 		"defname": "VFEI_SynapticCerebellum"
-	},
-	{
-		"abr": "t2empresistrangedshieldbelt",
-		"price": 3025,
-		"category": "Apparel",
-		"defname": "Apparel_T2ERRangedShieldBelt"
-	},
-	{
-		"abr": "t2extrabatteryrangedshieldbelt",
-		"price": 3025,
-		"category": "Apparel",
-		"defname": "Apparel_T2EBRangedShieldBelt"
-	},
-	{
-		"abr": "t2fastrechargerangedshieldbelt",
-		"price": 3025,
-		"category": "Apparel",
-		"defname": "Apparel_T2FRRangedShieldBelt"
-	},
-	{
-		"abr": "t2meleesupportrangedshieldbelt",
-		"price": 3025,
-		"category": "Apparel",
-		"defname": "Apparel_T2MERangedShieldBelt"
-	},
-	{
-		"abr": "t2overclockrangedshieldbelt",
-		"price": 3025,
-		"category": "Apparel",
-		"defname": "Apparel_T2OCRangedShieldBelt"
-	},
-	{
-		"abr": "t2reinforcedrangedshieldbelt",
-		"price": 3025,
-		"category": "Apparel",
-		"defname": "Apparel_T2RERangedShieldBelt"
-	},
-	{
-		"abr": "t2sharpshooterrangedshieldbelt",
-		"price": 3025,
-		"category": "Apparel",
-		"defname": "Apparel_T2SSRangedShieldBelt"
-	},
-	{
-		"abr": "t3empresistrangedshieldbelt",
-		"price": 7933,
-		"category": "Apparel",
-		"defname": "Apparel_T3ERRangedShieldBelt"
-	},
-	{
-		"abr": "t3extrabatteryrangedshieldbelt",
-		"price": 7933,
-		"category": "Apparel",
-		"defname": "Apparel_T3EBRangedShieldBelt"
-	},
-	{
-		"abr": "t3meleesupportrangedshieldbelt",
-		"price": 7933,
-		"category": "Apparel",
-		"defname": "Apparel_T3MERangedShieldBelt"
-	},
-	{
-		"abr": "t3overclockrangedshieldbelt",
-		"price": 7933,
-		"category": "Apparel",
-		"defname": "Apparel_T3OCRangedShieldBelt"
-	},
-	{
-		"abr": "t3reinforcedrangedshieldbelt",
-		"price": 7933,
-		"category": "Apparel",
-		"defname": "Apparel_T3RERangedShieldBelt"
-	},
-	{
-		"abr": "t3sssharpshooterrangedshieldbelt",
-		"price": 7933,
-		"category": "Apparel",
-		"defname": "Apparel_T3SSRangedShieldBelt"
 	},
 	{
 		"abr": "taroroots",
@@ -19189,18 +19063,6 @@
 		"defname": "EccentricFurniture_BasicShelf"
 	},
 	{
-		"abr": "advancedfissionreactor",
-		"price": 2300,
-		"category": "Synthetic body parts",
-		"defname": "RR_FissionReactorItem"
-	},
-	{
-		"abr": "archotechuplink",
-		"price": 7667,
-		"category": "Synthetic body parts",
-		"defname": "RR_ArchotechUplinkItem"
-	},
-	{
 		"abr": "ceilinglamp",
 		"price": 65,
 		"category": "Furniture",
@@ -19219,24 +19081,6 @@
 		"defname": "EccentricFurniture_Chandelier2x2b"
 	},
 	{
-		"abr": "chargecell",
-		"price": 60,
-		"category": "Meals",
-		"defname": "FuelNode_SynthDiet"
-	},
-	{
-		"abr": "controlsublink(high)",
-		"price": 2000,
-		"category": "Mechtech",
-		"defname": "ControlSublinkHighSynth"
-	},
-	{
-		"abr": "controlsublink(standard)",
-		"price": 2000,
-		"category": "Mechtech",
-		"defname": "ControlSublinkSynth"
-	},
-	{
 		"abr": "endtable",
 		"price": 106,
 		"category": "Furniture",
@@ -19248,30 +19092,6 @@
 		"category": "Furniture",
 		"defname": "EccentricFurniture_EndTableIlluminated"
 	},
-	{
-		"abr": "fridgevendingmachine",
-		"price": 189,
-		"category": "Furniture",
-		"defname": "OwlFridgeVendingMachine"
-	},
-	{
-		"abr": "mechgestationprocessor",
-		"price": 2000,
-		"category": "Mechtech",
-		"defname": "MechFormfeederSynth"
-	},
-	{
-		"abr": "mechanent",
-		"price": 7500,
-		"category": "Animal",
-		"defname": "Mechanent"
-	},
-	{
-		"abr": "mechanentcomponent",
-		"price": 3883,
-		"category": "Items",
-		"defname": "ComponentMechanent"
-	},
 	],
-	"total": 3298
+	"total": 3259
 }

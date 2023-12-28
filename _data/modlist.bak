@@ -198,6 +198,12 @@
     "version": null
   },
   {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Vanilla Bionics Expansion",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "AUTOMATIC",
     "name": "Bionic icons",
     "steamId": null,
@@ -374,6 +380,12 @@
   {
     "author": "dracoix",
     "name": "Door Mat",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "8Z",
+    "name": "Dormitories Not Barracks",
     "steamId": null,
     "version": null
   },
@@ -1046,18 +1058,6 @@
   {
     "author": "Roolo and Updated by Ogliss",
     "name": "RunAndGun",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Scorpio",
-    "name": "SOS2 EVA auto patcher",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "M",
-    "name": "SOS2 Stuffed",
     "steamId": null,
     "version": null
   },
