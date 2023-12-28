@@ -10243,12 +10243,6 @@
 		"defname": "VFEI_AdrenalSecretor"
 	},
 	{
-		"abr": "advancedfissionreactor",
-		"price": 2300,
-		"category": "Synthetic body parts",
-		"defname": "RR_FissionReactorItem"
-	},
-	{
 		"abr": "advancedshieldbattery",
 		"price": 692,
 		"category": "Manufactured",
@@ -11515,12 +11509,6 @@
 		"defname": "Turret_FoamTurret"
 	},
 	{
-		"abr": "fuelnode",
-		"price": 60,
-		"category": "Meals",
-		"defname": "FuelNode_SynthDiet"
-	},
-	{
 		"abr": "gasmask",
 		"price": 176,
 		"category": "Headgear",
@@ -12223,46 +12211,10 @@
 		"defname": "BasicRecharger"
 	},
 	{
-		"abr": "mechanent",
-		"price": -10,
-		"category": "Animal",
-		"defname": "Mechanent"
-	},
-	{
-		"abr": "mechanentcomponent",
-		"price": 2717,
-		"category": "Items",
-		"defname": "ComponentMechanent"
-	},
-	{
-		"abr": "mechanicalarm",
-		"price": 725,
-		"category": "Synthetic body parts",
-		"defname": "Item_MechArmSynth"
-	},
-	{
-		"abr": "mechanicaljaw",
-		"price": 658,
-		"category": "Synthetic body parts",
-		"defname": "Item_MechJawSynth"
-	},
-	{
-		"abr": "mechanicalleg",
-		"price": 725,
-		"category": "Synthetic body parts",
-		"defname": "Item_MechLegSynth"
-	},
-	{
 		"abr": "mechanoidtransponder",
 		"price": 333,
 		"category": "Misc",
 		"defname": "MechanoidTransponder"
-	},
-	{
-		"abr": "mechanoid-casket",
-		"price": 4242,
-		"category": "Production",
-		"defname": "MechCreationCasket"
 	},
 	{
 		"abr": "mechbandantenna",
@@ -12553,12 +12505,6 @@
 		"defname": "CONN_OuterBlade"
 	},
 	{
-		"abr": "overengineeredpsylink-former",
-		"price": 4333,
-		"category": "Archotech",
-		"defname": "PsylinkFormerSynth"
-	},
-	{
 		"abr": "ovipositor(female)",
 		"price": 83,
 		"category": "Natural",
@@ -12631,18 +12577,6 @@
 		"defname": "Penis"
 	},
 	{
-		"abr": "persona",
-		"price": -10,
-		"category": "Animal",
-		"defname": "Personae_"
-	},
-	{
-		"abr": "personacomponent",
-		"price": 10417,
-		"category": "Items",
-		"defname": "ComponentPersona"
-	},
-	{
 		"abr": "peyote",
 		"price": 10,
 		"category": "Drugs",
@@ -12695,12 +12629,6 @@
 		"price": 3333,
 		"category": "Melee weapons",
 		"defname": "VFE_Plasmasaw"
-	},
-	{
-		"abr": "plasteelscythe",
-		"price": 758,
-		"category": "Synthetic body parts",
-		"defname": "RR_AddedScythesItem"
 	},
 	{
 		"abr": "platybelodon",
@@ -14047,30 +13975,6 @@
 		"defname": "VFEI_SynapticCerebellum"
 	},
 	{
-		"abr": "syntheticarm",
-		"price": 1808,
-		"category": "Synthetic body parts",
-		"defname": "Item_SynthArmSynth"
-	},
-	{
-		"abr": "syntheticeye",
-		"price": 717,
-		"category": "Synthetic body parts",
-		"defname": "Item_SynthEyeSynth"
-	},
-	{
-		"abr": "syntheticjaw",
-		"price": 717,
-		"category": "Synthetic body parts",
-		"defname": "Item_SynthJawSynth"
-	},
-	{
-		"abr": "syntheticleg",
-		"price": 1808,
-		"category": "Synthetic body parts",
-		"defname": "Item_SynthLegSynth"
-	},
-	{
 		"abr": "t2empresistrangedshieldbelt",
 		"price": 3025,
 		"category": "Apparel",
@@ -14489,12 +14393,6 @@
 		"price": 2000,
 		"category": "Insect",
 		"defname": "VFEI_VentricularSleeve"
-	},
-	{
-		"abr": "visualsensor",
-		"price": 658,
-		"category": "Synthetic body parts",
-		"defname": "Item_MechEyeSynth"
 	},
 	{
 		"abr": "walrusmeat",
@@ -15121,12 +15019,6 @@
 		"defname": "SNS_Television_GenII"
 	},
 	{
-		"abr": "advancedholodeck",
-		"price": 3275,
-		"category": "Recreation",
-		"defname": "Holodeck_Standard"
-	},
-	{
 		"abr": "advancednutrientbar",
 		"price": 58,
 		"category": "Meals",
@@ -15167,12 +15059,6 @@
 		"price": 1250,
 		"category": "Animals",
 		"defname": "AEXP_AfricanWildDog"
-	},
-	{
-		"abr": "afterlifecasket",
-		"price": 3575,
-		"category": "Buildings",
-		"defname": "Ship_AvatarCasket"
 	},
 	{
 		"abr": "amplifierofambition(cosmiccomponent#5/5)",
@@ -15223,82 +15109,10 @@
 		"defname": "Necro_AntigenOrgan"
 	},
 	{
-		"abr": "antigraintorpedo",
-		"price": 2500,
-		"category": "Torpedoes",
-		"defname": "ShipTorpedo_Antimatter"
-	},
-	{
 		"abr": "archostack",
 		"price": 14167,
 		"category": "Cortical stack",
 		"defname": "AC_FilledArchoStack"
-	},
-	{
-		"abr": "archocat",
-		"price": 1667,
-		"category": "Animals",
-		"defname": "Archocat"
-	},
-	{
-		"abr": "archoffalo",
-		"price": 1667,
-		"category": "Animals",
-		"defname": "Archoffalo"
-	},
-	{
-		"abr": "archojerboa",
-		"price": 1667,
-		"category": "Animals",
-		"defname": "Archojerboa"
-	},
-	{
-		"abr": "archolifepod",
-		"price": 1667,
-		"category": "Items",
-		"defname": "ArcholifePod"
-	},
-	{
-		"abr": "archolope",
-		"price": 1667,
-		"category": "Animals",
-		"defname": "Archolope"
-	},
-	{
-		"abr": "archomutt",
-		"price": 1667,
-		"category": "Animals",
-		"defname": "Archomutt"
-	},
-	{
-		"abr": "archopanda",
-		"price": 1667,
-		"category": "Animals",
-		"defname": "Archopanda"
-	},
-	{
-		"abr": "archospider",
-		"price": 1667,
-		"category": "Animals",
-		"defname": "Archospider"
-	},
-	{
-		"abr": "archostrich",
-		"price": 1667,
-		"category": "Animals",
-		"defname": "Archostrich"
-	},
-	{
-		"abr": "archostrichegg(fert.)",
-		"price": 167,
-		"category": "Eggs (fert.)",
-		"defname": "EggArchostrichFertilized"
-	},
-	{
-		"abr": "archostrichegg(unfert.)",
-		"price": 38,
-		"category": "Eggs (unfert.)",
-		"defname": "EggArchostrichUnfertilized"
 	},
 	{
 		"abr": "archotechbio-unit",
@@ -15307,118 +15121,10 @@
 		"defname": "ArchoGenes_BioUnit"
 	},
 	{
-		"abr": "archotechear",
-		"price": 2000,
-		"category": "Archotech",
-		"defname": "SoSArchotechEar"
-	},
-	{
-		"abr": "archotechheart",
-		"price": 4667,
-		"category": "Archotech",
-		"defname": "SoSArchotechHeart"
-	},
-	{
-		"abr": "archotechkidney",
-		"price": 2000,
-		"category": "Archotech",
-		"defname": "SoSArchotechKidney"
-	},
-	{
-		"abr": "archotechliver",
-		"price": 2000,
-		"category": "Archotech",
-		"defname": "SoSArchotechLiver"
-	},
-	{
-		"abr": "archotechlung",
-		"price": 4667,
-		"category": "Archotech",
-		"defname": "SoSArchotechLung"
-	},
-	{
 		"abr": "archotechmattermanipulator",
 		"price": 26667,
 		"category": "Ranged weapons",
 		"defname": "Matter_Manipulator_Archotech"
-	},
-	{
-		"abr": "archotechnose",
-		"price": 2000,
-		"category": "Archotech",
-		"defname": "SoSArchotechNose"
-	},
-	{
-		"abr": "archotechpillaralpha",
-		"price": 16783,
-		"category": "Misc",
-		"defname": "ShipArchotechPillarA"
-	},
-	{
-		"abr": "archotechpillarbeta",
-		"price": 16783,
-		"category": "Misc",
-		"defname": "ShipArchotechPillarB"
-	},
-	{
-		"abr": "archotechpillardelta",
-		"price": 16783,
-		"category": "Misc",
-		"defname": "ShipArchotechPillarD"
-	},
-	{
-		"abr": "archotechpillargamma",
-		"price": 16783,
-		"category": "Misc",
-		"defname": "ShipArchotechPillarC"
-	},
-	{
-		"abr": "archotechskin",
-		"price": 4667,
-		"category": "Archotech",
-		"defname": "SoSArchotechSkin"
-	},
-	{
-		"abr": "archotechspine",
-		"price": 4667,
-		"category": "Archotech",
-		"defname": "SoSArchotechSpine"
-	},
-	{
-		"abr": "archotechstomach",
-		"price": 4667,
-		"category": "Archotech",
-		"defname": "SoSArchotechStomach"
-	},
-	{
-		"abr": "archotechuplink",
-		"price": 7667,
-		"category": "Synthetic body parts",
-		"defname": "RR_ArchotechUplinkItem"
-	},
-	{
-		"abr": "archotechuplink",
-		"price": 8542,
-		"category": "Misc",
-		"defname": "ArchotechUplink"
-	},
-	{
-		"abr": "archothrumbo",
-		"price": 16667,
-		"category": "Animals",
-		"defname": "Archothrumbo"
-	},
-	{
-		"abr": "archotortoise",
-		"price": 1667,
-		"category": "Animals",
-		"defname": "Archotortoise"
-	},
-	{
-		"abr": "archotortoiseegg(fert.)",
-		"price": 38,
-		"category": "Eggs (fert.)",
-		"defname": "EggArchotortoiseFertilized"
 	},
 	{
 		"abr": "arcticdrak",
@@ -15463,12 +15169,6 @@
 		"defname": "SNS_CosmicCall_Component_IV"
 	},
 	{
-		"abr": "astromite",
-		"price": 167,
-		"category": "Animals",
-		"defname": "Astromite"
-	},
-	{
 		"abr": "atomicfabricator",
 		"price": 81433,
 		"category": "Production",
@@ -15497,12 +15197,6 @@
 		"price": 63,
 		"category": "Ranged weapons",
 		"defname": "MYDE_AF_UniversalWeapon_BaseGun"
-	},
-	{
-		"abr": "basicholodeck",
-		"price": 1792,
-		"category": "Recreation",
-		"defname": "Holodeck_Basic"
 	},
 	{
 		"abr": "beckoningofdesire(cosmiccomponent#3/5)",
@@ -15685,18 +15379,6 @@
 		"defname": "VVE_CarWiring"
 	},
 	{
-		"abr": "cargoshuttle",
-		"price": 3925,
-		"category": "Furniture",
-		"defname": "CargoShuttle"
-	},
-	{
-		"abr": "cargoshuttle(hovermode)",
-		"price": 7500,
-		"category": "Animal",
-		"defname": "ShuttleCargoRace"
-	},
-	{
 		"abr": "chalkboard",
 		"price": 342,
 		"category": "Misc",
@@ -15791,18 +15473,6 @@
 		"price": 583,
 		"category": "Misc",
 		"defname": "Construct_Bookshelf"
-	},
-	{
-		"abr": "controlsublink(high)",
-		"price": 2000,
-		"category": "Mechtech",
-		"defname": "ControlSublinkHighSynth"
-	},
-	{
-		"abr": "controlsublink(standard)",
-		"price": 2000,
-		"category": "Mechtech",
-		"defname": "ControlSublinkSynth"
 	},
 	{
 		"abr": "cookingbookshelf",
@@ -16057,12 +15727,6 @@
 		"defname": "SNS_CosmicAlloyWeave"
 	},
 	{
-		"abr": "cosmopillar",
-		"price": 833,
-		"category": "Animals",
-		"defname": "Cosmopillar"
-	},
-	{
 		"abr": "craftingbookshelf",
 		"price": 583,
 		"category": "Misc",
@@ -16291,12 +15955,6 @@
 		"defname": "Gun_EmpLauncher"
 	},
 	{
-		"abr": "emptorpedo",
-		"price": 433,
-		"category": "Torpedoes",
-		"defname": "ShipTorpedo_EMP"
-	},
-	{
 		"abr": "emptyarchostack",
 		"price": 14167,
 		"category": "Cortical stack",
@@ -16447,12 +16105,6 @@
 		"defname": "SNS_Item_BionicTorso_GenIII"
 	},
 	{
-		"abr": "entanglementmanifold",
-		"price": 6667,
-		"category": "Items",
-		"defname": "SoSEntanglementManifold"
-	},
-	{
 		"abr": "eternalpistol",
 		"price": 13592,
 		"category": "Ranged weapons",
@@ -16489,24 +16141,6 @@
 		"defname": "SNS_Eternium"
 	},
 	{
-		"abr": "evahelmet",
-		"price": 675,
-		"category": "Headgear",
-		"defname": "Apparel_SpaceSuitHelmet"
-	},
-	{
-		"abr": "evasuit",
-		"price": 1267,
-		"category": "Armor",
-		"defname": "Apparel_SpaceSuitBody"
-	},
-	{
-		"abr": "exoticparticles",
-		"price": 167,
-		"category": "Manufactured",
-		"defname": "ArchotechExoticParticles"
-	},
-	{
 		"abr": "flamebow",
 		"price": 75,
 		"category": "Ranged weapons",
@@ -16529,12 +16163,6 @@
 		"price": 41667,
 		"category": "Artifacts",
 		"defname": "SNS_CosmicCall_Component_I"
-	},
-	{
-		"abr": "fridgevendingmachine",
-		"price": 189,
-		"category": "Furniture",
-		"defname": "OwlFridgeVendingMachine"
 	},
 	{
 		"abr": "fusilierarmor",
@@ -16897,34 +16525,10 @@
 		"defname": "SNS_CosmicLance"
 	},
 	{
-		"abr": "heavycargoshuttle",
-		"price": 6292,
-		"category": "Furniture",
-		"defname": "HeavyShuttle"
-	},
-	{
-		"abr": "heavycargoshuttle(hovermode)",
-		"price": 16667,
-		"category": "Animal",
-		"defname": "ShuttleHeavyRace"
-	},
-	{
 		"abr": "heavydinosaurshide",
 		"price": 6,
 		"category": "Leathers",
 		"defname": "RG_DinosaursHideHeavy"
-	},
-	{
-		"abr": "heavyevahelmet",
-		"price": 1500,
-		"category": "Headgear",
-		"defname": "Apparel_SpaceSuitHelmetHeavy"
-	},
-	{
-		"abr": "heavyevasuit",
-		"price": 4117,
-		"category": "Armor",
-		"defname": "Apparel_SpaceSuitBodyHeavy"
 	},
 	{
 		"abr": "heavyflamer",
@@ -17011,22 +16615,10 @@
 		"defname": "Meat_RG_Hemolope"
 	},
 	{
-		"abr": "high-explosivetorpedo",
-		"price": 433,
-		"category": "Torpedoes",
-		"defname": "ShipTorpedo_HighExplosive"
-	},
-	{
 		"abr": "high-yieldtelescope",
 		"price": 4250,
 		"category": "Recreation",
 		"defname": "SNS_Telescope_GenI"
-	},
-	{
-		"abr": "hullfoamcanister",
-		"price": 33,
-		"category": "Items",
-		"defname": "HullFoam"
 	},
 	{
 		"abr": "hydra",
@@ -17117,18 +16709,6 @@
 		"price": 1533,
 		"category": "Utility",
 		"defname": "AC_Apparel_WingJump"
-	},
-	{
-		"abr": "kidevahelmet",
-		"price": 525,
-		"category": "Headgear",
-		"defname": "Apparel_SpaceSuitHelmetChild"
-	},
-	{
-		"abr": "kidevasuit",
-		"price": 683,
-		"category": "Armor",
-		"defname": "Apparel_SpaceSuitBodyChild"
 	},
 	{
 		"abr": "knockoutgaslauncher",
@@ -17533,12 +17113,6 @@
 		"defname": "Matter_Manipulator_Prototype"
 	},
 	{
-		"abr": "mechgestationprocessor",
-		"price": 2000,
-		"category": "Mechtech",
-		"defname": "MechFormfeederSynth"
-	},
-	{
 		"abr": "mechanicbed",
 		"price": 1142,
 		"category": "Furniture",
@@ -17555,36 +17129,6 @@
 		"price": 50,
 		"category": "Manufactured",
 		"defname": "MHC_PartPack"
-	},
-	{
-		"abr": "mechanitecocktails",
-		"price": 1675,
-		"category": "Grenades",
-		"defname": "Weapon_GrenadeMechanite"
-	},
-	{
-		"abr": "mechanitedisassemblercore",
-		"price": 6667,
-		"category": "Items",
-		"defname": "ArchotechMechaniteCore"
-	},
-	{
-		"abr": "mechaniterepairgel",
-		"price": 833,
-		"category": "Items",
-		"defname": "ArchotechRepairGel"
-	},
-	{
-		"abr": "mechanoidvisualsensor",
-		"price": 1775,
-		"category": "Synthetic body parts",
-		"defname": "RR_MechanoidVisualSensorItem"
-	},
-	{
-		"abr": "mechlink",
-		"price": 833,
-		"category": "Mechtech",
-		"defname": "MechlinkSynth"
 	},
 	{
 		"abr": "medicinebookshelf",
@@ -17863,18 +17407,6 @@
 		"defname": "EW_Gun_PersonaEltexSMG"
 	},
 	{
-		"abr": "personalshuttle",
-		"price": 1792,
-		"category": "Furniture",
-		"defname": "PersonalShuttle"
-	},
-	{
-		"abr": "personalshuttle(hovermode)",
-		"price": 2500,
-		"category": "Animal",
-		"defname": "ShuttlePersonalRace"
-	},
-	{
 		"abr": "pestigator",
 		"price": 1250,
 		"category": "Animals",
@@ -17963,24 +17495,6 @@
 		"price": 1083,
 		"category": "Bionic",
 		"defname": "PsiCoinMiner"
-	},
-	{
-		"abr": "psychicflayercore",
-		"price": 6667,
-		"category": "Items",
-		"defname": "ArchotechPsychicCore"
-	},
-	{
-		"abr": "psychicmanipulator",
-		"price": 3333,
-		"category": "Archotech",
-		"defname": "SoSPsychicManipulator"
-	},
-	{
-		"abr": "psychicpredictor",
-		"price": 2333,
-		"category": "Archotech",
-		"defname": "SoSPsychicPredictor"
 	},
 	{
 		"abr": "psychofluidwell",
@@ -18361,12 +17875,6 @@
 		"defname": "RG_RawCactus"
 	},
 	{
-		"abr": "recyclotron",
-		"price": 10292,
-		"category": "Production",
-		"defname": "ArchoRecycler"
-	},
-	{
 		"abr": "refrigerator",
 		"price": 242,
 		"category": "Furniture",
@@ -18383,24 +17891,6 @@
 		"price": 168,
 		"category": "Misc",
 		"defname": "Mid_Learning_Desk"
-	},
-	{
-		"abr": "remoterepairer",
-		"price": 2000,
-		"category": "Mechtech",
-		"defname": "RemoteRepairerSynth"
-	},
-	{
-		"abr": "remoteshielder",
-		"price": 2000,
-		"category": "Mechtech",
-		"defname": "RemoteShielderSynth"
-	},
-	{
-		"abr": "repairprobe",
-		"price": 2000,
-		"category": "Mechtech",
-		"defname": "RepairProbeSynth"
 	},
 	{
 		"abr": "rimclaw",
@@ -18461,84 +17951,6 @@
 		"price": 12,
 		"category": "Leathers",
 		"defname": "pphhyy_Leather_SanguineDeer"
-	},
-	{
-		"abr": "sapientholodeck",
-		"price": 10283,
-		"category": "Recreation",
-		"defname": "Holodeck_AI"
-	},
-	{
-		"abr": "shipblueprint(ancientmartiancorvette)",
-		"price": 3333,
-		"category": "Ship blueprints",
-		"defname": "ShipBPTachinante"
-	},
-	{
-		"abr": "shipblueprint(archerfrigate)",
-		"price": 5000,
-		"category": "Ship blueprints",
-		"defname": "ShipBPFrigateArcher"
-	},
-	{
-		"abr": "shipblueprint(corvettegunship)",
-		"price": 3333,
-		"category": "Ship blueprints",
-		"defname": "ShipBPCorvetteGunship"
-	},
-	{
-		"abr": "shipblueprint(corvette)",
-		"price": 3333,
-		"category": "Ship blueprints",
-		"defname": "ShipBPCorvette"
-	},
-	{
-		"abr": "shipblueprint(corvette)",
-		"price": 3333,
-		"category": "Ship blueprints",
-		"defname": "ShipBPCorvetteWinged"
-	},
-	{
-		"abr": "shipblueprint(fireflytransport)",
-		"price": 3333,
-		"category": "Ship blueprints",
-		"defname": "ShipBPCargoFirefly"
-	},
-	{
-		"abr": "shipblueprint(frigate)",
-		"price": 5000,
-		"category": "Ship blueprints",
-		"defname": "ShipBPFrigateWinged"
-	},
-	{
-		"abr": "shipblueprint(heavybomber)",
-		"price": 1667,
-		"category": "Ship blueprints",
-		"defname": "ShipBPBomberHeavy"
-	},
-	{
-		"abr": "shipblueprint(smalltransport)",
-		"price": 1667,
-		"category": "Ship blueprints",
-		"defname": "ShipBPTransportSmall"
-	},
-	{
-		"abr": "shipblueprint(torpedocorvette)",
-		"price": 3333,
-		"category": "Ship blueprints",
-		"defname": "ShipBPCorvetteTorp"
-	},
-	{
-		"abr": "shipcapacitor",
-		"price": 917,
-		"category": "Furniture",
-		"defname": "ShipCapacitorSmall"
-	},
-	{
-		"abr": "shipsalvage",
-		"price": 1758,
-		"category": "Special",
-		"defname": "ShipChunkSalvage"
 	},
 	{
 		"abr": "shootingbookshelf",
@@ -18907,12 +18319,6 @@
 		"defname": "Social_Bookshelf"
 	},
 	{
-		"abr": "spacetelescope",
-		"price": 1000,
-		"category": "Recreation",
-		"defname": "TelescopeSpace"
-	},
-	{
 		"abr": "spacerboard",
 		"price": 2867,
 		"category": "Misc",
@@ -18923,12 +18329,6 @@
 		"price": 583,
 		"category": "Misc",
 		"defname": "Spacer_Joy_Bookshelf"
-	},
-	{
-		"abr": "spacercrib",
-		"price": 575,
-		"category": "Furniture",
-		"defname": "SpaceCrib"
 	},
 	{
 		"abr": "spacerdesk",
@@ -18995,12 +18395,6 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_RG_WoollyStegosaurus"
-	},
-	{
-		"abr": "stellapede",
-		"price": 333,
-		"category": "Animals",
-		"defname": "Stellapede"
 	},
 	{
 		"abr": "stellararm",
@@ -19169,24 +18563,6 @@
 		"price": 4167,
 		"category": "Ranged weapons",
 		"defname": "Gun_IncendiaryAssaultRifle"
-	},
-	{
-		"abr": "superheavydropship",
-		"price": 13492,
-		"category": "Furniture",
-		"defname": "DropshipShuttle"
-	},
-	{
-		"abr": "superheavydropship(hovermode)",
-		"price": 33333,
-		"category": "Animal",
-		"defname": "ShuttleDropshipRace"
-	},
-	{
-		"abr": "survivalbelt",
-		"price": 178,
-		"category": "Armor",
-		"defname": "Apparel_SpaceSurvivalBelt"
 	},
 	{
 		"abr": "synthetion",
@@ -19471,24 +18847,6 @@
 		"defname": "VNPE_LoftBedConnector"
 	},
 	{
-		"abr": "uraniumfuelpod",
-		"price": 1,
-		"category": "Manufactured",
-		"defname": "ShuttleFuelPods"
-	},
-	{
-		"abr": "vanometricreactor",
-		"price": 7667,
-		"category": "Synthetic body parts",
-		"defname": "RR_VanometricReactorItem"
-	},
-	{
-		"abr": "vanoroot",
-		"price": 2,
-		"category": "Vegetarian",
-		"defname": "RawVanoroot"
-	},
-	{
 		"abr": "vargulf",
 		"price": 1833,
 		"category": "Animals",
@@ -19517,12 +18875,6 @@
 		"price": 100,
 		"category": "Eggs (fert.)",
 		"defname": "RG_EggVelociraptorFertilized"
-	},
-	{
-		"abr": "vendingmachine",
-		"price": 154,
-		"category": "Furniture",
-		"defname": "VendingMachine"
 	},
 	{
 		"abr": "vetpod",
@@ -19595,12 +18947,6 @@
 		"price": 2,
 		"category": "Vegetarian",
 		"defname": "VCE_RawWatercress"
-	},
-	{
-		"abr": "weathernormalizationdevice",
-		"price": 2000,
-		"category": "Artifacts",
-		"defname": "WeatherCancelDevice"
 	},
 	{
 		"abr": "whip",
@@ -19836,6 +19182,96 @@
 		"category": "Items",
 		"defname": "ZygolophodonTusk"
 	},
+	{
+		"abr": "adjustableshelf",
+		"price": 35,
+		"category": "Furniture",
+		"defname": "EccentricFurniture_BasicShelf"
+	},
+	{
+		"abr": "advancedfissionreactor",
+		"price": 2300,
+		"category": "Synthetic body parts",
+		"defname": "RR_FissionReactorItem"
+	},
+	{
+		"abr": "archotechuplink",
+		"price": 7667,
+		"category": "Synthetic body parts",
+		"defname": "RR_ArchotechUplinkItem"
+	},
+	{
+		"abr": "ceilinglamp",
+		"price": 65,
+		"category": "Furniture",
+		"defname": "EccentricFurniture_CeilingLamp1x1b"
+	},
+	{
+		"abr": "chandelier(1x1)",
+		"price": 325,
+		"category": "Furniture",
+		"defname": "EccentricFurniture_Chandelier1x1b"
+	},
+	{
+		"abr": "chandelier(2x2)",
+		"price": 325,
+		"category": "Furniture",
+		"defname": "EccentricFurniture_Chandelier2x2b"
+	},
+	{
+		"abr": "chargecell",
+		"price": 60,
+		"category": "Meals",
+		"defname": "FuelNode_SynthDiet"
+	},
+	{
+		"abr": "controlsublink(high)",
+		"price": 2000,
+		"category": "Mechtech",
+		"defname": "ControlSublinkHighSynth"
+	},
+	{
+		"abr": "controlsublink(standard)",
+		"price": 2000,
+		"category": "Mechtech",
+		"defname": "ControlSublinkSynth"
+	},
+	{
+		"abr": "endtable",
+		"price": 106,
+		"category": "Furniture",
+		"defname": "EccentricFurniture_EndTable"
+	},
+	{
+		"abr": "endtable(illuminated)",
+		"price": 171,
+		"category": "Furniture",
+		"defname": "EccentricFurniture_EndTableIlluminated"
+	},
+	{
+		"abr": "fridgevendingmachine",
+		"price": 189,
+		"category": "Furniture",
+		"defname": "OwlFridgeVendingMachine"
+	},
+	{
+		"abr": "mechgestationprocessor",
+		"price": 2000,
+		"category": "Mechtech",
+		"defname": "MechFormfeederSynth"
+	},
+	{
+		"abr": "mechanent",
+		"price": 7500,
+		"category": "Animal",
+		"defname": "Mechanent"
+	},
+	{
+		"abr": "mechanentcomponent",
+		"price": 3883,
+		"category": "Items",
+		"defname": "ComponentMechanent"
+	},
 	],
-	"total": 3326
+	"total": 3298
 }
