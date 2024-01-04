@@ -5711,7 +5711,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 5500,
+      "addPrice": 10500,
       "removePrice": 5500,
       "degree": 0,
       "description": "Born as a child of a human and a god Timmy is a very capable member of any society and are an amazing melee fighter.",
@@ -5931,7 +5931,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 25000,
       "removePrice": 5500,
       "degree": 0,
       "description": "Is this the power of a god(those who get it get it). Anyways enjoy being overpowered",
@@ -6084,7 +6084,73 @@
       "defName": "Human",
       "enabled": true,
       "name": "human",
-      "price": 2500
+      "price": 100
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "Ratlings (Homo sapiens minimus) are small, loud, hungry and lecherous Abhumans who often serve as snipers in the Astra Militarum, a role at which they excel. Ratlings also serve as cooks for Imperial Guard regiments, a skill they no doubt learned in order to feed their own seemingly bottomless stomachs; and they also have kleptomaniac tendencies, as Commissars report petty theft and illegal gambling rings increase substantially when Ratlings are attached to a platoon, company or regiment.",
+      "defName": "OG_Abhuman_Ratlin",
+      "enabled": true,
+      "name": "ratling",
+      "price": 2917
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$2500 Market value",
+          "+3.50 Move speed",
+          "-10.0C Minimum comfortable temperature",
+          "+32.0C Maximum comfortable temperature",
+          "+150 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "The dim-witted human sub-species called Ogryns (Homo sapiens gigantus) evolved on high-gravity, low-temperature prison planets. They are huge and unusually stupid for a human subrace, but unquestionably loyal to the Imperium once introduced to the faith of the Imperial Cult. Ogryns are used as the Imperial Guard's shock troops, and for this role, they are commonly outfitted with the Ripper Gun. The Ripper Gun is a weapon simple enough for them to operate, although some feral Ogryn cannot even fathom this device. Ogryn are also frequently used as bodyguards by Imperial Commanders.",
+      "defName": "OG_Abhuman_Ogryn",
+      "enabled": true,
+      "name": "ogryn",
+      "price": 4167
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A baseline human, while mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets, members of the Cult Mechanicus have usually undergone heavy bionic modifications.",
+      "defName": "OG_Human_Mechanicus",
+      "enabled": true,
+      "name": "human (Mechanicus)",
+      "price": 2917
     }
   ]
 }

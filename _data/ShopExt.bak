@@ -5214,62 +5214,6 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": -1,
-      "description": "Timmy under went reconditioning at some point but something went wrong. The failed procedure left them with reduced brain fuction. Good thing they can be reconditioned to forget about all that.",
-      "stats": [
-        "x80% global learning factor",
-        "x80% move speed"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "x80% global learning factor",
-          "x80% move speed"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "[PS] Reconditioning Pod (Continued)",
-        "karmaTypeForAdding": null
-      },
-      "defName": "PS_Trait_BotchedConditioning",
-      "name": "botchedconditioning"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 2000,
-      "degree": 1,
-      "description": "Timmy under went reconditioning at some point but something went wrong, in a good way. What ever happened seemed to have positive effects on they, improveing brain functions. Guess this is just one of those happy accidents.",
-      "stats": [
-        "x120% global learning factor",
-        "x120% move speed"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "x120% global learning factor",
-          "x120% move speed"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "[PS] Reconditioning Pod (Continued)",
-        "karmaTypeForAdding": null
-      },
-      "defName": "PS_Trait_BotchedConditioning",
-      "name": "luckybotchedconditioning"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
       "description": "Psychic enthrallment caused by incredibly strong mental influence. Thralls don't need to sleep or have recreation, but are unable to do skilled work and engage in social interactions.",
@@ -5767,7 +5711,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 5500,
+      "addPrice": 10500,
       "removePrice": 5500,
       "degree": 0,
       "description": "Born as a child of a human and a god Timmy is a very capable member of any society and are an amazing melee fighter.",
@@ -5987,7 +5931,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 25000,
       "removePrice": 5500,
       "degree": 0,
       "description": "Is this the power of a god(those who get it get it). Anyways enjoy being overpowered",
@@ -6117,86 +6061,6 @@
       },
       "defName": "VRE_Distressed",
       "name": "distressed"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 1,
-      "description": "Timmy despises artificial humanoids. he sees them as the potential downfall of all biological sentience.",
-      "stats": [],
-      "conflicts": [
-        "anthropophobe",
-        "anthropophile"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "anthropophobe",
-          "anthropophile"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Rim-Robots_",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Automatonophobia",
-      "name": "automatonophobe"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 1,
-      "description": "Timmy despises biological humanoids. he sees them as a disease that must be snuffed out.",
-      "stats": [],
-      "conflicts": [
-        "automatonophobe"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "automatonophobe"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Rim-Robots_",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Anthropophobia",
-      "name": "anthropophobe"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": -1,
-      "description": "Timmy exists to serve humanity. he has an unshakable yet endearing infatuation with biological sentience.",
-      "stats": [],
-      "conflicts": [
-        "automatonophobe"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "automatonophobe"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Rim-Robots_",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Anthropophobia",
-      "name": "anthropophile"
     }
   ],
   "races": [
@@ -6220,84 +6084,73 @@
       "defName": "Human",
       "enabled": true,
       "name": "human",
-      "price": 2500
+      "price": 100
     },
     {
       "data": {
         "customName": false,
         "stats": [
           "+60.00 Mass",
-          "+0% Flammability",
-          "+0% Fertility",
-          "+100% Toxic resistance",
-          "+100% Toxic environment resistance",
-          "+2 Repair energy cost",
-          "+100% Persona repair speed",
-          "+0 Meat amount",
-          "+0 Leather amount",
-          "+1 Mech bandwidth",
-          "+50% Psychic sensitivity",
-          "+4.15 Move speed",
-          "-100.0C Minimum comfortable temperature",
-          "+250.0C Maximum comfortable temperature",
-          "+$4500 Market value",
-          "+85 Carrying capacity",
-          "+20% Mental break threshold",
-          "+90% Pain shock threshold",
-          "+50% Injury healing factor",
-          "+80% Research speed",
-          "+50.00% Social impact",
-          "+80% Plant harvest yield",
-          "+120% Construction speed",
-          "+7.2% Armor - Blunt",
-          "+18.5% Armor - Sharp",
-          "+200.0% Armor - Heat"
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value"
         ],
         "mod": "Unknown",
         "karmaType": null
       },
-      "description": "A humanlike-mechanoid that utilizes a highly sophisticated subpersona core to approach a live human in its thought complexity; however, their \"minds\" are of a very different nature. And are incapable of emulating complex emotions.\n\nWhile they possess a degree of individuality, mechanents are not fully sentient - relying on mimicry of human behavior to appear less mechanical.",
-      "defName": "Mechanent",
+      "description": "Ratlings (Homo sapiens minimus) are small, loud, hungry and lecherous Abhumans who often serve as snipers in the Astra Militarum, a role at which they excel. Ratlings also serve as cooks for Imperial Guard regiments, a skill they no doubt learned in order to feed their own seemingly bottomless stomachs; and they also have kleptomaniac tendencies, as Commissars report petty theft and illegal gambling rings increase substantially when Ratlings are attached to a platoon, company or regiment.",
+      "defName": "OG_Abhuman_Ratlin",
       "enabled": true,
-      "name": "mechanent",
-      "price": 7500
+      "name": "ratling",
+      "price": 2917
     },
     {
       "data": {
         "customName": false,
         "stats": [
           "+60.00 Mass",
-          "+30% Flammability",
-          "+0% Fertility",
-          "+100% Toxic resistance",
-          "+100% Toxic environment resistance",
-          "+2 Repair energy cost",
-          "+100% Persona repair speed",
-          "+0 Meat amount",
-          "+0 Leather amount",
-          "+2 Mech bandwidth",
-          "-50.0C Minimum comfortable temperature",
-          "+150.0C Maximum comfortable temperature",
-          "+6 Honor value",
-          "+0.5 Beauty",
-          "+1.2 Melee dodge chance",
-          "+$5500 Market value",
-          "+5.00 Move speed",
-          "+120% Medical surgery success chance",
-          "+80% Injury healing factor",
-          "+120% Research speed",
-          "+120.00% Negotiation ability",
-          "+120.00% Social impact",
-          "+180.0% Armor - Heat"
+          "+70% Flammability",
+          "+$2500 Market value",
+          "+3.50 Move speed",
+          "-10.0C Minimum comfortable temperature",
+          "+32.0C Maximum comfortable temperature",
+          "+150 Leather amount",
+          "+3 Honor value"
         ],
         "mod": "Unknown",
         "karmaType": null
       },
-      "description": "The avatar of an AI persona core - a fusion of archotech and bleeding-edge technology, their vessels are often analogous and strikingly identical to a live human. They're both reviled and revered by human cultures.",
-      "defName": "Personae_",
+      "description": "The dim-witted human sub-species called Ogryns (Homo sapiens gigantus) evolved on high-gravity, low-temperature prison planets. They are huge and unusually stupid for a human subrace, but unquestionably loyal to the Imperium once introduced to the faith of the Imperial Cult. Ogryns are used as the Imperial Guard's shock troops, and for this role, they are commonly outfitted with the Ripper Gun. The Ripper Gun is a weapon simple enough for them to operate, although some feral Ogryn cannot even fathom this device. Ogryn are also frequently used as bodyguards by Imperial Commanders.",
+      "defName": "OG_Abhuman_Ogryn",
       "enabled": true,
-      "name": "persona",
-      "price": 9167
+      "name": "ogryn",
+      "price": 4167
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A baseline human, while mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets, members of the Cult Mechanicus have usually undergone heavy bionic modifications.",
+      "defName": "OG_Human_Mechanicus",
+      "enabled": true,
+      "name": "human (Mechanicus)",
+      "price": 2917
     }
   ]
 }

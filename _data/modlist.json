@@ -12,12 +12,6 @@
     "version": null
   },
   {
-    "author": "DRILLED_HEAD",
-    "name": "AIRDOCK",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Wild",
     "name": "Addictol [1.4]",
     "steamId": null,
@@ -48,6 +42,12 @@
     "version": null
   },
   {
+    "author": "YAYO",
+    "name": "Yayo's Combat 3 (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "DaLLaN",
     "name": "Combat Update 1.4",
     "steamId": null,
@@ -68,6 +68,12 @@
   {
     "author": "explodoboy",
     "name": "Ambition of the Cosmic: True Pinnacle of Creation",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "explodoboy",
+    "name": "Ambition of the Cosmic: HAS SCIENCE GONE TOO FAR?! (SNS: AOTC Reskin)",
     "steamId": null,
     "version": null
   },
@@ -146,12 +152,6 @@
   {
     "author": "Neceros",
     "name": "Bad Can Be Good (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "KingsMan_",
-    "name": "Barbatos StoryTeller",
     "steamId": null,
     "version": null
   },
@@ -306,6 +306,12 @@
     "version": null
   },
   {
+    "author": "Hatti",
+    "name": "CleaningArea",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "TheWireLord",
     "name": "Conduit Deconstruct",
     "steamId": null,
@@ -326,6 +332,12 @@
   {
     "author": "bdew",
     "name": "Cremate Auto Strip",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "HaiLuan",
+    "name": "Custom Quest Framework",
     "steamId": null,
     "version": null
   },
@@ -402,20 +414,14 @@
     "version": null
   },
   {
-    "author": "HaiLuan",
-    "name": "Custom Quest Framework",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "HaiLuan",
-    "name": "Dungeon Core",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "PioterMagican",
     "name": "Eating without a table is... Neutral",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Expanded - Royalty Patches",
     "steamId": null,
     "version": null
   },
@@ -428,6 +434,12 @@
   {
     "author": "Sir Van and Elseud",
     "name": "Eltex Weaponry",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mort Strudel",
+    "name": "Empiricism and Faith - Mort's Ideologies: Memes and Precepts",
     "steamId": null,
     "version": null
   },
@@ -468,14 +480,14 @@
     "version": null
   },
   {
-    "author": "Garry Flowers",
-    "name": "Gendered Genes",
+    "author": "WLAD",
+    "name": "GeneTech",
     "steamId": null,
     "version": null
   },
   {
-    "author": "WLAD",
-    "name": "GeneTech",
+    "author": "DimonSever000",
+    "name": "Genes+",
     "steamId": null,
     "version": null
   },
@@ -672,6 +684,12 @@
     "version": null
   },
   {
+    "author": "Darkborderman",
+    "name": "More Genes",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "NavySeal",
     "name": "More Harvest Designators!",
     "steamId": null,
@@ -738,6 +756,12 @@
     "version": null
   },
   {
+    "author": "Sovereign and Elseud",
+    "name": "Nephilim Xenotype",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oh God Spiders No",
     "name": "No Hairless Royal Headgear (aka \"Eltex Circlets\")",
     "steamId": null,
@@ -776,12 +800,6 @@
   {
     "author": "Darth_Sergeant",
     "name": "Nurse Job",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "jeonggihun",
-    "name": "Old Genesis retexture",
     "steamId": null,
     "version": null
   },
@@ -1002,6 +1020,18 @@
     "version": null
   },
   {
+    "author": "Zebu Wan",
+    "name": "Rimscape Medieval Music",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zebu Wan",
+    "name": "Rimscape Music",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "rooki1",
     "name": "Rimsenal - Augmented Vanilla Pack",
     "steamId": null,
@@ -1094,6 +1124,12 @@
   {
     "author": "Orion",
     "name": "Therapy",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Linkolas",
+    "name": "Stabilize",
     "steamId": null,
     "version": null
   },
@@ -1236,12 +1272,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki and Kikohi",
-    "name": "Vanilla Expanded - Royalty Patches",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki and Sarg Bjornson",
     "name": "Vanilla Fishing Expanded - Fishing Treasures AddOn",
     "steamId": null,
@@ -1268,6 +1298,12 @@
   {
     "author": "OskarPotocki, Atlas and Kikohi",
     "name": "Vanilla Furniture Expanded - Spacer Module",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Ideology Expanded - Icons and Symbols",
     "steamId": null,
     "version": null
   },
@@ -1346,6 +1382,12 @@
   {
     "author": "Oskar Potocki, xrushha, Smash Phil, Taranchuk and Reann Shepard",
     "name": "Vanilla Vehicles Expanded - Tier 3",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, AveryTheKitty and Taranchuk",
+    "name": "Vanilla Weapons Expanded - Coilguns",
     "steamId": null,
     "version": null
   },
@@ -1442,12 +1484,6 @@
   {
     "author": "pphhyy",
     "name": "pphhyy Sanguinary Animals",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Ed86",
-    "name": "RimJobWorld - STD",
     "steamId": null,
     "version": null
   }
