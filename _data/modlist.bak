@@ -300,12 +300,6 @@
     "version": null
   },
   {
-    "author": "Zaljerem",
-    "name": "Classic Fallout Music (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Hatti",
     "name": "CleaningArea",
     "steamId": null,
@@ -416,6 +410,12 @@
   {
     "author": "PioterMagican",
     "name": "Eating without a table is... Neutral",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Expanded - Royalty Patches",
     "steamId": null,
     "version": null
   },
@@ -1014,6 +1014,18 @@
     "version": null
   },
   {
+    "author": "Zebu Wan",
+    "name": "Rimscape Medieval Music",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zebu Wan",
+    "name": "Rimscape Music",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "rooki1",
     "name": "Rimsenal - Augmented Vanilla Pack",
     "steamId": null,
@@ -1254,12 +1266,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki and Kikohi",
-    "name": "Vanilla Expanded - Royalty Patches",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki and Sarg Bjornson",
     "name": "Vanilla Fishing Expanded - Fishing Treasures AddOn",
     "steamId": null,
@@ -1394,12 +1400,6 @@
   {
     "author": "Crustypeanut",
     "name": "War Crimes Expanded 2 Core",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "CATTO",
-    "name": "Warhammer 40k Omnissiah and Noosphere Ritual Music",
     "steamId": null,
     "version": null
   },

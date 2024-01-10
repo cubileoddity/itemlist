@@ -21684,6 +21684,174 @@
 		"category": "Mechanicus Melee Weapons",
 		"defname": "OGAM_Melee_TransonicRazor"
 	},
+	{
+		"abr": "arcpistol",
+		"price": 2675,
+		"category": "Ranged weapons",
+		"defname": "RM_Gun_ARCPistol"
+	},
+	{
+		"abr": "arcrifle",
+		"price": 3842,
+		"category": "Ranged weapons",
+		"defname": "RM_ARCRifle"
+	},
+	{
+		"abr": "bufferdroidchargingstation",
+		"price": 3000,
+		"category": "Special",
+		"defname": "RM_Droid_BufferBase"
+	},
+	{
+		"abr": "chargelancepistol",
+		"price": 2258,
+		"category": "Ranged weapons",
+		"defname": "RM_Gun_ChargeLancePistol"
+	},
+	{
+		"abr": "chargelancerifle",
+		"price": 2692,
+		"category": "Ranged weapons",
+		"defname": "RM_Gun_ChargeLanceRifle"
+	},
+	{
+		"abr": "chargepistol",
+		"price": 1925,
+		"category": "Ranged weapons",
+		"defname": "RM_Gun_ChargePistol"
+	},
+	{
+		"abr": "climateadjusterchip",
+		"price": 867,
+		"category": "Manufactured",
+		"defname": "RM_ChipClimate"
+	},
+	{
+		"abr": "immolatorgrenade",
+		"price": 500,
+		"category": "Grenades",
+		"defname": "RM_Weapon_GrenadePlasmaImmolator"
+	},
+	{
+		"abr": "infernolauncher",
+		"price": 3717,
+		"category": "Ranged weapons",
+		"defname": "RM_Gun_InfernoLauncher"
+	},
+	{
+		"abr": "infernorifle",
+		"price": 2225,
+		"category": "Ranged weapons",
+		"defname": "RM_Gun_InfernoRifle"
+	},
+	{
+		"abr": "lovethrallcapacityserum",
+		"price": 1250,
+		"category": "Misc",
+		"defname": "RS_LovethrallCapacitySerum"
+	},
+	{
+		"abr": "mechcrate",
+		"price": 4,
+		"category": "Special",
+		"defname": "RM_MechanoidCrate"
+	},
+	{
+		"abr": "plasmabane",
+		"price": 3333,
+		"category": "Melee weapons",
+		"defname": "RM_MeleeWeapon_PlasmaBane"
+	},
+	{
+		"abr": "plasmacell",
+		"price": 2,
+		"category": "Security",
+		"defname": "RM_MechanoidPlasmaCell"
+	},
+	{
+		"abr": "plasmasword",
+		"price": 5000,
+		"category": "Melee weapons",
+		"defname": "RM_MeleeWeapon_PlasmaSword"
+	},
+	{
+		"abr": "prophet'saura",
+		"price": 942,
+		"category": "Utility",
+		"defname": "RM_Apparel_ProphetAura"
+	},
+	{
+		"abr": "prophet'scrown",
+		"price": 483,
+		"category": "Headgear",
+		"defname": "RM_Apparel_ProphetCrown"
+	},
+	{
+		"abr": "sacredicon",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "RM_RelicSacredIcon"
+	},
+	{
+		"abr": "shardlance",
+		"price": 1475,
+		"category": "Ranged weapons",
+		"defname": "RM_Gun_ShardLance"
+	},
+	{
+		"abr": "shardlanceturret",
+		"price": 1525,
+		"category": "Security",
+		"defname": "RM_Turret_AutoShardLance"
+	},
+	{
+		"abr": "shardlauncher",
+		"price": 1358,
+		"category": "Ranged weapons",
+		"defname": "RM_Gun_ShardLauncher"
+	},
+	{
+		"abr": "shardswarmerturret",
+		"price": 1533,
+		"category": "Security",
+		"defname": "RM_Turret_AutoShardSwarmer"
+	},
+	{
+		"abr": "skimmerpack",
+		"price": 3667,
+		"category": "Utility",
+		"defname": "RM_Apparel_SkimmerPack"
+	},
+	{
+		"abr": "slaveoutfit",
+		"price": 234,
+		"category": "Misc",
+		"defname": "RS_Apparel_SlaveOutfit"
+	},
+	{
+		"abr": "spartandroidchargingstation",
+		"price": 5000,
+		"category": "Special",
+		"defname": "RM_Droid_SpartanBase"
+	},
+	{
+		"abr": "sunblockerchip",
+		"price": 867,
+		"category": "Manufactured",
+		"defname": "RM_ChipBlocker"
+	},
+	{
+		"abr": "transuranicarquebus(am)",
+		"price": 3575,
+		"category": "Ranged weapons",
+		"defname": "OGAM_Gun_TransuranicArquebus"
+	},
+	{
+		"abr": "tribalcloak",
+		"price": 211,
+		"category": "Apparel",
+		"defname": "OG_Apparel_Tribal_Cloak"
+	}
 	],
-	"total": 3655
+	"total": 3683
 }
