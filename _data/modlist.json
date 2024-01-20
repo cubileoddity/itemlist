@@ -144,6 +144,12 @@
     "version": null
   },
   {
+    "author": "Falconne",
+    "name": "Avoid Friendly Fire",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Brent Kerman",
     "name": "BK's Babies can eat Nutrient Paste",
     "steamId": null,
@@ -542,6 +548,12 @@
   {
     "author": "一个龟龟",
     "name": "Increase Gene Processor Complexity",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "DimonSever000",
+    "name": "Insect Evolution [1.4]",
     "steamId": null,
     "version": null
   },
@@ -1026,6 +1038,12 @@
     "version": null
   },
   {
+    "author": "Zebu Wan",
+    "name": "Rimscape Tribal Music",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "rooki1",
     "name": "Rimsenal - Augmented Vanilla Pack",
     "steamId": null,
@@ -1148,6 +1166,12 @@
   {
     "author": "BlackMarket420",
     "name": "The Army Of Fetid Corpses",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Winterwolf",
+    "name": "The Expanse - OST ",
     "steamId": null,
     "version": null
   },
@@ -1308,6 +1332,18 @@
     "version": null
   },
   {
+    "author": "legodude17 and Oskar Potocki",
+    "name": "Vanilla Outposts Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kuhlyus",
+    "name": "Vanilla Mining Outpost Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "MrHydralisk",
     "name": "Vanilla Nutrient Paste Expanded: Deep Vat",
     "steamId": null,
@@ -1316,12 +1352,6 @@
   {
     "author": "zed_0xff",
     "name": "Vanilla Nutrient Paste Expanded: MiniGrinder",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "legodude17 and Oskar Potocki",
-    "name": "Vanilla Outposts Expanded",
     "steamId": null,
     "version": null
   },
@@ -1448,6 +1478,12 @@
   {
     "author": "LimeTreeSnake",
     "name": "[LTS]Xenotech",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Chicken Plucker",
+    "name": "[RH2] V.O.I.D. Storyteller",
     "steamId": null,
     "version": null
   },

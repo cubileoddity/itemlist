@@ -14905,12 +14905,6 @@
       "price": 8975
     },
     {
-      "abr": "advancedrepairstim",
-      "category": "Medicine",
-      "defname": "MHC_RepairStimAdvanced",
-      "price": 100
-    },
-    {
       "abr": "advancedstargate",
       "category": "Special",
       "defname": "StargateMod_AdvancedStargate",
@@ -15071,12 +15065,6 @@
       "category": "Artifacts",
       "defname": "SNS_CosmicCall_Component_III",
       "price": 41667
-    },
-    {
-      "abr": "bedsidecharger",
-      "category": "Misc",
-      "defname": "MHC_BedsideChargerFacility",
-      "price": 174
     },
     {
       "abr": "birdmeat",
@@ -15247,18 +15235,6 @@
       "price": 342
     },
     {
-      "abr": "chargingpod",
-      "category": "Furniture",
-      "defname": "MHC_ChargingPod",
-      "price": 282
-    },
-    {
-      "abr": "chargingstation",
-      "category": "Misc",
-      "defname": "MHC_ChargingStation",
-      "price": 1375
-    },
-    {
       "abr": "charonarmor",
       "category": "Armor",
       "defname": "SNS_Apparel_StableMatterPowerArmor",
@@ -15329,12 +15305,6 @@
       "category": "Misc",
       "defname": "Cooking_Bookshelf",
       "price": 583
-    },
-    {
-      "abr": "coolantpack",
-      "category": "Drugs",
-      "defname": "MHC_CoolantPack",
-      "price": 5
     },
     {
       "abr": "cortexoverseer",
@@ -16513,12 +16483,6 @@
       "price": 583
     },
     {
-      "abr": "intermediaterepairstim",
-      "category": "Medicine",
-      "defname": "MHC_RepairStimIntermediate",
-      "price": 35
-    },
-    {
       "abr": "invocationmatrix",
       "category": "Misc",
       "defname": "VRE_InvocationMatrix",
@@ -16897,12 +16861,6 @@
       "price": 583
     },
     {
-      "abr": "lubricantpack",
-      "category": "Drugs",
-      "defname": "MHC_LubricationPack",
-      "price": 5
-    },
-    {
       "abr": "lux",
       "category": "Drugs",
       "defname": "SNS_Lux",
@@ -16949,24 +16907,6 @@
       "category": "Ranged weapons",
       "defname": "Matter_Manipulator_Prototype",
       "price": 5000
-    },
-    {
-      "abr": "mechanicbed",
-      "category": "Furniture",
-      "defname": "MHC_MechanicBed",
-      "price": 1142
-    },
-    {
-      "abr": "mechaniccabinet",
-      "category": "Furniture",
-      "defname": "MHC_MechanicCabinet",
-      "price": 717
-    },
-    {
-      "abr": "mechanicalpartpack",
-      "category": "Manufactured",
-      "defname": "MHC_PartPack",
-      "price": 50
     },
     {
       "abr": "medicinebookshelf",
@@ -17795,12 +17735,6 @@
       "category": "Misc",
       "defname": "Shooting_Bookshelf",
       "price": 583
-    },
-    {
-      "abr": "simplerepairstim",
-      "category": "Medicine",
-      "defname": "MHC_RepairStimSimple",
-      "price": 20
     },
     {
       "abr": "slaughterfish",
@@ -19283,246 +19217,6 @@
       "category": "Furniture",
       "defname": "EccentricFurniture_WallRefrigerator",
       "price": 145
-    },
-    {
-      "abr": "zombrella",
-      "category": "Misc",
-      "defname": "Zombrella",
-      "price": 3333
-    },
-    {
-      "abr": "zombgrella",
-      "category": "Misc",
-      "defname": "Zombgrella",
-      "price": 625
-    },
-    {
-      "abr": "guestbed",
-      "category": "Furniture",
-      "defname": "BedGuest",
-      "price": 155
-    },
-    {
-      "abr": "guestdoublebed",
-      "category": "Furniture",
-      "defname": "DoubleBedGuest",
-      "price": 292
-    },
-    {
-      "abr": "guestroyalbed",
-      "category": "Furniture",
-      "defname": "RoyalBedGuest",
-      "price": 1467
-    },
-    {
-      "abr": "guesthospitalbed",
-      "category": "Furniture",
-      "defname": "HospitalBedGuest",
-      "price": 650
-    },
-    {
-      "abr": "guestbedroll",
-      "category": "Furniture",
-      "defname": "BedrollGuest",
-      "price": 137
-    },
-    {
-      "abr": "guestdoublebedroll",
-      "category": "Furniture",
-      "defname": "BedrollDoubleGuest",
-      "price": 290
-    },
-    {
-      "abr": "guestslabbed",
-      "category": "Furniture",
-      "defname": "SlabBedGuest",
-      "price": 102
-    },
-    {
-      "abr": "guestslabdoublebed",
-      "category": "Furniture",
-      "defname": "SlabDoubleBedGuest",
-      "price": 288
-    },
-    {
-      "abr": "guestdeathrestcasket",
-      "category": "Furniture",
-      "defname": "DeathrestCasketGuest",
-      "price": 475
-    },
-    {
-      "abr": "guestcrib",
-      "category": "Furniture",
-      "defname": "CribGuest",
-      "price": 86
-    },
-    {
-      "abr": "guestancienthospitalbed",
-      "category": "Furniture",
-      "defname": "AG_RuinedHospitalBedGuest",
-      "price": 650
-    },
-    {
-      "abr": "guestancientbed",
-      "category": "Furniture",
-      "defname": "VFEA_AncientBedGuest",
-      "price": 139
-    },
-    {
-      "abr": "guestancientcryptosleepsuspender",
-      "category": "Furniture",
-      "defname": "VFEA_AncientCryptosleepSuspenderGuest",
-      "price": 733
-    },
-    {
-      "abr": "guestsleevecasket",
-      "category": "Furniture",
-      "defname": "VFEU_SleeveCasketGuest",
-      "price": 2533
-    },
-    {
-      "abr": "guestdoublebunkbed",
-      "category": "Furniture",
-      "defname": "BB_BunkBedDoubleGuest",
-      "price": 292
-    },
-    {
-      "abr": "guesttriplebunkbed",
-      "category": "Furniture",
-      "defname": "BB_BunkBedTripleGuest",
-      "price": 408
-    },
-    {
-      "abr": "guestoperatingtable",
-      "category": "Furniture",
-      "defname": "Bed_OperatingTableGuest",
-      "price": 500
-    },
-    {
-      "abr": "guestcryptosleepsuspender",
-      "category": "Furniture",
-      "defname": "Bed_CryptoBedGuest",
-      "price": 733
-    },
-    {
-      "abr": "guestconnectedbed",
-      "category": "Furniture",
-      "defname": "VNPE_ConnectedBedGuest",
-      "price": 967
-    },
-    {
-      "abr": "guestsmartbed",
-      "category": "Furniture",
-      "defname": "EccentricFurniture_BedSingleGuest",
-      "price": 450
-    },
-    {
-      "abr": "guestsmartdoublebed",
-      "category": "Furniture",
-      "defname": "EccentricFurniture_BedDoubleGuest",
-      "price": 783
-    },
-    {
-      "abr": "guestmechanicbed",
-      "category": "Furniture",
-      "defname": "MHC_MechanicBedGuest",
-      "price": 1100
-    },
-    {
-      "abr": "guestchargingpod",
-      "category": "Furniture",
-      "defname": "MHC_ChargingPodGuest",
-      "price": 272
-    },
-    {
-      "abr": "guestmedpodlux",
-      "category": "Furniture",
-      "defname": "MedPodLuxGuest",
-      "price": 5000000
-    },
-    {
-      "abr": "guestmedpod",
-      "category": "Furniture",
-      "defname": "MedPodStandardGuest",
-      "price": 3333333
-    },
-    {
-      "abr": "guestpilfurbed",
-      "category": "Furniture",
-      "defname": "PILFURBedGuest",
-      "price": 70
-    },
-    {
-      "abr": "guestsnoreggsinglebed",
-      "category": "Furniture",
-      "defname": "SNOREGGSingleGuest",
-      "price": 276
-    },
-    {
-      "abr": "guestsnoreggdoublebed",
-      "category": "Furniture",
-      "defname": "SNOREGGDoubleGuest",
-      "price": 517
-    },
-    {
-      "abr": "guestkrudneppsinglebed",
-      "category": "Furniture",
-      "defname": "KRUDNEPPSingleGuest",
-      "price": 172
-    },
-    {
-      "abr": "guestslabneppdoublebed",
-      "category": "Furniture",
-      "defname": "SLABNEPPDoubleGuest",
-      "price": 342
-    },
-    {
-      "abr": "guestslabbed",
-      "category": "Furniture",
-      "defname": "Bed_StoneSlabGuest",
-      "price": 111
-    },
-    {
-      "abr": "guestsimplebed",
-      "category": "Furniture",
-      "defname": "Bed_SimpleGuest",
-      "price": 137
-    },
-    {
-      "abr": "guestergonomicbed",
-      "category": "Furniture",
-      "defname": "Bed_ErgonomicGuest",
-      "price": 450
-    },
-    {
-      "abr": "guestergonomicdoublebed",
-      "category": "Furniture",
-      "defname": "Bed_DoubleErgonomicGuest",
-      "price": 867
-    },
-    {
-      "abr": "guestroyalposterbed",
-      "category": "Furniture",
-      "defname": "Bed_KingsizeGuest",
-      "price": 2008
-    },
-    {
-      "abr": "guestadvancedbed",
-      "category": "Furniture",
-      "defname": "Bed_AdvBedGuest",
-      "price": 850
-    },
-    {
-      "abr": "guestadvanceddoublebed",
-      "category": "Furniture",
-      "defname": "Bed_AdvDoubleBedGuest",
-      "price": 1517
-    },
-    {
-      "abr": "guestancientbed",
-      "category": "Misc",
-      "defname": "VME_AncientBedGuest",
-      "price": 5
     },
     {
       "abr": "accatranpatternlascarbine(i)",
@@ -21901,10 +21595,250 @@
       "price": 1075
     },
     {
+      "abr": "angel'sgrace",
+      "category": "Drugs",
+      "defname": "GS_Grace",
+      "price": 37
+    },
+    {
+      "abr": "hollillypowder",
+      "category": "Plant matter",
+      "defname": "HolyPowder",
+      "price": 3
+    },
+    {
+      "abr": "anti-armorrocketlauncher",
+      "category": "Ranged weapons",
+      "defname": "Gun_AntiArmor_Rocket",
+      "price": 1667
+    },
+    {
+      "abr": "industrialammo",
+      "category": "Ammo",
+      "defname": "yy_ammo_industrial",
+      "price": 3
+    },
+    {
+      "abr": "industrialexplosiveammo",
+      "category": "Ammo",
+      "defname": "yy_ammo_industrial_fire",
+      "price": 3
+    },
+    {
+      "abr": "industrialspecialammo",
+      "category": "Ammo",
+      "defname": "yy_ammo_industrial_emp",
+      "price": 3
+    },
+    {
+      "abr": "primitiveexplosiveammo",
+      "category": "Ammo",
+      "defname": "yy_ammo_primitive_fire",
+      "price": 1
+    },
+    {
+      "abr": "primitivespecialammo",
+      "category": "Ammo",
+      "defname": "yy_ammo_primitive_emp",
+      "price": 1
+    },
+    {
+      "abr": "spacerammo",
+      "category": "Ammo",
+      "defname": "yy_ammo_spacer",
+      "price": 4
+    },
+    {
+      "abr": "spacerexplosiveammo",
+      "category": "Ammo",
+      "defname": "yy_ammo_spacer_fire",
+      "price": 4
+    },
+    {
+      "abr": "spacerspecialammo",
+      "category": "Ammo",
+      "defname": "yy_ammo_spacer_emp",
+      "price": 12
+    },
+    {
+      "abr": "gausslance",
+      "category": "Ranged weapons",
+      "defname": "VWE_Gun_GaussLance",
+      "price": 3508
+    },
+    {
+      "abr": "gaussmagnum",
+      "category": "Ranged weapons",
+      "defname": "VWE_Gun_GaussMagnum",
+      "price": 817
+    },
+    {
+      "abr": "gaussrifle",
+      "category": "Ranged weapons",
+      "defname": "VWE_Gun_GaussRifle",
+      "price": 1392
+    },
+    {
       "abr": "transonicrazor(am)",
       "category": "Mechanicus Melee Weapons",
       "defname": "OGAM_Melee_TransonicRazor",
       "price": 908
+    },
+    {
+      "abr": "arcpistol",
+      "category": "Ranged weapons",
+      "defname": "RM_Gun_ARCPistol",
+      "price": 2675
+    },
+    {
+      "abr": "arcrifle",
+      "category": "Ranged weapons",
+      "defname": "RM_ARCRifle",
+      "price": 3842
+    },
+    {
+      "abr": "bufferdroidchargingstation",
+      "category": "Special",
+      "defname": "RM_Droid_BufferBase",
+      "price": 3000
+    },
+    {
+      "abr": "chargelancepistol",
+      "category": "Ranged weapons",
+      "defname": "RM_Gun_ChargeLancePistol",
+      "price": 2258
+    },
+    {
+      "abr": "chargelancerifle",
+      "category": "Ranged weapons",
+      "defname": "RM_Gun_ChargeLanceRifle",
+      "price": 2692
+    },
+    {
+      "abr": "chargepistol",
+      "category": "Ranged weapons",
+      "defname": "RM_Gun_ChargePistol",
+      "price": 1925
+    },
+    {
+      "abr": "climateadjusterchip",
+      "category": "Manufactured",
+      "defname": "RM_ChipClimate",
+      "price": 867
+    },
+    {
+      "abr": "immolatorgrenade",
+      "category": "Grenades",
+      "defname": "RM_Weapon_GrenadePlasmaImmolator",
+      "price": 500
+    },
+    {
+      "abr": "infernolauncher",
+      "category": "Ranged weapons",
+      "defname": "RM_Gun_InfernoLauncher",
+      "price": 3717
+    },
+    {
+      "abr": "infernorifle",
+      "category": "Ranged weapons",
+      "defname": "RM_Gun_InfernoRifle",
+      "price": 2225
+    },
+    {
+      "abr": "lovethrallcapacityserum",
+      "category": "Misc",
+      "defname": "RS_LovethrallCapacitySerum",
+      "price": 1250
+    },
+    {
+      "abr": "mechcrate",
+      "category": "Special",
+      "defname": "RM_MechanoidCrate",
+      "price": 4
+    },
+    {
+      "abr": "plasmabane",
+      "category": "Melee weapons",
+      "defname": "RM_MeleeWeapon_PlasmaBane",
+      "price": 3333
+    },
+    {
+      "abr": "plasmacell",
+      "category": "Security",
+      "defname": "RM_MechanoidPlasmaCell",
+      "price": 2
+    },
+    {
+      "abr": "plasmasword",
+      "category": "Melee weapons",
+      "defname": "RM_MeleeWeapon_PlasmaSword",
+      "price": 5000
+    },
+    {
+      "abr": "prophet'saura",
+      "category": "Utility",
+      "defname": "RM_Apparel_ProphetAura",
+      "price": 942
+    },
+    {
+      "abr": "prophet'scrown",
+      "category": "Headgear",
+      "defname": "RM_Apparel_ProphetCrown",
+      "price": 483
+    },
+    {
+      "abr": "sacredicon",
+      "category": "Inert relics",
+      "defname": "RM_RelicSacredIcon",
+      "price": 833
+    },
+    {
+      "abr": "shardlance",
+      "category": "Ranged weapons",
+      "defname": "RM_Gun_ShardLance",
+      "price": 1475
+    },
+    {
+      "abr": "shardlanceturret",
+      "category": "Security",
+      "defname": "RM_Turret_AutoShardLance",
+      "price": 1525
+    },
+    {
+      "abr": "shardlauncher",
+      "category": "Ranged weapons",
+      "defname": "RM_Gun_ShardLauncher",
+      "price": 1358
+    },
+    {
+      "abr": "shardswarmerturret",
+      "category": "Security",
+      "defname": "RM_Turret_AutoShardSwarmer",
+      "price": 1533
+    },
+    {
+      "abr": "skimmerpack",
+      "category": "Utility",
+      "defname": "RM_Apparel_SkimmerPack",
+      "price": 3667
+    },
+    {
+      "abr": "slaveoutfit",
+      "category": "Misc",
+      "defname": "RS_Apparel_SlaveOutfit",
+      "price": 234
+    },
+    {
+      "abr": "spartandroidchargingstation",
+      "category": "Special",
+      "defname": "RM_Droid_SpartanBase",
+      "price": 5000
+    },
+    {
+      "abr": "sunblockerchip",
+      "category": "Manufactured",
+      "defname": "RM_ChipBlocker",
+      "price": 867
     },
     {
       "abr": "transuranicarquebus(am)",
@@ -21979,6 +21913,12 @@
       "price": 533
     },
     {
+      "abr": "vanometricmechanoidcell",
+      "category": "Items",
+      "defname": "RM_VanometricMechanoidCell",
+      "price": 3333
+    },
+    {
       "abr": "venomblade(de)",
       "category": "Dark Eldar Melee Weapons",
       "defname": "OGDE_Melee_VenomBlade",
@@ -22033,6 +21973,18 @@
       "price": 1642
     },
     {
+      "abr": "warcasketrailgun",
+      "category": "Ranged weapons",
+      "defname": "VFEP_WarcasketGun_Railgun",
+      "price": 5333
+    },
+    {
+      "abr": "warcasketrailgun",
+      "category": "Misc",
+      "defname": "VFEP_Box_Railgun",
+      "price": 5333
+    },
+    {
       "abr": "warlock",
       "category": "Animal",
       "defname": "OG_DarkEldar_Haemonculi",
@@ -22061,6 +22013,12 @@
       "category": "Necron Melee Weapons",
       "defname": "OGN_Melee_WarScythe",
       "price": 23750
+    },
+    {
+      "abr": "weathercontrolchip",
+      "category": "Manufactured",
+      "defname": "RM_ChipWeather",
+      "price": 867
     },
     {
       "abr": "webber(i)",
@@ -22141,5 +22099,5 @@
       "price": 2208
     }
   ],
-  "total": 3690
+  "total": 3683
 }
