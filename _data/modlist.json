@@ -1,11 +1,5 @@
 [
   {
-    "author": "mpwoz",
-    "name": "10x Carrying Capacity (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Albion",
     "name": "AI Uplifting Assistant",
     "steamId": null,
@@ -14,12 +8,6 @@
   {
     "author": "Wild",
     "name": "Addictol [1.4]",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "idontcare",
-    "name": "Allow Consensual Incest",
     "steamId": null,
     "version": null
   },
@@ -50,12 +38,6 @@
   {
     "author": "DaLLaN",
     "name": "Combat Update 1.4",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Trunken and Sarg Bjornson",
-    "name": "Vanilla Weapons Expanded",
     "steamId": null,
     "version": null
   },
@@ -102,32 +84,8 @@
     "version": null
   },
   {
-    "author": "zed_0xff",
-    "name": "Archite Capsule Extractor",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and Kikohi",
-    "name": "Vanilla Nutrient Paste Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "zed_0xff",
-    "name": "Hemogen Grinder",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "SilentSquids",
     "name": "Architect Tab Tweaks",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Teok25",
-    "name": "Archotech Expanded",
     "steamId": null,
     "version": null
   },
@@ -198,12 +156,6 @@
     "version": null
   },
   {
-    "author": "m00nl1ght-dev",
-    "name": "Biome Transitions",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "FrozenSnowFox",
     "name": "[FSF] Vanilla Bionics Expansion",
     "steamId": null,
@@ -218,12 +170,6 @@
   {
     "author": "Syrus",
     "name": "Biosculpter Pod and Neural Supercharger Resize",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "ROMEHUSK",
-    "name": "Biotech - Insectoid Genes",
     "steamId": null,
     "version": null
   },
@@ -252,12 +198,6 @@
     "version": null
   },
   {
-    "author": "22、昏暗",
-    "name": "Biotech xenotype expanded - Rotfish",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Zaljerem",
     "name": "Blackhole Industries (Continued)",
     "steamId": null,
@@ -266,18 +206,6 @@
   {
     "author": "Zaljerem",
     "name": "Bulk Smelting (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Smash Phil | Dr_Zhivago | monkey5206",
-    "name": "Carry Capacity Fixed (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Holgast",
-    "name": "Cat Ears Aren't Skin-Coloured",
     "steamId": null,
     "version": null
   },
@@ -324,20 +252,26 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Nutrient Paste Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "PunkyRoo",
     "name": "Contain Toxic Waste",
     "steamId": null,
     "version": null
   },
   {
-    "author": "bdew",
-    "name": "Cremate Auto Strip",
+    "author": "Ryflamer",
+    "name": "Cosmic Horrors XML Edition",
     "steamId": null,
     "version": null
   },
   {
-    "author": "HaiLuan",
-    "name": "Custom Quest Framework",
+    "author": "bdew",
+    "name": "Cremate Auto Strip",
     "steamId": null,
     "version": null
   },
@@ -354,32 +288,8 @@
     "version": null
   },
   {
-    "author": "Pyrce",
-    "name": "Dire Raids",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "flangopink",
     "name": "Disable Automatically Select Travel Supplies",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Victorique, Aurani and Tarojun",
-    "name": "Expanded Prosthetics and Organ Engineering - Forked",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Mythos",
-    "name": "Diseases Overhauled",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "ForZa",
-    "name": "Diseases Overhauled - Biosculptor patch",
     "steamId": null,
     "version": null
   },
@@ -414,20 +324,26 @@
     "version": null
   },
   {
+    "author": "HaiLuan",
+    "name": "Custom Quest Framework",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "HaiLuan",
+    "name": "Dungeon Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "swablu",
+    "name": "Dungeon Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "PioterMagican",
     "name": "Eating without a table is... Neutral",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and Kikohi",
-    "name": "Vanilla Expanded - Royalty Patches",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Aelanna",
-    "name": "Eccentric Tech - Spacer Furniture",
     "steamId": null,
     "version": null
   },
@@ -444,20 +360,26 @@
     "version": null
   },
   {
-    "author": "SmArtKar and Elseud",
-    "name": "Enhanced Vat Learning",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "test",
-    "name": "Every Material Gene",
+    "author": "Victorique, Aurani and Tarojun",
+    "name": "Expanded Prosthetics and Organ Engineering - Forked",
     "steamId": null,
     "version": null
   },
   {
     "author": "TGPArcher + maintainers",
     "name": "Faction Manager v1.4",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Smash Phil | Dr_Zhivago | monkey5206",
+    "name": "Carry Capacity Fixed (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Fuglypump",
+    "name": "Fallout Traits",
     "steamId": null,
     "version": null
   },
@@ -480,18 +402,6 @@
     "version": null
   },
   {
-    "author": "WLAD",
-    "name": "GeneTech",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "DimonSever000",
-    "name": "Genes+",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Ykara (Updated for 1.1 by Ogliss)",
     "name": "Harvest Everything!",
     "steamId": null,
@@ -510,20 +420,8 @@
     "version": null
   },
   {
-    "author": "leion247",
-    "name": "Higher Power",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Orion",
     "name": "Hospitality",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Bunghole",
-    "name": "Hox Gene Plants",
     "steamId": null,
     "version": null
   },
@@ -582,24 +480,6 @@
     "version": null
   },
   {
-    "author": "NachoToast",
-    "name": "Simple Custom Gas Framework",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "NachoToast",
-    "name": "Knockout Gas",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Falconne",
-    "name": "Labels on Floor",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "newcolonist",
     "name": "Large Faction Bases",
     "steamId": null,
@@ -636,12 +516,6 @@
     "version": null
   },
   {
-    "author": "UnlimitedHugs and TheRealLemon",
-    "name": "Map Reroll (1.4)",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "mod5s",
     "name": "Matter Manipulator",
     "steamId": null,
@@ -666,12 +540,6 @@
     "version": null
   },
   {
-    "author": "Mlemtlestgent",
-    "name": "Metabolic Adjusters",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Big Veech",
     "name": "Metals Trader",
     "steamId": null,
@@ -686,12 +554,6 @@
   {
     "author": "[bhtp]Ataman",
     "name": "More Crashed Ship Parts",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Darkborderman",
-    "name": "More Genes",
     "steamId": null,
     "version": null
   },
@@ -738,26 +600,8 @@
     "version": null
   },
   {
-    "author": "NachoToast",
-    "name": "Mustard Gas",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Asce2_0",
-    "name": "Mythological Traits",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "sindre0830",
     "name": "Natural Paths",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "sindre0830",
-    "name": "Natural Lakes",
     "steamId": null,
     "version": null
   },
@@ -792,12 +636,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki, xrushha, Taranchuk and Sarg Bjornson",
-    "name": "Vanilla Factions Expanded - Tribals",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Lt oddy",
     "name": "Not a Weapon",
     "steamId": null,
@@ -806,18 +644,6 @@
   {
     "author": "Darth_Sergeant",
     "name": "Nurse Job",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Vitamin Cera",
-    "name": "Oops all BUGPARTS",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Peppsen",
-    "name": "P-Music",
     "steamId": null,
     "version": null
   },
@@ -842,12 +668,6 @@
   {
     "author": "Compilatron and Owlchemist",
     "name": "Power Tab 2",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Simmin",
-    "name": "Power Tools",
     "steamId": null,
     "version": null
   },
@@ -890,12 +710,6 @@
   {
     "author": "Victor",
     "name": "Psy Ultra",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "DetVisor",
-    "name": "Pulse Weaponry",
     "steamId": null,
     "version": null
   },
@@ -961,6 +775,12 @@
   },
   {
     "author": "Helixien",
+    "name": "ReGrowth: Extinct Animals",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Helixien",
     "name": "ReGrowth: Swamp",
     "steamId": null,
     "version": null
@@ -1020,26 +840,20 @@
     "version": null
   },
   {
+    "author": "VexedTrees",
+    "name": "Rim-Robots_",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "ruPal",
     "name": "RimPy Mod Manager Database",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Zebu Wan",
-    "name": "Rimscape Medieval Music",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Zebu Wan",
-    "name": "Rimscape Music",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Zebu Wan",
-    "name": "Rimscape Tribal Music",
+    "author": "Sierra",
+    "name": "RimTraits - Vanilla Trait Colors",
     "steamId": null,
     "version": null
   },
@@ -1070,6 +884,24 @@
   {
     "author": "Roolo and Updated by Ogliss",
     "name": "RunAndGun",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Scorpio",
+    "name": "SOS2 EVA auto patcher",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "M",
+    "name": "SOS2 Stuffed",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "NetzachSloth",
+    "name": "Save our Ship - Archotech Expanded Prosthetics Patch",
     "steamId": null,
     "version": null
   },
@@ -1122,12 +954,6 @@
     "version": null
   },
   {
-    "author": "Lanilor and Proxyer",
-    "name": "Simple Recycling",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "dhultgren",
     "name": "Smarter Construction",
     "steamId": null,
@@ -1148,12 +974,6 @@
   {
     "author": "Indeed",
     "name": "Stack XXL",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "CatCraftYT",
-    "name": "Stargates!",
     "steamId": null,
     "version": null
   },
@@ -1236,18 +1056,6 @@
     "version": null
   },
   {
-    "author": "Helixien",
-    "name": "ReGrowth: Extinct Animals",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "PlayIgel, Alastair, Kayedon, SalmonToastie and Xrushha",
-    "name": "VFME - Caravan Packs!",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "NetzachSloth",
     "name": "VPE Auto Cast Buffs",
     "steamId": null,
@@ -1290,8 +1098,14 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki and Sarg Bjornson",
-    "name": "Vanilla Fishing Expanded - Fishing Treasures AddOn",
+    "author": "Owlchemist",
+    "name": "Vanilla Bionics Expansion SOS2 patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Expanded - Royalty Patches",
     "steamId": null,
     "version": null
   },
@@ -1326,12 +1140,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
-    "name": "Vanilla Cooking Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "legodude17 and Oskar Potocki",
     "name": "Vanilla Outposts Expanded",
     "steamId": null,
@@ -1358,6 +1166,12 @@
   {
     "author": "MrHydralisk",
     "name": "Vanilla Outposts Expanded: Additional Outposts",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "MrHydralisk",
+    "name": "Vanilla Outposts Expanded: Delivery Logistics",
     "steamId": null,
     "version": null
   },
@@ -1404,18 +1218,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki, xrushha, Smash Phil, Taranchuk and Reann Shepard",
-    "name": "Vanilla Vehicles Expanded - Tier 3",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, AveryTheKitty and Taranchuk",
-    "name": "Vanilla Weapons Expanded - Coilguns",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "zzz",
     "name": "Wall Vitals Monitor",
     "steamId": null,
@@ -1436,12 +1238,6 @@
   {
     "author": "kaitorisenkou",
     "name": "What's Today's Menu",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Aranmaho",
-    "name": "Wildheart Psycast",
     "steamId": null,
     "version": null
   },
@@ -1472,12 +1268,6 @@
   {
     "author": "Grizzlemethiss",
     "name": "[GMT] Minify Biotech",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "LimeTreeSnake",
-    "name": "[LTS]Xenotech",
     "steamId": null,
     "version": null
   },
