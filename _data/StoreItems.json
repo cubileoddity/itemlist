@@ -18204,6 +18204,36 @@
 		"category": "Ranged weapons",
 		"defname": "XCOM_Gun_MagBullpup"
 	},
+	{
+		"abr": "advancedarchotecharm",
+		"price": 33333,
+		"category": "Archotech",
+		"defname": "AdvancedArchotechArm"
+	},
+	{
+		"abr": "advancedarchotechleg",
+		"price": 33333,
+		"category": "Archotech",
+		"defname": "AdvancedArchotechLeg"
+	},
+	{
+		"abr": "advancedstargate",
+		"price": 4167,
+		"category": "Special",
+		"defname": "StargateMod_AdvancedStargate"
+	},
+	{
+		"abr": "archotechbrainmelder",
+		"price": 33333,
+		"category": "Archotech",
+		"defname": "ArchotechBrainMelder"
+	},
+	{
+		"abr": "archotechdeathclaw",
+		"price": 35000,
+		"category": "Archotech",
+		"defname": "ArchotechDeathClaw"
+	}
 	],
-	"total": 3152
+	"total": 3157
 }
