@@ -5596,7 +5596,7 @@
       },
       "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
       "defName": "Human",
-      "enabled": true,
+      "enabled": false,
       "name": "human",
       "price": 2917
     },
@@ -5642,7 +5642,7 @@
       "description": "A race of humanlike robots which are mostly female in model variety.\n\nThe origins of these machines are mostly unknown. Some speculate they are escapees from a civilization which used them for labor and some just suggest they are outdated pleasure machines which got dumped by a passing space freighter.\n\nBy design by their previous masters they are weak physically but their raw fortitude is enough to make up for it. Beware of their biological reactor and capacitors violently exploding, if they die by overheating.",
       "defName": "ChjAndroid",
       "enabled": true,
-      "name": "Android",
+      "name": "android",
       "price": 2500
     },
     {
@@ -5675,7 +5675,7 @@
       "description": "A race of rudimentary humanlike worker robots.\n\nUsually found toiling around in colonies around the rim which got a resident tinkerer.\n\nNot capable of sapience, however their relative cheap cost and ability to work around the clock make them valuable workers.",
       "defName": "ChjDroid",
       "enabled": true,
-      "name": "Droid",
+      "name": "droid",
       "price": 1417
     },
     {
@@ -5709,7 +5709,7 @@
       "description": "A race of rudimentary humanlike warrior robots.\n\nUsually found guarding the homes of the wealthy and offices of mega corporations. They show no mercy upon targets who fail to identify themselves. Are traditionally armed with miniguns and core launchers.",
       "defName": "ChjBattleDroid",
       "enabled": true,
-      "name": "Battle droid",
+      "name": "battledroid",
       "price": 3167
     }
   ]
