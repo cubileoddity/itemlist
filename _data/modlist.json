@@ -1,5 +1,17 @@
 [
   {
+    "author": "Andreas Pardeike",
+    "name": "Harmony",
+    "steamId": "2009463077",
+    "version": "2.3.1.0"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "HugsLib",
+    "steamId": "818773962",
+    "version": "11.0.3"
+  },
+  {
     "author": "mpwoz",
     "name": "10x Carrying Capacity (Continued)",
     "steamId": null,
@@ -12,8 +24,32 @@
     "version": null
   },
   {
-    "author": "Wild",
-    "name": "Addictol [1.4]",
+    "author": "Hey my team rules!",
+    "name": "Advanced Biomes (Continued)",
+    "steamId": "2052116426",
+    "version": "1.5.0"
+  },
+  {
+    "author": "saloid",
+    "name": "Advanced Raiders (Continued)",
+    "steamId": "2894402265",
+    "version": "1.5.0"
+  },
+  {
+    "author": "kaitorisenkou",
+    "name": "AgePyramid",
+    "steamId": "2935666729",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Imranfish",
+    "name": "XML Extensions",
+    "steamId": "2574315206",
+    "version": "1.7.1"
+  },
+  {
+    "author": "idontcare",
+    "name": "Allow Consensual Incest",
     "steamId": null,
     "version": null
   },
@@ -24,58 +60,100 @@
     "version": null
   },
   {
-    "author": "Roolo",
-    "name": "Almost There!",
+    "author": "Chad",
+    "name": "Almostthere1.5",
+    "steamId": "3232229153",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "erdelf, Oskar Potocki, legodude17, Taranchuk, xrushha, Sarg Bjornson, Sir Van and Reann Shepard",
+    "name": "Vanilla Psycasts Expanded",
+    "steamId": "2842502659",
+    "version": "1.1.0.0"
+  },
+  {
+    "author": "Sarg Bjornson and AFriend",
+    "name": "Alpha Animals",
+    "steamId": "1541721856",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg",
+    "name": "Alpha Biomes",
+    "steamId": "1841354677",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Allie, Erin and Sarg",
+    "name": "Alpha Genes",
+    "steamId": "2891845502",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sincere",
+    "name": "Always Wild Animals",
+    "steamId": "3079359376",
+    "version": "1.5"
+  },
+  {
+    "author": "Vectorial1024",
+    "name": "Elite Bionics Framework",
+    "steamId": "1665403571",
+    "version": "2.0.0.0"
+  },
+  {
+    "author": "jecrell and contributors",
+    "name": "JecsTools",
+    "steamId": "932008009",
+    "version": "1.5.0.0"
+  },
+  {
+    "author": "Nals",
+    "name": "[NL] Facial Animation - WIP",
+    "steamId": "1635901197",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "ChJees",
+    "name": "Androids for RW 1.5",
+    "steamId": "2889326293",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "cucumpear",
+    "name": "Animal Flap Speed Fix",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Owlchemist",
-    "name": "Simple Utilities: Fridge",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "YAYO",
-    "name": "Yayo's Combat 3 (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "DaLLaN",
-    "name": "Combat Update 1.4",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "explodoboy",
-    "name": "Ambition of the Cosmic",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "explodoboy",
-    "name": "Ambition of the Cosmic: True Pinnacle of Creation",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "explodoboy",
-    "name": "Ambition of the Cosmic: HAS SCIENCE GONE TOO FAR?! (SNS: AOTC Reskin)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Sky",
-    "name": "Animal Tab Icons",
-    "steamId": null,
-    "version": null
+    "author": "Fluffy",
+    "name": "Animal Tab",
+    "steamId": "712141500",
+    "version": "4.7.272"
   },
   {
     "author": "JisPichi",
     "name": "Animals Like Hay",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Oblitus",
+    "name": "Animals Logic",
+    "steamId": "1098354593",
+    "version": "1.0.8838.38019"
   },
   {
     "author": "Hobbes",
@@ -90,16 +168,22 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki and Kikohi",
-    "name": "Vanilla Nutrient Paste Expanded",
-    "steamId": null,
-    "version": null
+    "author": "Little White Mouse",
+    "name": "LWM's Deep Storage",
+    "steamId": "1617282896",
+    "version": "1.5.0.2"
   },
   {
-    "author": "zed_0xff",
-    "name": "Hemogen Grinder",
-    "steamId": null,
-    "version": null
+    "author": "Oskar Potocki, Kentington, Sarg Bjornson, erdelf, Kikohi, Chowder, Taranchuk and ISOREX",
+    "name": "Vanilla Factions Expanded - Mechanoids",
+    "steamId": "2329011599",
+    "version": "1.0.1.2"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Erin",
+    "name": "Vanilla Races Expanded - Sanguophage",
+    "steamId": "2963116383",
+    "version": "1.0.0.0"
   },
   {
     "author": "SilentSquids",
@@ -114,26 +198,26 @@
     "version": null
   },
   {
-    "author": "Xercaine",
-    "name": "Artillery Gun",
-    "steamId": null,
-    "version": null
+    "author": "Neronix17",
+    "name": "Tabula Rasa",
+    "steamId": "1660622094",
+    "version": "1.5.8874.38556"
   },
   {
-    "author": "Razor 2.3",
-    "name": "Auto-Cut Blight",
-    "steamId": null,
-    "version": null
+    "author": "Neronix17",
+    "name": "Archotech Genetics",
+    "steamId": "2995858859",
+    "version": "1.0.8871.34446"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Area Unlocker",
+    "steamId": "725153576",
+    "version": "3.14.109"
   },
   {
     "author": "Falconne",
     "name": "Avoid Friendly Fire",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Brent Kerman",
-    "name": "BK's Babies can eat Nutrient Paste",
     "steamId": null,
     "version": null
   },
@@ -156,22 +240,22 @@
     "version": null
   },
   {
+    "author": "sdknm2",
+    "name": "Beauty And Ugly",
+    "steamId": "2063838726",
+    "version": "0.0.0.0"
+  },
+  {
     "author": "telardo",
     "name": "Better Gene Graphics Framework",
     "steamId": null,
     "version": null
   },
   {
-    "author": "HappyBodi",
-    "name": "Better Multi-Analyzers",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "8Z",
-    "name": "Better Orbital Trader Names",
-    "steamId": null,
-    "version": null
+    "author": "Creeper",
+    "name": "BetterInfoCard",
+    "steamId": "2890920739",
+    "version": "1.0.0.0"
   },
   {
     "author": "Scorpio and Taranchuk",
@@ -180,8 +264,104 @@
     "version": null
   },
   {
+    "author": "m00nl1ght",
+    "name": "Geological Landforms",
+    "steamId": "2773943594",
+    "version": "1.6.10.0"
+  },
+  {
+    "author": "m00nl1ght-dev",
+    "name": "Biome Transitions",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "The Biomes Mod Team",
+    "name": "Biomes! Core",
+    "steamId": "2038000893",
+    "version": "2.6.2.0"
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Fishing Expanded",
+    "steamId": "1914064942",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "The Biomes Mod Team",
+    "name": "Biomes! Caverns",
+    "steamId": "2969748433",
+    "version": "1.6.3.0"
+  },
+  {
+    "author": "Helixien",
+    "name": "ReGrowth: Core",
+    "steamId": "2260097569",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Helixien",
+    "name": "ReGrowth: Arid",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Helixien",
+    "name": "ReGrowth: Boreal",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Helixien",
+    "name": "ReGrowth: Temperate",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Helixien",
+    "name": "ReGrowth: Tundra",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Helixien",
+    "name": "ReGrowth: Aspen",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Helixien",
+    "name": "ReGrowth: Boiling",
+    "steamId": "2981924439",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Plants Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sarg Bjornson and Oskar Potocki",
+    "name": "Vanilla Plants Expanded - More Plants",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Alestria",
+    "name": "Vanilla Plants Expanded - Succulents",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "The Biomes Mod Team",
+    "name": "Biomes! Prehistoric",
+    "steamId": "2860715703",
+    "version": "1.2.0.0"
+  },
+  {
     "author": "FrozenSnowFox",
-    "name": "[FSF] Vanilla Bionics Expansion",
+    "name": "[FSF] Advanced Bionics Expansion",
     "steamId": null,
     "version": null
   },
@@ -198,26 +378,14 @@
     "version": null
   },
   {
-    "author": "Lennoxicon",
-    "name": "Biotech Expansion - Core",
+    "author": "Weird Cat",
+    "name": "Biosculpter Psionic Uplink",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Lennoxicon",
-    "name": "Biotech Expansion - Mammalia",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Lennoxicon",
-    "name": "Biotech Expansion - Ear Patch",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Aleyck",
-    "name": "Biotech Traders",
+    "author": "22、昏暗",
+    "name": "Biotech xenotype expanded - Rotfish",
     "steamId": null,
     "version": null
   },
@@ -228,8 +396,56 @@
     "version": null
   },
   {
+    "author": "Fluffy",
+    "name": "Blueprints",
+    "steamId": "708455313",
+    "version": "2.17.133"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "Build From Inventory",
+    "steamId": "1691419062",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Zaljerem",
     "name": "Bulk Smelting (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "CrashM",
+    "name": "CM Color Coded Mood Bar [1.1+]",
+    "steamId": "2006605356",
+    "version": "1.5.4062.1"
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Camera+",
+    "steamId": "867467808",
+    "version": "2.7.5.0"
+  },
+  {
+    "author": "Kopp",
+    "name": "Caravan Formation Improvements",
+    "steamId": "2927335733",
+    "version": "1.0.8.0"
+  },
+  {
+    "author": "Torann",
+    "name": "CaravanOptions",
+    "steamId": "1501729394",
+    "version": "1.1.1.5"
+  },
+  {
+    "author": "Smash Phil | Dr_Zhivago | monkey5206",
+    "name": "Carry Capacity Fixed (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Holgast",
+    "name": "Cat Ears Aren't Skin-Coloured",
     "steamId": null,
     "version": null
   },
@@ -240,16 +456,22 @@
     "version": null
   },
   {
-    "author": "Dreyven",
-    "name": "Catgirls - Furless",
-    "steamId": null,
-    "version": null
+    "author": "kathanon",
+    "name": "Categorized Bill Menus",
+    "steamId": "2893365816",
+    "version": "1.0.0.0"
   },
   {
-    "author": "5katz",
-    "name": "Chatting on Comms",
-    "steamId": null,
-    "version": null
+    "author": "void",
+    "name": "Character Editor",
+    "steamId": "1874644848",
+    "version": "1.5.9.0"
+  },
+  {
+    "author": "Captain Muscles (Nathan Harbour)",
+    "name": "Chill the F*** Out",
+    "steamId": "2880668727",
+    "version": "1.0.3"
   },
   {
     "author": "cedaro",
@@ -258,32 +480,38 @@
     "version": null
   },
   {
-    "author": "Hatti",
-    "name": "CleaningArea",
+    "author": "Edern and Sir Van",
+    "name": "Combat Psycasts",
     "steamId": null,
     "version": null
   },
   {
-    "author": "TheWireLord",
-    "name": "Conduit Deconstruct",
-    "steamId": null,
-    "version": null
+    "author": "avilmask",
+    "name": "Common Sense",
+    "steamId": "1561769193",
+    "version": "1.0.8887.21593"
   },
   {
-    "author": "OskarPotocki, Atlas and Kikohi",
-    "name": "Vanilla Furniture Expanded - Medical Module",
-    "steamId": null,
-    "version": null
+    "author": "miyamiya, twsta and vokaerian",
+    "name": "Compressed Raid",
+    "steamId": "3227665030",
+    "version": "1.5"
   },
   {
-    "author": "PunkyRoo",
-    "name": "Contain Toxic Waste",
-    "steamId": null,
-    "version": null
+    "author": "divineDerivative",
+    "name": "Configurable Tilled Soil",
+    "steamId": "2924021923",
+    "version": "1.0.0.0"
   },
   {
-    "author": "Ryflamer",
-    "name": "Cosmic Horrors XML Edition",
+    "author": "Vex",
+    "name": "Consciousness Patch",
+    "steamId": "2913127696",
+    "version": "1.2"
+  },
+  {
+    "author": "these people",
+    "name": "Craftable Stuffable Eltex",
     "steamId": null,
     "version": null
   },
@@ -294,10 +522,22 @@
     "version": null
   },
   {
-    "author": "Trojan - Troopersmith1 - Linq - deathrat",
-    "name": "Death Rattle [1.4]",
-    "steamId": null,
-    "version": null
+    "author": "Doug, Kikohi and Trunken",
+    "name": "Cybernetic Organism and Neural Network",
+    "steamId": "3228123498",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "cat2002 - Troopersmith1 - Linq- deathrat",
+    "name": "Death Rattle Continued [1.2+]",
+    "steamId": "2896207870",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sky",
+    "name": "Deep Storage Plus (Continued)",
+    "steamId": "2589072911",
+    "version": "1.5.0"
   },
   {
     "author": "Coalcat and sumghai",
@@ -306,10 +546,10 @@
     "version": null
   },
   {
-    "author": "Pyrce",
-    "name": "Dire Raids",
-    "steamId": null,
-    "version": null
+    "author": "merthsoft",
+    "name": "Designator Shapes",
+    "steamId": "1235181370",
+    "version": "1.0.0.0"
   },
   {
     "author": "flangopink",
@@ -318,10 +558,16 @@
     "version": null
   },
   {
-    "author": "tikubonn",
-    "name": "Don't Block Door",
-    "steamId": null,
-    "version": null
+    "author": "gguake",
+    "name": "Do Something for Idle",
+    "steamId": "1896806569",
+    "version": "1.0.1.2"
+  },
+  {
+    "author": "Captain Muscles (Nathan Harbour)",
+    "name": "Do Your F****** Research",
+    "steamId": "2880481073",
+    "version": "1.0.3"
   },
   {
     "author": "dracoix",
@@ -330,10 +576,10 @@
     "version": null
   },
   {
-    "author": "8Z",
-    "name": "Dormitories Not Barracks",
-    "steamId": null,
-    "version": null
+    "author": "Jecrell and lbmaian",
+    "name": "Doors Expanded",
+    "steamId": "1316188771",
+    "version": "1.5.0.0"
   },
   {
     "author": "telardo",
@@ -342,10 +588,16 @@
     "version": null
   },
   {
-    "author": "Nmajask",
-    "name": "Dropdown Production Buildings",
-    "steamId": null,
-    "version": null
+    "author": "Daniel",
+    "name": "Dress for the Weather",
+    "steamId": "3077924542",
+    "version": "0.1.0"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Performance Analyzer",
+    "steamId": "2038874626",
+    "version": "1.0.0+2534407508e276c66794b6b0ba18f36e2117384e"
   },
   {
     "author": "HaiLuan",
@@ -361,15 +613,21 @@
   },
   {
     "author": "swablu",
-    "name": "Dungeon Pack",
-    "steamId": null,
-    "version": null
+    "name": "Dynamic Flooding",
+    "steamId": "3144491125",
+    "version": "1.0.0.0"
   },
   {
-    "author": "PioterMagican",
-    "name": "Eating without a table is... Neutral",
-    "steamId": null,
-    "version": null
+    "author": "ToyWalrus",
+    "name": "Easy Upgrades (Continued)",
+    "steamId": "2904429048",
+    "version": "1.5.0"
+  },
+  {
+    "author": "SmArtKar",
+    "name": "Athena Framework",
+    "steamId": "2903359518",
+    "version": "0.0.0.0"
   },
   {
     "author": "Sir Van and Elseud",
@@ -378,8 +636,14 @@
     "version": null
   },
   {
-    "author": "Mort Strudel",
-    "name": "Empiricism and Faith - Mort's Ideologies: Memes and Precepts",
+    "author": "Mlie",
+    "name": "Enter Here",
+    "steamId": "2824117092",
+    "version": "1.5.0"
+  },
+  {
+    "author": "test",
+    "name": "Every Material Gene",
     "steamId": null,
     "version": null
   },
@@ -390,28 +654,34 @@
     "version": null
   },
   {
+    "author": "Rainbeau Flambe (original) & Kiame Vivacity (1.0 to 1.3) & TheRealLemon",
+    "name": "Faction Control (1.4/1.5)",
+    "steamId": "2882785581",
+    "version": "1.0.8870.34315"
+  },
+  {
     "author": "TGPArcher + maintainers",
-    "name": "Faction Manager v1.4",
+    "name": "Faction Manager v1.5",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Smash Phil | Dr_Zhivago | monkey5206",
-    "name": "Carry Capacity Fixed (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Fuglypump",
-    "name": "Fallout Traits",
-    "steamId": null,
-    "version": null
+    "author": "Inglix",
+    "name": "Faster Biosculpter Pod",
+    "steamId": "2576257954",
+    "version": "3.0.5"
   },
   {
     "author": "-AmroWazzan",
     "name": "Faster Gene Recovery",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Neceros and Updated by marceline",
+    "name": "Faster Smoothing",
+    "steamId": "2879128253",
+    "version": "1.0.0.0"
   },
   {
     "author": "Tials",
@@ -426,16 +696,58 @@
     "version": null
   },
   {
-    "author": "WLAD",
-    "name": "GeneTech",
+    "author": "bdew",
+    "name": "Full Gun Sell Price",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Gideon",
+    "name": "Gideon's Quality Surgeon Reborn",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Gideon",
+    "name": "Gideon's Stackable Chunks",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "K",
+    "name": "GlitterNet",
+    "steamId": "1725544583",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Albion",
+    "name": "Go Explore!",
+    "steamId": "1814100216",
+    "version": "1.1.0"
+  },
+  {
+    "author": "Khorbos",
+    "name": "Go the Fork to Sleep",
+    "steamId": "2880337287",
+    "version": "1.0.5"
+  },
+  {
+    "author": "avilmask",
+    "name": "Grazing Lands",
+    "steamId": "1770268130",
+    "version": "1.0.0.0"
   },
   {
     "author": "Ykara (Updated for 1.1 by Ogliss)",
     "name": "Harvest Everything!",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "Harvest When Butchering",
+    "steamId": "2898826891",
+    "version": "1.5.1"
   },
   {
     "author": "ItsComcastic",
@@ -450,10 +762,64 @@
     "version": null
   },
   {
+    "author": "leion247",
+    "name": "Higher Power",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Iwo Rosiak",
+    "name": "Holsters",
+    "steamId": "2610120706",
+    "version": "2.0.14"
+  },
+  {
+    "author": "Orion",
+    "name": "Cash Register",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mehni",
+    "name": "More Faction Interaction (Continued)",
+    "steamId": "2379076640",
+    "version": "1.5.0"
+  },
+  {
     "author": "Orion",
     "name": "Hospitality",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Adamas",
+    "name": "Hospitality: Storefront",
+    "steamId": "",
+    "version": "1.0.0"
+  },
+  {
+    "author": "aRandomKiwi",
+    "name": "Hunt for Me",
+    "steamId": "1593245720",
+    "version": "3.5.6.0"
+  },
+  {
+    "author": "Netrve",
+    "name": "Hunters Use Melee! (Continued)",
+    "steamId": "2900108163",
+    "version": "1.5.0"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Mint Menus",
+    "steamId": "1446523594",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Taggerung",
+    "name": "I Aint Building That",
+    "steamId": "3118060751",
+    "version": "1.0.0.0"
   },
   {
     "author": "Mlie",
@@ -463,7 +829,7 @@
   },
   {
     "author": "Bronuh",
-    "name": "Implantify [1.4]",
+    "name": "Implantify [1.5]",
     "steamId": null,
     "version": null
   },
@@ -474,20 +840,26 @@
     "version": null
   },
   {
-    "author": "一个龟龟",
-    "name": "Increase Gene Processor Complexity",
-    "steamId": null,
-    "version": null
+    "author": "Zaf",
+    "name": "Inject Genes",
+    "steamId": "2918091446",
+    "version": "1.0.0.0"
   },
   {
     "author": "DimonSever000",
-    "name": "Insect Evolution [1.4]",
+    "name": "Insect Evolution",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Fuglypump",
-    "name": "Job Splitter",
+    "author": "LTS",
+    "name": "Integrated Implants",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Elseud",
+    "name": "Ion Weaponry",
     "steamId": null,
     "version": null
   },
@@ -510,16 +882,28 @@
     "version": null
   },
   {
-    "author": "newcolonist",
-    "name": "Large Faction Bases",
+    "author": "Falconne",
+    "name": "Labels on Floor",
     "steamId": null,
     "version": null
   },
   {
-    "author": "_sashkaa",
-    "name": "Larger Genebank",
-    "steamId": null,
-    "version": null
+    "author": "Oskar Potocki, xrushha, legodude17 and ISOREX",
+    "name": "Vanilla Furniture Expanded - Architect",
+    "steamId": "2608762624",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Keshash",
+    "name": "Layered Wall Destruction",
+    "steamId": "3024527775",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Murmur",
+    "name": "Wall Light",
+    "steamId": "1423699208",
+    "version": "1.0.0.0"
   },
   {
     "author": "juanlopez2008",
@@ -528,16 +912,40 @@
     "version": null
   },
   {
-    "author": "Andreas Pardeike",
-    "name": "Line Of Sight Fix",
+    "author": "Mlie",
+    "name": "Live With The Pain",
+    "steamId": "2659985388",
+    "version": "1.5.0"
+  },
+  {
+    "author": "Myf",
+    "name": "Lost Psycasts - LightSeeker",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Myfharad",
-    "name": "Lost Psycasts - LightSeeker",
-    "steamId": null,
-    "version": null
+    "author": "Myf",
+    "name": "Lost Psycasts - Skyrunner",
+    "steamId": "3174817532",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Ratys",
+    "name": "Mad Skills",
+    "steamId": "731111514",
+    "version": "2.7.0.0"
+  },
+  {
+    "author": "Scorpio and Taranchuk",
+    "name": "Make Anything Buildable",
+    "steamId": "2804579809",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Scorpio and Taranchuk",
+    "name": "Make Anything Craftable",
+    "steamId": "2802770242",
+    "version": "1.0.0.0"
   },
   {
     "author": "CaptainGeorge",
@@ -546,22 +954,34 @@
     "version": null
   },
   {
-    "author": "mod5s",
-    "name": "Matter Manipulator",
+    "author": "m00nl1ght",
+    "name": "Map Preview",
+    "steamId": "2800857642",
+    "version": "1.12.14.0"
+  },
+  {
+    "author": "UnlimitedHugs and TheRealLemon",
+    "name": "Map Reroll (1.4/1.5)",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Tigerblut",
-    "name": "Meat Pigs",
-    "steamId": null,
-    "version": null
+    "author": "sumghai",
+    "name": "MedPod",
+    "steamId": "2153065191",
+    "version": "1.5.22"
   },
   {
-    "author": "ItchyFlea",
-    "name": "Medical Training",
-    "steamId": null,
-    "version": null
+    "author": "Papito",
+    "name": "Medicines+ 1.5",
+    "steamId": "2878860499",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "AtrociousCollector",
+    "name": "Melee Weapons: Speed and Damage",
+    "steamId": "2031929206",
+    "version": "1.0.0.0"
   },
   {
     "author": "Mlie",
@@ -576,6 +996,24 @@
     "version": null
   },
   {
+    "author": "KahirDragoon",
+    "name": "Mineral Scanner - All ores",
+    "steamId": "3158955105",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "Mining Priority",
+    "steamId": "1345928533",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Haplo",
+    "name": "Misc. Training",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "^Cake",
     "name": "More Components and Steel (More) Vanilla",
     "steamId": null,
@@ -586,6 +1024,12 @@
     "name": "More Crashed Ship Parts",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Arquebus and woffleman",
+    "name": "More Gene Complexity",
+    "steamId": "2876012466",
+    "version": "0.0.0.0"
   },
   {
     "author": "NavySeal",
@@ -612,6 +1056,18 @@
     "version": null
   },
   {
+    "author": "Zylle",
+    "name": "More Vanilla Biomes",
+    "steamId": "1931453053",
+    "version": "0.1.5.01"
+  },
+  {
+    "author": "Hob Took",
+    "name": "Mortar Accuracy",
+    "steamId": "1729446857",
+    "version": "1.5.1"
+  },
+  {
     "author": "ToxicQuokka",
     "name": "Movable Tech",
     "steamId": null,
@@ -630,20 +1086,14 @@
     "version": null
   },
   {
-    "author": "NachoToast",
-    "name": "Simple Custom Gas Framework",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "NachoToast",
-    "name": "Mustard Gas",
+    "author": "sindre0830",
+    "name": "Natural Paths",
     "steamId": null,
     "version": null
   },
   {
     "author": "sindre0830",
-    "name": "Natural Paths",
+    "name": "Natural Lakes",
     "steamId": null,
     "version": null
   },
@@ -654,28 +1104,28 @@
     "version": null
   },
   {
-    "author": "Oh God Spiders No",
-    "name": "No Hairless Royal Headgear (aka \"Eltex Circlets\")",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Xavior",
-    "name": "No Lazy Doctors",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "zyxabacab",
     "name": "No Sympathy for Prisoners",
     "steamId": null,
     "version": null
   },
   {
+    "author": "Mlie",
+    "name": "No vanilla weapons",
+    "steamId": "2514935266",
+    "version": "1.5.0"
+  },
+  {
     "author": "Vesper",
     "name": "Not My Fault",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Oskar Potocki, Erin and Sarg Bjornson",
+    "name": "Vanilla Animals Expanded — Endangered",
+    "steamId": "2366589898",
+    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki, Trunken and Sarg Bjornson",
@@ -690,16 +1140,22 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki, Sarg Bjornson, erdelf, Roolo, Smash Phil, Taranchuk, xrushha, Kikohi and legodude17",
+    "name": "Vanilla Factions Expanded - Pirates",
+    "steamId": "2723801948",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Lt oddy",
     "name": "Not a Weapon",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Darth_Sergeant",
-    "name": "Nurse Job",
-    "steamId": null,
-    "version": null
+    "author": "Andromeda",
+    "name": "Packable Containers",
+    "steamId": "3079237715",
+    "version": "1.0.0.0"
   },
   {
     "author": "Tied",
@@ -708,22 +1164,22 @@
     "version": null
   },
   {
-    "author": "Уверен?",
-    "name": "Plant Anything in Hydroponics",
-    "steamId": null,
-    "version": null
+    "author": "fed1sPlay",
+    "name": "PawnTargetFix",
+    "steamId": "2014789938",
+    "version": "1.0.0.0"
   },
   {
-    "author": "Mlie",
-    "name": "Plasteel Surgery (Continued)",
-    "steamId": null,
-    "version": null
+    "author": "Taranchuk",
+    "name": "Performance Optimizer",
+    "steamId": "2664723367",
+    "version": "1.0.0.0"
   },
   {
-    "author": "Compilatron and Owlchemist",
-    "name": "Power Tab 2",
-    "steamId": null,
-    "version": null
+    "author": "Neceros",
+    "name": "Plant Growth Sync (Continued)",
+    "steamId": "2807616911",
+    "version": "1.5.0"
   },
   {
     "author": "1trickPonyta",
@@ -738,16 +1194,10 @@
     "version": null
   },
   {
-    "author": "GassyTaco",
-    "name": "Prisoner Harvesting - 1.4",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "oBerry",
-    "name": "Prisoner Recreation",
-    "steamId": null,
-    "version": null
+    "author": "tk421storm",
+    "name": "Priority Treatment Ressurected",
+    "steamId": "3009738919",
+    "version": "1.0.0.0"
   },
   {
     "author": "pelador",
@@ -774,28 +1224,16 @@
     "version": null
   },
   {
-    "author": "Fluxilis",
-    "name": "Quality Affects HP",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "dninemfive",
-    "name": "Quality Cooldown",
-    "steamId": null,
-    "version": null
+    "author": "pudy248",
+    "name": "Quality Expanded [1.4+ Fork]",
+    "steamId": "2885572675",
+    "version": "1.0.0.0"
   },
   {
     "author": "Hatti",
-    "name": "QualitySurgeon",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "SGC",
-    "name": "Quest Reward Rebalance",
-    "steamId": null,
-    "version": null
+    "name": "QualityBuilder",
+    "steamId": "754637870",
+    "version": "1.0.18"
   },
   {
     "author": "spoonshortage",
@@ -804,44 +1242,32 @@
     "version": null
   },
   {
-    "author": "Yoann",
-    "name": "Raid with Animals",
-    "steamId": null,
-    "version": null
+    "author": "Sandy",
+    "name": "RPG Style Inventory",
+    "steamId": "1561221991",
+    "version": "1.0.0.0"
   },
   {
-    "author": "MrKociak",
-    "name": "Randomised Stone Refinery",
-    "steamId": null,
-    "version": null
+    "author": "tk421storm",
+    "name": "Ragdoll Physics",
+    "steamId": "3179116177",
+    "version": "1.0.0.0"
   },
   {
-    "author": "Helixien",
-    "name": "ReGrowth: Arid",
-    "steamId": null,
-    "version": null
+    "author": "Andreas Pardeike",
+    "name": "Range Finder",
+    "steamId": "1332119637",
+    "version": "2.5.0.0"
   },
   {
-    "author": "Helixien",
-    "name": "ReGrowth: Boreal",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Helixien",
-    "name": "ReGrowth: Extinct Animals",
-    "steamId": null,
-    "version": null
+    "author": "plet",
+    "name": "Ranged Shield Belt Tiers",
+    "steamId": "2665630471",
+    "version": "1.0.0.0"
   },
   {
     "author": "Helixien",
     "name": "ReGrowth: Swamp",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Helixien",
-    "name": "ReGrowth: Temperate",
     "steamId": null,
     "version": null
   },
@@ -852,26 +1278,20 @@
     "version": null
   },
   {
-    "author": "Helixien",
-    "name": "ReGrowth: Tundra",
-    "steamId": null,
-    "version": null
+    "author": "Temmie3754",
+    "name": "ReTend",
+    "steamId": "2996971119",
+    "version": "1.0.0.0"
   },
   {
-    "author": "SirMcKeon",
-    "name": "Reasonable Components",
-    "steamId": null,
-    "version": null
+    "author": "mr.teterew",
+    "name": "Real Ruins",
+    "steamId": "1552146295",
+    "version": "3.0.0.0"
   },
   {
-    "author": "Kinetic tail",
-    "name": "Reinforced Walls+",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Ethereal",
-    "name": "Rejuvenate Surgery",
+    "author": "Plat202 Edited",
+    "name": "Reasonable Components 1.5",
     "steamId": null,
     "version": null
   },
@@ -888,16 +1308,52 @@
     "version": null
   },
   {
+    "author": "Weilbyte",
+    "name": "RenameColony",
+    "steamId": "1359645236",
+    "version": "0.1.9"
+  },
+  {
+    "author": "Moony",
+    "name": "Repair Items",
+    "steamId": "2564355300",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "Replace Stuff",
+    "steamId": "1372003680",
+    "version": "1.1.0.0"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Research Tree (Continued)",
+    "steamId": "3030499331",
+    "version": "1.5.1"
+  },
+  {
+    "author": "avilmask",
+    "name": "Research Whatever",
+    "steamId": "2552092060",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Vakaria",
     "name": "Respect the Scars",
     "steamId": null,
     "version": null
   },
   {
-    "author": "VexedTrees",
-    "name": "Rim-Robots_",
-    "steamId": null,
-    "version": null
+    "author": "Cabbage",
+    "name": "RimCities",
+    "steamId": "1775170117",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Jaxe",
+    "name": "RimHUD",
+    "steamId": "1508850027",
+    "version": "1.15.3.0"
   },
   {
     "author": "ruPal",
@@ -918,40 +1374,22 @@
     "version": null
   },
   {
-    "author": "rooki1",
-    "name": "Rimsenal - Hair pack",
-    "steamId": null,
-    "version": null
+    "author": "telardo",
+    "name": "Romance On The Rim",
+    "steamId": "2654432921",
+    "version": "1.5.0.3"
   },
   {
-    "author": "Falconne",
-    "name": "Room Sense",
-    "steamId": null,
-    "version": null
+    "author": "Uuugggg",
+    "name": "Room Food",
+    "steamId": "1339148170",
+    "version": "1.0.0.0"
   },
   {
-    "author": "Roolo and Updated by Ogliss",
-    "name": "RunAndGun",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Scorpio",
-    "name": "SOS2 EVA auto patcher",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "M",
-    "name": "SOS2 Stuffed",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "NetzachSloth",
-    "name": "Save our Ship - Archotech Expanded Prosthetics Patch",
-    "steamId": null,
-    "version": null
+    "author": "Mobius",
+    "name": "Royalty Tweaks",
+    "steamId": "2018384424",
+    "version": "1.1.9.0"
   },
   {
     "author": "Nimrag",
@@ -960,20 +1398,20 @@
     "version": null
   },
   {
-    "author": "Roolo",
-    "name": "Search and Destroy",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "AUTOMATIC",
-    "name": "Set Owner for Prisoner Beds",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Victor",
     "name": "Settlements buy more",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Neronix17",
+    "name": "Shield Generators",
+    "steamId": "2540563802",
+    "version": "1.0.8884.31897"
+  },
+  {
+    "author": "Chaingunfighter1 / Slippin' Jimmy",
+    "name": "Shiny Steel",
     "steamId": null,
     "version": null
   },
@@ -990,16 +1428,40 @@
     "version": null
   },
   {
-    "author": "TechnoFox",
-    "name": "Simple Learning",
+    "author": "Lanilor and Proxyer",
+    "name": "Simple Recycling",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Phaneron",
-    "name": "Simple Learning Retexture",
-    "steamId": null,
-    "version": null
+    "author": "PeteTimesSix",
+    "name": "Simple sidearms",
+    "steamId": "927155256",
+    "version": "1.4.6.0"
+  },
+  {
+    "author": "Sl4vP0weR",
+    "name": "Sleep Meditation",
+    "steamId": "3029526972",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "Smart Medicine",
+    "steamId": "1309994319",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg",
+    "name": "Smart Speed",
+    "steamId": "1504723424",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "denev",
+    "name": "Smart Turret Covering",
+    "steamId": "2636621800",
+    "version": "1.0.0.0"
   },
   {
     "author": "dhultgren",
@@ -1008,10 +1470,46 @@
     "version": null
   },
   {
+    "author": "Mlie",
+    "name": "Smarter Visitors",
+    "steamId": "3012491521",
+    "version": "1.5.3"
+  },
+  {
     "author": "Orion",
     "name": "Therapy",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Weilbyte",
+    "name": "Snap Out!",
+    "steamId": "1319782555",
+    "version": "0.9.0"
+  },
+  {
+    "author": "RemingtonRyder",
+    "name": "Sometimes Raids Go Wrong",
+    "steamId": "1551336515",
+    "version": "1.0.8884.37791"
+  },
+  {
+    "author": "Jaxe",
+    "name": "Interaction Bubbles",
+    "steamId": "1516158345",
+    "version": "3.0.0.0"
+  },
+  {
+    "author": "jptrrs",
+    "name": "SpeakUp",
+    "steamId": "2502518544",
+    "version": "0.8"
+  },
+  {
+    "author": "OMGSplat",
+    "name": "Split Genepack",
+    "steamId": "2905371517",
+    "version": "1.0.0.0"
   },
   {
     "author": "Linkolas",
@@ -1026,10 +1524,16 @@
     "version": null
   },
   {
-    "author": "CatCraftYT",
-    "name": "Stargates!",
-    "steamId": null,
-    "version": null
+    "author": "Andromeda",
+    "name": "Stack gap",
+    "steamId": "3071298014",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Scherub",
+    "name": "Stonecutting Extended",
+    "steamId": "2571676542",
+    "version": "1.6.0+dd0f8eb4b330bb7a72b94713ab8b965f9d2320df"
   },
   {
     "author": "Murmur",
@@ -1038,28 +1542,28 @@
     "version": null
   },
   {
-    "author": "BlackMarket420",
-    "name": "The Army Of Fetid Corpses",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Winterwolf",
-    "name": "The Expanse - OST ",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Nolimet",
-    "name": "Tilled Soil (Recontinued)",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Jaxe",
     "name": "Toggle Harvest",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "nry",
+    "name": "ToolkitCore",
+    "steamId": "3013877477",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "nry",
+    "name": "Twitch Toolkit",
+    "steamId": "3013874066",
+    "version": "2.0.10.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "2009500580",
+    "version": "7.0.4.0-beta+6fdbc22282511652e115c43e0d6c89402f88b4b5"
   },
   {
     "author": "Smash Phil",
@@ -1074,28 +1578,40 @@
     "version": null
   },
   {
-    "author": "BomTrain",
-    "name": "Traders have more Silver 1.4",
-    "steamId": null,
-    "version": null
+    "author": "José Ángel Soler Ortiz",
+    "name": "Trading Options",
+    "steamId": "2876541977",
+    "version": "0.5.0.0"
   },
   {
     "author": "Superniquito",
     "name": "Trait and Backstory Icons",
-    "steamId": null,
-    "version": null
+    "steamId": "2873494547",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "RemingtonRyder",
+    "name": "Ugh You Got Me",
+    "steamId": "1542424705",
+    "version": "1.0.8847.22466"
   },
   {
     "author": "GoldenLumia and Beast(Original)",
-    "name": "Ultimate Storyteller (1.4)",
+    "name": "Ultimate Storyteller [1.4-1.5]",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Grimm",
-    "name": "Un-Limited",
-    "steamId": null,
-    "version": null
+    "author": "GoldenLumia and VPE Team",
+    "name": "Ultimate Storyteller - Basilicus Patch [1.4-1.5]",
+    "steamId": "2928443788",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "Use Bedrolls",
+    "steamId": "1353625821",
+    "version": "1.0.0.0"
   },
   {
     "author": "Nephlite and Maxim",
@@ -1104,28 +1620,22 @@
     "version": null
   },
   {
-    "author": "SpaceMoth",
-    "name": "VFE Ancients - Vaults are Eternal",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "NetzachSloth",
-    "name": "VPE Auto Cast Buffs",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Haplo",
-    "name": "Misc. Training",
-    "steamId": null,
-    "version": null
+    "author": "The White Crayon (Updated for 1.1 by Ogliss)",
+    "name": "Quarry",
+    "steamId": "2007576583",
+    "version": "2.0.0"
   },
   {
     "author": "SirVan",
-    "name": "Van's Retexture : Misc. Training",
+    "name": "Van's Retexture : Quarry",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Sarg Bjornson and Oskar Potocki",
+    "name": "Vanilla Animals Expanded",
+    "steamId": "2871933948",
+    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki, Sarg Bjornson and Erin",
@@ -1140,26 +1650,26 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki, xrushha and SmashPhil",
+    "author": "Oskar Potocki, xrushha, SmashPhil and legodude17",
     "name": "Vanilla Apparel Expanded — Accessories",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Kikohi and Oskar Potocki",
-    "name": "Vanilla Base Generation Expanded",
-    "steamId": null,
-    "version": null
+    "author": "Oskar Potocki, Kikohi, Helixien and Sarg",
+    "name": "Vanilla Events Expanded",
+    "steamId": "1938420742",
+    "version": "1.1.0"
   },
   {
-    "author": "Owlchemist",
-    "name": "Vanilla Bionics Expansion SOS2 patch",
-    "steamId": null,
-    "version": null
+    "author": "Oskar Potocki, xrushha and legodude17",
+    "name": "Vanilla Factions Expanded - Ancients",
+    "steamId": "2654846754",
+    "version": "1.0.0.0"
   },
   {
-    "author": "Oskar Potocki and Kikohi",
-    "name": "Vanilla Expanded - Royalty Patches",
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Fishing Expanded - Fishing Treasures AddOn",
     "steamId": null,
     "version": null
   },
@@ -1170,13 +1680,37 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki and Trunken",
+    "author": "Oskar Potocki, dninemfive, Kikohi and Sarg",
+    "name": "Vanilla Furniture Expanded - Farming",
+    "steamId": "1957158779",
+    "version": "1.0.1.0"
+  },
+  {
+    "author": "OskarPotocki, Atlas and Kikohi",
+    "name": "Vanilla Furniture Expanded - Medical Module",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Trunken and Sarg",
     "name": "Vanilla Furniture Expanded - Production",
     "steamId": null,
     "version": null
   },
   {
-    "author": "OskarPotocki, Atlas and Kikohi",
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Furniture Expanded - Props and Decor",
+    "steamId": "2102143149",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Trunken and XeoNovaDan",
+    "name": "Vanilla Furniture Expanded - Security",
+    "steamId": "1845154007",
+    "version": "1.1.1.0"
+  },
+  {
+    "author": "OskarPotocki, Atlas, Kikohi and Sarg",
     "name": "Vanilla Furniture Expanded",
     "steamId": null,
     "version": null
@@ -1186,6 +1720,12 @@
     "name": "Vanilla Furniture Expanded - Spacer Module",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Oskar Potocki and XeoNovaDan",
+    "name": "Vanilla Hair Expanded",
+    "steamId": "1888705256",
+    "version": "1.0.3"
   },
   {
     "author": "Oskar Potocki and Sarg Bjornson",
@@ -1200,14 +1740,14 @@
     "version": null
   },
   {
-    "author": "legodude17 and Oskar Potocki",
-    "name": "Vanilla Outposts Expanded",
-    "steamId": null,
-    "version": null
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Ideology Expanded - Memes and Structures",
+    "steamId": "2636329500",
+    "version": "1.0.0.0"
   },
   {
-    "author": "Kuhlyus",
-    "name": "Vanilla Mining Outpost Patch",
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Nutrient Paste Expanded",
     "steamId": null,
     "version": null
   },
@@ -1218,52 +1758,22 @@
     "version": null
   },
   {
-    "author": "zed_0xff",
-    "name": "Vanilla Nutrient Paste Expanded: MiniGrinder",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "MrHydralisk",
-    "name": "Vanilla Outposts Expanded: Additional Outposts",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "MrHydralisk",
-    "name": "Vanilla Outposts Expanded: Delivery Logistics",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki and Taranchuk",
     "name": "Vanilla Persona Weapons Expanded",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Helixien",
-    "name": "ReGrowth: Aspen",
-    "steamId": null,
-    "version": null
+    "author": "Oskar Potocki, Taranchuk, Reann Shepard and Sir Van",
+    "name": "Vanilla Psycasts Expanded - Hemosage",
+    "steamId": "2990596478",
+    "version": "1.0.1.0"
   },
   {
-    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
-    "name": "Vanilla Plants Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Sarg Bjornson and Oskar Potocki",
-    "name": "Vanilla Plants Expanded - More Plants",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and Alestria",
-    "name": "Vanilla Plants Expanded - Succulents",
-    "steamId": null,
-    "version": null
+    "author": "Oskar Potocki, Taranchuk and Reann Shepard",
+    "name": "Vanilla Psycasts Expanded - Puppeteer",
+    "steamId": "3033779606",
+    "version": "1.0.2.0"
   },
   {
     "author": "mayonnaise",
@@ -1273,9 +1783,63 @@
   },
   {
     "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Races Expanded - Fungoid",
+    "steamId": "3042690053",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Races Expanded - Genie",
+    "steamId": "2901424072",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Taranchuk and Sarg Bjornson",
+    "name": "Vanilla Races Expanded - Highmate",
+    "steamId": "2995385834",
+    "version": "1.0.1.0"
+  },
+  {
+    "author": "Oskar Potocki, xrushha, Taranchuk and Sarg",
+    "name": "Vanilla Races Expanded - Hussar",
+    "steamId": "2893586390",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Races Expanded - Lycanthrope",
+    "steamId": "3114453100",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson, Allie, Erin, Sir Van and Reann Shepard",
+    "name": "Vanilla Races Expanded - Phytokin",
+    "steamId": "2927323805",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
     "name": "Vanilla Races Expanded - Waster",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "OskarPotocki, Sarg Bjornson and xrushha",
+    "name": "Vanilla Recycling Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Taranchuk",
+    "name": "Vanilla Social Interactions Expanded",
+    "steamId": "2439736083",
+    "version": "1.0.0.1"
+  },
+  {
+    "author": "Ratys",
+    "name": "RT Solar Flare Shield",
+    "steamId": "728315620",
+    "version": "1.8.0.0"
   },
   {
     "author": "Phoenix",
@@ -1284,14 +1848,38 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Weapons Expanded - Quickdraw",
+    "author": "Oskar Potocki and Taranchuk",
+    "name": "Vanilla Trading Expanded",
+    "steamId": "2785616901",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Taranchuk and Chowder",
+    "name": "Vanilla Traits Expanded",
+    "steamId": "2296404655",
+    "version": "1.4.1.0"
+  },
+  {
+    "author": "Smash Phil",
+    "name": "Vehicle Framework",
+    "steamId": "3014915404",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, xrushha, Smash Phil, Taranchuk, Reann Shepard and Sarg",
+    "name": "Vanilla Vehicles Expanded",
+    "steamId": "3014906877",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, xrushha, Smash Phil, Taranchuk and Reann Shepard",
+    "name": "Vanilla Vehicles Expanded - Tier 3",
     "steamId": null,
     "version": null
   },
   {
-    "author": "zzz",
-    "name": "Wall Vitals Monitor",
+    "author": "Oskar Potocki, AveryTheKitty and Taranchuk",
+    "name": "Vanilla Weapons Expanded - Coilguns",
     "steamId": null,
     "version": null
   },
@@ -1302,10 +1890,28 @@
     "version": null
   },
   {
-    "author": "Crustypeanut",
-    "name": "War Crimes Expanded 2 Core",
+    "author": "Crustypeanut and Mersid",
+    "name": "War Crimes Expanded 2 Core (Updated)",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Dartstriker",
+    "name": "Watchtowers",
+    "steamId": "2877320918",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sk",
+    "name": "Weapon Mastery (Continued)",
+    "steamId": "2898431155",
+    "version": "1.5.1"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "What Is My Purpose",
+    "steamId": "1346064449",
+    "version": "1.0.0.0"
   },
   {
     "author": "kaitorisenkou",
@@ -1314,20 +1920,38 @@
     "version": null
   },
   {
-    "author": "JI_Won",
-    "name": "Won hair_men",
+    "author": "Mehni",
+    "name": "Pick Up And Haul",
+    "steamId": "1279012058",
+    "version": "1.0.0+9f86e76c731e01a0010144331d5dc54c9b5f8a37"
+  },
+  {
+    "author": "CodeOptimist",
+    "name": "While You're Up (with add-on for PUAH)",
+    "steamId": "2034960453",
+    "version": "4.0.6.5399+940962909e038e7f989abb2a2e979e6b0a3338bf"
+  },
+  {
+    "author": "AUTOMATIC",
+    "name": "Gunplay",
+    "steamId": "2034896549",
+    "version": "1.0.379.0018"
+  },
+  {
+    "author": "YAYO",
+    "name": "Yayo's Animation (Continued)",
+    "steamId": "2877292196",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Roolo",
+    "name": "Dual Wield",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Luxx",
-    "name": "Xen's Taming Fixer (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "PrivateGER",
-    "name": "[1.4] Nukes",
+    "author": "YAYO",
+    "name": "Yayo's Combat 3 (Continued)",
     "steamId": null,
     "version": null
   },
@@ -1356,16 +1980,22 @@
     "version": null
   },
   {
-    "author": "Shadowrabbit",
-    "name": "[SR]Raid Extension",
-    "steamId": null,
-    "version": null
+    "author": "Kiame Vivacity",
+    "name": "[KV] Path Avoid",
+    "steamId": "1180719857",
+    "version": "1.0.0.0"
   },
   {
-    "author": "Syrchalis",
-    "name": "[SYR] Neuter",
-    "steamId": null,
-    "version": null
+    "author": "Rainbeau Flambe (original) & Kiame Vivacity (exDev) & Luca (Current Maintainer)",
+    "name": "[LC] Consolidated Traits",
+    "steamId": "2879753009",
+    "version": "1.0.8853.35016"
+  },
+  {
+    "author": "Chicken Plucker and Taranchuk",
+    "name": "[RH2] Hand-To-Hand",
+    "steamId": "2556532381",
+    "version": "1.0.0.0"
   },
   {
     "author": "LingLuo",
@@ -1378,5 +2008,11 @@
     "name": "pphhyy Sanguinary Animals",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Krkr",
+    "name": "RocketMan - Performance Mod",
+    "steamId": "2479389928",
+    "version": "0.6.3.2421"
   }
 ]
