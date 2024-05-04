@@ -102,6 +102,12 @@
     "version": "1.5"
   },
   {
+    "author": "swablu",
+    "name": "Ambient Rim",
+    "steamId": "3158997430",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Vectorial1024",
     "name": "Elite Bionics Framework",
     "steamId": "1665403571",
@@ -171,7 +177,7 @@
     "author": "Little White Mouse",
     "name": "LWM's Deep Storage",
     "steamId": "1617282896",
-    "version": "1.5.0.2"
+    "version": "1.5.0.3"
   },
   {
     "author": "Oskar Potocki, Kentington, Sarg Bjornson, erdelf, Kikohi, Chowder, Taranchuk and ISOREX",
@@ -414,6 +420,12 @@
     "version": null
   },
   {
+    "author": "Darknote",
+    "name": "Bunk Beds",
+    "steamId": "2961752749",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "CrashM",
     "name": "CM Color Coded Mood Bar [1.1+]",
     "steamId": "2006605356",
@@ -435,7 +447,7 @@
     "author": "Torann",
     "name": "CaravanOptions",
     "steamId": "1501729394",
-    "version": "1.1.1.5"
+    "version": "1.2.0.0"
   },
   {
     "author": "Smash Phil | Dr_Zhivago | monkey5206",
@@ -465,7 +477,7 @@
     "author": "void",
     "name": "Character Editor",
     "steamId": "1874644848",
-    "version": "1.5.9.0"
+    "version": "1.5.10.0"
   },
   {
     "author": "Captain Muscles (Nathan Harbour)",
@@ -489,7 +501,7 @@
     "author": "avilmask",
     "name": "Common Sense",
     "steamId": "1561769193",
-    "version": "1.0.8887.21593"
+    "version": "1.0.8888.40976"
   },
   {
     "author": "miyamiya, twsta and vokaerian",
@@ -612,9 +624,9 @@
     "version": null
   },
   {
-    "author": "swablu",
-    "name": "Dynamic Flooding",
-    "steamId": "3144491125",
+    "author": "NilchEi",
+    "name": "Dynamic Diplomacy - Continued",
+    "steamId": "3220299022",
     "version": "1.0.0.0"
   },
   {
@@ -864,6 +876,12 @@
     "version": null
   },
   {
+    "author": "Helixien",
+    "name": "JoJo's Bizarre Hairstyles",
+    "steamId": "2971567034",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Andreas Pardeike",
     "name": "Just Ignore Me Passing",
     "steamId": null,
@@ -898,6 +916,12 @@
     "name": "Layered Wall Destruction",
     "steamId": "3024527775",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "BBLKepling",
+    "name": "Leaky Boomalopes",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Murmur",
@@ -969,7 +993,7 @@
     "author": "sumghai",
     "name": "MedPod",
     "steamId": "2153065191",
-    "version": "1.5.22"
+    "version": "1.5.23"
   },
   {
     "author": "Papito",
@@ -1164,10 +1188,22 @@
     "version": null
   },
   {
+    "author": "Patricia?!",
+    "name": "Patricia's Moveable Monoliths",
+    "steamId": "3219733061",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "fed1sPlay",
     "name": "PawnTargetFix",
     "steamId": "2014789938",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "battlemage64",
+    "name": "People Can Change",
+    "steamId": "1257561308",
+    "version": "1.0.8888.42695"
   },
   {
     "author": "Taranchuk",
@@ -1398,6 +1434,18 @@
     "version": null
   },
   {
+    "author": "Roolo",
+    "name": "Search and Destroy (Unofficial Update)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "IslandPotato",
+    "name": "Settlement quests",
+    "steamId": "3166169450",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Victor",
     "name": "Settlements buy more",
     "steamId": null,
@@ -1473,7 +1521,7 @@
     "author": "Mlie",
     "name": "Smarter Visitors",
     "steamId": "3012491521",
-    "version": "1.5.3"
+    "version": "1.5.4"
   },
   {
     "author": "Orion",
@@ -1620,6 +1668,18 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki, xrushha and legodude17",
+    "name": "Vanilla Factions Expanded - Ancients",
+    "steamId": "2654846754",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "SpaceMoth",
+    "name": "VFE Ancients - Vaults are Eternal",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "The White Crayon (Updated for 1.1 by Ogliss)",
     "name": "Quarry",
     "steamId": "2007576583",
@@ -1660,12 +1720,6 @@
     "name": "Vanilla Events Expanded",
     "steamId": "1938420742",
     "version": "1.1.0"
-  },
-  {
-    "author": "Oskar Potocki, xrushha and legodude17",
-    "name": "Vanilla Factions Expanded - Ancients",
-    "steamId": "2654846754",
-    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki and Sarg Bjornson",
@@ -1952,6 +2006,12 @@
   {
     "author": "YAYO",
     "name": "Yayo's Combat 3 (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "PrivateGER",
+    "name": "[1.5] Nukes",
     "steamId": null,
     "version": null
   },
