@@ -4229,6 +4229,204 @@
       },
       "defName": "IG_TraitAstarte",
       "name": "imperial-astarte"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy doesn't take \"No\" as an answer.",
+      "stats": [
+        "+10.00% sex drive"
+      ],
+      "conflicts": [
+        "kind"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "kind"
+        ],
+        "stats": [
+          "+10.00% sex drive"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimJobWorld",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Rapist",
+      "name": "rapist"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Dead people can't say no, can they?",
+      "stats": [
+        "Morbid meditation focus type allowed.",
+        "+10.00% sex drive"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "Morbid meditation focus type allowed.",
+          "+10.00% sex drive"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimJobWorld",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Necrophiliac",
+      "name": "necrophile"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy likes to walk on the wild side.",
+      "stats": [
+        "+10.00% sex drive"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+10.00% sex drive"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimJobWorld",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Zoophile",
+      "name": "zoophile"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy loves sex and always wants more. Can regain psyfocus only through sex.",
+      "stats": [
+        "Sex meditation focus type allowed.",
+        "+10.00% vulnerability",
+        "+200.00% sex drive"
+      ],
+      "conflicts": [
+        "misandrist",
+        "misogynist"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "misandrist",
+          "misogynist"
+        ],
+        "stats": [
+          "Sex meditation focus type allowed.",
+          "+10.00% vulnerability",
+          "+200.00% sex drive"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimJobWorld",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Nymphomaniac",
+      "name": "hypersexual"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy really likes feet and prefers sex acts involving them.",
+      "stats": [
+        "+10.00% vulnerability"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+10.00% vulnerability"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimJobWorld",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FootSlut",
+      "name": "footslut"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy really likes cum and prefers fellatio sex acts.",
+      "stats": [
+        "+10.00% vulnerability"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+10.00% vulnerability"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimJobWorld",
+        "karmaTypeForAdding": null
+      },
+      "defName": "CumSlut",
+      "name": "cumslut"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy really likes getting fucked in the butt and prefers anal sex acts.",
+      "stats": [
+        "+10.00% vulnerability"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+10.00% vulnerability"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimJobWorld",
+        "karmaTypeForAdding": null
+      },
+      "defName": "ButtSlut",
+      "name": "buttslut"
     }
   ],
   "races": [
