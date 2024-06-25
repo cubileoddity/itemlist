@@ -21893,7 +21893,499 @@
       "category": "Misc",
       "defname": "Zombrella",
       "price": 3333
+    },
+    {
+      "abr": "connectedbed",
+      "category": "Furniture",
+      "defname": "VNPE_ConnectedBed",
+      "price": 992
+    },
+    {
+      "abr": "universalbedconnector",
+      "category": "Misc",
+      "defname": "VNPE_BedConnector",
+      "price": 542
+    },
+    {
+      "abr": "universalloftbedconnector",
+      "category": "Misc",
+      "defname": "VNPE_LoftBedConnector",
+      "price": 542
+    },
+    {
+      "abr": "absolverarmor",
+      "category": "Armor",
+      "defname": "VFEE_Apparel_ArmorAbsolver",
+      "price": 5333
+    },
+    {
+      "abr": "absolverhelmet",
+      "category": "Headgear",
+      "defname": "VFEE_Apparel_AbsolverHelmet",
+      "price": 2000
+    },
+    {
+      "abr": "aperitif",
+      "category": "Drugs",
+      "defname": "VFEE_Aperitif",
+      "price": 27
+    },
+    {
+      "abr": "armor-piercingshell",
+      "category": "Mortar shells",
+      "defname": "VFED_Shell_ArmorPiercing",
+      "price": 108
+    },
+    {
+      "abr": "bandana",
+      "category": "Headgear",
+      "defname": "VFES_Headgear_Bandana",
+      "price": 91
+    },
+    {
+      "abr": "barstool",
+      "category": "Furniture",
+      "defname": "StoolBar",
+      "price": 69
+    },
+    {
+      "abr": "biodecoder",
+      "category": "Misc",
+      "defname": "VFED_Biodecoder",
+      "price": 833
+    },
+    {
+      "abr": "bombpack",
+      "category": "Utility",
+      "defname": "VFED_Apparel_BombPack",
+      "price": 1500
+    },
+    {
+      "abr": "burnoutintelscraper",
+      "category": "Misc",
+      "defname": "VFED_BurnoutIntelScraper",
+      "price": 1133
+    },
+    {
+      "abr": "candelabra",
+      "category": "Furniture",
+      "defname": "VFEE_Candelabra",
+      "price": 169
+    },
+    {
+      "abr": "chargecycler",
+      "category": "Ranged weapons",
+      "defname": "VFED_Gun_ChargeCycler",
+      "price": 1333
+    },
+    {
+      "abr": "chargethumper",
+      "category": "Ranged weapons",
+      "defname": "VFEE_Gun_ChargeThumper",
+      "price": 1667
+    },
+    {
+      "abr": "chemboiler",
+      "category": "Temperature",
+      "defname": "ChemBoiler",
+      "price": 608
+    },
+    {
+      "abr": "chemlamp",
+      "category": "Furniture",
+      "defname": "Chemlamp",
+      "price": 102
+    },
+    {
+      "abr": "chemlamppost",
+      "category": "Furniture",
+      "defname": "ChemlampPost",
+      "price": 106
+    },
+    {
+      "abr": "chemshine",
+      "category": "Drugs",
+      "defname": "Chemshine",
+      "price": 17
+    },
+    {
+      "abr": "chemshinebarrel",
+      "category": "Production",
+      "defname": "Building_ChemshineBarrel",
+      "price": 95
+    },
+    {
+      "abr": "circulartable",
+      "category": "Furniture",
+      "defname": "TableCircular",
+      "price": 142
+    },
+    {
+      "abr": "clustershell",
+      "category": "Mortar shells",
+      "defname": "VFED_Shell_Cluster",
+      "price": 283
+    },
+    {
+      "abr": "criticalintel",
+      "category": "Misc",
+      "defname": "VFED_CriticalIntel",
+      "price": 1667
+    },
+    {
+      "abr": "deserterarmor",
+      "category": "Armor",
+      "defname": "VFEE_Apparel_ArmorDeserter",
+      "price": 6883
+    },
+    {
+      "abr": "deserterdeclassifier",
+      "category": "Utility",
+      "defname": "VFED_DeserterDeclassifier",
+      "price": 833
+    },
+    {
+      "abr": "deserterhelmet",
+      "category": "Headgear",
+      "defname": "VFEE_Apparel_DeserterHelmet",
+      "price": 1267
+    },
+    {
+      "abr": "double-actionrevolver",
+      "category": "Ranged weapons",
+      "defname": "VFES_Gun_DoubleActionRevolver",
+      "price": 244
+    },
+    {
+      "abr": "double-barreledshotgun",
+      "category": "Ranged weapons",
+      "defname": "VFES_Gun_DoubleBarreledShotgun",
+      "price": 442
+    },
+    {
+      "abr": "dynamite",
+      "category": "Grenades",
+      "defname": "VFES_Weapon_GrenadeDynamite",
+      "price": 658
+    },
+    {
+      "abr": "farotable",
+      "category": "Furniture",
+      "defname": "TableFaro",
+      "price": 255
+    },
+    {
+      "abr": "fivefingerfillettable",
+      "category": "Furniture",
+      "defname": "TableFiveFingerFilet",
+      "price": 205
+    },
+    {
+      "abr": "flatcap",
+      "category": "Headgear",
+      "defname": "VFES_Headgear_FlatCap",
+      "price": 95
+    },
+    {
+      "abr": "fletcher",
+      "category": "Ranged weapons",
+      "defname": "VEE_Gun_Fletcher",
+      "price": 4583
+    },
+    {
+      "abr": "fletchling",
+      "category": "Ranged weapons",
+      "defname": "VFED_Gun_Fletchling",
+      "price": 3500
+    },
+    {
+      "abr": "gatlinggunturret",
+      "category": "Security",
+      "defname": "Turret_GatlingGun",
+      "price": 408
+    },
+    {
+      "abr": "grandchair",
+      "category": "Furniture",
+      "defname": "VFEE_GrandChair",
+      "price": 392
+    },
+    {
+      "abr": "grandimperialsculpture",
+      "category": "Art",
+      "defname": "VFEE_RoyalSculptureGrand",
+      "price": 1967
+    },
+    {
+      "abr": "grandroyalrug",
+      "category": "Furniture",
+      "defname": "VFEE_GrandRoyalRug",
+      "price": 525
+    },
+    {
+      "abr": "grandtable",
+      "category": "Furniture",
+      "defname": "VFEE_GrandTable",
+      "price": 1133
+    },
+    {
+      "abr": "greatdress",
+      "category": "Apparel",
+      "defname": "Apparel_GreatDress",
+      "price": 221
+    },
+    {
+      "abr": "huntingrifle",
+      "category": "Ranged weapons",
+      "defname": "VFES_Gun_HuntingRifle",
+      "price": 483
+    },
+    {
+      "abr": "iedarmor-piercingtrap",
+      "category": "Security",
+      "defname": "VFED_TrapIED_ArmorPiercing",
+      "price": 225
+    },
+    {
+      "abr": "iedclustertrap",
+      "category": "Security",
+      "defname": "VFED_TrapIED_Cluster",
+      "price": 575
+    },
+    {
+      "abr": "iedshrapneltrap",
+      "category": "Security",
+      "defname": "VFED_TrapIED_Shrapnel",
+      "price": 208
+    },
+    {
+      "abr": "imperialbanner",
+      "category": "Furniture",
+      "defname": "VFEE_ImperialBanner",
+      "price": 306
+    },
+    {
+      "abr": "imperialmegahigh-shield",
+      "category": "Misc",
+      "defname": "VFED_ImperialMegaHighShield",
+      "price": 6592
+    },
+    {
+      "abr": "imperialslab",
+      "category": "Furniture",
+      "defname": "VFEE_ImperialSlab",
+      "price": 342
+    },
+    {
+      "abr": "intel",
+      "category": "Misc",
+      "defname": "VFED_Intel",
+      "price": 167
+    },
+    {
+      "abr": "invisibilityengulfer",
+      "category": "Utility",
+      "defname": "VFED_Apparel_InvisibilityEngulfer",
+      "price": 2250
+    },
+    {
+      "abr": "janissarycuirass",
+      "category": "Armor",
+      "defname": "VFEE_Apparel_JanissaryCuirass",
+      "price": 2567
+    },
+    {
+      "abr": "janissaryhelmet",
+      "category": "Headgear",
+      "defname": "VFEE_Apparel_JanissaryHelmet",
+      "price": 1075
+    },
+    {
+      "abr": "largeimperialsculpture",
+      "category": "Art",
+      "defname": "VFEE_RoyalSculptureLarge",
+      "price": 517
+    },
+    {
+      "abr": "largeroyalrug",
+      "category": "Furniture",
+      "defname": "VFEE_LargeRoyalRug",
+      "price": 342
+    },
+    {
+      "abr": "newspaper",
+      "category": "Books",
+      "defname": "VBE_Newspaper",
+      "price": 33
+    },
+    {
+      "abr": "organ",
+      "category": "Recreation",
+      "defname": "VFEE_PipeOrgan",
+      "price": 2167
+    },
+    {
+      "abr": "personatoxblade",
+      "category": "Persona weapons",
+      "defname": "VFEE_MeleeWeapon_ToxbladeBladelink",
+      "price": 3333
+    },
+    {
+      "abr": "psychicamplifier",
+      "category": "Misc",
+      "defname": "VFED_PsychicAmplifier",
+      "price": 3333
+    },
+    {
+      "abr": "remoteantigraincharge",
+      "category": "Security",
+      "defname": "VFED_RemoteTrapIED_AntigrainWarhead",
+      "price": 4058
+    },
+    {
+      "abr": "remotearmor-piercingcharge",
+      "category": "Security",
+      "defname": "VFED_RemoteTrapIED_ArmorPiercing",
+      "price": 278
+    },
+    {
+      "abr": "remotecharge",
+      "category": "Security",
+      "defname": "VFED_RemoteTrapIED_HighExplosive",
+      "price": 245
+    },
+    {
+      "abr": "remoteclustercharge",
+      "category": "Security",
+      "defname": "VFED_RemoteTrapIED_Cluster",
+      "price": 625
+    },
+    {
+      "abr": "remoteempcharge",
+      "category": "Security",
+      "defname": "VFED_RemoteTrapIED_EMP",
+      "price": 245
+    },
+    {
+      "abr": "remotefirefoamcharge",
+      "category": "Security",
+      "defname": "VFED_RemoteTrapIED_Firefoam",
+      "price": 245
+    },
+    {
+      "abr": "remoteincendiarycharge",
+      "category": "Security",
+      "defname": "VFED_RemoteTrapIED_Incendiary",
+      "price": 245
+    },
+    {
+      "abr": "remoteshrapnelcharge",
+      "category": "Security",
+      "defname": "VFED_RemoteTrapIED_Shrapnel",
+      "price": 262
+    },
+    {
+      "abr": "remotesmokecharge",
+      "category": "Security",
+      "defname": "VFED_RemoteTrapIED_Smoke",
+      "price": 245
+    },
+    {
+      "abr": "remotetoxcharge",
+      "category": "Security",
+      "defname": "VFED_RemoteTrapIED_ToxGas",
+      "price": 245
+    },
+    {
+      "abr": "royalmirror",
+      "category": "Furniture",
+      "defname": "VFEE_RoyalMirror",
+      "price": 230
+    },
+    {
+      "abr": "royalstool",
+      "category": "Furniture",
+      "defname": "VFEE_RoyalStool",
+      "price": 433
+    },
+    {
+      "abr": "shrapnelshell",
+      "category": "Mortar shells",
+      "defname": "VFED_Shell_Shrapnel",
+      "price": 100
+    },
+    {
+      "abr": "smallimperialsculpture",
+      "category": "Art",
+      "defname": "VFEE_RoyalSculptureSmall",
+      "price": 275
+    },
+    {
+      "abr": "sombrero",
+      "category": "Headgear",
+      "defname": "VFES_Headgear_Sombrero",
+      "price": 97
+    },
+    {
+      "abr": "stellicmeditationthrone",
+      "category": "Furniture",
+      "defname": "VFEE_StellicThrone",
+      "price": 5542
+    },
+    {
+      "abr": "stellicrobe",
+      "category": "Noble apparel",
+      "defname": "VFE_Apparel_StellicRobe",
+      "price": 583
+    },
+    {
+      "abr": "techfriarcrown",
+      "category": "Headgear",
+      "defname": "VFEE_Apparel_TechfriarCrown",
+      "price": 67
+    },
+    {
+      "abr": "techprint(imperialdefenses)",
+      "category": "Techprints",
+      "defname": "Techprint_VFED_ImperialDefenses",
+      "price": 3333
+    },
+    {
+      "abr": "techprint(imperialwarsolutions)",
+      "category": "Techprints",
+      "defname": "Techprint_VFED_ImperialWarSolutions",
+      "price": 3333
+    },
+    {
+      "abr": "tomahawk",
+      "category": "Ranged weapons",
+      "defname": "VFES_Tomahawk",
+      "price": 210
+    },
+    {
+      "abr": "toxblade",
+      "category": "Melee weapons",
+      "defname": "VFEE_MeleeWeapon_Toxblade",
+      "price": 3000
+    },
+    {
+      "abr": "typewritertable",
+      "category": "Production",
+      "defname": "VBE_TypewritersTable",
+      "price": 342
+    },
+    {
+      "abr": "vest",
+      "category": "Apparel",
+      "defname": "Apparel_Vest",
+      "price": 183
+    },
+    {
+      "abr": "writerstable",
+      "category": "Production",
+      "defname": "VBE_WritersTable",
+      "price": 252
     }
   ],
-  "total": 3649
+  "total": 3731
 }
