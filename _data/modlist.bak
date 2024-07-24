@@ -270,10 +270,16 @@
     "version": null
   },
   {
+    "author": "HappyBodi",
+    "name": "Better Multi-Analyzers",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "NetzachSloth and Toby",
     "name": "Better autocasting for Vanilla Psycasts Expanded",
     "steamId": "3199585285",
-    "version": "4.5.0.0+3c24b80abcacc60262327c2ca824c9c5f9a7f9ed"
+    "version": "4.6.0.0+3c6bb8e9219b0dcd363100211ed27541124ca075"
   },
   {
     "author": "Creeper",
@@ -417,7 +423,7 @@
     "author": "Kopp",
     "name": "Caravan Formation Improvements",
     "steamId": "2927335733",
-    "version": "1.0.9.0"
+    "version": "1.0.10.0"
   },
   {
     "author": "Torann",
@@ -675,7 +681,7 @@
     "author": "Mlie",
     "name": "Enter Here",
     "steamId": "2824117092",
-    "version": "1.5.4"
+    "version": "1.5.6"
   },
   {
     "author": "Rainbeau Flambe (original) & Kiame Vivacity (1.0 to 1.3) & TheRealLemon",
@@ -945,7 +951,7 @@
     "author": "sumghai",
     "name": "MedPod",
     "steamId": "2153065191",
-    "version": "1.5.28"
+    "version": "1.0.0.0"
   },
   {
     "author": "Papito",
@@ -1212,6 +1218,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "oBerry",
+    "name": "Prisoner Recreation",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "erdelf",
     "name": "PrisonerRansom",
     "steamId": "794038005",
@@ -1226,6 +1238,18 @@
   {
     "author": "pelador",
     "name": "Proximity (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mute",
+    "name": "Psychic Sensitivity Affects More (VPE)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Fluxilis",
+    "name": "Quality Affects HP",
     "steamId": null,
     "version": null
   },
@@ -1334,8 +1358,8 @@
   {
     "author": "busted_bunny",
     "name": "Recycle This (Continued)",
-    "steamId": null,
-    "version": null
+    "steamId": "3253550009",
+    "version": "1.5.2"
   },
   {
     "author": "crewd",
@@ -1371,7 +1395,7 @@
     "author": "Fluffy",
     "name": "Research Tree (Continued)",
     "steamId": "3030499331",
-    "version": "1.5.3"
+    "version": "1.5.7"
   },
   {
     "author": "avilmask",
@@ -1446,6 +1470,12 @@
     "version": "1.5.1"
   },
   {
+    "author": "MrGlasses and Novatrium",
+    "name": "Roofless hull for SOS2",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Uuugggg",
     "name": "Room Food",
     "steamId": "1339148170",
@@ -1490,6 +1520,12 @@
   {
     "author": "Nox (was scorpio)",
     "name": "SOS2 EVA auto patcher",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, ISOREX, xrushha, Buns Buns Cat and Sam_Bucher",
+    "name": "Vanilla Textures Expanded - Save Our Ship 2",
     "steamId": null,
     "version": null
   },
@@ -1599,7 +1635,7 @@
     "author": "Mlie",
     "name": "Smarter Visitors",
     "steamId": "3012491521",
-    "version": "1.5.4"
+    "version": "1.5.5"
   },
   {
     "author": "Orion",
@@ -1618,6 +1654,18 @@
     "name": "Sometimes Raids Go Wrong",
     "steamId": "1551336515",
     "version": "1.0.8884.37791"
+  },
+  {
+    "author": "Jaxe",
+    "name": "Interaction Bubbles",
+    "steamId": "1516158345",
+    "version": "3.1.0.0"
+  },
+  {
+    "author": "jptrrs",
+    "name": "SpeakUp",
+    "steamId": "2502518544",
+    "version": "0.8"
   },
   {
     "author": "TheCafFiend",
@@ -2010,6 +2058,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Oskar Potocki and Neronix17",
+    "name": "Vanilla Races Expanded - Saurid",
+    "steamId": "2880990495",
+    "version": "1.0.8853.29490"
+  },
+  {
     "author": "Oskar Potocki and Sarg Bjornson",
     "name": "Vanilla Races Expanded - Waster",
     "steamId": null,
@@ -2138,8 +2192,8 @@
   {
     "author": "Smash Phil and Neceros",
     "name": "SRTS Expanded",
-    "steamId": "2878587061",
-    "version": "1.4.7"
+    "steamId": null,
+    "version": null
   },
   {
     "author": "jeonggihun",
@@ -2196,10 +2250,40 @@
     "version": "5.4.1"
   },
   {
+    "author": "Vegapnk",
+    "name": "RJW Genes",
+    "steamId": "",
+    "version": "2.0.0"
+  },
+  {
+    "author": "Kira-Bad-Artist",
+    "name": "RJW Sexpanded Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kira-Bad-Artist",
+    "name": "RJW Sexpanded ReProduction",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "C0ffee",
+    "name": "RJW-Events",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "C0ffee",
     "name": "Rimworld Animations 2.0",
     "steamId": "",
     "version": "2.0.0"
+  },
+  {
+    "author": "Tory187",
+    "name": "RJWAnimAddons-Sextra2",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Krkr",
