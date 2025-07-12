@@ -123,13 +123,13 @@
     "author": "Neronix17",
     "name": "Tabula Rasa",
     "steamId": "1660622094",
-    "version": "1.5.8928.40486"
+    "version": "1.5.9180.23727"
   },
   {
     "author": "Andreas Pardeike",
     "name": "Achtung!",
     "steamId": "730936602",
-    "version": "3.10.1.0"
+    "version": "4.0.0.0"
   },
   {
     "author": "SmArtKar",
@@ -148,36 +148,6 @@
     "name": "Adeptus Mechanicus: Armoury",
     "steamId": "1541438614",
     "version": "1.6.5.1"
-  },
-  {
-    "author": "Ogliss",
-    "name": "Adeptus Mechanicus: Magos Xenobiologis",
-    "steamId": "1541499916",
-    "version": "1.6.5.1"
-  },
-  {
-    "author": "Ogliss",
-    "name": "Adeptus Xenobiologis: Aeldari",
-    "steamId": "1541515831",
-    "version": "1.6.5.1"
-  },
-  {
-    "author": "Ogliss",
-    "name": "Adeptus Xenobiologis: Orkoids",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Ogliss",
-    "name": "Adeptus Xenobiologis: Tau, Kroot, Vespid",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Hey my team rules!",
-    "name": "Advanced Biomes (Continued)",
-    "steamId": "2052116426",
-    "version": "1.5.0"
   },
   {
     "author": "saloid",
@@ -201,7 +171,7 @@
     "author": "idontcare",
     "name": "Allow Consensual Incest",
     "steamId": "2880505421",
-    "version": "1.0.0+06938fb85f8d1b97e9d9096964ff24a5bf7937ff"
+    "version": "1.0.0+e06443a99cb2292fb61cd1d63162e91dfb01a1e1"
   },
   {
     "author": "Owlchemist",
@@ -228,28 +198,10 @@
     "version": null
   },
   {
-    "author": "Chad",
-    "name": "Almostthere1.5",
-    "steamId": "3232229153",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Oskar Potocki, xrushha, Taranchuk and Sarg Bjornson",
     "name": "Vanilla Factions Expanded - Insectoids 2",
     "steamId": "3309003431",
     "version": "0.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki, Trunken and Sarg Bjornson",
-    "name": "Vanilla Weapons Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Weapons Expanded - Laser",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Oskar Potocki, Sarg Bjornson, erdelf, Roolo, Smash Phil, Taranchuk, xrushha, Kikohi and legodude17",
@@ -447,7 +399,7 @@
     "author": "m00nl1ght",
     "name": "Geological Landforms",
     "steamId": "2773943594",
-    "version": "1.7.3+1b7d7cb57a0a1a5a74476cd6f0775fb8ee67d71c"
+    "version": "1.7.4+378e28a946932f36b4b838132f70003d1e1f7d6e"
   },
   {
     "author": "m00nl1ght-dev",
@@ -633,7 +585,7 @@
     "author": "We're in Heaven",
     "name": "Colony Manager Fork",
     "steamId": "3262932412",
-    "version": "1.5"
+    "version": "1.6"
   },
   {
     "author": "Edern and Sir Van",
@@ -676,12 +628,6 @@
     "name": "Deep Storage Plus (Continued)",
     "steamId": "2589072911",
     "version": "1.5.2"
-  },
-  {
-    "author": "Coalcat and sumghai",
-    "name": "Defensive Machine Gun Turret Pack",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "UnlimitedHugs",
@@ -774,6 +720,12 @@
     "version": "1.0.0+5fb044d66fad0b387b699f5d503d66ffcf14715f"
   },
   {
+    "author": "iwishforducks",
+    "name": "Ducks' No Limits - Ideology (Continued)",
+    "steamId": "2916566114",
+    "version": "1.6.0"
+  },
+  {
     "author": "NilchEi",
     "name": "Dynamic Diplomacy - Continued",
     "steamId": "3220299022",
@@ -784,12 +736,6 @@
     "name": "Easy Upgrades (Continued)",
     "steamId": "2904429048",
     "version": "1.6.0"
-  },
-  {
-    "author": "Sir Van and Elseud",
-    "name": "Eltex Weaponry",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Carny Senpai",
@@ -835,7 +781,7 @@
   },
   {
     "author": "TGPArcher + maintainers",
-    "name": "Faction Manager v1.5",
+    "name": "Faction Manager v1.6",
     "steamId": null,
     "version": null
   },
@@ -846,7 +792,7 @@
     "version": "3.0.5"
   },
   {
-    "author": "-AmroWazzan",
+    "author": "-RedTrainer",
     "name": "Faster Gene Recovery",
     "steamId": "2882689772",
     "version": "0.0.0.0"
@@ -948,12 +894,6 @@
     "version": "1.5.0.8"
   },
   {
-    "author": "Euclidean",
-    "name": "Humanoid Containment",
-    "steamId": "",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "aRandomKiwi",
     "name": "Hunt for Me",
     "steamId": "1593245720",
@@ -991,7 +931,7 @@
   },
   {
     "author": "Bronuh",
-    "name": "Implantify [1.5]",
+    "name": "Implantify [1.6]",
     "steamId": null,
     "version": null
   },
@@ -1022,12 +962,6 @@
   {
     "author": "LTS",
     "name": "Integrated Implants",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Elseud",
-    "name": "Ion Weaponry",
     "steamId": null,
     "version": null
   },
@@ -1959,7 +1893,7 @@
     "author": "RemingtonRyder",
     "name": "Sometimes Raids Go Wrong",
     "steamId": "1551336515",
-    "version": "1.0.9174.27002"
+    "version": "1.0.9294.30636"
   },
   {
     "author": "Jaxe",
@@ -2028,6 +1962,12 @@
     "version": null
   },
   {
+    "author": "cyanobot",
+    "name": "Toddlers",
+    "steamId": "2903359152",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Jaxe",
     "name": "Toggle Harvest",
     "steamId": null,
@@ -2049,13 +1989,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "7.0.4.0-beta+6fdbc22282511652e115c43e0d6c89402f88b4b5"
-  },
-  {
-    "author": "Captolamia",
-    "name": "Toolkit - Channel Points (ressurected) 1.5",
-    "steamId": "3240408211",
-    "version": "1.5.1"
+    "version": "7.0.5.0-beta+e8d2ab06fe38b0b1f43d53750a3b8ba18d5edcda"
   },
   {
     "author": "Smash Phil",
@@ -2412,18 +2346,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Oskar Potocki, AveryTheKitty and Taranchuk",
-    "name": "Vanilla Weapons Expanded - Coilguns",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Weapons Expanded - Quickdraw",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "LingLuo",
     "name": "Variable Temp Controller变频温控器",
     "steamId": null,
@@ -2566,42 +2488,6 @@
     "name": "RimJobWorld",
     "steamId": "",
     "version": "5.6.4"
-  },
-  {
-    "author": "ElToro",
-    "name": "ElToros Bestiality Addon",
-    "steamId": "",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "C0ffee",
-    "name": "Rimworld Animations 2.0",
-    "steamId": "",
-    "version": "2.0.1"
-  },
-  {
-    "author": "ElToro",
-    "name": "ElToros Bestiality Animations",
-    "steamId": "",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Tory187",
-    "name": "RJWAnimAddons-Sextra2",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Y-Adaptor",
-    "name": "RimNudeWorld",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "LindaRedbloom",
-    "name": "RimNudeWorld chiseled bodies module",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Krkr",

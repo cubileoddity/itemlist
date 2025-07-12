@@ -1765,18 +1765,6 @@
 		"defname": "TableButcher"
 	},
 	{
-		"abr": "butterfly",
-		"price": 333,
-		"category": "Animals",
-		"defname": "PoisonButterfly"
-	},
-	{
-		"abr": "butterflyegg(fert.)",
-		"price": 18,
-		"category": "Eggs (fert.)",
-		"defname": "EggButterflyFertilized"
-	},
-	{
 		"abr": "butternutsquashes",
 		"price": 2,
 		"category": "Vegetarian",
@@ -2563,12 +2551,6 @@
 		"defname": "Cow"
 	},
 	{
-		"abr": "cow",
-		"price": 583,
-		"category": "Animals",
-		"defname": "MutantCow"
-	},
-	{
 		"abr": "cowboyhat",
 		"price": 94,
 		"category": "Headgear",
@@ -3089,12 +3071,6 @@
 		"price": 417,
 		"category": "Animals",
 		"defname": "Deer"
-	},
-	{
-		"abr": "deer",
-		"price": 333,
-		"category": "Animals",
-		"defname": "PoisonDeer"
 	},
 	{
 		"abr": "deployableturret",
@@ -9571,12 +9547,6 @@
 		"defname": "Rat"
 	},
 	{
-		"abr": "rat",
-		"price": 100,
-		"category": "Animals",
-		"defname": "PoisonRat"
-	},
-	{
 		"abr": "ratmeat",
 		"price": 3,
 		"category": "Meat",
@@ -10463,12 +10433,6 @@
 		"price": 833,
 		"category": "Manufactured",
 		"defname": "SignalChip"
-	},
-	{
-		"abr": "silk",
-		"price": 7,
-		"category": "Textiles",
-		"defname": "Silk"
 	},
 	{
 		"abr": "silver",
@@ -12335,12 +12299,6 @@
 		"price": 15,
 		"category": "Eggs (unfert.)",
 		"defname": "AEXP_EggWildGooseUnfertilized"
-	},
-	{
-		"abr": "wildmushrooms",
-		"price": 2,
-		"category": "Vegetarian",
-		"defname": "RawPoisonMushroom"
 	},
 	{
 		"abr": "wildebeest",
@@ -15949,48 +15907,6 @@
 		"defname": "LTS_FireSupressionSystem"
 	},
 	{
-		"abr": "heavyionlance",
-		"price": 3333,
-		"category": "Ranged weapons",
-		"defname": "IW_Gun_HeavyIonLance"
-	},
-	{
-		"abr": "iondmr",
-		"price": 2333,
-		"category": "Ranged weapons",
-		"defname": "IW_Gun_IonDMR"
-	},
-	{
-		"abr": "ionlmg",
-		"price": 2667,
-		"category": "Ranged weapons",
-		"defname": "IW_Gun_IonLMG"
-	},
-	{
-		"abr": "ionpdw",
-		"price": 1667,
-		"category": "Ranged weapons",
-		"defname": "IW_Gun_IonPDW"
-	},
-	{
-		"abr": "ionpistol",
-		"price": 1333,
-		"category": "Ranged weapons",
-		"defname": "IW_Gun_IonPistol"
-	},
-	{
-		"abr": "ionrifle",
-		"price": 2333,
-		"category": "Ranged weapons",
-		"defname": "IW_Gun_IonRifle"
-	},
-	{
-		"abr": "ionslugthrower",
-		"price": 2000,
-		"category": "Ranged weapons",
-		"defname": "IW_Gun_IonSlugthrower"
-	},
-	{
 		"abr": "anti-necrotionvaccine",
 		"price": 117,
 		"category": "Drugs",
@@ -16157,12 +16073,6 @@
 		"price": 2,
 		"category": "Plant matter",
 		"defname": "VFEM2_AlocasiaLeaves"
-	},
-	{
-		"abr": "ambullhide",
-		"price": 6,
-		"category": "Leathers",
-		"defname": "Leather_Ambull"
 	},
 	{
 		"abr": "amnesiadraught",
@@ -16339,12 +16249,6 @@
 		"defname": "Necro_AntigenOrgan"
 	},
 	{
-		"abr": "anti-materialrifle",
-		"price": 1717,
-		"category": "Ranged weapons",
-		"defname": "VWE_Gun_AntiMaterialRifle"
-	},
-	{
 		"abr": "antitoxdraught",
 		"price": 100,
 		"category": "Drugs",
@@ -16411,18 +16315,6 @@
 		"defname": "VFEM2_ArcheryTarget"
 	},
 	{
-		"abr": "archon",
-		"price": 2917,
-		"category": "Animal",
-		"defname": "OG_DarkEldar_Archon"
-	},
-	{
-		"abr": "archonhelmet",
-		"price": 167,
-		"category": "Dark Eldar",
-		"defname": "OGDE_Apparel_Armor_ArchonHelmet"
-	},
-	{
 		"abr": "archotechendogenefier",
 		"price": 833,
 		"category": "Gene tools",
@@ -16459,22 +16351,10 @@
 		"defname": "Meat_RG_ArcticDrak"
 	},
 	{
-		"abr": "'ardhat",
-		"price": 1833,
-		"category": "Ork",
-		"defname": "OGO_Apparel_Elmet"
-	},
-	{
 		"abr": "arm",
 		"price": 1250,
 		"category": "Natural",
 		"defname": "Arm"
-	},
-	{
-		"abr": "armgausslancemodule",
-		"price": 1575,
-		"category": "Modules",
-		"defname": "LTS_ModuleArm_Gauss"
 	},
 	{
 		"abr": "armageddondustgoggles",
@@ -16531,18 +16411,6 @@
 		"defname": "SNS_Drug_Combat_III"
 	},
 	{
-		"abr": "aspectwarrior",
-		"price": 2917,
-		"category": "Animal",
-		"defname": "Eldar_Aspect_Warrior"
-	},
-	{
-		"abr": "astartesrace",
-		"price": 2917,
-		"category": "Animal",
-		"defname": "OG_Alien_Astartes"
-	},
-	{
 		"abr": "astartesshotgun(i)",
 		"price": 658,
 		"category": "Ranged weapons",
@@ -16585,12 +16453,6 @@
 		"defname": "OGC_Gun_AutoGun"
 	},
 	{
-		"abr": "automaticpistol",
-		"price": 333,
-		"category": "Ranged weapons",
-		"defname": "VWE_Gun_AutomaticPistol"
-	},
-	{
 		"abr": "autopistol(c)",
 		"price": 392,
 		"category": "Ranged weapons",
@@ -16631,7 +16493,7 @@
 		"price": 69,
 		"category": "Furniture",
 		"defname": "StoolBar"
-	}
+	},
 	],
-	"total": 4217
+	"total": 4062
 }
