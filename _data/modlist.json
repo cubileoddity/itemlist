@@ -27,7 +27,7 @@
     "author": "Andreas Pardeike",
     "name": "Achtung!",
     "steamId": "730936602",
-    "version": "4.0.2.0"
+    "version": "4.0.3.0"
   },
   {
     "author": "saloid",
@@ -243,7 +243,7 @@
     "author": "m00nl1ght",
     "name": "Geological Landforms",
     "steamId": "2773943594",
-    "version": "1.7.5+bcc50557b378f58787105d6c99af0d624538eb14"
+    "version": "1.7.6+9d749348955fedc758fa412928a64d92d0683d2f"
   },
   {
     "author": "m00nl1ght-dev",
@@ -339,7 +339,7 @@
     "author": "avilmask",
     "name": "Common Sense",
     "steamId": "1561769193",
-    "version": "1.0.9324.32939"
+    "version": "1.0.9325.39569"
   },
   {
     "author": "divineDerivative",
@@ -429,7 +429,7 @@
     "author": "Mlie",
     "name": "Enter Here",
     "steamId": "2824117092",
-    "version": "1.6.0"
+    "version": "1.6.1"
   },
   {
     "author": "Victorique, Aurani and Tarojun",
@@ -532,6 +532,12 @@
     "name": "Implantify [1.6]",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Zaf",
+    "name": "Inject Genes",
+    "steamId": "2918091446",
+    "version": "1.0.0.0"
   },
   {
     "author": "LTS",
@@ -723,7 +729,7 @@
     "author": "Mlie",
     "name": "No Version Warning",
     "steamId": "2599504692",
-    "version": "1.6.5"
+    "version": "1.6.7"
   },
   {
     "author": "Mlie",
@@ -736,6 +742,12 @@
     "name": "Not My Fault",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "PrivateGER",
+    "name": "Nukes",
+    "steamId": "1777069843",
+    "version": "1.0.9320.4240"
   },
   {
     "author": "Darth_Sergeant",
@@ -909,7 +921,7 @@
     "author": "Uuugggg",
     "name": "Replace Stuff - Continued",
     "steamId": "3526354009",
-    "version": "1.0.0+eaf074b62c75d41979798cf526fa5d62fb84ba4f"
+    "version": "1.0.0+04a919dbde3e27749069d154d92794a1081d4e08"
   },
   {
     "author": "avilmask",
@@ -1119,7 +1131,7 @@
     "author": "Scherub",
     "name": "Stonecutting Extended",
     "steamId": "2571676542",
-    "version": "1.10.0+bb952fe76fca3d760ae22b3aed06efcebbb8d0c7"
+    "version": "1.11.0+4df6a2b8e11df0d37e3725364b7bedd18129b037"
   },
   {
     "author": "Uuugggg",
@@ -1581,7 +1593,7 @@
     "author": "Sk",
     "name": "Weapon Mastery (Continued)",
     "steamId": "2898431155",
-    "version": "1.6.0"
+    "version": "1.6.1"
   },
   {
     "author": "kaitorisenkou",
@@ -1608,12 +1620,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "PrivateGER",
-    "name": "[1.6] Nukes",
-    "steamId": "1777069843",
-    "version": "1.0.9319.1920"
-  },
-  {
     "author": "Arylice",
     "name": "[ARY] Automatic Stump Chopping [1.5 - 1.6]",
     "steamId": "3357749890",
@@ -1622,6 +1628,12 @@
   {
     "author": "Nera",
     "name": "[BT] SpawnThoseGenes!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "DRILLED_HEAD",
+    "name": "[DHM]Hybrid-Powered Gravships",
     "steamId": null,
     "version": null
   },
