@@ -116,11 +116,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "transportpodcrash",
-		"price": 600,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "tradercaravan",
 		"price": 275,
 		"karmatype": "Good"
@@ -342,22 +337,22 @@
 	},
 	{
 		"abr": "healall",
-		"price": 17336,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "healanypawn",
 		"price": 2000,
 		"karmatype": "Good"
 	},
 	{
+		"abr": "healanypawn",
+		"price": 200,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "healme",
-		"price": 2167,
+		"price": 200,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "surgery",
-		"price": 500,
+		"price": 1,
 		"karmatype": "Neutral"
 	},
 	{
@@ -372,12 +367,12 @@
 	},
 	{
 		"abr": "rescueme",
-		"price": 800,
+		"price": 1200,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "fullheal",
-		"price": 2167,
+		"price": 800,
 		"karmatype": "Good"
 	},
 	{
@@ -397,6 +392,11 @@
 	},
 	{
 		"abr": "settraits",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "cleartraits",
 		"price": 1,
 		"karmatype": "Neutral"
 	},

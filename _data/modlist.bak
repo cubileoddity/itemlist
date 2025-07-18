@@ -12,12 +12,6 @@
     "version": "12.0.0"
   },
   {
-    "author": "Telefonmast",
-    "name": "Graphics Settings+",
-    "steamId": "1678847247",
-    "version": "1.0.0"
-  },
-  {
     "author": "anobs, jecrell and contributors",
     "name": "JecsTools Unofficial 1.6 BETA",
     "steamId": "3524247750",
@@ -243,7 +237,7 @@
     "author": "m00nl1ght",
     "name": "Geological Landforms",
     "steamId": "2773943594",
-    "version": "1.7.7.2+16ae71460e542f0d96196f15e3e4494ac4825ce3"
+    "version": "1.7.7.1+504d9310f1dd6f661470465103957d6e2fffd0f9"
   },
   {
     "author": "m00nl1ght-dev",
@@ -498,12 +492,6 @@
     "version": "1.1.0"
   },
   {
-    "author": "Khorbos",
-    "name": "Go the Fork to Sleep",
-    "steamId": "3523734445",
-    "version": "1.0.6"
-  },
-  {
     "author": "avilmask",
     "name": "Grazing Lands",
     "steamId": "1770268130",
@@ -526,12 +514,6 @@
     "name": "Heat Map (Continued)",
     "steamId": "2552838384",
     "version": "1.6.1.0"
-  },
-  {
-    "author": "Iwo Rosiak",
-    "name": "Holsters",
-    "steamId": "2610120706",
-    "version": "2.0.14"
   },
   {
     "author": "Orion",
