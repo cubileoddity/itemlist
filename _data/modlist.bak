@@ -225,7 +225,7 @@
     "author": "Jaxe",
     "name": "RimHUD",
     "steamId": "1508850027",
-    "version": "1.16.4+4c4c716d7c8ecdf05871c56d1319e69547ab277e"
+    "version": "1.16.3+19591e2831845cc886bd5cb870728e53761882f0"
   },
   {
     "author": "legodude17, Oskar Potocki and Sarg Bjornson",
@@ -379,6 +379,12 @@
   },
   {
     "author": "Dubwise",
+    "name": "Dubs Mint Menus",
+    "steamId": "1446523594",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Dubwise",
     "name": "Dubs Performance Analyzer",
     "steamId": "2038874626",
     "version": "1.0.0+b6d6595b7457219357c25e8cef1082652454b7f7"
@@ -462,7 +468,7 @@
     "version": "1.1.0"
   },
   {
-    "author": "Captain Muscles (Original), Khorbos, Maxhd4321, Translations:, Mr. Wolf (摄魂狼) (Chinese), Tkhakiro (Spanish) and Ferchu (French)",
+    "author": "Khorbos",
     "name": "Go the Fork to Sleep",
     "steamId": "3523734445",
     "version": "1.0.6"
@@ -489,7 +495,7 @@
     "author": "Falconne / Syrus",
     "name": "Heat Map (Continued)",
     "steamId": "2552838384",
-    "version": "1.6.2.0"
+    "version": "1.6.1.0"
   },
   {
     "author": "Iwo Rosiak",
@@ -514,18 +520,6 @@
     "name": "Hunters Use Melee! (Continued)",
     "steamId": "2900108163",
     "version": "1.6.0"
-  },
-  {
-    "author": "Dubwise",
-    "name": "Dubs Mint Menus",
-    "steamId": "1446523594",
-    "version": "1.0.0"
-  },
-  {
-    "author": "Taggerung",
-    "name": "I Aint Building That",
-    "steamId": "3118060751",
-    "version": "1.0.0.0"
   },
   {
     "author": "Mlie",
@@ -954,12 +948,6 @@
     "version": "1.0.0+04a919dbde3e27749069d154d92794a1081d4e08"
   },
   {
-    "author": "Fluffy, Mlie and Jia",
-    "name": "Research Tree (Continued)",
-    "steamId": "3460408210",
-    "version": "1.6.0+fb521520b1c42b8f3e9b481fcebc09d1efa23f23"
-  },
-  {
     "author": "avilmask",
     "name": "Research Whatever",
     "steamId": "2552092060",
@@ -1086,12 +1074,6 @@
     "version": "1.0.0"
   },
   {
-    "author": "Uuugggg",
-    "name": "Smart Medicine - Continued",
-    "steamId": "3526251680",
-    "version": "1.0.0+5ff0edb14e21380285ee9b5cedf72fa37411766e"
-  },
-  {
     "author": "Sarg",
     "name": "Smart Speed",
     "steamId": "1504723424",
@@ -1198,12 +1180,6 @@
     "name": "TDS Bug Fixes - Continued",
     "steamId": "3529433984",
     "version": "1.0.0+51b4236fa18697d459fc30755b31fa25941ac46e"
-  },
-  {
-    "author": "Uuugggg",
-    "name": "TD Find Lib - Continued",
-    "steamId": "3529443295",
-    "version": "1.0.0.0"
   },
   {
     "author": "cyanobot",
@@ -1692,12 +1668,6 @@
     "version": "1.6.1"
   },
   {
-    "author": "Uuugggg",
-    "name": "What Is My Purpose (Fork)",
-    "steamId": "3530209629",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "kaitorisenkou",
     "name": "What's Today's Menu",
     "steamId": null,
@@ -1736,8 +1706,8 @@
   {
     "author": "DRILLED_HEAD",
     "name": "[DHM]Hybrid-Powered Gravships",
-    "steamId": "3524491355",
-    "version": "0.0.0.0"
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Allie, Erin, Major Quadrangle, Matsay and Sarg",
