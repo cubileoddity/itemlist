@@ -5017,22 +5017,10 @@
 		"defname": "VIE_RelicInertAntlers"
 	},
 	{
-		"abr": "anus",
-		"price": 417,
-		"category": "Natural",
-		"defname": "Anus"
-	},
-	{
 		"abr": "aperitif",
 		"price": 27,
 		"category": "Drugs",
 		"defname": "VFEE_Aperitif"
-	},
-	{
-		"abr": "aphrodisiacdrug",
-		"price": 83,
-		"category": "Drugs",
-		"defname": "Aphrodisiac"
 	},
 	{
 		"abr": "apiary",
@@ -5089,22 +5077,10 @@
 		"defname": "ComponentArchoDrone"
 	},
 	{
-		"abr": "archotechanus",
-		"price": 4667,
-		"category": "Archotech",
-		"defname": "ArchotechAnus"
-	},
-	{
 		"abr": "archotechbio-unit",
 		"price": 25000,
 		"category": "Artifacts",
 		"defname": "ArchoGenes_BioUnit"
-	},
-	{
-		"abr": "archotechbreasts",
-		"price": 4667,
-		"category": "Archotech",
-		"defname": "ArchotechBreasts"
 	},
 	{
 		"abr": "archotechear",
@@ -5167,12 +5143,6 @@
 		"defname": "FSFArchotechMedicArm"
 	},
 	{
-		"abr": "archotechpenis",
-		"price": 4667,
-		"category": "Archotech",
-		"defname": "ArchotechPenis"
-	},
-	{
 		"abr": "archotechpowerarm",
 		"price": 8900,
 		"category": "Archotech",
@@ -5201,12 +5171,6 @@
 		"price": 4300,
 		"category": "Archotech",
 		"defname": "FSFArchotechStomach"
-	},
-	{
-		"abr": "archotechvagina",
-		"price": 4667,
-		"category": "Archotech",
-		"defname": "ArchotechVagina"
 	},
 	{
 		"abr": "archotechviolencegenerator",
@@ -5635,22 +5599,10 @@
 		"defname": "BiofuelRefinery"
 	},
 	{
-		"abr": "bionicanus",
-		"price": 2167,
-		"category": "Bionic",
-		"defname": "BionicAnus"
-	},
-	{
 		"abr": "bionicbreachingarm",
 		"price": 2608,
 		"category": "Bionic",
 		"defname": "FSFBionicBreachArm"
-	},
-	{
-		"abr": "bionicbreasts",
-		"price": 2167,
-		"category": "Bionic",
-		"defname": "BionicBreasts"
 	},
 	{
 		"abr": "bionicchefarm",
@@ -5725,12 +5677,6 @@
 		"defname": "FSFBionicLung"
 	},
 	{
-		"abr": "bionicpenis",
-		"price": 1500,
-		"category": "Bionic",
-		"defname": "BionicPenis"
-	},
-	{
 		"abr": "bionicpowerarm",
 		"price": 2608,
 		"category": "Bionic",
@@ -5753,12 +5699,6 @@
 		"price": 392,
 		"category": "Bionic",
 		"defname": "BionicToe"
-	},
-	{
-		"abr": "bionicvagina",
-		"price": 2167,
-		"category": "Bionic",
-		"defname": "BionicVagina"
 	},
 	{
 		"abr": "bionicwomb",
@@ -5813,12 +5753,6 @@
 		"price": 2500,
 		"category": "Animals",
 		"defname": "VFEI2_BlackQueen"
-	},
-	{
-		"abr": "blacklarvae",
-		"price": 1667,
-		"category": "Animals",
-		"defname": "AA_BlackLarvae"
 	},
 	{
 		"abr": "blackpherocore",
@@ -6109,12 +6043,6 @@
 		"defname": "BrainStimulator"
 	},
 	{
-		"abr": "breasts",
-		"price": 417,
-		"category": "Natural",
-		"defname": "Breasts"
-	},
-	{
 		"abr": "britishshorthaircat",
 		"price": 333,
 		"category": "Animals",
@@ -6275,18 +6203,6 @@
 		"price": 169,
 		"category": "Furniture",
 		"defname": "VFEE_Candelabra"
-	},
-	{
-		"abr": "caninepenis",
-		"price": 417,
-		"category": "Natural",
-		"defname": "DogPenis"
-	},
-	{
-		"abr": "caninevagina",
-		"price": 417,
-		"category": "Natural",
-		"defname": "DogVagina"
 	},
 	{
 		"abr": "cannedeggs",
@@ -6461,12 +6377,6 @@
 		"price": 417,
 		"category": "Armor",
 		"defname": "VAE_Apparel_Chainmail"
-	},
-	{
-		"abr": "chains",
-		"price": 500,
-		"category": "Bondage gear",
-		"defname": "PrisonerChains"
 	},
 	{
 		"abr": "chalicotherium",
@@ -6817,24 +6727,6 @@
 		"defname": "VFEM2_CliviaPetals"
 	},
 	{
-		"abr": "cloacalanus",
-		"price": 167,
-		"category": "Natural",
-		"defname": "CloacalAnus"
-	},
-	{
-		"abr": "cloacalpenis",
-		"price": 167,
-		"category": "Natural",
-		"defname": "CloacalPenis"
-	},
-	{
-		"abr": "cloacalvagina",
-		"price": 167,
-		"category": "Natural",
-		"defname": "CloacalVagina"
-	},
-	{
 		"abr": "clustercolumn",
 		"price": 321,
 		"category": "Security",
@@ -6947,18 +6839,6 @@
 		"price": 259,
 		"category": "Production",
 		"defname": "VCE_CondimentPrepTable"
-	},
-	{
-		"abr": "condom",
-		"price": 3,
-		"category": "Manufactured",
-		"defname": "Condom"
-	},
-	{
-		"abr": "contraceptionpill",
-		"price": 25,
-		"category": "Drugs",
-		"defname": "RJW_Contraceptive"
 	},
 	{
 		"abr": "coolingplug",
@@ -7109,12 +6989,6 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_AEXP_Crocodile"
-	},
-	{
-		"abr": "crocodilianpenis",
-		"price": 500,
-		"category": "Natural",
-		"defname": "CrocodilianPenis"
 	},
 	{
 		"abr": "crossbow",
@@ -7381,30 +7255,6 @@
 		"defname": "DeinotheriumTusk"
 	},
 	{
-		"abr": "demonanus",
-		"price": 417,
-		"category": "Natural",
-		"defname": "DemonAnus"
-	},
-	{
-		"abr": "demonpenis",
-		"price": 417,
-		"category": "Natural",
-		"defname": "DemonPenis"
-	},
-	{
-		"abr": "demontentacles",
-		"price": 417,
-		"category": "Natural",
-		"defname": "DemonTentaclePenis"
-	},
-	{
-		"abr": "demonvagina",
-		"price": 417,
-		"category": "Natural",
-		"defname": "DemonVagina"
-	},
-	{
 		"abr": "desertave",
 		"price": 667,
 		"category": "Animals",
@@ -7633,18 +7483,6 @@
 		"defname": "owl_doublerefrigerator"
 	},
 	{
-		"abr": "dragonpenis",
-		"price": 417,
-		"category": "Natural",
-		"defname": "DragonPenis"
-	},
-	{
-		"abr": "dragonvagina",
-		"price": 417,
-		"category": "Natural",
-		"defname": "DragonVagina"
-	},
-	{
 		"abr": "drainer",
 		"price": 417,
 		"category": "Animals",
@@ -7777,30 +7615,6 @@
 		"defname": "VFEM2_EfficiencyDraught"
 	},
 	{
-		"abr": "egg(fert.)",
-		"price": 12,
-		"category": "Eggs (fert.)",
-		"defname": "RJW_EggFertilized"
-	},
-	{
-		"abr": "egg(fert.)",
-		"price": 12,
-		"category": "Eggs (fert.)",
-		"defname": "RJW_EggInsectFertilized"
-	},
-	{
-		"abr": "egg(unfert.)",
-		"price": 2,
-		"category": "Eggs (unfert.)",
-		"defname": "RJW_EggUnfertilized"
-	},
-	{
-		"abr": "egg(unfert.)",
-		"price": 2,
-		"category": "Eggs (unfert.)",
-		"defname": "RJW_EggInsectUnfertilized"
-	},
-	{
 		"abr": "eggplants",
 		"price": 2,
 		"category": "Vegetarian",
@@ -7879,46 +7693,10 @@
 		"defname": "CranialInsulation"
 	},
 	{
-		"abr": "eltex",
-		"price": 278,
-		"category": "Manufactured",
-		"defname": "VPE_Eltex"
-	},
-	{
 		"abr": "eltexadornments",
 		"price": 2367,
 		"category": "Bionic",
 		"defname": "EltexAdornments"
-	},
-	{
-		"abr": "eltexcape",
-		"price": 1333,
-		"category": "Misc",
-		"defname": "VPE_Apparel_EltexCape"
-	},
-	{
-		"abr": "eltexdagger",
-		"price": 1225,
-		"category": "Melee weapons",
-		"defname": "VPE_MeleeWeapon_EltexDagger"
-	},
-	{
-		"abr": "eltexmace",
-		"price": 1333,
-		"category": "Melee weapons",
-		"defname": "VPE_MeleeWeapon_EltexMace"
-	},
-	{
-		"abr": "eltexmask",
-		"price": 833,
-		"category": "Headgear",
-		"defname": "VPE_Apparel_EltexMask"
-	},
-	{
-		"abr": "eltexsword",
-		"price": 1383,
-		"category": "Melee weapons",
-		"defname": "VPE_MeleeWeapon_EltexSword"
 	},
 	{
 		"abr": "empdischarger",
@@ -7993,18 +7771,6 @@
 		"defname": "FSFImplantTorsoRespirator"
 	},
 	{
-		"abr": "equinepenis",
-		"price": 417,
-		"category": "Natural",
-		"defname": "HorsePenis"
-	},
-	{
-		"abr": "equinevagina",
-		"price": 417,
-		"category": "Natural",
-		"defname": "HorseVagina"
-	},
-	{
 		"abr": "ergonomicbed",
 		"price": 408,
 		"category": "Furniture",
@@ -8075,24 +7841,6 @@
 		"price": 255,
 		"category": "Furniture",
 		"defname": "TableFaro"
-	},
-	{
-		"abr": "featurelesschest",
-		"price": 167,
-		"category": "Natural",
-		"defname": "FeaturelessChest"
-	},
-	{
-		"abr": "felinepenis",
-		"price": 417,
-		"category": "Natural",
-		"defname": "CatPenis"
-	},
-	{
-		"abr": "felinevagina",
-		"price": 417,
-		"category": "Natural",
-		"defname": "CatVagina"
 	},
 	{
 		"abr": "feralisk",
@@ -9193,192 +8941,6 @@
 		"defname": "WCE2_GrowthStimulator"
 	},
 	{
-		"abr": "guestadvancedbed",
-		"price": 800,
-		"category": "Furniture",
-		"defname": "Bed_AdvBedGuest"
-	},
-	{
-		"abr": "guestadvanceddoublebed",
-		"price": 1450,
-		"category": "Furniture",
-		"defname": "Bed_AdvDoubleBedGuest"
-	},
-	{
-		"abr": "guestancientbed",
-		"price": 5,
-		"category": "Misc",
-		"defname": "VME_AncientBedGuest"
-	},
-	{
-		"abr": "guestancienthospitalbed",
-		"price": 667,
-		"category": "Furniture",
-		"defname": "AG_RuinedHospitalBedGuest"
-	},
-	{
-		"abr": "guestbed",
-		"price": 155,
-		"category": "Furniture",
-		"defname": "BedGuest"
-	},
-	{
-		"abr": "guestbedroll",
-		"price": 137,
-		"category": "Furniture",
-		"defname": "BedrollGuest"
-	},
-	{
-		"abr": "guestchiseledbed",
-		"price": 168,
-		"category": "Furniture",
-		"defname": "Bed_StoneSlabGuest"
-	},
-	{
-		"abr": "guestchiseleddoublebed",
-		"price": 318,
-		"category": "Furniture",
-		"defname": "VFE_Bed_StoneSlabDoubleGuest"
-	},
-	{
-		"abr": "guestcrib",
-		"price": 86,
-		"category": "Furniture",
-		"defname": "CribGuest"
-	},
-	{
-		"abr": "guestcryptosleepsuspender",
-		"price": 733,
-		"category": "Furniture",
-		"defname": "Bed_CryptoBedGuest"
-	},
-	{
-		"abr": "guestdeathrestcasket",
-		"price": 492,
-		"category": "Misc",
-		"defname": "DeathrestCasketGuest"
-	},
-	{
-		"abr": "guestdoublebed",
-		"price": 292,
-		"category": "Furniture",
-		"defname": "DoubleBedGuest"
-	},
-	{
-		"abr": "guestdoublebedroll",
-		"price": 290,
-		"category": "Furniture",
-		"defname": "BedrollDoubleGuest"
-	},
-	{
-		"abr": "guestdoublefurbed",
-		"price": 350,
-		"category": "Furniture",
-		"defname": "VFEM2_DoubleFurBedGuest"
-	},
-	{
-		"abr": "guestergonomicbed",
-		"price": 408,
-		"category": "Furniture",
-		"defname": "Bed_ErgonomicGuest"
-	},
-	{
-		"abr": "guestergonomicdoublebed",
-		"price": 817,
-		"category": "Furniture",
-		"defname": "Bed_DoubleErgonomicGuest"
-	},
-	{
-		"abr": "guestfurbed",
-		"price": 171,
-		"category": "Furniture",
-		"defname": "VFEM2_FurBedGuest"
-	},
-	{
-		"abr": "guesthospitalbed",
-		"price": 667,
-		"category": "Furniture",
-		"defname": "HospitalBedGuest"
-	},
-	{
-		"abr": "guestlounger",
-		"price": 174,
-		"category": "Furniture",
-		"defname": "VFE_LoungerGuest"
-	},
-	{
-		"abr": "guestmedpod",
-		"price": 133333,
-		"category": "Furniture",
-		"defname": "MedPodStandardGuest"
-	},
-	{
-		"abr": "guestmedpodlux",
-		"price": 158333,
-		"category": "Furniture",
-		"defname": "MedPodLuxGuest"
-	},
-	{
-		"abr": "guestoperatingtable",
-		"price": 508,
-		"category": "Furniture",
-		"defname": "Bed_OperatingTableGuest"
-	},
-	{
-		"abr": "guestroyalbed",
-		"price": 1467,
-		"category": "Furniture",
-		"defname": "RoyalBedGuest"
-	},
-	{
-		"abr": "guestroyalposterbed",
-		"price": 2100,
-		"category": "Furniture",
-		"defname": "Bed_KingsizeGuest"
-	},
-	{
-		"abr": "guestrustedancientbed",
-		"price": 238,
-		"category": "Furniture",
-		"defname": "VQE_RuinedHospitalBedGuest"
-	},
-	{
-		"abr": "guestrustedancientcot",
-		"price": 17,
-		"category": "Furniture",
-		"defname": "VQED_RustedAncientCotGuest"
-	},
-	{
-		"abr": "guestsimplebed",
-		"price": 137,
-		"category": "Furniture",
-		"defname": "Bed_SimpleGuest"
-	},
-	{
-		"abr": "guestsimpledoublebed",
-		"price": 274,
-		"category": "Furniture",
-		"defname": "VFE_Bed_SimpleDoubleGuest"
-	},
-	{
-		"abr": "guestslabbed",
-		"price": 102,
-		"category": "Furniture",
-		"defname": "SlabBedGuest"
-	},
-	{
-		"abr": "guestslabdoublebed",
-		"price": 288,
-		"category": "Furniture",
-		"defname": "SlabDoubleBedGuest"
-	},
-	{
-		"abr": "guesttent",
-		"price": 207,
-		"category": "Furniture",
-		"defname": "VFEC_TentGuest"
-	},
-	{
 		"abr": "guppy",
 		"price": 42,
 		"category": "Fish",
@@ -9485,12 +9047,6 @@
 		"price": 3333,
 		"category": "Mechanite serums",
 		"defname": "FSFImplantMechanitesHealing"
-	},
-	{
-		"abr": "heatpearls",
-		"price": 100,
-		"category": "Utility",
-		"defname": "VPE_HeatPearls"
 	},
 	{
 		"abr": "heatpod",
@@ -9605,12 +9161,6 @@
 		"price": 833,
 		"category": "Animals",
 		"defname": "VFEI2_Hellbeetle"
-	},
-	{
-		"abr": "hemipenis",
-		"price": 500,
-		"category": "Natural",
-		"defname": "HemiPenis"
 	},
 	{
 		"abr": "hemodynamicaccelerator",
@@ -9799,18 +9349,6 @@
 		"defname": "HologramBase"
 	},
 	{
-		"abr": "holokey",
-		"price": 17,
-		"category": "Manufactured",
-		"defname": "Holokey"
-	},
-	{
-		"abr": "hololock",
-		"price": 667,
-		"category": "Manufactured",
-		"defname": "Hololock"
-	},
-	{
 		"abr": "hookhand",
 		"price": 31,
 		"category": "Prosthetic",
@@ -9845,12 +9383,6 @@
 		"price": 167,
 		"category": "Eggs (fert.)",
 		"defname": "VRESaurids_HumanEgg"
-	},
-	{
-		"abr": "humpshroom",
-		"price": 17,
-		"category": "Drugs",
-		"defname": "HumpShroom"
 	},
 	{
 		"abr": "hunterpack",
@@ -9889,34 +9421,10 @@
 		"defname": "VAEWaste_EggHydraUnfertilized"
 	},
 	{
-		"abr": "hydraulicanus",
-		"price": 167,
-		"category": "Prosthetic",
-		"defname": "HydraulicAnus"
-	},
-	{
-		"abr": "hydraulicbreasts",
-		"price": 167,
-		"category": "Prosthetic",
-		"defname": "HydraulicBreasts"
-	},
-	{
 		"abr": "hydraulicjaw",
 		"price": 383,
 		"category": "Prosthetic",
 		"defname": "HydraulicJaw"
-	},
-	{
-		"abr": "hydraulicpenis",
-		"price": 167,
-		"category": "Prosthetic",
-		"defname": "HydraulicPenis"
-	},
-	{
-		"abr": "hydraulicvagina",
-		"price": 167,
-		"category": "Prosthetic",
-		"defname": "HydraulicVagina"
 	},
 	{
 		"abr": "hyena",
@@ -9935,12 +9443,6 @@
 		"price": 858,
 		"category": "Bionic",
 		"defname": "HyperAdrenalineGland"
-	},
-	{
-		"abr": "hyperfertilitypill",
-		"price": 25,
-		"category": "Drugs",
-		"defname": "RJW_FertPill"
 	},
 	{
 		"abr": "hyperscreentelevision",
@@ -10091,12 +9593,6 @@
 		"price": 300,
 		"category": "Animals",
 		"defname": "AA_InfectedAerofleet"
-	},
-	{
-		"abr": "insectanus",
-		"price": 83,
-		"category": "Natural",
-		"defname": "InsectAnus"
 	},
 	{
 		"abr": "insectjellypreserves",
@@ -11551,18 +11047,6 @@
 		"defname": "Shell_Napalm"
 	},
 	{
-		"abr": "narrowvagina",
-		"price": 417,
-		"category": "Natural",
-		"defname": "NarrowVagina"
-	},
-	{
-		"abr": "needle-likepenis",
-		"price": 417,
-		"category": "Natural",
-		"defname": "NeedlePenis"
-	},
-	{
 		"abr": "needlepost",
 		"price": 1050,
 		"category": "Animals",
@@ -11785,12 +11269,6 @@
 		"defname": "AA_OcularNightling"
 	},
 	{
-		"abr": "ocularoriginator",
-		"price": 1417,
-		"category": "Animals",
-		"defname": "AA_OcularOriginator"
-	},
-	{
 		"abr": "ocularslinger",
 		"price": 833,
 		"category": "Animals",
@@ -11953,18 +11431,6 @@
 		"defname": "Meat_AA_OvergrownColossus"
 	},
 	{
-		"abr": "ovipositor(female)",
-		"price": 83,
-		"category": "Natural",
-		"defname": "OvipositorF"
-	},
-	{
-		"abr": "ovipositor(male)",
-		"price": 58,
-		"category": "Natural",
-		"defname": "OvipositorM"
-	},
-	{
 		"abr": "oxygenpump",
 		"price": 333,
 		"category": "Misc",
@@ -12109,12 +11575,6 @@
 		"defname": "AA_EggPedigreedRaptorUnfertilized"
 	},
 	{
-		"abr": "pegdick",
-		"price": 8,
-		"category": "Prosthetic",
-		"defname": "PegDick"
-	},
-	{
 		"abr": "penguin",
 		"price": 250,
 		"category": "Animals",
@@ -12131,12 +11591,6 @@
 		"price": 12,
 		"category": "Eggs (unfert.)",
 		"defname": "EggPenguinUnfertilized"
-	},
-	{
-		"abr": "penis",
-		"price": 417,
-		"category": "Natural",
-		"defname": "Penis"
 	},
 	{
 		"abr": "peppers",
@@ -12409,12 +11863,6 @@
 		"defname": "Meat_PrairieDog"
 	},
 	{
-		"abr": "prestigeplatearmor",
-		"price": 1400,
-		"category": "Armor",
-		"defname": "VPE_Apparel_PlateArmorPrestige"
-	},
-	{
 		"abr": "prestigesiegebreakerarmor",
 		"price": 7033,
 		"category": "Armor",
@@ -12467,12 +11915,6 @@
 		"price": 1833,
 		"category": "Animals",
 		"defname": "Procoptodon"
-	},
-	{
-		"abr": "procyoninepenis",
-		"price": 417,
-		"category": "Natural",
-		"defname": "RaccoonPenis"
 	},
 	{
 		"abr": "propanebag",
@@ -12685,942 +12127,6 @@
 		"defname": "AB_PsychotropicFungus"
 	},
 	{
-		"abr": "psyring",
-		"price": 2000,
-		"category": "Utility",
-		"defname": "VPE_Psyring"
-	},
-	{
-		"abr": "psytrainer(acidspit)",
-		"price": 2333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_AAVPE_AcidSpit"
-	},
-	{
-		"abr": "psytrainer(adrenalinerush)",
-		"price": 2333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_AdrenalineRush"
-	},
-	{
-		"abr": "psytrainer(age)",
-		"price": 1833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_Age"
-	},
-	{
-		"abr": "psytrainer(aggressiveheatdump)",
-		"price": 2333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_AggressiveHeatDump"
-	},
-	{
-		"abr": "psytrainer(animalallies)",
-		"price": 2833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_AnimalAllies"
-	},
-	{
-		"abr": "psytrainer(assassinate)",
-		"price": 3333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_Assassinate"
-	},
-	{
-		"abr": "psytrainer(balllightning)",
-		"price": 2333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_BallLightning"
-	},
-	{
-		"abr": "psytrainer(beckon)",
-		"price": 2833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_Beckon"
-	},
-	{
-		"abr": "psytrainer(bendprobability)",
-		"price": 2333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_BendProbability"
-	},
-	{
-		"abr": "psytrainer(berserkpulse)",
-		"price": 2833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_BerserkPulse"
-	},
-	{
-		"abr": "psytrainer(berserk)",
-		"price": 2333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_Berserk"
-	},
-	{
-		"abr": "psytrainer(bladefocus)",
-		"price": 1833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_BladeFocus"
-	},
-	{
-		"abr": "psytrainer(blindingpulse)",
-		"price": 1833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_BlindingPulse"
-	},
-	{
-		"abr": "psytrainer(bliss)",
-		"price": 2833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_Bliss"
-	},
-	{
-		"abr": "psytrainer(blizzard)",
-		"price": 3333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_Blizzard"
-	},
-	{
-		"abr": "psytrainer(bolt)",
-		"price": 1333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_Bolt"
-	},
-	{
-		"abr": "psytrainer(bramblemaze)",
-		"price": 1333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_BrambleMaze"
-	},
-	{
-		"abr": "psytrainer(breatheflame)",
-		"price": 2333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_BreatheFlame"
-	},
-	{
-		"abr": "psytrainer(breatheice)",
-		"price": 1333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_IceBreath"
-	},
-	{
-		"abr": "psytrainer(burden)",
-		"price": 1333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_Burden"
-	},
-	{
-		"abr": "psytrainer(chainbolt)",
-		"price": 1833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_ChainBolt"
-	},
-	{
-		"abr": "psytrainer(chaosskip)",
-		"price": 2333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_ChaosSkip"
-	},
-	{
-		"abr": "psytrainer(chargeandskewer)",
-		"price": 2833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_AAVPE_ChargeAndSkewer"
-	},
-	{
-		"abr": "psytrainer(chemfuelnodules)",
-		"price": 1333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_AAVPE_ChemfuelNodules"
-	},
-	{
-		"abr": "psytrainer(chunkskip)",
-		"price": 1833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_Chunkskip"
-	},
-	{
-		"abr": "psytrainer(clawfrenzy)",
-		"price": 1833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_AAVPE_ClawFrenzy"
-	},
-	{
-		"abr": "psytrainer(coldzone)",
-		"price": 2333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_ColdZone"
-	},
-	{
-		"abr": "psytrainer(concentratedlight)",
-		"price": 2333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_AAVPE_Laser"
-	},
-	{
-		"abr": "psytrainer(conjureheatpearls)",
-		"price": 1833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_ConjureHeatPearls"
-	},
-	{
-		"abr": "psytrainer(consumebodies)",
-		"price": 2833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_ConsumeBodies"
-	},
-	{
-		"abr": "psytrainer(controlledfrenzy)",
-		"price": 2833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_ControlledFrenzy"
-	},
-	{
-		"abr": "psytrainer(corpsetalk)",
-		"price": 2333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_Corpsetalk"
-	},
-	{
-		"abr": "psytrainer(craftpsyring)",
-		"price": 2833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_CraftPsyRing"
-	},
-	{
-		"abr": "psytrainer(crafttimeskip)",
-		"price": 1833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_CraftTimeskip"
-	},
-	{
-		"abr": "psytrainer(cropburst)",
-		"price": 1833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_CropBurst"
-	},
-	{
-		"abr": "psytrainer(darkness)",
-		"price": 1333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_Darkness"
-	},
-	{
-		"abr": "psytrainer(darkvision)",
-		"price": 1333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_Darkvision"
-	},
-	{
-		"abr": "psytrainer(deathshield)",
-		"price": 3333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_Deathshield"
-	},
-	{
-		"abr": "psytrainer(decoy)",
-		"price": 2333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_Decoy"
-	},
-	{
-		"abr": "psytrainer(destroyeyes)",
-		"price": 1333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_AAVPE_StrikeEyes"
-	},
-	{
-		"abr": "psytrainer(disablingstrike)",
-		"price": 1833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_AAVPE_DisablingStrike"
-	},
-	{
-		"abr": "psytrainer(drainpsyessence)",
-		"price": 3333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_DrainPsyessence"
-	},
-	{
-		"abr": "psytrainer(eclipse)",
-		"price": 1833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_Eclipse"
-	},
-	{
-		"abr": "psytrainer(electrify)",
-		"price": 2833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_AAVPE_Electrify"
-	},
-	{
-		"abr": "psytrainer(empblow)",
-		"price": 2333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_AAVPE_EmpBlow"
-	},
-	{
-		"abr": "psytrainer(enchantquality)",
-		"price": 1333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_EnchantQuality"
-	},
-	{
-		"abr": "psytrainer(energydump)",
-		"price": 2833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_EnergyDump"
-	},
-	{
-		"abr": "psytrainer(enthrall)",
-		"price": 3333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_Enthrall"
-	},
-	{
-		"abr": "psytrainer(essencetransfer)",
-		"price": 3333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_EssenceTransfer"
-	},
-	{
-		"abr": "psytrainer(ethriallis)",
-		"price": 2833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_AML_DivineExplosion"
-	},
-	{
-		"abr": "psytrainer(explosion)",
-		"price": 2333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_Explosion"
-	},
-	{
-		"abr": "psytrainer(extinguishflames)",
-		"price": 2833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_QuenchFlames"
-	},
-	{
-		"abr": "psytrainer(eyeblast)",
-		"price": 2833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_EyeBlast"
-	},
-	{
-		"abr": "psytrainer(farskip)",
-		"price": 3333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_Farskip"
-	},
-	{
-		"abr": "psytrainer(fatalblow)",
-		"price": 3333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_AAVPE_FatalBlow"
-	},
-	{
-		"abr": "psytrainer(firebeam)",
-		"price": 3333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_FireBeam"
-	},
-	{
-		"abr": "psytrainer(fireshield)",
-		"price": 2333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_FireShield"
-	},
-	{
-		"abr": "psytrainer(firetornado)",
-		"price": 3333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_FlameTornado"
-	},
-	{
-		"abr": "psytrainer(firingfocus)",
-		"price": 1833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_FiringFocus"
-	},
-	{
-		"abr": "psytrainer(flameball)",
-		"price": 1333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_Flameball"
-	},
-	{
-		"abr": "psytrainer(flashstorm)",
-		"price": 3333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_Flashstorm"
-	},
-	{
-		"abr": "psytrainer(focus)",
-		"price": 2333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_Focus"
-	},
-	{
-		"abr": "psytrainer(frostray)",
-		"price": 1833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_FrostRay"
-	},
-	{
-		"abr": "psytrainer(fungalskin)",
-		"price": 1833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_AAVPE_FungalSkin"
-	},
-	{
-		"abr": "psytrainer(ghostwalk)",
-		"price": 2333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_Ghostwalk"
-	},
-	{
-		"abr": "psytrainer(greaterocularsprout)",
-		"price": 2833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_AAVPE_GreaterOcularSprout"
-	},
-	{
-		"abr": "psytrainer(grouplink)",
-		"price": 2333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_GroupLink"
-	},
-	{
-		"abr": "psytrainer(guardianskipbarrier)",
-		"price": 3333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_GuardianSkipbarrier"
-	},
-	{
-		"abr": "psytrainer(guidedshot)",
-		"price": 2833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_GuidedShot"
-	},
-	{
-		"abr": "psytrainer(haywire)",
-		"price": 1833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_Haywire"
-	},
-	{
-		"abr": "psytrainer(healthswap)",
-		"price": 2833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_HealthSwap"
-	},
-	{
-		"abr": "psytrainer(heatfocus)",
-		"price": 1833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_HeatFocus"
-	},
-	{
-		"abr": "psytrainer(hover)",
-		"price": 1333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_AAVPE_Hover"
-	},
-	{
-		"abr": "psytrainer(hurricane)",
-		"price": 3333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_Hurricane"
-	},
-	{
-		"abr": "psytrainer(iceblock)",
-		"price": 2333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_IceBlock"
-	},
-	{
-		"abr": "psytrainer(icecrystal)",
-		"price": 1833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_IceCrystal"
-	},
-	{
-		"abr": "psytrainer(iceshield)",
-		"price": 1333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_IceShield"
-	},
-	{
-		"abr": "psytrainer(icespike)",
-		"price": 1333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_IceSpike"
-	},
-	{
-		"abr": "psytrainer(icewall)",
-		"price": 2833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_IceWall"
-	},
-	{
-		"abr": "psytrainer(infusion)",
-		"price": 1333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_AML_DivineHeal"
-	},
-	{
-		"abr": "psytrainer(intensifyshadows)",
-		"price": 2833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_IntensifyShadows"
-	},
-	{
-		"abr": "psytrainer(invisibility)",
-		"price": 2833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_Invisibility"
-	},
-	{
-		"abr": "psytrainer(killskip)",
-		"price": 3333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_Killskip"
-	},
-	{
-		"abr": "psytrainer(ko)",
-		"price": 3333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_AAVPE_KO"
-	},
-	{
-		"abr": "psytrainer(lancera)",
-		"price": 1833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_AML_LightLance"
-	},
-	{
-		"abr": "psytrainer(leapingcharge)",
-		"price": 2333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_AAVPE_Charge"
-	},
-	{
-		"abr": "psytrainer(legskip)",
-		"price": 3333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_AAVPE_LegSkip"
-	},
-	{
-		"abr": "psytrainer(liferot)",
-		"price": 1833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_Liferot"
-	},
-	{
-		"abr": "psytrainer(lightsustenance)",
-		"price": 2333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_AAVPE_LightSustenance"
-	},
-	{
-		"abr": "psytrainer(locationswap)",
-		"price": 2333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_LocationSwap"
-	},
-	{
-		"abr": "psytrainer(lucktransfer)",
-		"price": 1833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_LuckTransfer"
-	},
-	{
-		"abr": "psytrainer(manhunterpulse)",
-		"price": 2333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_ManhunterPulse"
-	},
-	{
-		"abr": "psytrainer(massbeckon)",
-		"price": 3333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_MassBeckon"
-	},
-	{
-		"abr": "psytrainer(masschaosskip)",
-		"price": 2833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_MassChaosSkip"
-	},
-	{
-		"abr": "psytrainer(masshallucination)",
-		"price": 3333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_MassHallucination"
-	},
-	{
-		"abr": "psytrainer(mend)",
-		"price": 1333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_Mend"
-	},
-	{
-		"abr": "psytrainer(meteorshower)",
-		"price": 2833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_MeteorShower"
-	},
-	{
-		"abr": "psytrainer(mindbreak)",
-		"price": 2833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_MindBreak"
-	},
-	{
-		"abr": "psytrainer(mindcontrol)",
-		"price": 1333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_Mindcontrol"
-	},
-	{
-		"abr": "psytrainer(mindwipe)",
-		"price": 2833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_MindWipe"
-	},
-	{
-		"abr": "psytrainer(neuralheatdetonation)",
-		"price": 2833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_NeuralHeatDetonation"
-	},
-	{
-		"abr": "psytrainer(neuralheatdump)",
-		"price": 1833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_NeuralHeatDump"
-	},
-	{
-		"abr": "psytrainer(neuroquake)",
-		"price": 3333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_Neuroquake"
-	},
-	{
-		"abr": "psytrainer(nightstep)",
-		"price": 3333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_Nightstep"
-	},
-	{
-		"abr": "psytrainer(obscure)",
-		"price": 1833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_Obscure"
-	},
-	{
-		"abr": "psytrainer(oculareruption)",
-		"price": 1833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_AAVPE_EyeEruption"
-	},
-	{
-		"abr": "psytrainer(ocularsprout)",
-		"price": 1833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_AAVPE_OcularSprout"
-	},
-	{
-		"abr": "psytrainer(overshield)",
-		"price": 2333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_Overshield"
-	},
-	{
-		"abr": "psytrainer(painblock)",
-		"price": 1333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_Painblock"
-	},
-	{
-		"abr": "psytrainer(paralysispulse)",
-		"price": 2333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_ParalysisPulse"
-	},
-	{
-		"abr": "psytrainer(planttimeskip)",
-		"price": 1333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_PlantTimeskip"
-	},
-	{
-		"abr": "psytrainer(powerleap)",
-		"price": 1833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_PowerLeap"
-	},
-	{
-		"abr": "psytrainer(power)",
-		"price": 1833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_Power"
-	},
-	{
-		"abr": "psytrainer(preservation)",
-		"price": 1833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_AML_DivineArmor"
-	},
-	{
-		"abr": "psytrainer(proto-horror)",
-		"price": 3833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_ProtohorrorSTNL"
-	},
-	{
-		"abr": "psytrainer(psychicdrone)",
-		"price": 2833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_PsychicDrone"
-	},
-	{
-		"abr": "psytrainer(psychicguidance)",
-		"price": 1333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_PsychicGuidance"
-	},
-	{
-		"abr": "psytrainer(psychicshock)",
-		"price": 1833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_PsychicShock"
-	},
-	{
-		"abr": "psytrainer(psychicsooth(female))",
-		"price": 2333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_SootheFemale"
-	},
-	{
-		"abr": "psytrainer(psychicsooth(male))",
-		"price": 2333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_SootheMale"
-	},
-	{
-		"abr": "psytrainer(raidpause)",
-		"price": 2833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_RaidPause"
-	},
-	{
-		"abr": "psytrainer(recharge)",
-		"price": 2333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_Recharge"
-	},
-	{
-		"abr": "psytrainer(regeneration)",
-		"price": 2833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_AAVPE_Regeneration"
-	},
-	{
-		"abr": "psytrainer(regrowlimbs)",
-		"price": 2833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_RegrowLimbs"
-	},
-	{
-		"abr": "psytrainer(rejuvenation)",
-		"price": 1333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_AML_DivineSelfHeal"
-	},
-	{
-		"abr": "psytrainer(resurrect)",
-		"price": 3333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_Resurrect"
-	},
-	{
-		"abr": "psytrainer(reunionfarskip)",
-		"price": 3333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_ReunionFarskip"
-	},
-	{
-		"abr": "psytrainer(reverseengineer)",
-		"price": 3333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_ReverseEngineer"
-	},
-	{
-		"abr": "psytrainer(rockconstruct)",
-		"price": 2333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_RockConstruct"
-	},
-	{
-		"abr": "psytrainer(savagepsychicslice)",
-		"price": 1333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_AAVPE_Slice"
-	},
-	{
-		"abr": "psytrainer(seasontimeskip)",
-		"price": 2833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_SeasonTimeskip"
-	},
-	{
-		"abr": "psytrainer(selfexplosion)",
-		"price": 1833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_SelfExplosion"
-	},
-	{
-		"abr": "psytrainer(shadowfocus)",
-		"price": 2833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_ShadowFocus"
-	},
-	{
-		"abr": "psytrainer(shadowskip)",
-		"price": 2333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_Shadowskip"
-	},
-	{
-		"abr": "psytrainer(shieldanimals)",
-		"price": 2833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_ShieldAnimals"
-	},
-	{
-		"abr": "psytrainer(shimmer)",
-		"price": 1833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_AML_DivineSkip"
-	},
-	{
-		"abr": "psytrainer(shrineshield)",
-		"price": 2833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_Shrineshield"
-	},
-	{
-		"abr": "psytrainer(skewer)",
-		"price": 2333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_AAVPE_Skewer"
-	},
-	{
-		"abr": "psytrainer(skillroll)",
-		"price": 3333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_SkillRoll"
-	},
-	{
-		"abr": "psytrainer(skip)",
-		"price": 1833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_Skip"
-	},
-	{
-		"abr": "psytrainer(skipdoor)",
-		"price": 3333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_Skipdoor"
-	},
-	{
-		"abr": "psytrainer(skipshield)",
-		"price": 2833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_Skipshield"
-	},
-	{
-		"abr": "psytrainer(smokepop)",
-		"price": 2833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_Smokepop"
-	},
-	{
-		"abr": "psytrainer(snapfreeze)",
-		"price": 2333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_SnapFreeze"
-	},
-	{
-		"abr": "psytrainer(solarpinhole)",
-		"price": 1333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_SolarPinhole"
-	},
-	{
-		"abr": "psytrainer(speedboost)",
-		"price": 1333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_SpeedBoost"
-	},
-	{
-		"abr": "psytrainer(spincut)",
-		"price": 2833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_AAVPE_SpinCut"
-	},
-	{
-		"abr": "psytrainer(stabilize)",
-		"price": 1833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_Stabilize"
-	},
-	{
-		"abr": "psytrainer(staticaura)",
-		"price": 1833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_StaticAura"
-	},
-	{
-		"abr": "psytrainer(staticpulse)",
-		"price": 2333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_StaticPulse"
-	},
-	{
-		"abr": "psytrainer(stealvitality)",
-		"price": 1833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_StealVitality"
-	},
-	{
-		"abr": "psytrainer(steelconstruct)",
-		"price": 2333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_SteelConstruct"
-	},
-	{
-		"abr": "psytrainer(strengtheninsect)",
-		"price": 2333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_AAVPE_StrengthenInsect"
-	},
-	{
-		"abr": "psytrainer(stun)",
-		"price": 1333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_Stun"
-	},
-	{
-		"abr": "psytrainer(summonblackqueen)",
-		"price": 3333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_AAVPE_SummonBlackQueen"
-	},
-	{
 		"abr": "grasercarbine",
 		"price": 1692,
 		"category": "Ranged weapons",
@@ -13637,360 +12143,6 @@
 		"price": 1042,
 		"category": "Ranged weapons",
 		"defname": "Gun_RSBeamPistol"
-	},
-	{
-		"abr": "psytrainer(annihilation)",
-		"price": 3833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_AnnihilationSTNL"
-	},
-	{
-		"abr": "psytrainer(crush)",
-		"price": 1333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_CrushSTNL"
-	},
-	{
-		"abr": "psytrainer(fallingsky)",
-		"price": 2833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_FallingSkySTNL"
-	},
-	{
-		"abr": "psytrainer(gravimpact)",
-		"price": 2333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_GravimpactSTNL"
-	},
-	{
-		"abr": "psytrainer(increasegravity)",
-		"price": 1833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_IncreasedGravitySTNL"
-	},
-	{
-		"abr": "psytrainer(moltenpull)",
-		"price": 2833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_MoltenPullSTNL"
-	},
-	{
-		"abr": "psytrainer(shipbreaker)",
-		"price": 3333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_ShipBreakerSTNL"
-	},
-	{
-		"abr": "psytrainer(singularity)",
-		"price": 3333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_SingularitySTNL"
-	},
-	{
-		"abr": "psytrainer(skydrop)",
-		"price": 2833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_FallingSkyALTSTNL"
-	},
-	{
-		"abr": "psytrainer(summonblackscarab)",
-		"price": 1833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_AAVPE_SummonBlackScarab"
-	},
-	{
-		"abr": "psytrainer(summonblackspelopede)",
-		"price": 2333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_AAVPE_SummonBlackSpelopede"
-	},
-	{
-		"abr": "psytrainer(summonblackspider)",
-		"price": 2833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_AAVPE_SummonBlackSpider"
-	},
-	{
-		"abr": "psytrainer(summonentrancetothehive)",
-		"price": 3333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_AAVPE_SummonHive"
-	},
-	{
-		"abr": "psytrainer(summoneyelinghorde)",
-		"price": 2833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_AAVPE_SummonEyelingHorde"
-	},
-	{
-		"abr": "psytrainer(summoneyeling)",
-		"price": 1333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_AAVPE_SummonEyeling"
-	},
-	{
-		"abr": "psytrainer(summonmammothworm)",
-		"price": 2833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_AAVPE_SummonMammothWorm"
-	},
-	{
-		"abr": "psytrainer(summonocularoriginator)",
-		"price": 2333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_AAVPE_SummonOcularOriginator"
-	},
-	{
-		"abr": "psytrainer(summonpack)",
-		"price": 3333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_SummonPack"
-	},
-	{
-		"abr": "psytrainer(telekineticsatellites)",
-		"price": 1833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_TelekineticSatelliteSTNL"
-	},
-	{
-		"abr": "psytrainer(thunderbolt)",
-		"price": 1833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_Thunderbolt"
-	},
-	{
-		"abr": "psytrainer(timereversal)",
-		"price": 3333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_TimeReversal"
-	},
-	{
-		"abr": "psytrainer(timesphere)",
-		"price": 3333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_TimeSphere"
-	},
-	{
-		"abr": "psytrainer(timequake)",
-		"price": 3333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_Timequake"
-	},
-	{
-		"abr": "psytrainer(timeskipmeditation)",
-		"price": 1333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_TimeskipMeditation"
-	},
-	{
-		"abr": "psytrainer(transmutation)",
-		"price": 2833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_Transmutation"
-	},
-	{
-		"abr": "psytrainer(transmutestone)",
-		"price": 1333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_TransmuteStone"
-	},
-	{
-		"abr": "psytrainer(treesprout)",
-		"price": 2333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_TreeSprout"
-	},
-	{
-		"abr": "psytrainer(venomspit)",
-		"price": 1333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_AAVPE_VenomSpit"
-	},
-	{
-		"abr": "psytrainer(voidsnare)",
-		"price": 1833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_SnareSTNL"
-	},
-	{
-		"abr": "psytrainer(void-link)",
-		"price": 4833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_VoidLinkSTNL"
-	},
-	{
-		"abr": "psytrainer(vortex)",
-		"price": 2833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_Vortex"
-	},
-	{
-		"abr": "psytrainer(wallraise)",
-		"price": 2833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_Wallraise"
-	},
-	{
-		"abr": "psytrainer(waterskip)",
-		"price": 1833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_Waterskip"
-	},
-	{
-		"abr": "psytrainer(weavedeathpallgate)",
-		"price": 4333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_DeathpallgateSTNL"
-	},
-	{
-		"abr": "psytrainer(weaveprotolith)",
-		"price": 3333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_NoctolithSTNL"
-	},
-	{
-		"abr": "psytrainer(weavesmallvoidmass)",
-		"price": 1333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_VoidmassSTNL"
-	},
-	{
-		"abr": "psytrainer(weaveunstabledeadlifedustnode)",
-		"price": 1833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_VoiddeadmineSTNL"
-	},
-	{
-		"abr": "psytrainer(weavevoidgate)",
-		"price": 4333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_VoidgateSTNL"
-	},
-	{
-		"abr": "psytrainer(weavevoidmetalwall)",
-		"price": 2333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_VoidwallSTNL"
-	},
-	{
-		"abr": "psytrainer(weavevoidportal(metalhorror))",
-		"price": 2833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_VoidportalmetalSTNL"
-	},
-	{
-		"abr": "psytrainer(weavevoidportal(noctol))",
-		"price": 2833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_VoidportalNoctolsSTNL"
-	},
-	{
-		"abr": "psytrainer(weavevoidportal(revenant))",
-		"price": 2833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_VoidportalRevSTNL"
-	},
-	{
-		"abr": "psytrainer(weavevoidstructure)",
-		"price": 3333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_VoidstructureSTNL"
-	},
-	{
-		"abr": "psytrainer(webslinging)",
-		"price": 1833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_AAVPE_WebSlinging"
-	},
-	{
-		"abr": "psytrainer(wordofalliance)",
-		"price": 2333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_WordofAlliance"
-	},
-	{
-		"abr": "psytrainer(wordofanimals)",
-		"price": 2333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_WordofAnimals"
-	},
-	{
-		"abr": "psytrainer(wordoffear)",
-		"price": 1333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_WordofFear"
-	},
-	{
-		"abr": "psytrainer(wordofforetelling)",
-		"price": 1333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_WordofForetelling"
-	},
-	{
-		"abr": "psytrainer(wordofhealing)",
-		"price": 1333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_WordofHealing"
-	},
-	{
-		"abr": "psytrainer(wordofimmunity)",
-		"price": 1833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_WordofImmunity"
-	},
-	{
-		"abr": "psytrainer(wordofinspiration)",
-		"price": 1833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_WordofInspiration"
-	},
-	{
-		"abr": "psytrainer(wordofjoy)",
-		"price": 1333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_WordofJoy"
-	},
-	{
-		"abr": "psytrainer(wordoflove)",
-		"price": 1833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_WordofLove"
-	},
-	{
-		"abr": "psytrainer(wordofpain)",
-		"price": 2333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_WordofPain"
-	},
-	{
-		"abr": "psytrainer(wordofproductivity)",
-		"price": 1833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_WordofProductivity"
-	},
-	{
-		"abr": "psytrainer(wordofprogress)",
-		"price": 2833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_WordofProgress"
-	},
-	{
-		"abr": "psytrainer(wordofprotection)",
-		"price": 2833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_WordofProtection"
-	},
-	{
-		"abr": "psytrainer(wordofserenity)",
-		"price": 1833,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_WordofSerenity"
-	},
-	{
-		"abr": "psytrainer(wordoftrust)",
-		"price": 1333,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_VPE_WordofTrust"
 	},
 	{
 		"abr": "pug",
@@ -14341,12 +12493,6 @@
 		"defname": "VFEM2_ResearchBoard"
 	},
 	{
-		"abr": "resin",
-		"price": 2,
-		"category": "Items",
-		"defname": "ResinGlob"
-	},
-	{
 		"abr": "resourceconsole",
 		"price": 642,
 		"category": "Oil",
@@ -14407,12 +12553,6 @@
 		"defname": "Meat_AA_RipperHound"
 	},
 	{
-		"abr": "rockconstruct",
-		"price": 250,
-		"category": "Animals",
-		"defname": "VPE_RockConstruct"
-	},
-	{
 		"abr": "rocketlauncher",
 		"price": 1667,
 		"category": "Ranged weapons",
@@ -14435,18 +12575,6 @@
 		"price": 25,
 		"category": "Eggs (unfert.)",
 		"defname": "AEXP_EggRockhopperPenguinUnfertilized"
-	},
-	{
-		"abr": "rodentpenis",
-		"price": 417,
-		"category": "Natural",
-		"defname": "RodentPenis"
-	},
-	{
-		"abr": "rodentvagina",
-		"price": 417,
-		"category": "Natural",
-		"defname": "RodentVagina"
 	},
 	{
 		"abr": "rollerfridge",
@@ -15145,12 +13273,6 @@
 		"defname": "SkeletalBracing"
 	},
 	{
-		"abr": "skeleton",
-		"price": 250,
-		"category": "Animals",
-		"defname": "VPE_SummonedSkeleton"
-	},
-	{
 		"abr": "skiphound",
 		"price": 1250,
 		"category": "Animals",
@@ -15191,12 +13313,6 @@
 		"price": 1050,
 		"category": "Production",
 		"defname": "AB_SlimeCompressor"
-	},
-	{
-		"abr": "slimeglob",
-		"price": 2,
-		"category": "Items",
-		"defname": "SlimeGlob"
 	},
 	{
 		"abr": "slimemeal",
@@ -15481,12 +13597,6 @@
 		"defname": "SteelArm"
 	},
 	{
-		"abr": "steelconstruct",
-		"price": 250,
-		"category": "Animals",
-		"defname": "VPE_SteelConstruct"
-	},
-	{
 		"abr": "stellicmeditationthrone",
 		"price": 5542,
 		"category": "Furniture",
@@ -15593,42 +13703,6 @@
 		"price": 2500,
 		"category": "Animals",
 		"defname": "AA_SummitCrab"
-	},
-	{
-		"abr": "summonedblackqueen",
-		"price": 2500,
-		"category": "Animals",
-		"defname": "AAVPE_BlackQueen"
-	},
-	{
-		"abr": "summonedblackscarab",
-		"price": 250,
-		"category": "Animals",
-		"defname": "AA_BlackScarab_Temporary"
-	},
-	{
-		"abr": "summonedblackspelopede",
-		"price": 417,
-		"category": "Animals",
-		"defname": "AA_BlackSpelopede_Temporary"
-	},
-	{
-		"abr": "summonedblackspider",
-		"price": 917,
-		"category": "Animals",
-		"defname": "AA_BlackSpider_Temporary"
-	},
-	{
-		"abr": "summonedeyeling",
-		"price": 167,
-		"category": "Animals",
-		"defname": "AA_Summoned_Eyeling"
-	},
-	{
-		"abr": "summonedmammothworm",
-		"price": 1000,
-		"category": "Animals",
-		"defname": "AA_MammothWorm_Temporary"
 	},
 	{
 		"abr": "suncolumn",
@@ -16393,12 +14467,6 @@
 		"defname": "VFEC_Tyrian"
 	},
 	{
-		"abr": "udder",
-		"price": 167,
-		"category": "Natural",
-		"defname": "UdderBreasts"
-	},
-	{
 		"abr": "uintatherium",
 		"price": 1667,
 		"category": "Animals",
@@ -16483,12 +14551,6 @@
 		"defname": "Joy_Piano"
 	},
 	{
-		"abr": "usedcondom",
-		"price": 2,
-		"category": "Vegetarian",
-		"defname": "UsedCondom"
-	},
-	{
 		"abr": "vacstoneblocks",
 		"price": 3,
 		"category": "Stone blocks",
@@ -16505,12 +14567,6 @@
 		"price": 323,
 		"category": "Headgear",
 		"defname": "Apparel_VacsuitHelmet"
-	},
-	{
-		"abr": "vagina",
-		"price": 417,
-		"category": "Natural",
-		"defname": "Vagina"
 	},
 	{
 		"abr": "vanguardaccelerator",
@@ -16885,76 +14941,568 @@
 		"defname": "VAEWaste_Wasteffalo"
 	},
 	{
-		"abr": "wasteleather",
-		"price": 3,
-		"category": "Leathers",
-		"defname": "VAEWaste_ToxicLeather"
-	},
-	{
-		"abr": "waterchestnuts",
-		"price": 2,
-		"category": "Vegetarian",
-		"defname": "VCE_RawWaterChestnut"
-	},
-	{
-		"abr": "watercressleaves",
-		"price": 2,
-		"category": "Vegetarian",
-		"defname": "VCE_RawWatercress"
-	},
-	{
-		"abr": "weaponrack",
-		"price": 87,
-		"category": "Furniture",
-		"defname": "Shelf_WeaponRack"
-	},
-	{
-		"abr": "weaponstoragespot",
-		"price": 383,
-		"category": "Furniture",
-		"defname": "Vin_WP"
-	},
-	{
-		"abr": "weaponstoragespot",
-		"price": 190,
-		"category": "Furniture",
-		"defname": "Vin_WPS"
-	},
-	{
-		"abr": "welshterrier",
-		"price": 417,
-		"category": "Animals",
-		"defname": "AEXP_WelshTerrier"
-	},
-	{
-		"abr": "whip",
-		"price": 203,
+		"abr": "anti-armorrocketlauncher",
+		"price": 1667,
 		"category": "Ranged weapons",
-		"defname": "VWE_Tool_Whip"
+		"defname": "Gun_AntiArmor_Rocket"
 	},
 	{
-		"abr": "wickerman",
-		"price": 178,
-		"category": "Misc",
-		"defname": "VME_WickerMan"
+		"abr": "anus",
+		"price": 417,
+		"category": "Natural",
+		"defname": "Anus"
 	},
 	{
-		"abr": "wildgoose",
-		"price": 125,
-		"category": "Animals",
-		"defname": "AEXP_WildGoose"
+		"abr": "aphrodisiacdrug",
+		"price": 83,
+		"category": "Drugs",
+		"defname": "Aphrodisiac"
 	},
 	{
-		"abr": "wildgooseegg(fert.)",
-		"price": 18,
+		"abr": "archotechanus",
+		"price": 4667,
+		"category": "Archotech",
+		"defname": "ArchotechAnus"
+	},
+	{
+		"abr": "archotechbreasts",
+		"price": 4667,
+		"category": "Archotech",
+		"defname": "ArchotechBreasts"
+	},
+	{
+		"abr": "archotechpenis",
+		"price": 4667,
+		"category": "Archotech",
+		"defname": "ArchotechPenis"
+	},
+	{
+		"abr": "archotechvagina",
+		"price": 4667,
+		"category": "Archotech",
+		"defname": "ArchotechVagina"
+	},
+	{
+		"abr": "bionicanus",
+		"price": 2167,
+		"category": "Bionic",
+		"defname": "BionicAnus"
+	},
+	{
+		"abr": "bionicbreasts",
+		"price": 2167,
+		"category": "Bionic",
+		"defname": "BionicBreasts"
+	},
+	{
+		"abr": "bionicpenis",
+		"price": 1500,
+		"category": "Bionic",
+		"defname": "BionicPenis"
+	},
+	{
+		"abr": "bionicvagina",
+		"price": 2167,
+		"category": "Bionic",
+		"defname": "BionicVagina"
+	},
+	{
+		"abr": "breasts",
+		"price": 417,
+		"category": "Natural",
+		"defname": "Breasts"
+	},
+	{
+		"abr": "caninepenis",
+		"price": 417,
+		"category": "Natural",
+		"defname": "DogPenis"
+	},
+	{
+		"abr": "caninevagina",
+		"price": 417,
+		"category": "Natural",
+		"defname": "DogVagina"
+	},
+	{
+		"abr": "chains",
+		"price": 500,
+		"category": "Bondage gear",
+		"defname": "PrisonerChains"
+	},
+	{
+		"abr": "cloacalanus",
+		"price": 167,
+		"category": "Natural",
+		"defname": "CloacalAnus"
+	},
+	{
+		"abr": "cloacalpenis",
+		"price": 167,
+		"category": "Natural",
+		"defname": "CloacalPenis"
+	},
+	{
+		"abr": "cloacalvagina",
+		"price": 167,
+		"category": "Natural",
+		"defname": "CloacalVagina"
+	},
+	{
+		"abr": "condom",
+		"price": 3,
+		"category": "Manufactured",
+		"defname": "Condom"
+	},
+	{
+		"abr": "contraceptionpill",
+		"price": 25,
+		"category": "Drugs",
+		"defname": "RJW_Contraceptive"
+	},
+	{
+		"abr": "crocodilianpenis",
+		"price": 500,
+		"category": "Natural",
+		"defname": "CrocodilianPenis"
+	},
+	{
+		"abr": "demonanus",
+		"price": 417,
+		"category": "Natural",
+		"defname": "DemonAnus"
+	},
+	{
+		"abr": "demonpenis",
+		"price": 417,
+		"category": "Natural",
+		"defname": "DemonPenis"
+	},
+	{
+		"abr": "demontentacles",
+		"price": 417,
+		"category": "Natural",
+		"defname": "DemonTentaclePenis"
+	},
+	{
+		"abr": "demonvagina",
+		"price": 417,
+		"category": "Natural",
+		"defname": "DemonVagina"
+	},
+	{
+		"abr": "dirtynuclearied",
+		"price": 2675,
+		"category": "Security",
+		"defname": "TrapIED_DirtyNuclear"
+	},
+	{
+		"abr": "dragonpenis",
+		"price": 417,
+		"category": "Natural",
+		"defname": "DragonPenis"
+	},
+	{
+		"abr": "dragonvagina",
+		"price": 417,
+		"category": "Natural",
+		"defname": "DragonVagina"
+	},
+	{
+		"abr": "egg(fert.)",
+		"price": 12,
 		"category": "Eggs (fert.)",
-		"defname": "AEXP_EggWildGooseFertilized"
+		"defname": "RJW_EggFertilized"
+	},
+	{
+		"abr": "egg(fert.)",
+		"price": 12,
+		"category": "Eggs (fert.)",
+		"defname": "RJW_EggInsectFertilized"
+	},
+	{
+		"abr": "egg(unfert.)",
+		"price": 2,
+		"category": "Eggs (unfert.)",
+		"defname": "RJW_EggUnfertilized"
+	},
+	{
+		"abr": "egg(unfert.)",
+		"price": 2,
+		"category": "Eggs (unfert.)",
+		"defname": "RJW_EggInsectUnfertilized"
+	},
+	{
+		"abr": "equinepenis",
+		"price": 417,
+		"category": "Natural",
+		"defname": "HorsePenis"
+	},
+	{
+		"abr": "equinevagina",
+		"price": 417,
+		"category": "Natural",
+		"defname": "HorseVagina"
+	},
+	{
+		"abr": "featurelesschest",
+		"price": 167,
+		"category": "Natural",
+		"defname": "FeaturelessChest"
+	},
+	{
+		"abr": "felinepenis",
+		"price": 417,
+		"category": "Natural",
+		"defname": "CatPenis"
+	},
+	{
+		"abr": "felinevagina",
+		"price": 417,
+		"category": "Natural",
+		"defname": "CatVagina"
+	},
+	{
+		"abr": "firefoampad",
+		"price": 261,
+		"category": "Misc",
+		"defname": "Wall_FirefoamPopper"
+	},
+	{
+		"abr": "frozenpad",
+		"price": 358,
+		"category": "Misc",
+		"defname": "Wall_CoolDevice"
+	},
+	{
+		"abr": "heatpad",
+		"price": 358,
+		"category": "Temperature",
+		"defname": "Wall_HeatDevice"
+	},
+	{
+		"abr": "hemipenis",
+		"price": 500,
+		"category": "Natural",
+		"defname": "HemiPenis"
+	},
+	{
+		"abr": "holokey",
+		"price": 17,
+		"category": "Manufactured",
+		"defname": "Holokey"
+	},
+	{
+		"abr": "hololock",
+		"price": 667,
+		"category": "Manufactured",
+		"defname": "Hololock"
+	},
+	{
+		"abr": "humpshroom",
+		"price": 17,
+		"category": "Drugs",
+		"defname": "HumpShroom"
+	},
+	{
+		"abr": "hydraulicanus",
+		"price": 167,
+		"category": "Prosthetic",
+		"defname": "HydraulicAnus"
+	},
+	{
+		"abr": "hydraulicbreasts",
+		"price": 167,
+		"category": "Prosthetic",
+		"defname": "HydraulicBreasts"
+	},
+	{
+		"abr": "hydraulicpenis",
+		"price": 167,
+		"category": "Prosthetic",
+		"defname": "HydraulicPenis"
+	},
+	{
+		"abr": "hydraulicvagina",
+		"price": 167,
+		"category": "Prosthetic",
+		"defname": "HydraulicVagina"
+	},
+	{
+		"abr": "hyperfertilitypill",
+		"price": 25,
+		"category": "Drugs",
+		"defname": "RJW_FertPill"
+	},
+	{
+		"abr": "industrialammo",
+		"price": 3,
+		"category": "Ammo",
+		"defname": "yy_ammo_industrial"
+	},
+	{
+		"abr": "industrialexplosiveammo",
+		"price": 3,
+		"category": "Ammo",
+		"defname": "yy_ammo_industrial_fire"
+	},
+	{
+		"abr": "industrialspecialammo",
+		"price": 3,
+		"category": "Ammo",
+		"defname": "yy_ammo_industrial_emp"
+	},
+	{
+		"abr": "insectanus",
+		"price": 83,
+		"category": "Natural",
+		"defname": "InsectAnus"
+	},
+	{
+		"abr": "narrowvagina",
+		"price": 417,
+		"category": "Natural",
+		"defname": "NarrowVagina"
+	},
+	{
+		"abr": "needle-likepenis",
+		"price": 417,
+		"category": "Natural",
+		"defname": "NeedlePenis"
+	},
+	{
+		"abr": "orbitaltradepad",
+		"price": 312,
+		"category": "Misc",
+		"defname": "Wall_TradeDevice"
+	},
+	{
+		"abr": "ovipositor(female)",
+		"price": 83,
+		"category": "Natural",
+		"defname": "OvipositorF"
+	},
+	{
+		"abr": "ovipositor(male)",
+		"price": 58,
+		"category": "Natural",
+		"defname": "OvipositorM"
+	},
+	{
+		"abr": "pegdick",
+		"price": 8,
+		"category": "Prosthetic",
+		"defname": "PegDick"
+	},
+	{
+		"abr": "penis",
+		"price": 417,
+		"category": "Natural",
+		"defname": "Penis"
+	},
+	{
+		"abr": "primitiveexplosiveammo",
+		"price": 1,
+		"category": "Ammo",
+		"defname": "yy_ammo_primitive_fire"
+	},
+	{
+		"abr": "primitivespecialammo",
+		"price": 1,
+		"category": "Ammo",
+		"defname": "yy_ammo_primitive_emp"
+	},
+	{
+		"abr": "procyoninepenis",
+		"price": 417,
+		"category": "Natural",
+		"defname": "RaccoonPenis"
+	},
+	{
+		"abr": "airfilter",
+		"price": 525,
+		"category": "Android body parts",
+		"defname": "VREA_AirFilter"
+	},
+	{
+		"abr": "androidarm",
+		"price": 383,
+		"category": "Android body parts",
+		"defname": "VREA_AndroidArm"
+	},
+	{
+		"abr": "androidbehavioriststation",
+		"price": 2417,
+		"category": "Production",
+		"defname": "VREA_AndroidBehavioristStation"
+	},
+	{
+		"abr": "androidcreationstation",
+		"price": 3517,
+		"category": "Production",
+		"defname": "VREA_AndroidCreationStation"
+	},
+	{
+		"abr": "androidfoot",
+		"price": 231,
+		"category": "Android body parts",
+		"defname": "VREA_AndroidFoot"
+	},
+	{
+		"abr": "androidhand",
+		"price": 231,
+		"category": "Android body parts",
+		"defname": "VREA_AndroidHand"
+	},
+	{
+		"abr": "androidleg",
+		"price": 383,
+		"category": "Android body parts",
+		"defname": "VREA_AndroidLeg"
+	},
+	{
+		"abr": "androidpartworkbench",
+		"price": 1150,
+		"category": "Production",
+		"defname": "VREA_AndroidPartWorkbench"
+	},
+	{
+		"abr": "artificialanus",
+		"price": 186,
+		"category": "Android body parts",
+		"defname": "VREA_Anus"
+	},
+	{
+		"abr": "artificialchest",
+		"price": 246,
+		"category": "Android body parts",
+		"defname": "VREA_Chest"
+	},
+	{
+		"abr": "artificialclavicle",
+		"price": 246,
+		"category": "Android body parts",
+		"defname": "VREA_Clavicle"
+	},
+	{
+		"abr": "artificialfemur",
+		"price": 246,
+		"category": "Android body parts",
+		"defname": "VREA_Femur"
+	},
+	{
+		"abr": "artificialfinger",
+		"price": 186,
+		"category": "Android body parts",
+		"defname": "VREA_Finger"
+	},
+	{
+		"abr": "artificialgenitals",
+		"price": 201,
+		"category": "Android body parts",
+		"defname": "VREA_Genitals"
+	},
+	{
+		"abr": "artificialhumerus",
+		"price": 246,
+		"category": "Android body parts",
+		"defname": "VREA_Humerus"
+	},
+	{
+		"abr": "artificialjaw",
+		"price": 306,
+		"category": "Android body parts",
+		"defname": "VREA_ArtificialJaw"
+	},
+	{
+		"abr": "artificialneck",
+		"price": 246,
+		"category": "Android body parts",
+		"defname": "VREA_Neck"
+	},
+	{
+		"abr": "artificialnose",
+		"price": 231,
+		"category": "Android body parts",
+		"defname": "VREA_ArtificialNose"
+	},
+	{
+		"abr": "artificialpelvis",
+		"price": 246,
+		"category": "Android body parts",
+		"defname": "VREA_Pelvis"
+	},
+	{
+		"abr": "artificialradius",
+		"price": 231,
+		"category": "Android body parts",
+		"defname": "VREA_Radius"
+	},
+	{
+		"abr": "artificialribcage",
+		"price": 306,
+		"category": "Android body parts",
+		"defname": "VREA_ArtificialRibcage"
+	},
+	{
+		"abr": "artificialshoulder",
+		"price": 261,
+		"category": "Android body parts",
+		"defname": "VREA_Shoulder"
+	},
+	{
+		"abr": "artificialspine",
+		"price": 323,
+		"category": "Android body parts",
+		"defname": "VREA_ArtificialSpine"
+	},
+	{
+		"abr": "artificialsternum",
+		"price": 231,
+		"category": "Android body parts",
+		"defname": "VREA_Sternum"
+	},
+	{
+		"abr": "artificialtibia",
+		"price": 246,
+		"category": "Android body parts",
+		"defname": "VREA_Tibia"
+	},
+	{
+		"abr": "artificialtoe",
+		"price": 186,
+		"category": "Android body parts",
+		"defname": "VREA_Toe"
+	},
+	{
+		"abr": "artificialtongue",
+		"price": 186,
+		"category": "Android body parts",
+		"defname": "VREA_Tongue"
+	},
+	{
+		"abr": "artificialutilityslot",
+		"price": 186,
+		"category": "Android body parts",
+		"defname": "VREA_Waist"
+	},
+	{
+		"abr": "audioprocessor",
+		"price": 492,
+		"category": "Android body parts",
+		"defname": "VREA_AudioProcessor"
 	},
 	{
 		"abr": "bangbus",
 		"price": 2692,
 		"category": "Animal",
 		"defname": "VVE_BangBus"
+	},
+	{
+		"abr": "blacklarvae",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "AA_BlackLarvae"
 	},
 	{
 		"abr": "bulldog",
@@ -17041,10 +15589,46 @@
 		"defname": "VVE_Dirtbike"
 	},
 	{
-		"abr": "dirtynuclearied",
-		"price": 2675,
-		"category": "Security",
-		"defname": "TrapIED_DirtyNuclear"
+		"abr": "doubleloftbed",
+		"price": 312,
+		"category": "Furniture",
+		"defname": "DoubleLoftBed"
+	},
+	{
+		"abr": "eltex",
+		"price": 278,
+		"category": "Manufactured",
+		"defname": "VPE_Eltex"
+	},
+	{
+		"abr": "eltexcape",
+		"price": 1333,
+		"category": "Misc",
+		"defname": "VPE_Apparel_EltexCape"
+	},
+	{
+		"abr": "eltexdagger",
+		"price": 1225,
+		"category": "Melee weapons",
+		"defname": "VPE_MeleeWeapon_EltexDagger"
+	},
+	{
+		"abr": "eltexmace",
+		"price": 1333,
+		"category": "Melee weapons",
+		"defname": "VPE_MeleeWeapon_EltexMace"
+	},
+	{
+		"abr": "eltexmask",
+		"price": 833,
+		"category": "Headgear",
+		"defname": "VPE_Apparel_EltexMask"
+	},
+	{
+		"abr": "eltexsword",
+		"price": 1383,
+		"category": "Melee weapons",
+		"defname": "VPE_MeleeWeapon_EltexSword"
 	},
 	{
 		"abr": "engineblock",
@@ -17065,10 +15649,28 @@
 		"defname": "VVE_GarageCabinet"
 	},
 	{
+		"abr": "heatpearls",
+		"price": 100,
+		"category": "Utility",
+		"defname": "VPE_HeatPearls"
+	},
+	{
 		"abr": "highwayman",
 		"price": 3733,
 		"category": "Animal",
 		"defname": "VVE_Highwayman"
+	},
+	{
+		"abr": "loftbed",
+		"price": 174,
+		"category": "Furniture",
+		"defname": "LoftBed"
+	},
+	{
+		"abr": "metabolismregulator",
+		"price": 542,
+		"category": "Android body parts",
+		"defname": "VREA_MetabolismRegulator"
 	},
 	{
 		"abr": "mosquito",
@@ -17083,275 +15685,1079 @@
 		"defname": "VVE_Mule"
 	},
 	{
+		"abr": "neuropump",
+		"price": 642,
+		"category": "Android body parts",
+		"defname": "VREA_NeuroPump"
+	},
+	{
+		"abr": "neutrocasket",
+		"price": 750,
+		"category": "Furniture",
+		"defname": "VREA_NeutroCasket"
+	},
+	{
+		"abr": "neutrodrain",
+		"price": 194,
+		"category": "Furniture",
+		"defname": "VREA_NeutroDrain"
+	},
+	{
+		"abr": "neutrotap",
+		"price": 194,
+		"category": "Furniture",
+		"defname": "VREA_NeutroTap"
+	},
+	{
+		"abr": "neutrofilter",
+		"price": 525,
+		"category": "Android body parts",
+		"defname": "VREA_Neutrofilter"
+	},
+	{
+		"abr": "ocularoriginator",
+		"price": 1417,
+		"category": "Animals",
+		"defname": "AA_OcularOriginator"
+	},
+	{
+		"abr": "opticalunit",
+		"price": 567,
+		"category": "Android body parts",
+		"defname": "VREA_OpticalUnit"
+	},
+	{
+		"abr": "personasubcore",
+		"price": 3333,
+		"category": "Manufactured",
+		"defname": "VREA_PersonaSubcore"
+	},
+	{
+		"abr": "prestigeplatearmor",
+		"price": 1400,
+		"category": "Armor",
+		"defname": "VPE_Apparel_PlateArmorPrestige"
+	},
+	{
 		"abr": "prowler",
 		"price": 2483,
 		"category": "Animal",
 		"defname": "VVE_Prowler"
 	},
 	{
-		"abr": "refuelingpump",
-		"price": 375,
-		"category": "Misc",
-		"defname": "VVE_RefuelingPump"
+		"abr": "psyring",
+		"price": 2000,
+		"category": "Utility",
+		"defname": "VPE_Psyring"
 	},
 	{
-		"abr": "roadkill",
-		"price": 4800,
-		"category": "Animal",
-		"defname": "VVE_Roadkill"
-	},
-	{
-		"abr": "roadrunner",
-		"price": 4550,
-		"category": "Animal",
-		"defname": "VVE_Roadrunner"
-	},
-	{
-		"abr": "scytheman",
-		"price": 3375,
-		"category": "Animal",
-		"defname": "VVE_Scytheman"
-	},
-	{
-		"abr": "smuggler",
-		"price": 6300,
-		"category": "Animal",
-		"defname": "VVE_Smuggler"
-	},
-	{
-		"abr": "snatcher",
-		"price": 4250,
-		"category": "Animal",
-		"defname": "VVE_Snatcher"
-	},
-	{
-		"abr": "tango",
-		"price": 7750,
-		"category": "Animal",
-		"defname": "VVE_Tango"
-	},
-	{
-		"abr": "toad",
-		"price": 4000,
-		"category": "Animal",
-		"defname": "VVE_Toad"
-	},
-	{
-		"abr": "traveller",
-		"price": 2750,
-		"category": "Animal",
-		"defname": "VVE_Traveller"
-	},
-	{
-		"abr": "trawler",
-		"price": 3167,
-		"category": "Animal",
-		"defname": "VVE_Trawler"
-	},
-	{
-		"abr": "uniquebattlerifle",
-		"price": 917,
-		"category": "Unique weapons",
-		"defname": "Gun_RSBattleRifle_Unique"
-	},
-	{
-		"abr": "uniquecarbine",
-		"price": 783,
-		"category": "Unique weapons",
-		"defname": "Gun_RSCarbine_Unique"
-	},
-	{
-		"abr": "uniqueheavypistol",
-		"price": 375,
-		"category": "Unique weapons",
-		"defname": "Gun_PistolHeavyRevolver_Unique"
-	},
-	{
-		"abr": "wagon",
-		"price": 4000,
-		"category": "Animal",
-		"defname": "VVE_Wagon"
-	},
-	{
-		"abr": "warbird",
-		"price": 4917,
-		"category": "Animal",
-		"defname": "VVE_Warbird"
-	},
-	{
-		"abr": "wildgooseegg(unfert.)",
-		"price": 15,
-		"category": "Eggs (unfert.)",
-		"defname": "AEXP_EggWildGooseUnfertilized"
-	},
-	{
-		"abr": "wildebeest",
-		"price": 567,
-		"category": "Animals",
-		"defname": "AEXP_Wildebeest"
-	},
-	{
-		"abr": "wildebeestpelt",
-		"price": 5,
-		"category": "Leathers",
-		"defname": "AEXP_Leather_Wildebeest"
-	},
-	{
-		"abr": "wildpawn",
-		"price": 333,
-		"category": "Animals",
-		"defname": "AA_Wildpawn"
-	},
-	{
-		"abr": "wildpawnsporeclump(fert.)",
-		"price": 15,
-		"category": "Eggs (fert.)",
-		"defname": "AA_WildpawnSpores"
-	},
-	{
-		"abr": "wildpod",
-		"price": 667,
-		"category": "Animals",
-		"defname": "AA_Wildpod"
-	},
-	{
-		"abr": "wildpodsporeclump(fert.)",
-		"price": 15,
-		"category": "Eggs (fert.)",
-		"defname": "AA_WildpodSpores"
-	},
-	{
-		"abr": "windbeast",
-		"price": 1250,
-		"category": "Animals",
-		"defname": "AA_WindBeast"
-	},
-	{
-		"abr": "wine",
-		"price": 33,
-		"category": "Drugs",
-		"defname": "VFEM2_Wine"
-	},
-	{
-		"abr": "winebarrel",
-		"price": 95,
-		"category": "Production",
-		"defname": "VFEM2_WineBarrel"
-	},
-	{
-		"abr": "wisent",
-		"price": 7100,
-		"category": "Animal",
-		"defname": "VVE_Wisent"
-	},
-	{
-		"abr": "wolverine",
-		"price": 250,
-		"category": "Animals",
-		"defname": "Wolverine"
-	},
-	{
-		"abr": "wolverinemeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Wolverine"
-	},
-	{
-		"abr": "woodenarmor",
-		"price": 286,
-		"category": "Armor",
-		"defname": "VAE_Apparel_WoodenArmor"
-	},
-	{
-		"abr": "wood-firedgenerator",
-		"price": 442,
-		"category": "Power",
-		"defname": "WoodFiredGenerator"
-	},
-	{
-		"abr": "woollymammoth",
-		"price": 2500,
-		"category": "Animals",
-		"defname": "WoollyMammoth"
-	},
-	{
-		"abr": "wreath",
-		"price": 215,
-		"category": "Headgear",
-		"defname": "VFEC_Wreath"
-	},
-	{
-		"abr": "writerstable",
-		"price": 252,
-		"category": "Production",
-		"defname": "VBE_WritersTable"
-	},
-	{
-		"abr": "xanidespherocore",
-		"price": 1667,
-		"category": "Misc",
-		"defname": "VFEI2_PherocoreXanides"
-	},
-	{
-		"abr": "xenogenefier",
-		"price": 167,
-		"category": "Gene tools",
-		"defname": "AG_Xenogenefier"
-	},
-	{
-		"abr": "xenotypeinjector",
-		"price": 167,
-		"category": "Gene tools",
-		"defname": "AG_XenotypeInjector"
-	},
-	{
-		"abr": "xenotypenullifier",
-		"price": 167,
-		"category": "Gene tools",
-		"defname": "AG_XenotypeNullifier"
-	},
-	{
-		"abr": "yellowbellpeppers",
-		"price": 2,
-		"category": "Vegetarian",
-		"defname": "VCE_RawYellowBellPeppers"
-	},
-	{
-		"abr": "youthserum",
+		"abr": "psytrainer(acidspit)",
 		"price": 2333,
-		"category": "Items",
-		"defname": "MechSerumYouth"
+		"category": "Psytrainers",
+		"defname": "Psytrainer_AAVPE_AcidSpit"
 	},
 	{
-		"abr": "you-wallimplant",
-		"price": 583,
-		"category": "Prosthetic",
-		"defname": "YouWallImplant"
+		"abr": "psytrainer(adrenalinerush)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_AdrenalineRush"
 	},
 	{
-		"abr": "zebra",
-		"price": 1000,
-		"category": "Animals",
-		"defname": "AEXP_Zebra"
+		"abr": "psytrainer(age)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Age"
 	},
 	{
-		"abr": "zhivayawater",
-		"price": 583,
-		"category": "Drugs",
-		"defname": "ZhivayaWater"
+		"abr": "psytrainer(aggressiveheatdump)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_AggressiveHeatDump"
 	},
 	{
-		"abr": "zygolophodon",
-		"price": 3167,
-		"category": "Animals",
-		"defname": "Zygolophodon"
+		"abr": "psytrainer(animalallies)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_AnimalAllies"
 	},
 	{
-		"abr": "zygolophodontusk",
-		"price": 1667,
-		"category": "Items",
-		"defname": "ZygolophodonTusk"
+		"abr": "psytrainer(assassinate)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Assassinate"
+	},
+	{
+		"abr": "psytrainer(balllightning)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_BallLightning"
+	},
+	{
+		"abr": "psytrainer(beckon)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Beckon"
+	},
+	{
+		"abr": "psytrainer(bendprobability)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_BendProbability"
+	},
+	{
+		"abr": "psytrainer(berserkpulse)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_BerserkPulse"
+	},
+	{
+		"abr": "psytrainer(berserk)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Berserk"
+	},
+	{
+		"abr": "psytrainer(bladefocus)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_BladeFocus"
+	},
+	{
+		"abr": "psytrainer(blindingpulse)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_BlindingPulse"
+	},
+	{
+		"abr": "psytrainer(bliss)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Bliss"
+	},
+	{
+		"abr": "psytrainer(blizzard)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Blizzard"
+	},
+	{
+		"abr": "psytrainer(bolt)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Bolt"
+	},
+	{
+		"abr": "psytrainer(bramblemaze)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_BrambleMaze"
+	},
+	{
+		"abr": "psytrainer(breatheflame)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_BreatheFlame"
+	},
+	{
+		"abr": "psytrainer(breatheice)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_IceBreath"
+	},
+	{
+		"abr": "psytrainer(burden)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Burden"
+	},
+	{
+		"abr": "psytrainer(chainbolt)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_ChainBolt"
+	},
+	{
+		"abr": "psytrainer(chaosskip)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_ChaosSkip"
+	},
+	{
+		"abr": "psytrainer(chargeandskewer)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_AAVPE_ChargeAndSkewer"
+	},
+	{
+		"abr": "psytrainer(chemfuelnodules)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_AAVPE_ChemfuelNodules"
+	},
+	{
+		"abr": "psytrainer(chunkskip)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Chunkskip"
+	},
+	{
+		"abr": "psytrainer(clawfrenzy)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_AAVPE_ClawFrenzy"
+	},
+	{
+		"abr": "psytrainer(coldzone)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_ColdZone"
+	},
+	{
+		"abr": "psytrainer(concentratedlight)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_AAVPE_Laser"
+	},
+	{
+		"abr": "psytrainer(conjureheatpearls)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_ConjureHeatPearls"
+	},
+	{
+		"abr": "psytrainer(consumebodies)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_ConsumeBodies"
+	},
+	{
+		"abr": "psytrainer(controlledfrenzy)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_ControlledFrenzy"
+	},
+	{
+		"abr": "psytrainer(corpsetalk)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Corpsetalk"
+	},
+	{
+		"abr": "psytrainer(craftpsyring)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_CraftPsyRing"
+	},
+	{
+		"abr": "psytrainer(crafttimeskip)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_CraftTimeskip"
+	},
+	{
+		"abr": "psytrainer(cropburst)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_CropBurst"
+	},
+	{
+		"abr": "psytrainer(darkness)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Darkness"
+	},
+	{
+		"abr": "psytrainer(darkvision)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Darkvision"
+	},
+	{
+		"abr": "psytrainer(deathshield)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Deathshield"
+	},
+	{
+		"abr": "psytrainer(decoy)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Decoy"
+	},
+	{
+		"abr": "psytrainer(destroyeyes)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_AAVPE_StrikeEyes"
+	},
+	{
+		"abr": "psytrainer(disablingstrike)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_AAVPE_DisablingStrike"
+	},
+	{
+		"abr": "psytrainer(drainpsyessence)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_DrainPsyessence"
+	},
+	{
+		"abr": "psytrainer(eclipse)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Eclipse"
+	},
+	{
+		"abr": "psytrainer(electrify)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_AAVPE_Electrify"
+	},
+	{
+		"abr": "psytrainer(empblow)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_AAVPE_EmpBlow"
+	},
+	{
+		"abr": "psytrainer(enchantquality)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_EnchantQuality"
+	},
+	{
+		"abr": "psytrainer(energydump)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_EnergyDump"
+	},
+	{
+		"abr": "psytrainer(enthrall)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Enthrall"
+	},
+	{
+		"abr": "psytrainer(essencetransfer)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_EssenceTransfer"
+	},
+	{
+		"abr": "psytrainer(explosion)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Explosion"
+	},
+	{
+		"abr": "psytrainer(extinguishflames)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_QuenchFlames"
+	},
+	{
+		"abr": "psytrainer(eyeblast)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_EyeBlast"
+	},
+	{
+		"abr": "psytrainer(farskip)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Farskip"
+	},
+	{
+		"abr": "psytrainer(fatalblow)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_AAVPE_FatalBlow"
+	},
+	{
+		"abr": "psytrainer(firebeam)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_FireBeam"
+	},
+	{
+		"abr": "psytrainer(fireshield)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_FireShield"
+	},
+	{
+		"abr": "psytrainer(firetornado)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_FlameTornado"
+	},
+	{
+		"abr": "psytrainer(firingfocus)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_FiringFocus"
+	},
+	{
+		"abr": "psytrainer(flameball)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Flameball"
+	},
+	{
+		"abr": "psytrainer(flashstorm)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Flashstorm"
+	},
+	{
+		"abr": "psytrainer(focus)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Focus"
+	},
+	{
+		"abr": "psytrainer(frostray)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_FrostRay"
+	},
+	{
+		"abr": "psytrainer(fungalskin)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_AAVPE_FungalSkin"
+	},
+	{
+		"abr": "psytrainer(ghostwalk)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Ghostwalk"
+	},
+	{
+		"abr": "psytrainer(greaterocularsprout)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_AAVPE_GreaterOcularSprout"
+	},
+	{
+		"abr": "psytrainer(grouplink)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_GroupLink"
+	},
+	{
+		"abr": "psytrainer(guardianskipbarrier)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_GuardianSkipbarrier"
+	},
+	{
+		"abr": "psytrainer(guidedshot)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_GuidedShot"
+	},
+	{
+		"abr": "psytrainer(haywire)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Haywire"
+	},
+	{
+		"abr": "psytrainer(healthswap)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_HealthSwap"
+	},
+	{
+		"abr": "psytrainer(heatfocus)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_HeatFocus"
+	},
+	{
+		"abr": "psytrainer(hover)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_AAVPE_Hover"
+	},
+	{
+		"abr": "psytrainer(hurricane)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Hurricane"
+	},
+	{
+		"abr": "psytrainer(iceblock)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_IceBlock"
+	},
+	{
+		"abr": "psytrainer(icecrystal)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_IceCrystal"
+	},
+	{
+		"abr": "psytrainer(iceshield)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_IceShield"
+	},
+	{
+		"abr": "psytrainer(icespike)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_IceSpike"
+	},
+	{
+		"abr": "psytrainer(icewall)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_IceWall"
+	},
+	{
+		"abr": "psytrainer(intensifyshadows)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_IntensifyShadows"
+	},
+	{
+		"abr": "psytrainer(invisibility)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Invisibility"
+	},
+	{
+		"abr": "psytrainer(killskip)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Killskip"
+	},
+	{
+		"abr": "psytrainer(ko)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_AAVPE_KO"
+	},
+	{
+		"abr": "psytrainer(leapingcharge)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_AAVPE_Charge"
+	},
+	{
+		"abr": "psytrainer(legskip)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_AAVPE_LegSkip"
+	},
+	{
+		"abr": "psytrainer(liferot)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Liferot"
+	},
+	{
+		"abr": "psytrainer(lightsustenance)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_AAVPE_LightSustenance"
+	},
+	{
+		"abr": "psytrainer(locationswap)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_LocationSwap"
+	},
+	{
+		"abr": "psytrainer(lucktransfer)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_LuckTransfer"
+	},
+	{
+		"abr": "psytrainer(manhunterpulse)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_ManhunterPulse"
+	},
+	{
+		"abr": "psytrainer(massbeckon)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_MassBeckon"
+	},
+	{
+		"abr": "psytrainer(masschaosskip)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_MassChaosSkip"
+	},
+	{
+		"abr": "psytrainer(masshallucination)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_MassHallucination"
+	},
+	{
+		"abr": "psytrainer(mend)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Mend"
+	},
+	{
+		"abr": "psytrainer(meteorshower)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_MeteorShower"
+	},
+	{
+		"abr": "psytrainer(mindbreak)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_MindBreak"
+	},
+	{
+		"abr": "psytrainer(mindcontrol)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Mindcontrol"
+	},
+	{
+		"abr": "psytrainer(mindwipe)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_MindWipe"
+	},
+	{
+		"abr": "psytrainer(neuralheatdetonation)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_NeuralHeatDetonation"
+	},
+	{
+		"abr": "psytrainer(neuralheatdump)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_NeuralHeatDump"
+	},
+	{
+		"abr": "psytrainer(neuroquake)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Neuroquake"
+	},
+	{
+		"abr": "psytrainer(nightstep)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Nightstep"
+	},
+	{
+		"abr": "psytrainer(obscure)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Obscure"
+	},
+	{
+		"abr": "psytrainer(oculareruption)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_AAVPE_EyeEruption"
+	},
+	{
+		"abr": "psytrainer(ocularsprout)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_AAVPE_OcularSprout"
+	},
+	{
+		"abr": "psytrainer(overshield)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Overshield"
+	},
+	{
+		"abr": "psytrainer(painblock)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Painblock"
+	},
+	{
+		"abr": "psytrainer(paralysispulse)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_ParalysisPulse"
+	},
+	{
+		"abr": "psytrainer(planttimeskip)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_PlantTimeskip"
+	},
+	{
+		"abr": "psytrainer(powerleap)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_PowerLeap"
+	},
+	{
+		"abr": "dilutednutrientpastedripper",
+		"price": 191,
+		"category": "Misc",
+		"defname": "VNPERP_NutrientPasteDripperDT"
+	},
+	{
+		"abr": "dilutednutrientpastefeeder",
+		"price": 42,
+		"category": "Furniture",
+		"defname": "VNPERP_NutrientPasteFeederDT"
+	},
+	{
+		"abr": "dilutednutrientpastefeedingtube",
+		"price": 222,
+		"category": "Misc",
+		"defname": "VNPERP_NutrientPasteFeedingTubeDT"
+	},
+	{
+		"abr": "dilutednutrientpastemeal",
+		"price": 11,
+		"category": "Meals",
+		"defname": "MealNutrientPasteDT"
+	},
+	{
+		"abr": "finenutrientpastedripper",
+		"price": 908,
+		"category": "Misc",
+		"defname": "VNPERP_NutrientPasteDripper2T"
+	},
+	{
+		"abr": "finenutrientpastefeeder",
+		"price": 442,
+		"category": "Furniture",
+		"defname": "VNPERP_NutrientPasteFeeder2T"
+	},
+	{
+		"abr": "finenutrientpastefeedingtube",
+		"price": 808,
+		"category": "Misc",
+		"defname": "VNPERP_NutrientPasteFeedingTube2T"
+	},
+	{
+		"abr": "finenutrientpastemeal",
+		"price": 31,
+		"category": "Meals",
+		"defname": "MealNutrientPaste2T"
+	},
+	{
+		"abr": "hungersuppressor",
+		"price": 500,
+		"category": "Misc",
+		"defname": "VNPERP_NutrientPasteHungerSuppressor"
+	},
+	{
+		"abr": "lavishnutrientpastedripper",
+		"price": 2008,
+		"category": "Misc",
+		"defname": "VNPERP_NutrientPasteDripper3T"
+	},
+	{
+		"abr": "lavishnutrientpastefeeder",
+		"price": 1058,
+		"category": "Furniture",
+		"defname": "VNPERP_NutrientPasteFeeder3T"
+	},
+	{
+		"abr": "lavishnutrientpastefeedingtube",
+		"price": 1767,
+		"category": "Misc",
+		"defname": "VNPERP_NutrientPasteFeedingTube3T"
+	},
+	{
+		"abr": "lavishnutrientpastemeal",
+		"price": 58,
+		"category": "Meals",
+		"defname": "MealNutrientPaste3T"
+	},
+	{
+		"abr": "nutrientpastecubes",
+		"price": 2,
+		"category": "Foods",
+		"defname": "MealNutrientPasteCT"
+	},
+	{
+		"abr": "nutrientpastefeedingtube",
+		"price": 266,
+		"category": "Misc",
+		"defname": "VNPERP_NutrientPasteFeedingTube0T"
+	},
+	{
+		"abr": "nutrientpastekibble",
+		"price": 2,
+		"category": "Foods",
+		"defname": "MealNutrientPasteKT"
+	},
+	{
+		"abr": "nutrientpastekibblefeeder",
+		"price": 121,
+		"category": "Furniture",
+		"defname": "VNPERP_NutrientPasteFeederKT"
+	},
+	{
+		"abr": "packagednutrientpastepack",
+		"price": 35,
+		"category": "Meals",
+		"defname": "MealNutrientPasteST"
+	},
+	{
+		"abr": "portablehungersuppressor",
+		"price": 842,
+		"category": "Misc",
+		"defname": "VNPERP_NutrientPasteHungerSuppressorPT"
+	},
+	{
+		"abr": "portablenutrientpastevat",
+		"price": 817,
+		"category": "Misc",
+		"defname": "VNPERP_NutrientPasteVat_Portable"
+	},
+	{
+		"abr": "psytrainer(ethriallis)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_AML_DivineExplosion"
+	},
+	{
+		"abr": "psytrainer(infusion)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_AML_DivineHeal"
+	},
+	{
+		"abr": "psytrainer(lancera)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_AML_LightLance"
+	},
+	{
+		"abr": "psytrainer(power)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Power"
+	},
+	{
+		"abr": "psytrainer(preservation)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_AML_DivineArmor"
+	},
+	{
+		"abr": "psytrainer(psychicdrone)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_PsychicDrone"
+	},
+	{
+		"abr": "psytrainer(psychicguidance)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_PsychicGuidance"
+	},
+	{
+		"abr": "psytrainer(psychicshock)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_PsychicShock"
+	},
+	{
+		"abr": "psytrainer(psychicsooth(female))",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_SootheFemale"
+	},
+	{
+		"abr": "psytrainer(psychicsooth(male))",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_SootheMale"
+	},
+	{
+		"abr": "psytrainer(raidpause)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_RaidPause"
+	},
+	{
+		"abr": "psytrainer(recharge)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Recharge"
+	},
+	{
+		"abr": "psytrainer(regeneration)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_AAVPE_Regeneration"
+	},
+	{
+		"abr": "psytrainer(regrowlimbs)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_RegrowLimbs"
+	},
+	{
+		"abr": "psytrainer(rejuvenation)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_AML_DivineSelfHeal"
+	},
+	{
+		"abr": "psytrainer(annihilation)",
+		"price": 3833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_AnnihilationSTNL"
+	},
+	{
+		"abr": "psytrainer(crush)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_CrushSTNL"
+	},
+	{
+		"abr": "psytrainer(fallingsky)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_FallingSkySTNL"
+	},
+	{
+		"abr": "psytrainer(gravimpact)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_GravimpactSTNL"
+	},
+	{
+		"abr": "psytrainer(increasegravity)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_IncreasedGravitySTNL"
+	},
+	{
+		"abr": "psytrainer(moltenpull)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_MoltenPullSTNL"
+	},
+	{
+		"abr": "psytrainer(proto-horror)",
+		"price": 3833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_ProtohorrorSTNL"
+	},
+	{
+		"abr": "psytrainer(resurrect)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Resurrect"
+	},
+	{
+		"abr": "psytrainer(reunionfarskip)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_ReunionFarskip"
+	},
+	{
+		"abr": "psytrainer(reverseengineer)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_ReverseEngineer"
+	},
+	{
+		"abr": "psytrainer(rockconstruct)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_RockConstruct"
+	},
+	{
+		"abr": "psytrainer(savagepsychicslice)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_AAVPE_Slice"
+	},
+	{
+		"abr": "psytrainer(seasontimeskip)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_SeasonTimeskip"
+	},
+	{
+		"abr": "psytrainer(selfexplosion)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_SelfExplosion"
+	},
+	{
+		"abr": "psytrainer(shadowfocus)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_ShadowFocus"
+	},
+	{
+		"abr": "psytrainer(shadowskip)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Shadowskip"
+	},
+	{
+		"abr": "psytrainer(shieldanimals)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_ShieldAnimals"
+	},
+	{
+		"abr": "psytrainer(shimmer)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_AML_DivineSkip"
+	},
+	{
+		"abr": "psytrainer(shipbreaker)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_ShipBreakerSTNL"
+	},
+	{
+		"abr": "psytrainer(shrineshield)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Shrineshield"
+	},
+	{
+		"abr": "psytrainer(singularity)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_SingularitySTNL"
+	},
+	{
+		"abr": "psytrainer(skewer)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_AAVPE_Skewer"
+	},
+	{
+		"abr": "psytrainer(skillroll)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_SkillRoll"
+	},
+	{
+		"abr": "psytrainer(skip)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Skip"
 	},
 	],
-	"total": 2893
+	"total": 2948
 }
